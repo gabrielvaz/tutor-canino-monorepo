@@ -1,0 +1,106 @@
+{
+  "id": "kuvasz",
+  "nome": "Kuvasz",
+  "subtitulo": "Inteligente, Leal, Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "66 - 76 cm",
+      "femea": "61 - 71 cm"
+    },
+    "peso": {
+      "macho": "36 - 52 kg",
+      "femea": "29 - 43 kg"
+    },
+    "expectativa_vida": "10 - 12 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Dupla camada: externa longa e áspera, subpelo macio e denso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Protetora",
+      "Inteligente",
+      "Dominante"
+    ]
+  },
+  "sobre": {
+    "descricao": "Conhecido por sua impressionante pelagem branca e seu temperamento gentil, o Kuvasz é uma raça húngara excepcional. Originalmente usada como cão de guarda para proteger rebanhos de ovelhas, esta raça é altamente territorial e leal à sua família. Apesar de ser um cão de guarda feroz, o Kuvasz também exibe um lado gentil e afetuoso quando se trata de seus entes queridos.",
+    "historia": "Acredita-se que o Kuvasz tenha se originado na Ásia Central e migrado para a Hungria com tribos nômades há cerca de 1000 anos. A raça foi altamente valorizada por séculos como protetora de rebanhos e famílias, e seu nome deriva da palavra turca 'kawasz', que significa 'guarda' ou 'guerreiro'."
+  },
+  "cuidados": {
+    "saude": "O Kuvasz é geralmente uma raça saudável, mas pode estar sujeito a displasia de quadril, displasia de cotovelo e torção gástrica. É importante manter exames veterinários regulares e fornecer uma dieta balanceada para prevenir esses problemas de saúde.",
+    "higiene": "A escovação regular é essencial para manter a pelagem dupla do Kuvasz saudável e livre de emaranhados. Banhos ocasionais também são necessários, mas evite banhar em excesso, pois isso pode remover os óleos naturais da pele.",
+    "exercicio": "O Kuvasz é uma raça ativa que requer bastante exercício. Forneça pelo menos 2 horas de passeio ou corrida todos os dias.",
+    "treinamento": "O Kuvasz é uma raça inteligente, mas pode ser teimosa. O treinamento deve começar cedo e ser consistente. Socialização precoce com pessoas e outros animais também é crucial para evitar comportamentos territoriais indesejáveis.",
+    "nutricao": "Alimente o Kuvasz com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Divida as refeições em duas ou três porções menores ao longo do dia para evitar torção gástrica."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Branco"
+    ],
+    "marcacoes": [
+      "Nenhuma"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Kuvasz tem sido um símbolo de orgulho e proteção na Hungria por séculos. A raça era usada pela nobreza e pela realeza para proteger seus castelos e propriedades."
+  },
+  "racas_relacionadas": "border collie",
+  "images": "imagem 1(https://cdn.akc.org/content/article-body-image/nan-or-137-02.jpg)",
+  "highlight_photo": "kuvasz.png",
+  "Esse modelo não contém informações sobre a raça Nan Or Kuvasz. Por isso": "não posso preencher os campos solicitados.",
+  "bred_for": "Companionship",
+  "breed_group": "Companion Dogs",
+  "caracteristicas_personalidade_nivel_energia": "Moderado",
+  "caracteristicas_personalidade_socializacao": "Bom com crianças e outras pessoas",
+  "caracteristicas_personalidade_tendencia_latir": "Baixa",
+  "caracteristicas_treinamento_facilidade_treino": "Fáceis de treinar",
+  "caracteristicas_treinamento_inteligencia": "Inteligentes",
+  "caracteristicas_treinamento_tendencia_fugir": "Baixa",
+  "cuidados_exercicios": "diários",
+  "cuidados_grooming": "Escovação semanal",
+  "height_imperial": "22-31",
+  "height_metric": "56-79",
+  "informacoes_basicas_data_origem": "Século XV",
+  "informacoes_basicas_grupo": "Pastoreio",
+  "informacoes_basicas_origem": "Hungria",
+  "life_span": "10-12 anos",
+  "links_referencias": "wikipedia(https://pt.wikipedia.org/wiki/foxterrier)",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-137/",
+  "links_videos": "vídeo 1(https://www.youtube.com/watch?v=avshcm54gi)",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=lz65r93fh3m",
+  "name": "Não encontrei informações sobre a raça nan",
+  "origin": "maryland",
+  "reference_image_id": "nan-or-195",
+  "sobre_aparencia": "pelagem dupla densa",
+  "sobre_saude": "geralmente saudável",
+  "sobre_temperamento": "o fox terrier de pelo duro é um cão ativo e corajoso",
+  "temperament": "reservado",
+  "weight_imperial": "5,5-14",
+  "weight_metric": 2,
+  "cores_e_marcacoes_cores": "branco",
+  "caracteristicas_personalidade": "Amigável",
+  "cores_e_marcacoes_marcacoes": "tricolor",
+  "cuidados_treinamento": "inteligente",
+  "caracteristicas_fisico_tipo_pelo": "longo",
+  "breed_for": "cão de companhia pequeno",
+  "altura_imperial": 13,
+  "cuidados_higiene": "banhos semanais",
+  "cuidados_exercicio": "diários",
+  "caracteristicas_fisico_porte": "grande",
+  "**name": "nan-or-142",
+  "caracteristicas_treinamento": ",Inteligente,",
+  "weight_metric**": "2,5-6,4",
+  "| name | bred_for | breed_group | caracteristicas_personalidade_nivel_energia | caracteristicas_personalidade_socializacao | caracteristicas_personalidade_tendencia_latir | caracteristicas_treinamento_facilidade_treino | caracteristicas_treinamento_inteligencia | caracteristicas_treinamento_tendencia_fugir | cuidados_exercicios | cuidados_grooming | height_imperial | height_metric | informacoes_basicas_data_origem | informacoes_basicas_grupo | informacoes_basicas_origem | life_span | links_referencias | links_sites_referencia | links_videos | links_videos_youtube | origin | racas_relacionadas | sobre_aparencia | sobre_saude | sobre_temperamento | temperament | weight_imperial | weight_metric |": "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|"
+}

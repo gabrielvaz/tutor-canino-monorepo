@@ -1,0 +1,70 @@
+{
+  "id": "147",
+  "nome": "Tosa Japonês",
+  "subtitulo": "Protetor, Leal, Corajoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "60-80 cm",
+      "femea": "55-70 cm"
+    },
+    "peso": {
+      "macho": "50-90 kg",
+      "femea": "32-60 kg"
+    },
+    "expectativa_vida": "9-12 anos",
+    "grupo": "Gigante",
+    "origem": "Japão",
+    "data_origem": "Século 19"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Tosa Japonês foi criado no século 19 através do cruzamento de várias raças de cães de briga, incluindo Mastiff, Bulldog e Pointer. Seu objetivo era criar um cão poderoso e corajoso para lutas de cães. Após a proibição das lutas de cães no Japão em 1908, a raça foi reformulada para um cão de companhia e guarda.",
+    "aparencia": "O Tosa Japonês é um cão grande e musculoso, com uma cabeça larga e um focinho curto. Sua pelagem é curta e densa, podendo variar em cores como vermelho, fulvo, tigrado e preto. A cauda é grossa e pendurada.",
+    "temperamento": "Apesar de sua aparência intimidadora, o Tosa Japonês é conhecido por ser um cão leal e protetor com sua família. Eles são tipicamente calmos e reservados com estranhos, mas podem ser agressivos com outros cães do mesmo sexo. Eles precisam de socialização e treinamento adequados desde filhotes para desenvolver um temperamento equilibrado.",
+    "saude": "O Tosa Japonês é geralmente uma raça saudável, mas pode estar sujeito a certas condições de saúde, como displasia de quadril, torção gástrica e doenças cardíacas. É importante fornecer cuidados veterinários regulares e manter um estilo de vida saudável para garantir seu bem-estar."
+  },
+  "cuidados": {
+    "exercicios": "O Tosa Japonês requer uma quantidade moderada de exercícios. Eles apreciam caminhadas diárias e brincadeiras no quintal. Atividades intensas, como corridas ou jogos de busca, devem ser limitadas para evitar problemas nas articulações.",
+    "grooming": "A pelagem curta do Tosa Japonês é fácil de cuidar. Uma escovação semanal é suficiente para remover pelos soltos e manter a pele saudável. Banhos devem ser dados conforme necessário.",
+    "nutricao": "Os Tosan japoneses devem ser alimentados com uma dieta de alta qualidade, rica em proteínas e baixa em carboidratos. Eles tendem a ganhar peso facilmente, por isso é importante monitorar sua ingestão calórica e fornecer exercícios regulares.",
+    "saude": "Exames veterinários regulares são essenciais para detectar e tratar quaisquer problemas de saúde precocemente. O Tosa Japonês se beneficia de vacinas, desparasitação e check-ups regulares. Fornecendo cuidados preventivos adequados, você pode ajudar seu Tosa a viver uma vida longa e saudável."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Tosa Japonês: O Cão Gigante do Japão",
+        "url": "https://www.youtube.com/watch?v=gxu3Alws_Ks"
+      },
+      {
+        "titulo": "O Tosa Japonês: Treinamento e Socialização",
+        "url": "https://www.youtube.com/watch?v=52z0l4yr25w"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Clube Tosa Japonês do Brasil",
+        "url": "http://www.tosajaponesdobrasil.com.br/"
+      },
+      {
+        "titulo": "Federação Cinológica Internacional",
+        "url": "https://www.fci.be/en/nomenclature/TOSA-(342).html"
+      }
+    ]
+  }
+}

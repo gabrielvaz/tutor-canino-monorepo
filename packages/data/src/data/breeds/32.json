@@ -1,0 +1,70 @@
+{
+  "id": "32",
+  "nome": "Collie Barbudo",
+  "subtitulo": "Inteligente / Ativo / Lealdo",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-61 cm",
+      "femea": "53-58 cm"
+    },
+    "peso": {
+      "macho": "20-29 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "12-14 anos",
+    "grupo": "Pastoreio",
+    "origem": "Escócia",
+    "data_origem": "Século XVII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Collie Barbudo é uma raça antiga originária da Escócia. Eles eram criados originalmente para pastorear ovelhas e gado, e seu nome vem de sua pelagem longa e desgrenhada. A raça foi reconhecida pelo American Kennel Club em 1888.",
+    "aparencia": "Os Collies Barbudos são cães de tamanho médio, com uma pelagem dupla densa que pode ser azul-ardósia, fulvo ou vermelho, sempre com manchas brancas. Eles têm focinhos longos e estreitos, olhos amendoados e orelhas caídas. Sua cauda é longa e espessa, geralmente portada baixa.",
+    "temperamento": "Os Collies Barbudos são cães inteligentes, ativos e leais. Eles são ótimos companheiros para famílias e são conhecidos por seu amor por crianças. São cães vigilantes e protetores, mas geralmente não são agressivos.",
+    "saude": "Os Collies Barbudos são geralmente cães saudáveis, mas podem ser propensos a displasia de quadril, hipotireoidismo e torção gástrica. Eles também podem ser sensíveis a certos medicamentos, como a ivermectina."
+  },
+  "cuidados": {
+    "exercicios": "Os Collies Barbudos são cães ativos que requerem bastante exercício. Eles precisam de pelo menos uma hora de exercício por dia, que pode ser na forma de caminhadas, corridas ou brincadeiras no quintal.",
+    "grooming": "A pelagem do Collie Barbudo requer escovação regular para evitar emaranhados e esteiras. Eles devem ser banhados apenas quando necessário e aparados a cada seis a oito semanas.",
+    "nutricao": "Os Collies Barbudos devem ser alimentados com uma dieta de ração de alta qualidade, específica para sua idade e nível de atividade. Eles devem ter acesso a água fresca o tempo todo.",
+    "saude": "Os Collies Barbudos devem ser levados ao veterinário para check-ups regulares e vacinas. Eles também devem ser mantidos com o peso ideal e receber vermífugos e tratamento contra pulgas e carrapatos regularmente."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Collie Barbudo: A Raça Perfeita para Famílias",
+        "url": "https://www.youtube.com/watch?v=..."
+      },
+      {
+        "titulo": "Treinando um Collie Barbudo: Dicas e Truques",
+        "url": "https://www.youtube.com/watch?v=..."
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Complete Dog Book",
+        "url": "https://books.google.com/..."
+      },
+      {
+        "titulo": "Collie Barbado: Um Guia Completo para a Raça",
+        "url": "https://www.petfinder.com/..."
+      }
+    ]
+  }
+}

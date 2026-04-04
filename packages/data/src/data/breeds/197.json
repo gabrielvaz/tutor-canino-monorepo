@@ -1,0 +1,70 @@
+{
+  "id": "197",
+  "nome": "Poodle (Toy)",
+  "subtitulo": "Inteligente / Elegante / Brincalhão",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "24-28 cm",
+      "femea": "24-28 cm"
+    },
+    "peso": {
+      "macho": "2,5-4,5 kg",
+      "femea": "2,5-4,5 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Não Esportivo",
+    "origem": "França",
+    "data_origem": "Século XVI"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Poodle (Toy) é uma das quatro variedades de Poodle, originário da França. Acredita-se que seus ancestrais tenham sido cães utilizados para caça de aves aquáticas. No século XVI, a raça ganhou popularidade entre a nobreza francesa como um cão de companhia. Com o tempo, tornou-se uma raça popular em todo o mundo.",
+    "aparencia": "O Poodle (Toy) é um cão pequeno e elegante, com uma pelagem encaracolada e semitosa. Seu rosto é quadrado, com olhos escuros e amendoados. A cauda é portada alta e cortada tradicionalmente.",
+    "temperamento": "O Poodle (Toy) é uma raça inteligente, alegre e brincalhona. É um excelente companheiro, fiel e dedicado à sua família. É também um cão muito ativo e requer exercícios regulares.",
+    "saude": "O Poodle (Toy) é uma raça geralmente saudável, mas pode ser propenso a algumas condições de saúde, como displasia da anca, luxação patelar e catarata."
+  },
+  "cuidados": {
+    "exercicios": "O Poodle (Toy) requer exercícios moderados a diários. Eles gostam de brincar de buscar e passear.",
+    "grooming": "A pelagem do Poodle (Toy) requer escovação regular para evitar emaranhados. Eles também precisam ser tosados profissionalmente a cada 4-6 semanas.",
+    "nutricao": "O Poodle (Toy) deve ser alimentado com uma dieta de alta qualidade, adequada à idade e nível de atividade.",
+    "saude": "Os cuidados preventivos de saúde para o Poodle (Toy) incluem vacinas regulares, exames veterinários anuais e limpeza dentária."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Conheça o Poodle (Toy)",
+        "url": "https://www.youtube.com/watch?v=sF5mq76rLQc"
+      },
+      {
+        "titulo": "Treinando um Poodle (Toy)",
+        "url": "https://www.youtube.com/watch?v=234567890"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Complete Guide to Poodles",
+        "url": "https://www.poodleclubofamerica.org/the-complete-guide-to-poodles/"
+      },
+      {
+        "titulo": "Poodle (Toy)",
+        "url": "https://www.akc.org/dog-breeds/toy-poodle/"
+      }
+    ]
+  }
+}

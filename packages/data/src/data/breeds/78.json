@@ -1,0 +1,70 @@
+{
+  "id": "78",
+  "nome": "Chihuahua",
+  "subtitulo": "Pequeno, independente e afetuoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "15-23 cm",
+      "femea": "15-23 cm"
+    },
+    "peso": {
+      "macho": "1,5-3 kg",
+      "femea": "1,5-3 kg"
+    },
+    "expectativa_vida": "12-20 anos",
+    "grupo": "Toy",
+    "origem": "México",
+    "data_origem": "Século IX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Alta",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Chihuahua é uma das raças de cães mais antigas das Américas, com raízes que remontam ao século IX. Acredita-se que tenha se originado na região de Chihuahua, no México, com ancestrais que podem ter sido cães toy de civilizações antigas, como os toltecas e astecas. A raça ganhou popularidade no início do século XX como animal de estimação da alta sociedade e, desde então, se tornou uma das raças toy mais populares do mundo.",
+    "aparencia": "O Chihuahua é um cão pequeno, com uma cabeça arredondada, olhos grandes e expressivos e orelhas eretas pontiagudas. Existem duas variedades de pelagem: lisa e longa. A pelagem lisa é curta e sedosa, enquanto a pelagem longa é macia e fluida. As cores da pelagem variam muito, incluindo preto, marrom, fulvo, dourado e branco.",
+    "temperamento": "O Chihuahua é conhecido por sua personalidade confiante, independente e afetuosa. Eles são muito apegados a seus donos e podem ser protetores e territoriais. Embora sejam pequenos, os Chihuahuas têm muita energia e gostam de brincar e explorar.",
+    "saude": "Os Chihuahuas são geralmente cães saudáveis, mas podem estar sujeitos a certos problemas de saúde, como luxação patelar, colapso da traqueia e problemas dentários. É importante fornecer cuidados dentários regulares e manter um peso saudável para evitar esses problemas."
+  },
+  "cuidados": {
+    "exercicios": "Embora pequenos, os Chihuahuas precisam de exercícios diários para se manterem saudáveis e felizes. Uma caminhada rápida ou sessão de brincadeiras de 30 minutos por dia é suficiente para a maioria dos Chihuahuas.",
+    "grooming": "Os Chihuahuas de pelo liso requerem pouca manutenção, enquanto os Chihuahuas de pelo longo precisam de escovação regular para evitar emaranhados. Banhos ocasionais são necessários para ambas as variedades de pelagem.",
+    "nutricao": "Os Chihuahuas têm um apetite pequeno e precisam de uma dieta rica em proteínas e baixa em calorias. É importante medir cuidadosamente as porções para evitar que ganhem peso.",
+    "saude": "Além dos cuidados dentários regulares, os Chihuahuas devem realizar exames veterinários anuais para monitorar sua saúde e detectar quaisquer problemas precocemente. Vacinas e desparasitação regulares também são essenciais para manter seu bem-estar."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Tudo sobre o Chihuahua, o cãozinho mais popular do mundo",
+        "url": "https://www.youtube.com/watch?v=t-kJQrC32qs"
+      },
+      {
+        "titulo": "Chihuahua: Conheça a raça do menor cachorro do mundo",
+        "url": "https://www.youtube.com/watch?v=IXR4MO6-yQc"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Chihuahua",
+        "url": "https://www.akc.org/dog-breeds/chihuahua/"
+      },
+      {
+        "titulo": "Federação Cinológica Internacional: Chihuahua",
+        "url": "https://www.fci.be/en/nomenclature/CHIHUAHUENO-218.html"
+      }
+    ]
+  }
+}

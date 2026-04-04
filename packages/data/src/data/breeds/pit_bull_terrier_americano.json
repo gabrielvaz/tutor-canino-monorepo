@@ -1,0 +1,136 @@
+{
+  "id": "pit_bull_terrier_americano",
+  "nome": "American Pit Bull Terrier",
+  "subtitulo": "Protetor/Forte/Musculoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "43-48 cm",
+      "femea": "40-45 cm"
+    },
+    "peso": {
+      "macho": "22-32 kg",
+      "femea": "17-25 kg"
+    },
+    "expectativa_vida": "10-15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Médio",
+      "tipo_pelo": "Curto e denso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Protetor",
+      "Intrépido",
+      "Amigável"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Pit Bull Terrier Americano é uma raça de cachorro forte e musculosa conhecida por sua lealdade e determinação. Embora possam ter uma reputação de agressividade, eles são cães de família amorosos e dedicados com o treinamento e socialização adequados.",
+    "historia": "O Pit Bull Terrier Americano descende do Bulldog Inglês e do Terrier. Eles foram originalmente criados para caçar e lutar, mas logo se tornaram cães de companhia populares. Nos Estados Unidos, a raça foi reconhecida pelo United Kennel Club em 1898."
+  },
+  "cuidados": {
+    "saude": "O Pit Bull Terrier Americano é geralmente uma raça saudável, mas pode ser propenso a problemas de pele, alergias e displasia de quadril. Os exames veterinários regulares e a higiene dental são importantes para manter a saúde.",
+    "higiene": "Os Pit Bulls têm uma pelagem curta que requer escovação ocasional. Banhos regulares e limpeza de orelhas são necessários para manter a higiene.",
+    "exercicio": "Os Pit Bulls precisam de exercícios regulares para manter sua saúde física e mental. Caminhadas diárias, corridas e jogos são ótimas maneiras de manter esses cães ativos.",
+    "treinamento": "O Pit Bull Terrier Americano é uma raça inteligente e treinável. O treinamento de obediência é essencial para ensiná-los comandos básicos e controlar seu comportamento. A socialização precoce também é importante para ajudar os Pit Bulls a se tornarem amigáveis com estranhos e outros animais.",
+    "nutricao": "Os Pit Bulls devem ser alimentados com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. A quantidade de comida necessária irá variar dependendo do tamanho, idade e nível de atividade do cachorro."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto",
+      "Branco",
+      "Marrom"
+    ],
+    "marcacoes": [
+      "Máscara",
+      "Manchas brancas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Pit Bull Terrier Americano tem sido usado como um cão de trabalho em vários papéis, incluindo caça, pastoreio e segurança. Eles também são populares como cães de companhia e são conhecidos por sua lealdade e amor por suas famílias."
+  },
+  "racas_relacionadas": "poodle",
+  "images": "httpscdncdnparentingcomarticles202003nanor106herojpg",
+  "highlight_photo": "american-pit-bull-terrier.png",
+  "bred_for": "Pitfighting",
+  "breed_group": "Terrier",
+  "caracteristicas_personalidade_nivel_energia": "Alto",
+  "caracteristicas_personalidade_socializacao": "Amigável com pessoas",
+  "caracteristicas_personalidade_tendencia_latir": "Moderada",
+  "caracteristicas_treinamento_facilidade_treino": "Difícil",
+  "caracteristicas_treinamento_inteligencia": "Inteligente",
+  "caracteristicas_treinamento_tendencia_fugir": "Alta",
+  "cuidados_exercicios": "2 horas ou mais por dia",
+  "cuidados_grooming": "Semanal",
+  "height_imperial": "Média: 17-21 polegadas",
+  "height_metric": "Média: 43-53 cm",
+  "informacoes_basicas_data_origem": "Século XIX",
+  "informacoes_basicas_grupo": "Terrier",
+  "informacoes_basicas_origem": "Estados Unidos",
+  "life_span": "8 a 15 anos",
+  "links_referencias": "",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_videos": "",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=lZ65r93Fh3M",
+  "name": "American Pit Bull Terrier",
+  "origin": "Inglaterra",
+  "reference_image_id": "AP_0001_0846.jpg",
+  "sobre_aparencia": "Musculoso",
+  "sobre_saude": "Alergias",
+  "sobre_temperamento": "Leal",
+  "temperament": "Leal",
+  "weight_imperial": "Média: 30-60 libras",
+  "weight_metric": "Média: 14-27 kg",
+  "**bred_for**": "Guard Dog",
+  "**breed_group**": "Terrier",
+  "**caracteristicas_personalidade_nivel_energia**": "High",
+  "**caracteristicas_personalidade_socializacao**": "Good with Family",
+  "**caracteristicas_personalidade_tendencia_latir**": "Moderate",
+  "**caracteristicas_treinamento_facilidade_treino**": "Moderate",
+  "**caracteristicas_treinamento_inteligencia**": "High",
+  "**caracteristicas_treinamento_tendencia_fugir**": "Low",
+  "**cuidados_exercicios**": "Regular Play or Run",
+  "**cuidados_grooming**": "Weekly Bathing",
+  "**height_imperial**": "17-19",
+  "**height_metric**": "43-48",
+  "**links_referencias**": "",
+  "**links_sites_referencia**": "",
+  "**links_videos**": "",
+  "**links_videos_youtube**": "",
+  "**name**": "American Pit Bull Terrier",
+  "**origin**": "United States",
+  "**racas_relacionadas**": "Bull Terrier",
+  "**reference_image_id**": "",
+  "**sobre_aparencia**": "Muscular",
+  "**sobre_saude**": "Hip dysplasia",
+  "**sobre_temperamento**": "Loyal",
+  "**temperament**": "Loyal",
+  "**weight_imperial**": "30-60",
+  "**weight_metric**": "14-27",
+  "breed_for": "",
+  "caracteristicas_personalidade_afetuoso": "branco",
+  "cores_e_marcacoes_cores": "branco",
+  "cores_e_marcacoes_marcacoes": "tricolor",
+  "cuidados_higiene": "escovaosemanal",
+  "cuidados_treinamento": "inteligente",
+  "sobre_descricao": "codecompanhiapequeno",
+  "s": "bomcomafamlia",
+  "origem": "Estados Unidos",
+  "grupo": "Terrier",
+  "data_origem": "Século XIX",
+  "temperamento": "Amigável",
+  "peso_imperial": "30 a 60 libras",
+  "peso_metrico": 13,
+  "altura_imperial": "17 a 21 polegadas",
+  "altura_metrica": "43 a 53 centímetros"
+}

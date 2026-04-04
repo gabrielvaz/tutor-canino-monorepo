@@ -1,0 +1,70 @@
+{
+  "id": "125",
+  "nome": "Pointer Alemão de Pelo Duro",
+  "subtitulo": "Energético / Independente / Inteligente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "54-64 cm",
+      "femea": "53-62 cm"
+    },
+    "peso": {
+      "macho": "25-32 kg",
+      "femea": "23-29 kg"
+    },
+    "expectativa_vida": "12-14 anos",
+    "grupo": "Grupo Esportivo",
+    "origem": "Alemanha",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Baixa"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Pointer Alemão de Pelo Duro surgiu na Alemanha no século XIX através do cruzamento entre o Pointer Alemão de Pelo Curto e o Griffon da Vendéia. A raça foi desenvolvida para caçar em terrenos ásperos e densos, e seu nome deriva de sua pelagem dura e densa que o protege dos espinhos e vegetação.",
+    "aparencia": "Os Pointers Alemães de Pelo Duro são cães de porte médio a grande, com uma constituição forte e musculosa. Sua pelagem é característica, curta e áspera, com uma cor castanha e manchas brancas. Eles têm orelhas caídas e uma cauda longa e fina que geralmente é dobrada sobre o dorso.",
+    "temperamento": "Pointiers Alemães de Pelo Duro são cães enérgicos e independentes, mas também altamente inteligentes e leais. Eles são conhecidos por sua capacidade de focar intensamente, tornando-os excelentes cães de caça. Embora possam ser um pouco distantes com estranhos, são muito afetuosos e protetores com seus familiares.",
+    "saude": "Os Pointers Alemães de Pelo Duro são geralmente cães saudáveis, mas podem ser propensos a displasia de quadril, displasia de cotovelo e alergias de pele."
+  },
+  "cuidados": {
+    "exercicios": "Como cães de alta energia, os Pointers Alemães de Pelo Duro precisam de muito exercício. Eles se dão bem em atividades ao ar livre, como caminhadas, corridas e caça. Além disso, exercícios mentais como jogos de busca e treinamento de obediência são essenciais para mantê-los mentalmente estimulados.",
+    "grooming": "A pelagem dura do Pointer Alemão de Pelo Duro requer escovação semanal para remover pelos soltos e evitar nós. Eles também precisam ser aparados ocasionalmente para manter sua pelagem em boas condições.",
+    "nutricao": "Os Pointers Alemães de Pelo Duro são cães ativos que precisam de uma dieta rica em proteínas e gorduras. Eles devem ser alimentados com refeições programadas regularmente e seu peso deve ser monitorado para evitar a obesidade.",
+    "saude": "Além de exames veterinários regulares, os Pointers Alemães de Pelo Duro devem ser testados para displasia de quadril e cotovelo e alergias de pele. Vacinações e vermifugações regulares também são essenciais para manter a saúde geral."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Conheça o Pointer Alemão de Pelo Duro",
+        "url": "https://www.youtube.com/watch?v=uV3rr2o6RZU"
+      },
+      {
+        "titulo": "Treinamento de Pointer Alemão de Pelo Duro para Caça",
+        "url": "https://www.youtube.com/watch?v=btd9e5a2-Xg"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Pointer Alemão de Pelo Duro",
+        "url": "https://www.akc.org/dog-breeds/german-wirehaired-pointer/"
+      },
+      {
+        "titulo": "The Pointer Alemão de Pelo Duro Club of America",
+        "url": "https://www.gwpca.org/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "treeing-walker-coonhound",
+  "nome": "Treeing Walker Coonhound",
+  "subtitulo": "Leal / Energético / Amigo da Família",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "58 a 68 cm",
+      "femea": "53 a 63 cm"
+    },
+    "peso": {
+      "macho": "27 a 36 kg",
+      "femea": "25 a 32 kg"
+    },
+    "expectativa_vida": "10 a 13 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Curto e denso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Média"
+    },
+    "personalidade": [
+      "Leal",
+      "Inteligente",
+      "Teimoso",
+      "Cheio de energia",
+      "Afetivo"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Treeing Walker Coonhound é uma raça de cachorro originária dos Estados Unidos, desenvolvida para caçar guaxinins. Eles são conhecidos por seu olfato aguçado, latido alto e capacidade de rastrear e encontrar presas em terrenos difíceis.",
+    "historia": "Desenvolvido no século XIX por John Walker, o Treeing Walker Coonhound surgiu a partir do cruzamento de várias raças de cães de caça, incluindo o Foxhound Inglês e o Coonhound Preto e Castanho. A raça foi formalmente reconhecida pelo American Kennel Club em 1945."
+  },
+  "cuidados": {
+    "saude": "O Treeing Walker Coonhound é geralmente saudável, mas pode estar sujeito a displasia de quadril, displasia de cotovelo e infecções de ouvido.",
+    "higiene": "O pelo curto do Treeing Walker Coonhound requer escovação semanal para remover pelos mortos. Eles também precisam de banhos regulares para manter a pele e a pelagem limpas.",
+    "exercicio": "Esta raça precisa de bastante exercício, incluindo caminhadas diárias e brincadeiras intensas. Eles também se beneficiam de atividades que estimulem seu instinto de caça, como rastreio.",
+    "treinamento": "O Treeing Walker Coonhound é inteligente, mas pode ser teimoso. O treinamento desde tenra idade é essencial para ensinar comandos básicos e controlar seu instinto de caça.",
+    "nutricao": "Eles precisam de uma dieta balanceada rica em proteínas para atender às suas necessidades energéticas."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Tricolor (preto, castanho e branco)",
+      "Bicolor (preto e branco)"
+    ],
+    "marcacoes": [
+      "Máscara preta",
+      "Selas pretas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "Nos Estados Unidos, o Treeing Walker Coonhound é popular para caça e também é usado em competições de rastreamento."
+  },
+  "racas_relacionadas": [
+    {
+      "id": "foxhound-ingles",
+      "nome": "Foxhound Inglês"
+    },
+    {
+      "id": "coonhound-preto-e-castanho",
+      "nome": "Coonhound Preto e Castanho"
+    }
+  ],
+  "images": [
+    "dog-images/treeingwalkercoonhound-1.jpg"
+  ],
+  "highlight_photo": "treeing-walker-coonhound.png"
+}

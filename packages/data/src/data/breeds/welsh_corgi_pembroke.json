@@ -1,0 +1,171 @@
+{
+  "id": "welsh_corgi_pembroke",
+  "nome": "Welsh Corgi Pembroke",
+  "subtitulo": "Pequeno/Pernas curtas/Inteligente",
+  "highlight_photo": "https:cdn.akc.orgcontentarticle-body-imagenanor137-nan-or13702.jpg",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-30 cm",
+      "femea": "25-30 cm"
+    },
+    "peso": {
+      "macho": "10-12 kg",
+      "femea": "9-11 kg"
+    },
+    "expectativa_vida": "12-13 anos",
+    "grupo": "Pastoreio",
+    "origem": "País de Gales",
+    "data_origem": "século X"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Alta",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Welsh Corgi Pembroke tem suas origens no País de Gales, onde foi desenvolvido como cão pastor de gado. A raça existe há mais de 1000 anos e, segundo a lenda, foi um presente das fadas aos humanos. Ganhou notoriedade mundial por ser a raça favorita da Rainha Elizabeth II do Reino Unido, que manteve vários Corgis ao longo de sua vida. O nome 'corgi' vem do galês 'cor' (anão) e 'gi' (cão).",
+    "aparencia": "O Corgi Pembroke é facilmente reconhecível por seu corpo baixo e alongado, com pernas curtas e robustas. Possui uma cabeça em forma de raposa, com orelhas eretas e olhos expressivos. A pelagem é dupla, média, reta e resistente às intempéries. As cores mais comuns são vermelho, sable, fulvo e preto e tan, geralmente com marcações brancas. Uma característica distintiva é sua cauda naturalmente curta ou ausente.",
+    "temperamento": "Apesar de seu tamanho pequeno, o Pembroke é um cão corajoso, alerta e cheio de personalidade. São extremamente inteligentes, leais e afetuosos com sua família. Mantêm seus instintos de pastoreio, o que pode se manifestar na tendência de 'pastorear' crianças e outros animais. São cães ativos e brincalhões que adoram estar envolvidos em todas as atividades familiares.",
+    "saude": "Geralmente saudáveis, mas podem ser propensos a problemas de coluna devido ao seu corpo alongado (IVDD). Também podem apresentar displasia do quadril, problemas oculares como PRA (Atrofia Progressiva da Retina) e tendência à obesidade devido ao seu apetite voraz."
+  },
+  "cuidados": {
+    "exercicios": "Apesar de pequenos, os Pembroke Corgis são cães ativos que precisam de exercício regular. Uma hora de atividade física diária, dividida em caminhadas e sessões de brincadeira, é ideal. São excelentes em esportes caninos como agility e obediência. É importante não sobrecarregar suas costas com exercícios muito intensos ou saltos.",
+    "grooming": "A pelagem dupla requer escovação regular, 2-3 vezes por semana, e mais frequentemente durante as épocas de troca de pelo, quando a queda é intensa. Banhos devem ser dados quando necessário. As unhas precisam ser aparadas regularmente, e os dentes devem ser escovados frequentemente para prevenir problemas dentários.",
+    "nutricao": "Uma dieta balanceada e de alta qualidade é essencial, com porções controladas para evitar obesidade, uma preocupação comum na raça. A alimentação deve ser dividida em duas refeições diárias. É importante não ceder aos olhares pidões, pois a raça tem tendência a ganhar peso facilmente.",
+    "saude": "Check-ups veterinários regulares são importantes, com atenção especial à coluna e quadris. Manter um peso saudável é crucial para prevenir problemas de coluna. Exames oftalmológicos regulares são recomendados devido à predisposição a problemas oculares. A vacinação deve ser mantida em dia."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Guia Completo do Welsh Corgi Pembroke",
+        "url": "https://www.youtube.com/watch?v=example1"
+      },
+      {
+        "titulo": "Cuidados e Treinamento do Corgi",
+        "url": "https://www.youtube.com/watch?v=example2"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Kennel Club - Pembroke Welsh Corgi",
+        "url": "https://www.thekennelclub.org.uk/breed-standards/pastoral/pembroke-welsh-corgi/"
+      },
+      {
+        "titulo": "Pembroke Welsh Corgi Club of America",
+        "url": "https://www.pembrokecorgi.org/"
+      }
+    ]
+  },
+  "name": "Welsh Corgi Pembroke",
+  "sobre_descricao": "O Fox Terrier de Pelo Duro é um cão pequeno e ativo com um pelo duplo denso. Eles são inteligentes",
+  "caracteristicas_fisico_porte": "Pequeno",
+  "caracteristicas_fisico_tipo_pelo": "Duplo",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Diariamente",
+  "caracteristicas_personalidade": "Inteligente",
+  "caracteristicas_social_sociabilidade_com_estranhos": "Amigável",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Sociável",
+  "cores_e_marcacoes_cores": "Branco",
+  "cores_e_marcacoes_marcacoes": "Tricolor",
+  "cuidados_exercicio": "30 minutos por dia",
+  "cuidados_higiene": "Escovação diária",
+  "cuidados_treinamento": "Fácil de treinar",
+  "historico_significado_cultural": "Originalmente usado para pastorear gado e ovelhas no País de Gales",
+  "images": "https://images.akc.org/breeds/welsh_corgi_pembroke/welsh_corgi_pembroke_01.jpg",
+  "height_imperial": "10-12",
+  "height_metric": "25-30",
+  "weight_imperial": "24-28",
+  "weight_metric": "11-13",
+  "bred_for": "herding cattle",
+  "breed_group": "Herding",
+  "life_span": "11-13",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/welsh-corgi-pembroke/",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=V2wUZ4lgtU4",
+  "racas_relacionadas": "Cardigan Welsh Corgi",
+  "temperament": "Amigável, Inteligente, Leal",
+  "reference_image_id": "Não informado",
+  "caracteristicas_personalidade_nivel_energia": "Active, playful",
+  "caracteristicas_personalidade_socializacao": "Good",
+  "caracteristicas_personalidade_tendencia_latir": "Moderate",
+  "caracteristicas_treinamento_facilidade_treino": "Easy",
+  "caracteristicas_treinamento_inteligencia": "Intelligent",
+  "caracteristicas_treinamento_tendencia_fugir": "Moderate",
+  "cuidados_exercicios": "Moderate",
+  "cuidados_grooming": "Moderate",
+  "informacoes_basicas_data_origem": "11th century",
+  "informacoes_basicas_grupo": "Herding",
+  "informacoes_basicas_origem": "Wales",
+  "links_referencias": "https://en.wikipedia.org/wiki/Welsh_Corgi_Pembroke",
+  "links_videos": "https://www.youtube.com/watch?v=9XFUt2aD6-4",
+  "origin": "Pembrokeshire, Wales",
+  "sobre_aparencia": "Short, double-layered",
+  "sobre_saude": "Prone to intervertebral disc disease, hip dysplasia",
+  "sobre_temperamento": "Affectionate, intelligent, playful",
+  "informacoes_básicas_origem": "País de Gales",
+  "caracteristicas_personalidade_amigvel": "Sim",
+  "cores_e_marcacoes_cores_preto": "Sim",
+  "cores_e_marcacoes_marcacoes_padro_tricolor_de_preto": "Sim",
+  "images_httpsimagesakcorgbreedsnan_or_142nan_or_142_01jpg": "https:cdn.akc.orgcontentarticle-body-imagenanor142-nan-or14201.jpg",
+  "links_sites_referencia_httpswwwakcorgdogbreedsnanor142": "https:www.akc.orgdog-breedswelsh-corgi-pembroke",
+  "links_videos_youtube_httpswwwyoutubecomwatchvlz65r93fh3m": "https:www.youtube.comwatchvlz65r93fh3m",
+  "racas_relacionadas_yorkshire_terrier": "Yorkshire Terrier",
+  "temperament_amigvel": "Sim",
+  "historico_significance_cultural": "Boykin Spaniels were originally bred in the 1900s to retrieve waterfowl in the swamps of South Carolina. They are named after Whit Boykin",
+  "caracteristicas_fisico_tipo_pelo_longo": "Sim",
+  "caracteristicas_personalidade_afetuoso": "Sim",
+  "cores_e_marcacoes_cores_branco": "Sim",
+  "cores_e_marcacoes_marcacoes_tricolor": "Sim",
+  "cuidados_higiene_escovao_semanal": "Sim",
+  "cuidados_treinamento_inteligente": "Sim",
+  "racas_relacionadas_poodle": "Poodle",
+  "sobre_descricao_co_de_companhia_pequeno": "Sim",
+  "weight_metric_2": "14 kg",
+  "images_imagem_1httpscdnakcorgcontentarticlebodyimagenanor13702jpg": "https:cdn.akc.orgcontentarticle-body-imagenanor137-nan-or13702.jpg",
+  "links_sites_referencia_httpswwwakcorgdogbreedsnanor137": "https:www.akc.orgdog-breedsboykin-spaniel",
+  "links_videos_youtube_vdeo_1httpswwwyoutubecomwatchvfubkgh5k94": "https:www.youtube.comwatchvfubkgh5k94",
+  "temperament_afetuoso": "Sim",
+  "esse_modelo_no_contm_informaes_sobre_a_raa_nan_or_kuvasz_por_isso": "Sim",
+  "racas_relacionadas_chow_chow": "Chow Chow",
+  "sobre_aparencia_pelagem_dupla_densa": "Sim",
+  "sobre_saude_geralmente_saudvel": "Sim",
+  "sobre_temperamento_amigvel": "Sim",
+  "caracteristicas_personalidade_brincalho": "Sim",
+  "images_httpscdncdnparentingcomarticles202003nanor106herojpg": "https:cdn.cdnparenting.comarticles202003nanor106-hero.jpg",
+  "temperament_brincalho": "Sim",
+  "weight_metric_4": "8 kg",
+  "height_imperial_13": "15 polegadas",
+  "racas_relacionadas_akita": "Akita",
+  "sobre_aparencia_pequeno": "Sim",
+  "sobre_temperamento_reservado": "Sim",
+  "temperament_reservado": "Sim",
+  "s": "Sim",
+  "bom_com_a_famlia": "Sim",
+  "banhos_semanais": "Sim",
+  "mastn_espanhol": "Mastín Espanhol",
+  "grande": "Sim",
+  "displasia_de_quadril": "Sim",
+  "leal": "Sim",
+  "images_httpsimagesdogceobreedsfoxterrierwireimg_05841jpg": "https:images.dogceo.combreedsfoxterrierwireimg05841.jpg",
+  "links_referencias_wikipediahttpsptwikipediaorgwikifox_terrier": "https:pt.wikipedia.orgwikiFoxTerrier",
+  "links_sites_referencia_fox_terrier_society_of_americahttpswwwfoxterriersocietyofamericaorg": "https:www.foxterriersocietyofamerica.org",
+  "sobre_aparencia_o_fox_terrier_de_pelo_duro_tem_um_pelo_duplo": "Sim",
+  "sobre_saude_o_fox_terrier_de_pelo_duro__geralmente_uma_raa_saudvel": "Sim",
+  "sobre_temperamento_o_fox_terrier_de_pelo_duro__um_co_ativo_e_corajoso": "Sim",
+  "images_httpscdn2thedogdigestcomwpcontentuploads202005nandogbreed8jpg": "https:cdn2.thedogdigest.comwp-contentuploads202005nan-dog-breed8.jpg",
+  "racas_relacionadas_lhasa_apso": "Lhasa Apso",
+  "cuidados_exercicios_dirios": "Diários",
+  "sobre_aparencia_pelagem_longa_e_sedosa": "Sim",
+  "sobre_saude_problemas_respiratrios": "Sim",
+  "breed_for": "Companionship"
+}

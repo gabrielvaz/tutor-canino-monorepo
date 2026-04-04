@@ -1,0 +1,151 @@
+{
+  "id": "pastor_sueco",
+  "nome": "Pastor Sueco",
+  "subtitulo": "Inteligente / Leal / Trabalhador",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "45 a 55 cm",
+      "femea": "40 a 50 cm"
+    },
+    "peso": {
+      "macho": "22 a 30 kg",
+      "femea": "19 a 28 kg"
+    },
+    "expectativa_vida": "12 a 15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Médio",
+      "tipo_pelo": "Pelagem dupla, camada externa longa e reta, subpelo macio e denso",
+      "frequencia_queda_pelo": "Alta"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Alta"
+    },
+    "personalidade": [
+      "Leal",
+      "Inteligente",
+      "Protector",
+      "Amável",
+      "Energético"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Pastor Sueco é uma raça de cão de pastoreio originária da Suécia. É conhecido por sua inteligência, lealdade e ética de trabalho excepcional.",
+    "historia": "O Pastor Sueco foi desenvolvido no século XVIII a partir de outras raças de pastoreio, incluindo o Spitz Alemão e o Corgi Galês. Foi criado para ser um cão versátil que pudesse pastorear gado, proteger fazendas e servir como companheiro."
+  },
+  "cuidados": {
+    "saude": "O Pastor Sueco é geralmente uma raça saudável, mas pode ser propenso a displasia de quadril, luxação patelar e doenças oculares.",
+    "higiene": "Sua pelagem requer escovação regular para evitar emaranhados e queda excessiva de pelo. Banhos ocasionais também são recomendados.",
+    "exercicio": "O Pastor Sueco é uma raça ativa que requer bastante exercício diário, como caminhadas longas, corridas e jogos de busca.",
+    "treinamento": "O Pastor Sueco é inteligente e fácil de treinar, mas pode ser independente e teimoso. Treinamento consistente e métodos de reforço positivo são recomendados.",
+    "nutricao": "Uma dieta de alta qualidade que atenda às necessidades nutricionais específicas do Pastor Sueco é essencial para sua saúde e bem-estar."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto",
+      "Cinza",
+      "Fulvo",
+      "Branco"
+    ],
+    "marcacoes": [
+      "Brancas no peito, focinho e patas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Pastor Sueco é um símbolo nacional da Suécia e é frequentemente retratado em arte e literatura suecas."
+  },
+  "racas_relacionadas": "yorkshireterrier",
+  "images": "https:i.akc.orgcontentarticle-body-imagenanor142nanor14201.jpg",
+  "highlight_photo": "swedish-vallhund.png",
+  "bred_for": "Pastor",
+  "breed_group": "Pastoreio",
+  "caracteristicas_personalidade_nivel_energia": "Ativo",
+  "caracteristicas_personalidade_socializacao": "Amigável",
+  "caracteristicas_personalidade_tendencia_latir": "Moderada",
+  "caracteristicas_treinamento_facilidade_treino": "Fácil",
+  "caracteristicas_treinamento_inteligencia": "Inteligente",
+  "caracteristicas_treinamento_tendencia_fugir": "Não é propenso",
+  "cuidados_exercicios": "Muito",
+  "cuidados_grooming": "Semanal",
+  "height_imperial": "11-14 polegadas",
+  "height_metric": "28-36 cm",
+  "informacoes_basicas_data_origem": "Século VIII",
+  "informacoes_basicas_grupo": "Spitz e Primitivo",
+  "informacoes_basicas_origem": "Suécia",
+  "life_span": "12-15 anos",
+  "links_referencias": "https://dogtime.com/dog-breeds/swedish-vallhund",
+  "links_sites_referencia": "https:www.akc.orgdog-breedsnanor142",
+  "links_videos": "https://www.youtube.com/watch?v=tT63_V1mM5M",
+  "links_videos_youtube": "https:www.youtube.comwatchvlz65r93fh3m",
+  "name": "Pastor Sueco",
+  "origin": "Suécia",
+  "reference_image_id": "swedish-vallhund-1.jpg",
+  "sobre_aparencia": "O Pastor Sueco, também conhecido como Vallhund, é uma raça de porte médio com uma pelagem espessa e dupla que pode ser cinza, zibelina ou vermelha e branca. Eles têm orelhas pontiagudas, caudas enroladas e pernas curtas e musculosas.",
+  "sobre_saude": "O Pastor Sueco é geralmente uma raça saudável, mas pode estar sujeito a displasia da anca, displasia do cotovelo e problemas oculares. É importante fazer exames regulares com o veterinário para garantir a saúde geral do seu cão.",
+  "sobre_temperamento": "O Pastor Sueco é um cão inteligente, ativo e amigável. Eles são leais e protetores de suas famílias e se dão bem com crianças. Eles também são ótimos em atividades ao ar livre, como caminhadas e natação.",
+  "temperament": "amigável",
+  "weight_imperial": "25-33 libras",
+  "weight_metric": 2,
+  "**bred_for**": "Não informado",
+  "**breed_group**": "Não informado",
+  "**caracteristicas_personalidade_nivel_energia**": "Não informado",
+  "**caracteristicas_personalidade_socializacao**": "Não informado",
+  "**caracteristicas_personalidade_tendencia_latir**": "Não informado",
+  "**caracteristicas_treinamento_facilidade_treino**": "Não informado",
+  "**caracteristicas_treinamento_inteligencia**": "Não informado",
+  "**caracteristicas_treinamento_tendencia_fugir**": "Não informado",
+  "**cuidados_exercicios**": "Não informado",
+  "**cuidados_grooming**": "Não informado",
+  "**height_imperial**": "Não informado",
+  "**height_metric**": "Não informado",
+  "**images**": "Não informado",
+  "**informacoes_basicas_data_origem**": "Não informado",
+  "**informacoes_basicas_grupo**": "Não informado",
+  "**informacoes_basicas_origem**": "Não informado",
+  "**life_span**": "Não informado",
+  "**links_referencias**": "Não informado",
+  "**links_sites_referencia**": "Não informado",
+  "**links_videos**": "Não informado",
+  "**links_videos_youtube**": "Não informado",
+  "**name**": "Pastor Sueco",
+  "**origin**": "Não informado",
+  "**racas_relacionadas**": "Não informado",
+  "**reference_image_id**": "Não informado",
+  "**sobre_aparencia**": "Não informado",
+  "**sobre_saude**": "Não informado",
+  "**sobre_temperamento**": "Não informado",
+  "**temperament**": "Não informado",
+  "**weight_imperial**": "Não informado",
+  "**weight_metric**": "Não informado",
+  "origem": "Suécia",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Moderada",
+  "caracteristicas_personalidade_amigvel": "amigável",
+  "cores_e_marcacoes_cores": "preto",
+  "cores_e_marcacoes_marcacoes": "padrão tricolor de preto",
+  "sobre_descricao": "Cão de companhia pequeno",
+  "images_imagem_1": "https:cdn.akc.orgcontentarticle-body-imagenanor13702jpg",
+  "links_sites_referencia_1": "https:www.akc.orgdog-breedsnanor137",
+  "links_videos_youtube_vdeo_1": "https:www.youtube.comwatchvfubkgh5k94",
+  "temperament_1": "afetuoso",
+  "temperamento": "amigável",
+  "tipo_pelo": "longo",
+  "cores": "preto",
+  "marcacoes": "tricolor",
+  "grooming": "escovaosemanal",
+  "treinamento": "inteligente",
+  "caracteristicas_fisico_porte": "pequeno",
+  "imagens": "httpscdncdnparentingcomarticles202003nanor106herojpg",
+  "peso_metric": 2,
+  "altura_imperial": 13,
+  "raca_relacionada": "poodle",
+  "caracteristicas_personalidade": "amigável",
+  "caracteristicas_treinamento": "inteligente",
+  "cuidados_higiene": "escovação semanal"
+}

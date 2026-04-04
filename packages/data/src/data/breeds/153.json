@@ -1,0 +1,70 @@
+{
+  "id": "153",
+  "nome": "Lancashire Heeler",
+  "subtitulo": "Companheiro leal / Pastor / Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-33 cm",
+      "femea": "22-30 cm"
+    },
+    "peso": {
+      "macho": "8-13 kg",
+      "femea": "6-11 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Pastoreio",
+    "origem": "Inglaterra",
+    "data_origem": "século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Lancashire Heeler foi originalmente criado para controlar ratos nas fazendas do condado de Lancashire, na Inglaterra. Ele era usado para pastorear gado e proteger as propriedades de predadores. A raça foi desenvolvida no século XIX, cruzando o Manchester Terrier com o Welsh Corgi e outras raças locais.",
+    "aparencia": "O Lancashire Heeler é um cão pequeno e robusto, com uma pelagem curta e densa que pode ser preta e castanha ou fígado e castanha. Eles têm uma cabeça larga e um focinho curto, com orelhas eretas em forma de V. A cauda é curta e naturalmente dobrada para baixo.",
+    "temperamento": "O Lancashire Heeler é conhecido como um cão leal e afetuoso, que forma fortes laços com seus donos. Eles são protetores com suas famílias e podem ser reservados com estranhos. A raça é altamente inteligente e ativa, e precisa de bastante exercício e estimulação mental.",
+    "saude": "O Lancashire Heeler é geralmente saudável, mas pode ser propenso a alguns problemas de saúde, como displasia coxofemoral, catarata e epilepsia."
+  },
+  "cuidados": {
+    "exercicios": "O Lancashire Heeler precisa de pelo menos uma hora de exercício por dia. Eles são cães ativos que apreciam atividades como caminhadas, corridas e jogos de busca.",
+    "grooming": "A pelagem curta do Lancashire Heeler requer escovação regular para remover pelos mortos e manter a pele saudável. Banhos ocasionais são necessários, mas evite banhos excessivos, que podem ressecar a pele.",
+    "nutricao": "O Lancashire Heeler deve ser alimentado com uma dieta de alta qualidade, rica em proteínas e gordura. A quantidade de comida que você dá ao seu cão dependerá do seu tamanho, idade e nível de atividade.",
+    "saude": "O Lancashire Heeler é geralmente saudável, mas é importante levá-lo ao veterinário para check-ups regulares e vacinas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Lancashire Heeler - Uma Raça de Cão Inteligente e Leal",
+        "url": "https://www.youtube.com/watch?v=o2909D08Urg"
+      },
+      {
+        "titulo": "Apresentando o Lancashire Heeler, o Cão Fazendeiro de Alta Energia",
+        "url": "https://www.youtube.com/watch?v=M06_mG64qXo"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Kennel Club",
+        "url": "https://www.thekennelclub.org.uk/services/public/breed/standard.aspx?id=116"
+      },
+      {
+        "titulo": "American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/lancashire-heeler/"
+      }
+    ]
+  }
+}

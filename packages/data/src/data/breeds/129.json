@@ -1,0 +1,70 @@
+{
+  "id": "129",
+  "nome": "Galgo",
+  "subtitulo": "Atlético / Elegante / Independente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "62-76 cm",
+      "femea": "60-71 cm"
+    },
+    "peso": {
+      "macho": "25-34 kg",
+      "femea": "20-27 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Hound",
+    "origem": "Egito Antigo",
+    "data_origem": "Século V a.C."
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Baixa com estranhos"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Galgo é uma raça antiga, originária do Egito Antigo, onde era usado para caçar e acompanhar os faraós. Eles também eram populares na Grécia e Roma, onde eram usados para corridas e caça. Os Galgos foram trazidos para a Europa por cruzados e se tornaram populares em toda a região. Hoje, eles são usados principalmente como cães de companhia e corrida.",
+    "aparencia": "Os Galgos são cães magros e esguios com uma construção atlética. Eles têm cabeças longas e estreitas com focinhos finos. Seus olhos são ovais e podem ser castanhos, azuis ou âmbar. Os Galgos têm orelhas pequenas e em forma de rosa que são geralmente dobradas para trás. A pelagem do Galgo é curta e lisa e pode ser de várias cores, incluindo preto, fulvo, tigrado e branco.",
+    "temperamento": "Os Galgos são conhecidos por sua personalidade independente e tranquila. Eles são cães afetuosos e leais com seus donos, mas podem ser distantes com estranhos. Os Galgos são cães sensíveis que precisam de muito amor e atenção. Eles não são adequados para famílias com crianças pequenas ou outros animais de estimação.",
+    "saude": "Os Galgos são geralmente cães saudáveis, mas são propensos a certos problemas de saúde, incluindo displasia de quadril, osteosarcoma e síndrome da dilatação gástrica-vólvulo (GDV). Os Galgos também podem sofrer de problemas oculares, como catarata e glaucoma."
+  },
+  "cuidados": {
+    "exercicios": "Os Galgos são cães ativos que precisam de muito exercício. Eles devem ser levados para uma caminhada longa ou corrida todos os dias. Os Galgos também podem se exercitar em um quintal grande e cercado, mas é importante garantir que não haja buracos na cerca por onde eles possam escapar.",
+    "grooming": "Os Galgos têm pêlos curtos e lisos que são fáceis de cuidar. Eles devem ser escovados uma vez por semana para remover pelos mortos. Os Galgos também devem ser banhados conforme necessário.",
+    "nutricao": "Os Galgos adultos precisam de cerca de 1.500-2.000 calorias por dia. Eles devem ser alimentados com uma dieta de alta qualidade que contenha muita proteína. Os Galgos também precisam de acesso a água fresca o tempo todo.",
+    "saude": "Os Galgos devem ser levados ao veterinário para exames regulares. Eles também devem ser vacinados e testados para doenças comuns."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Galgo correndo em alta velocidade",
+        "url": "https://www.youtube.com/watch?v=kOdfGHKYGCU"
+      },
+      {
+        "titulo": "Adestramento de Galgo",
+        "url": "https://www.youtube.com/watch?v=iJ3q2zmcazU"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/greyhound/"
+      },
+      {
+        "titulo": "The Greyhound Club of America",
+        "url": "https://www.greyhoundclubofamerica.com/"
+      }
+    ]
+  }
+}

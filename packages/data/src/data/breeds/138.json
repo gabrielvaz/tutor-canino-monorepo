@@ -1,0 +1,70 @@
+{
+  "id": "138",
+  "nome": "Ibizan Hound",
+  "subtitulo": "Elegante / Veloz / Independente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "66-74 cm",
+      "femea": "61-71 cm"
+    },
+    "peso": {
+      "macho": "20-27 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Sabujos",
+    "origem": "Espanha",
+    "data_origem": "Século VI a.C."
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Baixa"
+    },
+    "treinamento": {
+      "facilidade_treino": "Baixa",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Ibizan Hound é uma raça de cachorro antiga, originária das Ilhas Baleares, na Espanha. Acredita-se que tenha sido trazido para a região pelos fenícios ou cartagineses. Os Ibizan Hounds eram usados originalmente para caçar coelhos e outros animais pequenos. Eles também eram usados como companheiros pelos marinheiros. No século XIX, a raça foi levada para a Inglaterra, onde se tornou popular entre os caçadores. O Ibizan Hound foi reconhecido pelo American Kennel Club em 1974.",
+    "aparencia": "O Ibizan Hound é uma raça de porte médio, com uma aparência elegante e magra. Eles têm uma cabeça longa e estreita, com um focinho pontudo. As orelhas são grandes e pontudas, e os olhos são escuros e amendoados. A pelagem do Ibizan Hound é curta e lisa, e pode ser branca, vermelha ou fulva. Eles têm uma cauda longa e fina, que é geralmente portada baixa.",
+    "temperamento": "O Ibizan Hound é um cachorro independente e de espírito livre. Eles são leais e afetuosos com seus donos, mas podem ser reservados com estranhos. Os Ibizan Hounds são cães inteligentes e obedientes, mas podem ser teimosos quando querem. Eles têm uma forte presa e podem ser agressivos com outros animais. Os Ibizan Hounds são cães ativos e precisam de bastante exercício. Eles são bons companheiros para pessoas ativas que têm tempo para cuidar deles.",
+    "saude": "O Ibizan Hound é uma raça geralmente saudável, mas eles podem ser propensos a certos problemas de saúde, como displasia da anca, displasia de cotovelo e luxação patelar. Eles também podem ser propensos a doenças oculares, como catarata e glaucoma."
+  },
+  "cuidados": {
+    "exercicios": "O Ibizan Hound é um cachorro ativo e precisa de bastante exercício. Eles precisam de pelo menos 60 minutos de exercício por dia, e preferem correr ou brincar em um quintal com cerca. Os Ibizan Hounds também precisam de estimulação mental, então forneça-lhes brinquedos ou atividades que os desafiem.",
+    "grooming": "O Ibizan Hound tem uma pelagem curta e lisa que é fácil de cuidar. Eles precisam ser escovados uma ou duas vezes por semana para remover os pelos mortos. Os Ibizan Hounds também precisam tomar banho ocasionalmente, quando necessário.",
+    "nutricao": "O Ibizan Hound é uma raça de porte médio que precisa de uma dieta de alta qualidade. Eles devem ser alimentados com uma ração formulada para cães ativos. Os Ibizan Hounds também podem ser propensos a alergias alimentares, portanto, monitore-os quanto a quaisquer sinais de reação alérgica.",
+    "saude": "O Ibizan Hound é uma raça geralmente saudável, mas eles podem ser propensos a certos problemas de saúde. Leve seu Ibizan Hound ao veterinário para exames regulares para garantir que ele esteja saudável."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Ibizan Hound - The Fastest Dog in the World",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "titulo": "Ibizan Hound - A Day in the Life",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Ibizan Hound Club of America",
+        "url": "https://www.ibizanhoundclubofamerica.org/"
+      },
+      {
+        "titulo": "The American Kennel Club",
+        "url": "https://www.akc.org/"
+      }
+    ]
+  }
+}

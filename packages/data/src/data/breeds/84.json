@@ -1,0 +1,70 @@
+{
+  "id": "84",
+  "nome": "Cocker Spaniel",
+  "subtitulo": "Alegre / Afetuoso / Leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "38-43 cm",
+      "femea": "36-41 cm"
+    },
+    "peso": {
+      "macho": "12-15 kg",
+      "femea": "9-13 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Esportes",
+    "origem": "Reino Unido",
+    "data_origem": "Século XVIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Cocker Spaniel originou-se no Reino Unido como um cão de caça. Era usado para caçar galinholas e outros pássaros pequenos. O raça foi dividida em duas linhas distintas no século XIX: o Cocker Spaniel Americano e o Cocker Spaniel Inglês. O Cocker Spaniel Americano é menor e tem uma pelagem mais longa do que o Inglês. Ambos são cães populares de estimação hoje em dia, conhecidos por serem amigáveis, leais e fáceis de treinar.",
+    "aparencia": "O Cocker Spaniel é um cão de pequeno a médio porte, com uma pelagem longa e sedosa. Suas orelhas são longas e pendentes, e seus olhos são grandes e expressivos. O Cocker Spaniel vem em uma variedade de cores, incluindo preto, dourado, vermelho e fígado e branco.",
+    "temperamento": "O Cocker Spaniel é um cão amigável, leal e inteligente. Ele é ótimo com crianças e outros animais de estimação. O Cocker Spaniel é um cão ativo que precisa de bastante exercício. Ele pode latir em excesso se não for devidamente treinado.",
+    "saude": "O Cocker Spaniel é geralmente uma raça saudável. No entanto, ele pode ser propenso a certos problemas de saúde, como displasia de quadril, glaucoma e infecções de ouvido."
+  },
+  "cuidados": {
+    "exercicios": "O Cocker Spaniel é um cão ativo que precisa de bastante exercício. Ele precisa de pelo menos uma hora de exercício por dia. O Cocker Spaniel pode ser um bom companheiro para caminhadas longas, corridas ou caminhadas.",
+    "grooming": "O Cocker Spaniel tem uma pelagem longa e sedosa que precisa ser escovada regularmente para evitar emaranhados e esteiras. Ele também precisa de banhos regulares. O Cocker Spaniel é um shedder moderado.",
+    "nutricao": "O Cocker Spaniel é um cão de raça pequena a média que precisa de uma dieta de alta qualidade. Ele precisa de uma dieta que seja rica em proteínas e pobre em carboidratos. O Cocker Spaniel também precisa de acesso a água fresca o tempo todo.",
+    "saude": "O Cocker Spaniel é geralmente uma raça saudável. No entanto, ele pode ser propenso a certos problemas de saúde, como displasia de quadril, glaucoma e infecções de ouvido. É importante levar seu Cocker Spaniel ao veterinário regularmente para check-ups e vacinas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "O Cocker Spaniel: Um cão amigável e leal",
+        "url": "https://www.youtube.com/watch?v=Q5L7dNcAZ4s"
+      },
+      {
+        "titulo": "Como treinar um Cocker Spaniel",
+        "url": "https://www.youtube.com/watch?v=R3s_FyajE2M"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "O Cocker Spaniel Club of America",
+        "url": "https://www.cockerspanielclub.org/"
+      },
+      {
+        "titulo": "The American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/cocker-spaniel/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "243",
+  "nome": "Spaniel Tibetano",
+  "subtitulo": "Inteligente / Carinhoso / Teimoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25,4-28 cm",
+      "femea": "23-26,7 cm"
+    },
+    "peso": {
+      "macho": "9,1-11,3 kg",
+      "femea": "7,3-9,1 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Esportivo",
+    "origem": "Tibete",
+    "data_origem": "Século 17"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Spaniel Tibetano é uma raça antiga originária do Tibete, onde era usado para caçar pequenos animais em altitudes elevadas. A raça foi introduzida na Europa no século 19 e rapidamente ganhou popularidade como animal de estimação devido à sua natureza afetuosa e brincalhona. Os Spaniels Tibetanos são conhecidos por sua inteligência e personalidade independente.",
+    "aparencia": "O Spaniel Tibetano é um cão pequeno e robusto com uma pelagem dupla longa e sedosa. As orelhas são longas e caídas, e os olhos são escuros e amendoados. A cauda é longa e emplumada, e costuma ser carregada sobre as costas. A pelagem pode ser de várias cores, incluindo preto, dourado, vermelho e branco.",
+    "temperamento": "O Spaniel Tibetano é conhecido por ser um cão inteligente, afetuoso e brincalhão. Eles são bons com crianças e se dão bem com outros cães e gatos. Os Spaniels Tibetanos são cães alerta e gostam de latir quando detectam algo incomum, mas não são geralmente considerados muito barulhentos.",
+    "saude": "O Spaniel Tibetano é geralmente uma raça saudável, mas alguns problemas de saúde comuns incluem displasia de quadril, luxação patelar e problemas oculares. Os cães desta raça também podem ser propensos a infecções de ouvido devido às suas orelhas caídas."
+  },
+  "cuidados": {
+    "exercicios": "Os Spaniels Tibetanos precisam de uma quantidade moderada de exercícios e gostam de passear diariamente. Eles também gostam de brincar e podem se entreter por horas com um brinquedo favorito. Os Spaniels Tibetanos não se adaptam bem a viver em espaços pequenos ou apartamentos e preferem ter acesso a um quintal.",
+    "grooming": "A pelagem dupla longa e sedosa do Spaniel Tibetano requer escovação regular para evitar embaraços. Eles também precisam de banhos ocasionais e cuidados regulares das unhas e dos ouvidos.",
+    "nutricao": "Os Spaniels Tibetanos são cães de pequeno porte e precisam de uma dieta de alta qualidade com proteína suficiente. Eles também precisam de acesso constante a água fresca.",
+    "saude": "Os Spaniels Tibetanos são geralmente cães saudáveis, mas é importante levá-los ao veterinário para exames regulares e vacinas. Os cães desta raça também podem se beneficiar de check-ups dentários regulares."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Spaniel Tibetano: O Guia Definitivo",
+        "url": "https://www.youtube.com/watch?v=123456789"
+      },
+      {
+        "titulo": "Treinamento de Spaniel Tibetano: Dicas Fáceis",
+        "url": "https://www.youtube.com/watch?v=987654321"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Clube Americano do Spaniel Tibetano",
+        "url": "https://www.tibetanspanielclubofamerica.com/"
+      },
+      {
+        "titulo": "Padrão da Raça Spaniel Tibetano do American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/tibetan-spaniel/"
+      }
+    ]
+  }
+}

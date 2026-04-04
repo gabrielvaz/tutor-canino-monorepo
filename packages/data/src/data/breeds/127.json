@@ -1,0 +1,81 @@
+{
+  "id": "127",
+  "nome": "Golden Retriever",
+  "subtitulo": "Inteligente / Amigável / Leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-61 cm",
+      "femea": "51-56 cm"
+    },
+    "peso": {
+      "macho": "29-34 kg",
+      "femea": "25-32 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Esportivo",
+    "origem": "Escócia",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Golden Retriever foi desenvolvido na Escócia no século XIX pelo Lord Tweedmouth. Ele queria criar um cão de caça confiável e obediente para recuperar aves aquáticas. O Golden Retriever é resultado do cruzamento do Retriever Flat-Coated, Tweed Water Spaniel e Setter Irlandês.",
+    "aparencia": "O Golden Retriever possui uma pelagem dupla espessa e ondulada, que pode variar do dourado claro ao escuro. Eles têm um focinho largo e olhos castanhos ou âmbar. O Golden Retriever é conhecido por ter uma cauda emplumada que geralmente é carregada felizmente.",
+    "temperamento": "Golden Retrievers são cães amigáveis, leais e inteligentes. Eles são conhecidos por sua boa natureza e paciência com crianças. São cães ativos que adoram brincar e precisam de muito exercício.",
+    "saude": "Os Golden Retrievers são geralmente cães saudáveis, mas podem estar sujeitos a certos problemas de saúde, como displasia da anca e cotovelo e câncer. É importante fazer check-ups regulares com o veterinário para garantir que seu Golden Retriever esteja saudável."
+  },
+  "cuidados": {
+    "exercicios": "Golden Retrievers são cães ativos que precisam de bastante exercício. Eles devem ser levados para caminhadas longas ou corridas todos os dias e também precisam de tempo para brincar e se exercitar.",
+    "grooming": "O Golden Retriever tem uma pelagem dupla que precisa de escovação regular para remover pelos mortos e evitar emaranhados. Eles devem ser banhados conforme necessário.",
+    "nutricao": "Golden Retrievers precisam de uma dieta saudável e equilibrada que atenda às suas necessidades nutricionais. Eles devem ser alimentados com uma ração de boa qualidade, duas vezes ao dia.",
+    "saude": "Além de check-ups regulares com o veterinário, é importante manter o Golden Retriever vacinado contra doenças comuns. A escovação regular dos dentes também é importante para manter a saúde bucal."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Os 10 melhores cães para famílias",
+        "url": "https://www.youtube.com/watch?v=s0o3Q7icVLo"
+      },
+      {
+        "titulo": "Golden Retriever: tudo o que você precisa saber",
+        "url": "https://www.youtube.com/watch?v=7Xj7V683H7Q"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "AKC raça Golden Retriever",
+        "url": "https://www.akc.org/dog-breeds/golden-retriever/"
+      },
+      {
+        "titulo": "The Kennel Club raça Golden Retriever",
+        "url": "https://www.thekennelclub.org.uk/breed-information/working-gundogs/golden-retriever/"
+      }
+    ]
+  },
+  "caracteristicas_familia_afinidade_com_criancas": "Amigável com crianças",
+  "caracteristicas_familia_afinidade_com_outros_animais": "Amigável com outros animais",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Frequência de queda de pelo",
+  "caracteristicas_fisico_porte": "Grande",
+  "caracteristicas_fisico_tipo_pelo": "Pelo longo e reto",
+  "caracteristicas_social_sociabilidade_com_estranhos": "Amigável com estranhos",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Amigável com outros cães",
+  "cuidados_exercicio": "Exercícios diários",
+  "cuidados_nutricao": "Alimentação de alta qualidade",
+  "cuidados_saude": "Verificar displasia de quadril e cotovelo",
+  "historico_significado_cultural": "Companheiro de caça do golden retriever"
+}

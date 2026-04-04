@@ -1,0 +1,132 @@
+{
+  "id": "toy_terrier_inglês",
+  "nome": "Nan or Toy Terrier Inglês",
+  "subtitulo": "Curioso / Ativo / Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-35 cm",
+      "femea": "25-35 cm"
+    },
+    "peso": {
+      "macho": "2,7-3,6 kg",
+      "femea": "2,7-3,6 kg"
+    },
+    "expectativa_vida": "12-15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média/Baixa"
+    },
+    "fisico": {
+      "porte": "Pequeno",
+      "tipo_pelo": "Curto, liso e brilhante",
+      "frequencia_queda_pelo": "Baixa"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Média"
+    },
+    "personalidade": [
+      "Curioso",
+      "Ativo",
+      "Protetor",
+      "Inteligente",
+      "Carinhoso"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Toy Terrier Inglês é uma raça de cachorro pequena e ativa, conhecida por sua curiosidade, inteligência e proteção aos seus donos. Eles são companheiros leais e podem se adaptar bem tanto a apartamentos quanto a casas com quintal.",
+    "historia": "O Toy Terrier Inglês se originou na Inglaterra do século XIX, quando os criadores cruzaram o Yorkshire Terrier e o Manchester Terrier para criar um cachorro menor e mais elegante. Eles eram originalmente usados para caçar ratos e eram populares entre as famílias de classe trabalhadora e as damas da sociedade vitoriana."
+  },
+  "cuidados": {
+    "saude": "O Toy Terrier Inglês é geralmente saudável, mas pode ser propenso a problemas dentários, luxação patelar e doenças oculares. Exames veterinários regulares e limpeza dentária são essenciais para manter sua saúde.",
+    "higiene": "Toy Terrier Inglês tem requisitos de higiene baixos. Eles devem ser escovados semanalmente para remover pelos mortos e banhados conforme necessário. Suas unhas devem ser aparadas regularmente.",
+    "exercicio": "Apesar de seu pequeno tamanho, o Toy Terrier Inglês tem um nível moderado de necessidade de exercícios. Eles apreciam caminhadas diárias e brincadeiras no quintal.",
+    "treinamento": "O Toy Terrier Inglês é inteligente e ansioso para agradar, tornando o treinamento relativamente fácil. Eles respondem melhor ao treinamento baseado em recompensas e reforço positivo.",
+    "nutricao": "O Toy Terrier Inglês deve ser alimentado com uma dieta de alta qualidade específica para raças pequenas. A quantidade e a frequência das refeições dependerão do tamanho e do nível de atividade do cachorro."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto e Castanho",
+      "Azul e Castanho",
+      "Fígado e Castanho",
+      "Isabella e Castanho",
+      "Tricolor (Preto, Castanho e Branco)"
+    ],
+    "marcacoes": [
+      "Castanho (Fire)"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Toy Terrier Inglês era uma raça popular entre as famílias de classe trabalhadora e as damas da sociedade vitoriana. Eles eram frequentemente retratados em obras de arte e literatura e eram considerados símbolos de elegância e riqueza."
+  },
+  "racas_relacionadas": "French Bulldog",
+  "images": "imagem 1(https://cdn.akc.org/content/article-body-image/nan-or-137-02.jpg)",
+  "highlight_photo": "english-toy-terrier.png",
+  "bred_for": "Caça de ratos",
+  "breed_group": "Toy Group",
+  "caracteristicas_personalidade_nivel_energia": "Moderate",
+  "caracteristicas_personalidade_socializacao": "Friendly",
+  "caracteristicas_personalidade_tendencia_latir": "Average",
+  "caracteristicas_treinamento_facilidade_treino": "Easy",
+  "caracteristicas_treinamento_inteligencia": "High",
+  "caracteristicas_treinamento_tendencia_fugir": "Low",
+  "cuidados_exercicios": "Daily short walks",
+  "cuidados_grooming": "Weekly brushing",
+  "height_imperial": "10-17 in (25-43 cm)",
+  "height_metric": "25-43 cm",
+  "informacoes_basicas_data_origem": "1890s",
+  "informacoes_basicas_grupo": "Toy Group",
+  "informacoes_basicas_origem": "United States",
+  "life_span": "12-15 anos",
+  "links_referencias": "https://en.wikipedia.org/wiki/Boston_Terrier",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/boston-terrier/",
+  "links_videos": "https://www.youtube.com/watch?v=bQfQOw-WTWA",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=Go0N72N3m_4",
+  "name": "Boston Terrier",
+  "origin": "United States",
+  "reference_image_id": "None",
+  "sobre_aparencia": "Short, smooth, and fine coat",
+  "sobre_saude": "Common: Hip dysplasia, cataracts, cherry eye",
+  "sobre_temperamento": "Friendly, intelligent, and affectionate",
+  "temperament": "Friendly, intelligent, and affectionate",
+  "weight_imperial": "12-25 lb (5.4-11.3 kg)",
+  "weight_metric": "5.4-11.3 kg",
+  "**nome do campo": "resultado**",
+  "informacoes_básicas_origem": "Inglaterra",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Baixa",
+  "cores_e_marcacoes_cores": "Branco",
+  "campo": "linksvideosyoutube",
+  "caracteristicas_personalidade": "Amigável",
+  "cores_e_marcacoes_marcacoes": "Tricolor",
+  "cuidados_treinamento": "Inteligente",
+  "caracteristicas_fisico_tipo_pelo": "Longo",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Boa",
+  "altura_imperial": "9-10",
+  "cuidados_higiene": "Banhos semanais",
+  "cuidados_exercicio": "Diários",
+  "breed_for": "Companion dog",
+  "sobre_descricao": "Cão de companhia pequeno",
+  "caracteristicas_fisico_porte": "Pequeno",
+  "nome_da_raa": "Toy Terrier Inglês",
+  "altura_metrica": "23-25",
+  "peso_imperial": "6-7",
+  "peso_metrico": 2,
+  "vida_media": "12-14",
+  "cores": "Preto e Tan",
+  "marcaes": "Padrão tricolor de preto",
+  "tipo_pelo": "Curto",
+  "frequencia_queda_pelo": "Baixa",
+  "exercicios": "Moderados",
+  "treinamento": "Fácil",
+  "tendencia_fugir": "Baixa",
+  "tendencia_latir": "Moderada",
+  "sociabilidade_com_outros_caes": "Boa",
+  "sociabilidade_com_estranhos": "Moderada",
+  "sociabilidade_com_crianas": "Boa",
+  "adequado_para_primeiro_dono": "Sim",
+  "image": "https://images.dog.ceo/breeds/toyterrier/english/n02093257_5830.jpg",
+  "| name | bred_for | breed_group | height_imperial | height_metric | weight_imperial | weight_metric |": "|---|---|---|---|---|---|---|"
+}

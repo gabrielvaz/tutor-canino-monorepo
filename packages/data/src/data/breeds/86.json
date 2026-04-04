@@ -1,0 +1,70 @@
+{
+  "id": "86",
+  "nome": "Collie Pelo Longo",
+  "subtitulo": "Inteligente, Afetuoso, Ativo / Ágil / Familiar",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-66 cm",
+      "femea": "51-61 cm"
+    },
+    "peso": {
+      "macho": "20-29 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Pastoreio",
+    "origem": "Escócia",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Collie Pelo Longo é uma raça originária da Escócia, desenvolvida no século XIX para pastorear ovelhas nas Highlands escocesas. Criado a partir do cruzamento de Border Collies, Sheepdogs e cães de raça desconhecida, o Collie Pelo Longo possui uma pelagem longa e fluida que o diferenciava de outras raças de pastoreio.\nA raça ganhou popularidade internacional no início do século XX, graças à sua aparência marcante e comportamento gentil. Eles se tornaram cães de estimação populares e também se destacaram em competições de agilidade e obediência.",
+    "aparencia": "O Collie Pelo Longo é uma raça marcante com uma aparência elegante e distinta. Possui uma pelagem dupla longa e fluida, que vem em três cores: zibelina (preta e castanha), tricolor (preta, castanha e branca) e azul merle (azul-acinzentada marmoreada com manchas pretas). Os olhos são castanhos e amendoados, e a expressão é inteligente e alerta.\nO corpo do Collie Pelo Longo é forte e musculoso, com um peito largo e uma cauda longa e peluda que geralmente é carregada baixa.",
+    "temperamento": "Os Collies de Pelo Longo são conhecidos por serem cães inteligentes, afetuosos e leais. Possuem uma natureza gentil e amorosa e são excelentes companheiros para famílias e indivíduos ativos. São cães altamente treináveis e respondem bem ao reforço positivo.\nEmbora sejam uma raça de pastoreio, os Collies Pelo Longo não são cães muito protetores e raramente latem sem motivo. São socialmente adaptáveis e se dão bem com outros cães, crianças e estranhos.",
+    "saude": "Como todos os cães de raça pura, os Collies de Pelo Longo estão predispostos a certas condições de saúde específicas. Alguns dos problemas de saúde mais comuns incluem:\n- Displasia de quadril e cotovelo\n- Epilepsia\n- Anormalidades oculares\n- Dermatite atópica\nÉ importante que os donos de Collie de Pelo Longo levem seus cães ao veterinário regularmente para exames e cuidados preventivos para ajudar a identificar e tratar quaisquer problemas de saúde precocemente."
+  },
+  "cuidados": {
+    "exercicios": "O Collie Pelo Longo é uma raça ativa que requer muito exercício físico e mental. Eles precisam de caminhadas diárias longas, brincadeiras e sessões de treinamento para manter a saúde e o bem-estar.\nFornecer enriquecimento mental na forma de jogos de inteligência, treinamento de obediência ou esportes caninos é essencial para manter o Collie Pelo Longo feliz e estimulado.",
+    "grooming": "A pelagem longa e fluida do Collie Pelo Longo requer escovação regular para evitar emaranhados e manter seu brilho. A escovação frequente também ajuda a remover pelos mortos e distribuir óleos naturais por toda a pelagem.\nAlém da escovação, os Collies de Pelo Longo precisam de banhos ocasionais e aparas de pelos ao redor das patas e orelhas.",
+    "nutricao": "Os Collies Pelo Longo são cães de porte médio com necessidades nutricionais específicas. Uma dieta de alta qualidade que atenda às suas necessidades energéticas e de crescimento é essencial.\nA dieta de um Collie Pelo Longo deve ser rica em proteínas, gorduras e carboidratos complexos e deve incluir uma variedade de frutas, vegetais e grãos integrais.",
+    "saude": "Além dos cuidados gerais com a saúde mencionados anteriormente, os donos de Collie Pelo Longo devem estar atentos a sinais de problemas de saúde comuns à raça. Isso inclui:\n- Mancar ou claudicação (displasia de quadril ou cotovelo)\n- Convulsões (epilepsia)\n- Vermelhidão ou secreção nos olhos (anormalidades oculares)\n- Coceira ou erupções cutâneas (dermatite atópica)\nExames veterinários regulares e cuidados preventivos são essenciais para ajudar a identificar e tratar quaisquer problemas de saúde precocemente, mantendo o Collie Pelo Longo saudável e feliz ao longo de sua vida."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Collie Pelo Longo: O Cão Ideal para Famílias",
+        "url": "https://www.youtube.com/watch?v=A_fw7g_XRl8"
+      },
+      {
+        "titulo": "Adestrando um Collie Pelo Longo para Pastoreio",
+        "url": "https://www.youtube.com/watch?v=V-2S483irLo"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Collie Pelo Longo",
+        "url": "https://www.akc.org/dog-breeds/collie-rough/"
+      },
+      {
+        "titulo": "The Collie Club of America: Saúde",
+        "url": "https://www.collie-club.org/collies-health"
+      }
+    ]
+  }
+}

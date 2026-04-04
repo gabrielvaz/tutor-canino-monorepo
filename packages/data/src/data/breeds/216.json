@@ -1,0 +1,70 @@
+{
+  "id": "216",
+  "nome": "Saluki",
+  "subtitulo": "Elegante / Atlético / Leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "58-71 cm",
+      "femea": "56-68 cm"
+    },
+    "peso": {
+      "macho": "14-27 kg",
+      "femea": "12-23 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Hound",
+    "origem": "Médio Oriente",
+    "data_origem": "Século XIV"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "Acredita-se que o Saluki seja uma das raças de cães mais antigas do mundo, originária do Médio Oriente, onde era usado para caçar gazelas. Eles eram altamente valorizados pelas tribos nômades, que os consideravam companheiros leais e protetores da família. O nome 'Saluki' é derivado das cidades de Saluk, no sul do Iraque, onde a raça era particularmente popular.",
+    "aparencia": "O Saluki é um cão elegante e atlético com um corpo esbelto e aerodinâmico. Eles têm orelhas caídas e uma cauda longa e emplumada. A pelagem é curta e sedosa, disponível em uma variedade de cores, incluindo fulvo, preto e branco. Eles são conhecidos por seus olhos escuros e expressivos, que lhes conferem uma aparência enigmática.",
+    "temperamento": "O Saluki é uma raça independente e teimosa, mas também leal e afetuoso com sua família. São cães altamente inteligentes e respondem bem ao treinamento positivo. Eles são cães ativos e requerem bastante exercício para serem felizes e saudáveis.",
+    "saude": "O Saluki é geralmente uma raça saudável, mas pode estar sujeito a certos problemas de saúde, como câncer, doenças cardíacas e hipotireoidismo. É importante que os proprietários levem seus cães para check-ups veterinários regulares para garantir sua saúde e bem-estar."
+  },
+  "cuidados": {
+    "exercicios": "O Saluki é um cão ativo que requer bastante exercício. Eles precisam de pelo menos uma hora de caminhada ou corrida por dia, além de oportunidades para correr livremente. Eles são cães curiosos e gostam de explorar, por isso é importante mantê-los na coleira ou em uma área cercada.",
+    "grooming": "O Saluki tem uma pelagem curta e fácil de cuidar. Escovações regulares são suficientes para remover pelos soltos e manter a pelagem saudável. Eles devem ser banhados conforme necessário, mas não com muita frequência, pois isso pode ressecar a pele.",
+    "nutricao": "O Saluki é um cão ativo com necessidades nutricionais específicas. Eles devem ser alimentados com uma dieta de alta qualidade que atenda às suas necessidades energéticas. É importante evitar superalimentar o Saluki, pois eles podem ser propensos ao ganho de peso.",
+    "saude": "Para manter seu Saluki saudável, é importante fornecer-lhe cuidados veterinários regulares. Isso inclui vacinas anuais, check-ups e limpeza dentária. Os proprietários também devem estar atentos a quaisquer sinais de problemas de saúde e procurar atendimento veterinário imediatamente se necessário."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Saluki - O Cão Real do Deserto",
+        "url": "https://www.youtube.com/watch?v=jXfwkIIR620"
+      },
+      {
+        "titulo": "Salukis: Raça de Cão Antiga e Elegante",
+        "url": "https://www.youtube.com/watch?v=GsU8hD4PnQA"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Clube Americano do Saluki",
+        "url": "https://www.salukiclubofamerica.com/"
+      },
+      {
+        "titulo": "O Guia Completo da Raça Saluki",
+        "url": "https://www.thesprucepets.com/saluki-dog-breed-profile-5216137"
+      }
+    ]
+  }
+}

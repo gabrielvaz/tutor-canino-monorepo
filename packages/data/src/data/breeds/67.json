@@ -1,0 +1,70 @@
+{
+  "id": "67",
+  "nome": "Cane Corso",
+  "subtitulo": "Protetor / Leal / Forte",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "57-68 cm",
+      "femea": "53-64 cm"
+    },
+    "peso": {
+      "macho": "40-50 kg",
+      "femea": "30-40 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Grupo de Trabalho",
+    "origem": "Itália",
+    "data_origem": "Século XVI"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Cane Corso é uma raça antiga originária da Itália, onde foi usado como cão de guarda e trabalho. Acredita-se que seus ancestrais sejam os Molossos, grandes cães de guerra usados pelos romanos. Na Idade Média, o Cane Corso era popular entre a nobreza e foi usado para proteger castelos e propriedades. Com o declínio das guerras, a raça quase desapareceu, mas foi revitalizada no final do século XX.",
+    "aparencia": "O Cane Corso é um cão grande e musculoso, com uma cabeça larga e um focinho quadrado. Sua pelagem é curta e vem em várias cores, incluindo preto, cinza e fulvo. Os machos geralmente são maiores que as fêmeas e podem pesar até 50 kg.",
+    "temperamento": "O Cane Corso é conhecido por sua lealdade, proteção e inteligência. É uma raça treinável e obediente, mas pode ser territorial e agressiva com estranhos. Com a socialização adequada, o Cane Corso pode ser um excelente companheiro para famílias com crianças mais velhas.",
+    "saude": "O Cane Corso é geralmente uma raça saudável, mas pode ser propenso a certos problemas de saúde, como displasia de quadril, inchaço e problemas cardíacos."
+  },
+  "cuidados": {
+    "exercicios": "O Cane Corso é uma raça ativa que requer bastante exercício. Longas caminhadas diárias ou corridas são essenciais para manter sua saúde física e mental. O Cane Corso também se beneficia de exercícios mentais, como treinamento de obediência e agility.",
+    "grooming": "A pelagem do Cane Corso é de baixa manutenção e requer apenas escovação ocasional. No entanto, é importante escová-los regularmente durante a época de queda para remover os pelos soltos. Os Cane Corsos também devem ser banhados a cada 6 a 8 semanas.",
+    "nutricao": "O Cane Corso é uma raça de grande porte que requer uma dieta de alta qualidade rica em proteínas e gorduras. A quantidade de alimento necessária irá variar dependendo da idade, peso e nível de atividade do cão. É importante alimentar o Cane Corso com várias refeições pequenas ao longo do dia para evitar inchaço.",
+    "saude": "Além de exercícios, alimentação adequada e higiene regular, o Cane Corso também requer cuidados preventivos de saúde. Isso inclui vacinas regulares, desparasitação e exames veterinários. O monitoramento do peso do Cane Corso também é importante, pois a obesidade pode levar a problemas de saúde."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Cane Corso: O Protetor Italiano",
+        "url": "https://www.youtube.com/watch?v=5gRjAc-dOwU"
+      },
+      {
+        "titulo": "Treinando um Cane Corso: O Básico",
+        "url": "https://www.youtube.com/watch?v=9_uJrHHZ584"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Cane Corso: A Complete Guide to the Italian Mastiff",
+        "url": "https://www.amazon.com/Cane-Corso-Complete-Italian-Mastiff/dp/1602390477"
+      },
+      {
+        "titulo": "Cane Corso Breed Standard",
+        "url": "https://www.akc.org/dog-breeds/cane-corso/"
+      }
+    ]
+  }
+}

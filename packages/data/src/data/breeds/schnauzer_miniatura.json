@@ -1,0 +1,121 @@
+{
+  "id": "schnauzer_miniatura",
+  "nome": "Fox Terrier de Pelo Duro",
+  "subtitulo": "Inteligente / Leal / Independente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "30-36 cm",
+      "femea": "28-34 cm"
+    },
+    "peso": {
+      "macho": "4,5-7 kg",
+      "femea": "4-6 kg"
+    },
+    "expectativa_vida": "12-15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Pequeno",
+      "tipo_pelo": "Duro, denso e áspero",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Alta"
+    },
+    "personalidade": [
+      "Animado",
+      "Alegre",
+      "Inteligente",
+      "Protetor",
+      "Companheiro"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Schnauzer Miniatura é uma raça de cachorro de pequeno porte conhecido por sua inteligência, lealdade e natureza independente. Possui uma pelagem áspera e densa que requer cuidados regulares. São cães versáteis que se adaptam bem a diferentes ambientes familiares e são ótimos companheiros para quem procura um cão pequeno e ativo.",
+    "historia": "O Schnauzer Miniatura foi desenvolvido na Alemanha no século XIX. Eles foram criados a partir do Schnauzer Padrão e do Caniche, resultando em uma raça menor e mais versátil. Originalmente usados para caçar ratos, os Schnauzers Miniatura rapidamente se tornaram populares como cães de companhia devido à sua personalidade agradável e tamanho gerenciável."
+  },
+  "cuidados": {
+    "saude": "Os Schnauzers Miniatura são geralmente saudáveis, mas podem estar sujeitos a certos problemas, como catarata, rins e fígado. É importante manter visitas regulares ao veterinário para exames e vacinas.",
+    "higiene": "A pelagem do Schnauzer Miniatura requer escovação regular e tosquia. Eles também precisam de banhos regulares para manter a pele e o pelo saudáveis.",
+    "exercicio": "Os Schnauzers Miniatura são cães ativos que precisam de exercícios regulares. Eles apreciam caminhadas, corridas e brincadeiras no quintal.",
+    "treinamento": "Os Schnauzers Miniatura são cães inteligentes e ansiosos para agradar, o que os torna relativamente fáceis de treinar. É importante usar métodos de treinamento positivos e fornecer reforço consistente.",
+    "nutricao": "Os Schnauzers Miniatura devem ser alimentados com uma dieta de alta qualidade específica para cães pequenos. Eles devem ter acesso constante a água fresca."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto",
+      "Sal e pimenta",
+      "Branco"
+    ],
+    "marcacoes": [
+      "Sobrancelhas distintas",
+      "Barba",
+      "Bigode"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "Os Schnauzers Miniatura foram usados ​​como cães de guarda e para caçar ratos na Alemanha. Eles também foram populares como cães de companhia entre a nobreza."
+  },
+  "racas_relacionadas": "lhasa apso",
+  "images": "https://images.akc.org/breeds/nanor142/nanor14201.jpg",
+  "highlight_photo": "miniature-schnauzer.png",
+  "bred_for": "Terrier",
+  "breed_group": "Terrier",
+  "caracteristicas_personalidade_nivel_energia": "Ativo",
+  "caracteristicas_personalidade_socializacao": "Bom com estranhos",
+  "caracteristicas_personalidade_tendencia_latir": "Não informado",
+  "caracteristicas_treinamento_facilidade_treino": "Não informado",
+  "caracteristicas_treinamento_inteligencia": "Inteligente",
+  "caracteristicas_treinamento_tendencia_fugir": "Não informado",
+  "cuidados_exercicios": "Moderado",
+  "cuidados_grooming": "escovação semanal",
+  "height_imperial": 13,
+  "height_metric": "33",
+  "informacoes_basicas_data_origem": "Não informado",
+  "informacoes_basicas_grupo": "Terrier",
+  "informacoes_basicas_origem": "Inglaterra",
+  "life_span": "12-15 anos",
+  "links_referencias": "wikipedia(https://en.wikipedia.org/wiki/australiankelpie)",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_videos": "Não informado",
+  "links_videos_youtube": "vídeo 1(https://www.youtube.com/watch?v=avshcm54gi)",
+  "name": "Fox Terrier de Pelo Duro",
+  "origin": "Inglaterra",
+  "reference_image_id": "Não informado",
+  "sobre_aparencia": "pelagem dupla espessa e",
+  "sobre_saude": "o fox terrier de pelo duro é geralmente uma raça saudável",
+  "sobre_temperamento": "o fox terrier de pelo duro é um cão ativo e corajoso",
+  "temperament": "leal",
+  "weight_imperial": "Não informado",
+  "weight_metric": 4,
+  "caracteristicas_personalidade": "amigável",
+  "informacoes_básicas_origem": "Maryland",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Semanal",
+  "cores_e_marcacoes_cores": "branco",
+  "campo": "companhia",
+  "cuidados_treinamento": "inteligente",
+  "caracteristicas_fisico_tipo_pelo": "duplo",
+  "campos": "temperamento",
+  "cores_e_marcacoes_marcacoes": "padrão tricolor de preto",
+  "cuidados_exercicio": "diários",
+  "breed_for": "companhia",
+  "sobre_descricao": "cão de companhia pequeno",
+  "s": "bomcomafamília",
+  "mastn_espanhol": "grande",
+  "grupo": "Terrier",
+  "tipo_pelo": "Duplo",
+  "exercicios": "Diários",
+  "treinamento": "Facil",
+  "referencias": "https:pt.wikipedia.orgwikiFoxterrierFoxterrierdepeloduro",
+  "cuidados_banhos": "Semanais",
+  "temperamento": "Ativo e corajoso",
+  "characteristics_fisico_pelo": "Duplo",
+  "characteristics_fisico_porte": "Grande",
+  "coat_type": "Duplo"
+}

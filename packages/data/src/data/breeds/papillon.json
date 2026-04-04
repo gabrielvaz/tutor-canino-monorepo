@@ -1,0 +1,121 @@
+{
+  "id": "papillon",
+  "nome": "Papillon",
+  "subtitulo": "Pequeno/Orelhas grandes/Pelagem sedosa",
+  "highlight_photo": "https://cdn.akc.org/content/article-body-image/papillon.jpg",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "20-28 cm",
+      "femea": "20-28 cm"
+    },
+    "peso": {
+      "macho": "3-4.5 kg",
+      "femea": "3-4.5 kg"
+    },
+    "expectativa_vida": "12-16 anos",
+    "grupo": "Toy",
+    "origem": "França",
+    "data_origem": "século XVI"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Papillon, cujo nome significa 'borboleta' em francês, devido às suas orelhas características, tem uma história que remonta à nobreza europeia do século XVI. Retratado em inúmeras pinturas renascentistas, era o companheiro favorito da aristocracia francesa. A raça evoluiu do Spaniel Continental Anão, e existe em duas variedades: o Papillon (orelhas eretas) e o Phalène (orelhas caídas).",
+    "aparencia": "A característica mais marcante do Papillon são suas grandes orelhas em forma de borboleta, cobertas por franjas de pelos longos. Possui uma pelagem sedosa, longa e reta, sem subpelo, com franjas abundantes. A coloração é sempre branca com manchas em qualquer cor, sendo mais comuns o preto, marrom e ruivo. Seu rosto tem uma expressão alerta e inteligente.",
+    "temperamento": "Apesar de seu tamanho diminuto, o Papillon é conhecido por sua inteligência excepcional e personalidade vivaz. São cães alegres, afetuosos e muito espertos, frequentemente classificados entre as raças mais inteligentes. São ativos e brincalhões, mas também podem ser excelentes cães de colo. São adaptáveis e se dão bem tanto em ambientes urbanos quanto rurais.",
+    "saude": "O Papillon é geralmente uma raça saudável e robusta para seu tamanho. No entanto, podem ser propensos a algumas condições como luxação patelar, problemas dentários e fontanela aberta (abertura no crânio que não fecha completamente). Algumas linhagens podem apresentar epilepsia ou problemas cardíacos congênitos."
+  },
+  "cuidados": {
+    "exercicios": "Apesar de pequenos, os Papillons são cães ativos que precisam de exercício regular. Uma combinação de caminhadas diárias e sessões de brincadeira é ideal. São excelentes em esportes caninos como agility, obediência e rally, onde sua inteligência e agilidade se destacam. São adequados para apartamentos desde que recebam atividade física suficiente.",
+    "grooming": "A pelagem longa requer escovação regular, 2-3 vezes por semana, para evitar emaranhados e manter sua beleza natural. Banhos devem ser dados quando necessário, geralmente a cada 4-6 semanas. Atenção especial deve ser dada à limpeza das orelhas e aos cuidados dentários, pois são propensos a problemas dentários.",
+    "nutricao": "Uma dieta de alta qualidade apropriada para cães pequenos é essencial. A quantidade deve ser ajustada ao nível de atividade do cão para evitar obesidade. Por serem pequenos, podem precisar de refeições mais frequentes para manter o nível de açúcar no sangue estável. Petiscos devem ser dados com moderação.",
+    "saude": "Check-ups veterinários regulares são importantes, com atenção especial aos dentes e joelhos. A vacinação deve ser mantida em dia, e exames regulares podem ajudar a detectar problemas de saúde precocemente. Em climas frios, podem precisar de proteção extra devido ao seu tamanho pequeno e pelagem fina."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Conheça o Papillon",
+        "url": "https://www.youtube.com/watch?v=example1"
+      },
+      {
+        "titulo": "Treinamento e Cuidados com o Papillon",
+        "url": "https://www.youtube.com/watch?v=example2"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club - Papillon",
+        "url": "https://www.akc.org/dog-breeds/papillon/"
+      },
+      {
+        "titulo": "Papillon Club of America",
+        "url": "https://www.papillonclub.org/"
+      }
+    ]
+  },
+  "bred_for": "Não encontrei informações sobre a raça nan",
+  "breed_group": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_fisico_frequencia_queda_pelo": "moderada",
+  "caracteristicas_fisico_porte": "Pequeno",
+  "caracteristicas_fisico_tipo_pelo": "Longo",
+  "caracteristicas_personalidade": "Amigável",
+  "caracteristicas_social_sociabilidade_com_estranhos": "Amigável",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Bom",
+  "cores_e_marcacoes_cores": "Preto",
+  "cores_e_marcacoes_marcacoes": "Tricolor",
+  "cuidados_exercicio": "Moderado",
+  "cuidados_higiene": "Banhos semanais",
+  "cuidados_treinamento": "Obediência básica",
+  "height_imperial": "Não encontrei informações sobre a raça nan",
+  "height_metric": "Não encontrei informações sobre a raça nan",
+  "historico_significado_cultural": "Não disponível",
+  "images": "Não encontrei informações sobre a raça nan",
+  "life_span": "Não encontrei informações sobre a raça nan",
+  "links_sites_referencia": "Não encontrei informações sobre a raça nan",
+  "links_videos_youtube": "Não encontrei informações sobre a raça nan",
+  "name": "Não encontrei informações sobre a raça nan",
+  "origin": "Não encontrei informações sobre a raça nan",
+  "racas_relacionadas": "Não encontrei informações sobre a raça nan",
+  "reference_image_id": "Não encontrei informações sobre a raça nan",
+  "sobre_descricao": "Cão de companhia",
+  "temperament": "Não encontrei informações sobre a raça nan",
+  "weight_imperial": "Não encontrei informações sobre a raça nan",
+  "weight_metric": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_nivel_energia": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_socializacao": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_tendencia_latir": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_facilidade_treino": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_inteligencia": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_tendencia_fugir": "Não encontrei informações sobre a raça nan",
+  "cuidados_exercicios": "Não encontrei informações sobre a raça nan",
+  "cuidados_grooming": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_data_origem": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_grupo": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_origem": "Não encontrei informações sobre a raça nan",
+  "links_referencias": "Não encontrei informações sobre a raça nan",
+  "links_videos": "Não encontrei informações sobre a raça nan",
+  "sobre_aparencia": "Não encontrei informações sobre a raça nan",
+  "sobre_saude": "Não encontrei informações sobre a raça nan",
+  "sobre_temperamento": "Não encontrei informações sobre a raça nan",
+  "Nome do Campo": "",
+  "Campos": "",
+  "Informacoes_basicas_origem": "",
+  "Informacoes_basicas_data_origem": "",
+  "Informacoes_basicas_grupo": "",
+  "| name | bred_for | breed_group | caracteristicas_personalidade_nivel_energia | caracteristicas_personalidade_socializacao | caracteristicas_personalidade_tendencia_latir | caracteristicas_treinamento_facilidade_treino | caracteristicas_treinamento_inteligencia | caracteristicas_treinamento_tendencia_fugir | cuidados_exercicios | cuidados_grooming | height_imperial | height_metric | images | informacoes_basicas_data_origem | informacoes_basicas_grupo | informacoes_basicas_origem | life_span | links_referencias | links_sites_referencia | links_videos | links_videos_youtube | origin | racas_relacionadas | sobre_aparencia | sobre_saude | sobre_temperamento | temperament | weight_imperial | weight_metric |": "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|"
+}

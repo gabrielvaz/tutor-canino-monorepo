@@ -1,0 +1,139 @@
+{
+  "id": "shiba_inu",
+  "nome": "Shiba Inu",
+  "subtitulo": "Activo / Independente / Limpo",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "38-43 cm",
+      "femea": "35-41 cm"
+    },
+    "peso": {
+      "macho": "8-12 kg",
+      "femea": "7-10 kg"
+    },
+    "expectativa_vida": "12-15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Pequeno",
+      "tipo_pelo": "Duplo e curto, com subpelo macio e denso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Baixa",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Leal",
+      "Atento",
+      "Curioso"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Shiba Inu é uma raça de cachorro japonesa conhecida por sua independência e lealdade. São cães ativos e limpos, com uma pelagem dupla espessa que os ajuda a se manterem aquecidos em climas frios.",
+    "historia": "O Shiba Inu é uma raça antiga que foi desenvolvida no Japão para caçar pequenos animais. Eles são uma das seis raças nativas japonesas reconhecidas pelo Clube Canino do Japão."
+  },
+  "cuidados": {
+    "saude": "Os Shiba Inus são geralmente saudáveis, mas podem ser propensos a alguns problemas de saúde, como alergias, luxação patelar e displasia da anca.",
+    "higiene": "Os Shiba Inus precisam de escovação regular para manter sua pelagem saudável. Eles também precisam de banhos ocasionais.",
+    "exercicio": "Os Shiba Inus são cães ativos que precisam de bastante exercício. Eles devem ser passeados por pelo menos 30 minutos por dia.",
+    "treinamento": "Os Shiba Inus são cães inteligentes, mas podem ser difíceis de treinar devido à sua natureza independente. Eles precisam de treinamento paciente e consistente.",
+    "nutricao": "Os Shiba Inus devem ser alimentados com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Eles não devem ser alimentados em excesso, pois podem ser propensos à obesidade."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Vermelho",
+      "Preto e castanho",
+      "Sésamo"
+    ],
+    "marcacoes": [
+      "Máscara branca na face"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Shiba Inu é um símbolo do Japão e é frequentemente usado em arte e literatura."
+  },
+  "racas_relacionadas": "Akita",
+  "images": "https://images.akc.org/breeds/nan_or_142/nan_or_142_01.jpg",
+  "highlight_photo": "shiba-inu.png",
+  "| height_imperial | 13": "5-16",
+  "| racas_relacionadas | Akita": "Hokkaido",
+  "| sobre_aparencia | Pequeno": "atarracado e com uma pelagem dupla espessa |",
+  "| sobre_saude | Geralmente saudável": "mas propenso a algumas condições de saúde |",
+  "| sobre_temperamento | Reservado": "independente e leal |",
+  "| temperament | Reservado": "independente e leal |",
+  "bred_for": "Hunting",
+  "breed_group": "Spitz",
+  "caracteristicas_personalidade_nivel_energia": "Moderate",
+  "caracteristicas_personalidade_socializacao": "Good",
+  "caracteristicas_personalidade_tendencia_latir": "Moderate",
+  "caracteristicas_treinamento_facilidade_treino": "Média",
+  "caracteristicas_treinamento_inteligencia": "Intelligent",
+  "caracteristicas_treinamento_tendencia_fugir": "Alta",
+  "cuidados_exercicios": "Moderate",
+  "cuidados_grooming": "Semanal",
+  "height_imperial": "14.5",
+  "height_metric": "34-42",
+  "informacoes_basicas_data_origem": "Século XVIII",
+  "informacoes_basicas_grupo": "Non-Sporting",
+  "informacoes_basicas_origem": "Japão",
+  "life_span": "12-15 anos",
+  "links_referencias": "https:en.wikipedia.orgwikiShibaInu",
+  "links_sites_referencia": "https:www.akc.orgdog-breedsshiba-inu",
+  "links_videos": "https:www.youtube.comwatchvlz65R93FH3M",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=lZ65r93Fh3M",
+  "name": "Shiba Inu",
+  "origin": "Japan",
+  "reference_image_id": "https://cdn2.thedogdigest.com/wp-content/uploads/2019/11/Shiba-Inu-breed-profile.jpg",
+  "sobre_aparencia": "Double coat",
+  "sobre_saude": "Geralmente saudável",
+  "sobre_temperamento": "Independent",
+  "temperament": "Independent",
+  "weight_imperial": "23",
+  "weight_metric": "10.4",
+  "breed_for": "Companion",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Diariamente",
+  "caracteristicas_fisico_porte": "Pequeno",
+  "caracteristicas_fisico_tipo_pelo": "Pelo duplo curto e áspero",
+  "caracteristicas_personalidade": "Amigável e Brincalhão",
+  "caracteristicas_social_sociabilidade_com_estranhos": "Amigável",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Amigável",
+  "caracteristicas_treinamento": "Inteligente e ansioso para agradar",
+  "cores_e_marcacoes_cores": "Vermelho",
+  "cores_e_marcacoes_marcacoes": "Padrão tricolor com manchas brancas",
+  "cuidados_exercicio": "Precisa de exercícios moderados",
+  "cuidados_higiene": "Banhos semanais",
+  "cuidados_saude": "Problemas respiratórios",
+  "cuidados_treinamento": "Inteligente e ansioso para agradar",
+  "raca_relacionada": "Border Collie",
+  "origem": "Japão",
+  "data_origem": "300 a.C.",
+  "altura_imperial": 14,
+  "altura_metric": "37 - 42 cm",
+  "peso_imperial": "23 - 25 lb.",
+  "peso_metric": 10,
+  "vida_media": "12 - 15 anos",
+  "cores": "Vermelho",
+  "marcacoes": "Nenhuma",
+  "tipo_pelo": "Duplo",
+  "frequencia_queda_pelo": "Moderada",
+  "exercicios": "Diários",
+  "treinamento": "Inteligente",
+  "tendencia_fugir": "Alta",
+  "tendencia_latir": "Moderada",
+  "sociabilidade_com_outros_caes": "Baixa",
+  "sociabilidade_com_estranhos": "Baixa",
+  "adequado_para_primeiro_dono": "Não",
+  "temperamento": "Leal",
+  "saude_problemas_comuns": "Displasia de quadril",
+  "referencias": "Wikipedia: https:en.wikipedia.orgwikiShibaInu",
+  "videos": "https:www.youtube.comwatchvlZ65r93Fh3M",
+  "caracteristicas_personalidade_amigvel": "Moderadamente amigável",
+  "cores_e_marcacoes_cores_preto": "Sim",
+  "cores_e_marcacoes_marcacoes_padro_tricolor_de_preto": "Sim"
+}

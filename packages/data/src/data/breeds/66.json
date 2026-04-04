@@ -1,0 +1,70 @@
+{
+  "id": "66",
+  "nome": "Bullmastiff",
+  "subtitulo": "Forte, Determinado / Protetor, Companheiro / Inteligente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "63-69 cm",
+      "femea": "61-66 cm"
+    },
+    "peso": {
+      "macho": "45-59 kg",
+      "femea": "41-54 kg"
+    },
+    "expectativa_vida": "8-10 anos",
+    "grupo": "Grupo de Trabalho",
+    "origem": "Inglaterra",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Bullmastiff foi desenvolvido na Inglaterra no século XIX para ser um cão de guarda e caça. Ele foi criado cruzando o Mastiff com o Bulldog, resultando em um cão com a força e a determinação do Mastiff e a agilidade e inteligência do Bulldog.\n\nHoje, o Bullmastiff é um cão de companhia popular, valorizado por sua lealdade, coragem e natureza protetora. Ele é uma raça versátil, adequada para uma variedade de lares e estilos de vida.",
+    "aparencia": "O Bullmastiff é um cão grande e musculoso, com uma cabeça larga e um focinho curto. Ele tem uma pelagem curta e densa que pode ser fulvo, vermelha ou tigrada. Suas orelhas são caídas e seus olhos são escuros e profundos.\n\nO Bullmastiff é um cão imponente, mas também é conhecido por sua doçura e gentileza. Ele é um ótimo animal de estimação para famílias com crianças e se dá bem com outros animais de estimação.",
+    "temperamento": "O Bullmastiff é um cão calmo e confiante, com um temperamento equilibrado. Ele é muito leal e protetor com sua família, e pode ser um ótimo cão de guarda. No entanto, ele também é um cão gentil e afetuoso que se dá bem com crianças e outros animais de estimação.\n\nO Bullmastiff é uma raça inteligente e fácil de treinar. Ele é ansioso para agradar e aprende rapidamente novos comandos.",
+    "saude": "O Bullmastiff é uma raça geralmente saudável, mas pode estar sujeito a certos problemas de saúde, como displasia da anca e do cotovelo, problemas cardíacos e câncer. É importante levar o seu Bullmastiff ao veterinário para check-ups regulares e manter-se atualizado com as vacinas e desparasitação."
+  },
+  "cuidados": {
+    "exercicios": "O Bullmastiff é um cão ativo que precisa de muito exercício. Ele precisa de pelo menos uma hora de exercício por dia, que pode ser dividido em duas caminhadas ou sessões de brincadeira mais curtas.\nO Bullmastiff também gosta de nadar, o que é uma ótima maneira de ele se exercitar e se refrescar nos dias quentes.",
+    "grooming": "O Bullmastiff tem uma pelagem curta e fácil de cuidar. Ele só precisa ser escovado uma vez por semana para remover pelos mortos e manter sua pelagem brilhante.\nO Bullmastiff também precisa tomar banho a cada dois ou três meses. Escove seus dentes regularmente para manter sua saúde bucal.",
+    "nutricao": "O Bullmastiff é um cão grande que precisa de uma dieta rica em proteínas e gorduras. Ele deve ser alimentado com uma ração de alta qualidade especificamente formulada para cães grandes.\nA quantidade de comida que você deve alimentar o seu Bullmastiff dependerá do seu tamanho, peso e nível de atividade. Converse com o seu veterinário para determinar a quantidade certa de comida para o seu cão.",
+    "saude": "Como todas as raças, o Bullmastiff é suscetível a certos problemas de saúde. Algumas das condições de saúde mais comuns que afetam o Bullmastiff incluem:\n\n* Displasia da anca e do cotovelo\n* Problemas cardíacos\n* Câncer\n\nÉ importante levar o seu Bullmastiff ao veterinário para check-ups regulares e manter-se atualizado com as vacinas e desparasitação. Isso ajudará a manter seu cão saudável e feliz."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Bullmastiff: Um Gigante Gentil",
+        "url": "https://www.youtube.com/watch?v=cVDvVjP5m_I"
+      },
+      {
+        "titulo": "Treinando um Filhote de Bullmastiff",
+        "url": "https://www.youtube.com/watch?v=Z0X5kG49tFE"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Padrão da Raça Bullmastiff",
+        "url": "https://www.akc.org/dog-breeds/bullmastiff/"
+      },
+      {
+        "titulo": "Clube do Bullmastiff da América",
+        "url": "https://www.bullmastiffclubofamerica.org/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "251",
+  "nome": "Terrier Galês",
+  "subtitulo": "Amigável / Destemido / Ativo",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-36 cm",
+      "femea": "23-30 cm"
+    },
+    "peso": {
+      "macho": "7-11 kg",
+      "femea": "6-9 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Terrier",
+    "origem": "País de Gales",
+    "data_origem": "Século XVIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Terrier Galês é uma raça originária do País de Gales, desenvolvida no século XVIII para caçar vermes e raposas. Existem duas variedades principais: o Terrier Galês de Pelo Arame e o Terrier Galês de Pelo Liso. O Terrier Galês de Pelo Arame é mais comum e tem uma pelagem áspera e desgrenhada, enquanto o Terrier Galês de Pelo Liso tem uma pelagem curta e lisa.",
+    "aparencia": "O Terrier Galês é um cão pequeno a médio com um corpo compacto e pernas curtas. Eles têm cabeças largas e focinhos afilados. Seus pelos podem ser de várias cores, incluindo preto, castanho, vermelho e cinza.",
+    "temperamento": "O Terrier Galês é conhecido por sua natureza amigável e destemida. Eles são cães ativos e brincalhões que adoram passar tempo com suas famílias. No entanto, eles também podem ser teimosos e independentes, o que pode dificultar o treinamento.",
+    "saude": "O Terrier Galês é geralmente uma raça saudável, mas eles são propensos a certas condições de saúde, como catarata, glaucoma e doença renal. É importante manter consultas regulares com um veterinário para detectar e tratar quaisquer problemas de saúde precocemente."
+  },
+  "cuidados": {
+    "exercicios": "O Terrier Galês é uma raça ativa que requer muito exercício. Eles precisam de caminhadas diárias e tempo de brincadeira para se manterem saudáveis e felizes. Eles também gostam de jogos e atividades que estimulam suas mentes.",
+    "grooming": "O Terrier Galês de Pelo Arame requer escovação regular para manter sua pelagem livre de nós e detritos. O Terrier Galês de Pelo Liso requer muito menos cuidados com a pelagem.",
+    "nutricao": "O Terrier Galês deve ter uma dieta saudável e balanceada que atenda às suas necessidades nutricionais. É importante evitar superalimentação, pois eles são propensos a ganhar peso.",
+    "saude": "Além de consultas regulares com um veterinário, é importante vacinar o Terrier Galês contra doenças comuns, como cinomose e parvovírus."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Terrier Galês: O Cachorro Destemido",
+        "url": "https://www.youtube.com/watch?v=fh_v_D3d-Fo"
+      },
+      {
+        "titulo": "Treinando um Terrier Galês: Dicas e Técnicas",
+        "url": "https://www.youtube.com/watch?v=z84jCpD0pEs"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Complete Welsh Terrier",
+        "url": "https://www.amazon.com/Complete-Welsh-Terrier-Margaret-Davies/dp/1850522173"
+      },
+      {
+        "titulo": "Welsh Terrier Club of America",
+        "url": "https://www.wtca.org/"
+      }
+    ]
+  }
+}

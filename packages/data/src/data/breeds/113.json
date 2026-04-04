@@ -1,0 +1,70 @@
+{
+  "id": "113",
+  "nome": "Buldogue Francês",
+  "subtitulo": "Companheiro leal / Relaxado e carinhoso / Aparência distinta",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-30 cm",
+      "femea": "23-28 cm"
+    },
+    "peso": {
+      "macho": "10-15 kg",
+      "femea": "8-12 kg"
+    },
+    "expectativa_vida": "10-14 anos",
+    "grupo": "Não esportivo",
+    "origem": "França",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Buldogue Francês foi desenvolvido em Paris no século XIX a partir do Bulldog Inglês e do Pug. Inicialmente um cão de companhia para as classes altas, ele logo se tornou popular entre pessoas de todas as esferas da vida. Os Buldogues Franceses foram trazidos para os Estados Unidos no final do século XIX e rapidamente ganharam popularidade como animais de estimação.",
+    "aparencia": "Os Buldogues Franceses são cães atarracados e musculosos com cabeças grandes e rostos achatados. Eles têm orelhas grandes e caídas e caudas curtas. Seus pelos são curtos e lisos e vêm em uma variedade de cores, incluindo fulvo, malhado e preto. Os Buldogues Franceses têm um rosto distinto com dobras profundas e um focinho achatado. Eles têm olhos escuros e expressivos.",
+    "temperamento": "Os Buldogues Franceses são conhecidos por serem companheiros leais e afetuosos. Eles são gentis e pacientes com crianças e se dão bem com outros animais de estimação. Os Buldogues Franceses são cães relativamente calmos e relaxados, mas também podem ser brincalhões e divertidos. Eles são cães muito inteligentes e ansiosos para agradar.",
+    "saude": "Os Buldogues Franceses são geralmente cães saudáveis, mas podem estar sujeitos a certos problemas de saúde, como displasia de quadril, problemas respiratórios e alergias de pele. Eles também podem ser propensos a roncar e ao excesso de peso. É importante manter os Buldogues Franceses em um peso saudável e fornecer-lhes exercícios regulares."
+  },
+  "cuidados": {
+    "exercicios": "Os Buldogues Franceses são cães de energia moderada e precisam de exercícios regulares para se manterem saudáveis. Uma caminhada diária ou uma brincadeira no quintal é suficiente. Os Buldogues Franceses não são muito tolerantes ao calor, por isso é importante evitar exercícios extenuantes em climas quentes.",
+    "grooming": "Os Buldogues Franceses têm pelos curtos e fáceis de cuidar. Uma escovação semanal ajudará a remover pelos mortos e manter o pelo brilhante. Os Buldogues Franceses também precisam de banhos regulares para manter sua pele e pelos saudáveis.",
+    "nutricao": "Os Buldogues Franceses são cães de pequeno porte com altos níveis de energia. Eles precisam de uma dieta rica em proteínas e calorias para se manterem saudáveis. Os Buldogues Franceses também podem ser propensos a problemas de peso, por isso é importante monitorar sua ingestão de alimentos e fornecer-lhes exercícios regulares.",
+    "saude": "Os Buldogues Franceses são geralmente cães saudáveis, mas podem estar sujeitos a certos problemas de saúde. É importante levar o seu Buldogue Francês ao veterinário para exames regulares e vacinas. Os Buldogues Franceses também precisam de exercícios regulares, uma dieta saudável e cuidados dentários regulares para se manterem saudáveis."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Buldogue Francês: um companheiro leal",
+        "url": "https://www.youtube.com/watch?v=r-N1Q9n0Jqo"
+      },
+      {
+        "titulo": "Treinamento de Buldogue Francês: um guia passo a passo",
+        "url": "https://www.youtube.com/watch?v=n-n6RwJnomE"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "O Buldogue Francês",
+        "url": "https://www.akc.org/dog-breeds/french-bulldog/"
+      },
+      {
+        "titulo": "Buldogue Francês: Cuidados, Personalidade, Treinamento e Saúde",
+        "url": "https://www.petcarerx.com/article/french-bulldog-dog-breed-information/419"
+      }
+    ]
+  }
+}

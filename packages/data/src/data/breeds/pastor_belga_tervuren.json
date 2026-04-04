@@ -1,0 +1,140 @@
+{
+  "id": "pastor_belga_tervuren",
+  "nome": "Pastor Belga Tervuren",
+  "subtitulo": "Inteligente / Leal / Versátil",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "60-66 cm",
+      "femea": "56-62 cm"
+    },
+    "peso": {
+      "macho": "25-30 kg",
+      "femea": "20-25 kg"
+    },
+    "expectativa_vida": "12-14 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Médio",
+      "tipo_pelo": "Longo, liso e duplo",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Média"
+    },
+    "personalidade": [
+      "Inteligente",
+      "Leal",
+      "Protector",
+      "Sensível",
+      "Energético"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Pastor Belga Tervuren é uma raça de porte médio, conhecida por sua inteligência, lealdade e versatilidade. Eles são cães activos e atléticos, com pelagem longa e dupla, normalmente em tons de cinza, fulvo e preto.",
+    "historia": "O Pastor Belga Tervuren foi desenvolvido na Bélgica no final do século XIX como um cão de pastoreio. Eles foram originalmente criados a partir do Pastor Belga Malinois e do Pastor Belga Groenendael, e receberam o nome da cidade de Tervuren, onde foram desenvolvidos."
+  },
+  "cuidados": {
+    "saude": "Os Pastores Belgas Tervuren são geralmente saudáveis, mas podem ser propensos a displasia da anca, displasia do cotovelo e torção gástrica.",
+    "higiene": "Deve-se escovar a pelagem dos Pastores Belgas Tervuren regularmente para remover os pelos mortos e evitar emaranhados. Eles também devem ser banhados regularmente e as unhas devem ser aparadas para mantê-las curtas.",
+    "exercicio": "Os Pastores Belgas Tervuren são cães activos que precisam de muito exercício. Eles desfrutam de longas caminhadas, corridas e outras atividades vigorosas.",
+    "treinamento": "Os Pastores Belgas Tervuren são cães inteligentes e fáceis de treinar. Eles respondem bem a técnicas de reforço positivo e são ansiosos para agradar.",
+    "nutricao": "Os Pastores Belgas Tervuren devem ser alimentados com uma dieta de alta qualidade, rica em proteínas e gorduras. Eles também precisam de acesso constante a água fresca."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Cinza",
+      "Fulvo",
+      "Preto"
+    ],
+    "marcacoes": [
+      "Máscara preta",
+      "Sobrancelhas pretas",
+      "Pontas das orelhas pretas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "Os Pastores Belgas Tervuren foram usados durante muito tempo como cães de pastoreio e de guarda. Eles também foram usados em guerras e em operações de busca e resgate."
+  },
+  "racas_relacionadas": [
+    {
+      "id": "pastor_belga_malinois",
+      "nome": "Pastor Belga Malinois"
+    },
+    {
+      "id": "pastor_belga_groenendael",
+      "nome": "Pastor Belga Groenendael"
+    }
+  ],
+  "images": "https://cdn.pixabay.com/photo/2019/09/20/10/34/belgian-shepherd-4492140_960_720.jpg",
+  "highlight_photo": "belgian-tervuren.png",
+  "**Campo": "Resultado**",
+  "bred_for": "Herding",
+  "breed_group": "Herding",
+  "caracteristicas_personalidade_nivel_energia": "Moderate",
+  "caracteristicas_personalidade_socializacao": "Fair",
+  "caracteristicas_personalidade_tendencia_latir": "Low",
+  "caracteristicas_treinamento_facilidade_treino": "Fair",
+  "caracteristicas_treinamento_inteligencia": "High",
+  "caracteristicas_treinamento_tendencia_fugir": "High",
+  "cuidados_exercicios": "Moderate",
+  "cuidados_grooming": "Weekly brushing",
+  "height_imperial": "22-26",
+  "height_metric": "55-66",
+  "informacoes_basicas_data_origem": "Século XIX",
+  "informacoes_basicas_grupo": "Pastoreio",
+  "informacoes_basicas_origem": "Bélgica",
+  "life_span": "9 a 14 anos",
+  "links_referencias": "https://www.akc.org/dog-breeds/belgian-malinois/",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_videos": "Vídeo 1(https://www.youtube.com/watch?v=92ShdT46Bk)",
+  "links_videos_youtube": "Vídeo 1(https://www.youtube.com/watch?v=92ShdT46Bk)",
+  "name": "Pastor Belga Tervuren",
+  "origin": "Belgium",
+  "reference_image_id": "nan-or-149",
+  "sobre_aparencia": "Pelagem longa",
+  "sobre_saude": "Displasia de quadril e cotovelo",
+  "sobre_temperamento": "Brincalhão e afetuoso",
+  "temperament": "amigável",
+  "weight_imperial": "45-66",
+  "weight_metric": "20-30",
+  "| **Nome do Campo**": "**Resultado**",
+  "| bred_for": "**Não encontrei informações sobre a raça nan**",
+  "| breed_group": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_personalidade_nivel_energia": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_personalidade_socializacao": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_personalidade_tendencia_latir": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_treinamento_facilidade_treino": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_treinamento_inteligencia": "**Não encontrei informações sobre a raça nan**",
+  "| caracteristicas_treinamento_tendencia_fugir": "**Não encontrei informações sobre a raça nan**",
+  "| cuidados_exercicios": "**Não encontrei informações sobre a raça nan**",
+  "| cuidados_grooming": "**Não encontrei informações sobre a raça nan**",
+  "| height_imperial": "**Não encontrei informações sobre a raça nan**",
+  "| height_metric": "**Não encontrei informações sobre a raça nan**",
+  "| informacoes_basicas_data_origem": "**Não encontrei informações sobre a raça nan**",
+  "| informacoes_basicas_grupo": "**Não encontrei informações sobre a raça nan**",
+  "| informacoes_basicas_origem": "**Não encontrei informações sobre a raça nan**",
+  "| life_span": "**Não encontrei informações sobre a raça nan**",
+  "| links_referencias": "**Não encontrei informações sobre a raça nan**",
+  "| links_sites_referencia": "**Não encontrei informações sobre a raça nan**",
+  "| links_videos": "**Não encontrei informações sobre a raça nan**",
+  "| links_videos_youtube": "**Não encontrei informações sobre a raça nan**",
+  "| name": "**Nan**",
+  "| origin": "**Não encontrei informações sobre a raça nan**",
+  "| racas_relacionadas": "**Não encontrei informações sobre a raça nan**",
+  "| reference_image_id": "**Não encontrei informações sobre a raça nan**",
+  "| sobre_aparencia": "**Não encontrei informações sobre a raça nan**",
+  "| sobre_saude": "**Não encontrei informações sobre a raça nan**",
+  "| sobre_temperamento": "**Não encontrei informações sobre a raça nan**",
+  "| temperament": "**Não encontrei informações sobre a raça nan**",
+  "| weight_imperial": "**Não encontrei informações sobre a raça nan**",
+  "| weight_metric": "**Não encontrei informações sobre a raça nan**",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Moderada",
+  "caracteristicas_personalidade": "Inteligente, leal, prote"
+}

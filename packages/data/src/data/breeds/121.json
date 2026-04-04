@@ -1,0 +1,70 @@
+{
+  "id": "121",
+  "nome": "Spitz Alemão",
+  "subtitulo": "Fiel / Protetor / Inteligente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "32-38 cm",
+      "femea": "29-35 cm"
+    },
+    "peso": {
+      "macho": "16-22 kg",
+      "femea": "14-18 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Spitz e Primitivos",
+    "origem": "Alemanha",
+    "data_origem": "Século XV"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Alta",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Spitz Alemão é uma raça antiga, originária da Alemanha. Eles eram originalmente criados como cães de guarda e pastoreio, e eram conhecidos por sua inteligência e lealdade. Ao longo dos anos, eles foram usados como cães de companhia, cães de alerta e cães de caça. Hoje, eles são uma raça popular de cães de estimação, conhecidos por sua personalidade amigável e devotada.",
+    "aparencia": "O Spitz Alemão é uma raça de pequeno a médio porte, com uma aparência marcante. Eles têm uma pelagem dupla espessa, que pode vir em várias cores, incluindo branco, preto, marrom e laranja. Sua cabeça é em forma de cunha, com orelhas pontiagudas e olhos escuros. Eles têm uma cauda peluda que é portada sobre as costas.",
+    "temperamento": "O Spitz Alemão é conhecido por sua personalidade leal, inteligente e protetora. Eles são cães muito afetuosos com seus familiares, e são excelentes companheiros de família. Eles podem ser um pouco reservados com estranhos, mas geralmente são amigáveis e brincalhões. Spitz Alemães são cães ativos que precisam de bastante exercício.",
+    "saude": "O Spitz Alemão é uma raça geralmente saudável, mas alguns problemas de saúde comuns incluem displasia de quadril, catarata e alergias. Eles também podem ser propensos a ganho de peso, por isso é importante monitorar sua dieta e garantir que recebam bastante exercício."
+  },
+  "cuidados": {
+    "exercicios": "Os Spitz Alemães são cães ativos que precisam de pelo menos 60 minutos de exercício por dia. Eles são excelentes companheiros de corrida, caminhada e natação. Eles também adoram brincar, por isso é importante fornecer-lhes muitos brinquedos e oportunidades de socialização.",
+    "grooming": "O Spitz Alemão tem uma pelagem dupla espessa que requer escovação regular. É importante escová-los pelo menos duas vezes por semana para evitar emaranhados e manter sua pelagem saudável. Eles também precisam ser banhados a cada 4-6 semanas.",
+    "nutricao": "O Spitz Alemão precisa de uma dieta de alta qualidade que seja rica em proteínas. É importante evitar alimentá-los com alimentos com alto teor de gordura, pois eles podem ser propensos a ganho de peso. A quantidade de alimento que você dá ao seu Spitz Alemão dependerá de seu peso, nível de atividade e idade.",
+    "saude": "É importante levar seu Spitz Alemão ao veterinário para check-ups regulares. Isso ajudará a detectar e tratar quaisquer problemas de saúde precocemente. Você também deve escovar os dentes regularmente e aparar suas unhas. Seguindo esses passos, você pode ajudar a garantir que seu Spitz Alemão viva uma vida longa e saudável."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Spitz Alemão: O Companheiro Ideal",
+        "url": "https://www.youtube.com/watch?v=123456789"
+      },
+      {
+        "titulo": "Como Treinar um Spitz Alemão",
+        "url": "https://www.youtube.com/watch?v=987654321"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "O Spitz Alemão: Um Guia Completo para Cuidados e Treinamento",
+        "url": "https://www.akc.org/dog-breeds/german-spitz/"
+      },
+      {
+        "titulo": "Saúde e Cuidados com o Spitz Alemão",
+        "url": "https://www.petmd.com/dog/breeds/c_dg_german_spitz"
+      }
+    ]
+  }
+}

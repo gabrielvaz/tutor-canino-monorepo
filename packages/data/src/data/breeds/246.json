@@ -1,0 +1,70 @@
+{
+  "id": "246",
+  "nome": "Vizsla",
+  "subtitulo": "Caçador, Ativo, Afetuoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "55-64 cm",
+      "femea": "53-61 cm"
+    },
+    "peso": {
+      "macho": "22-30 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "10-14 anos",
+    "grupo": "Grupo de Cães Esportivos",
+    "origem": "Hungria",
+    "data_origem": "Século XIV"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "A Vizsla, originária da Hungria, é uma raça de cães caçadores desenvolvida no século XIV. Acredita-se que tenha se originado do cão turco amarelo, trazido para a Europa pelos magiares. A Vizsla era altamente valorizada por sua habilidade em caçar aves e lebres em terrenos variados.",
+    "aparencia": "A Vizsla é um cão de tamanho médio com um corpo musculoso e atlético. Possui uma pelagem curta e densa, que pode ser dourada ou avermelhada. A cabeça é larga com orelhas caídas e olhos castanhos ou âmbar. A cauda é longa e delgada, geralmente carregada baixa.",
+    "temperamento": "A Vizsla é uma raça conhecida por seu temperamento afetuoso e leal. É um cão inteligente e obediente, que se dá bem com famílias e outros animais de estimação. No entanto, requer bastante exercício e atenção para se manter saudável e feliz.",
+    "saude": "A Vizsla é uma raça geralmente saudável, mas pode ser propensa a displasia de quadril, epilepsia e doenças oculares. É importante manter exames veterinários regulares e fornecer atenção adequada à saúde para garantir uma vida longa e saudável."
+  },
+  "cuidados": {
+    "exercicios": "A Vizsla requer bastante exercício diário, pois é uma raça muito ativa. Atividades como caminhadas longas, corridas ou brincadeiras de busca são ideais. Também é importante fornecer estimulação mental por meio de treinamento e jogos de inteligência.",
+    "grooming": "A pelagem curta da Vizsla requer apenas escovação ocasional para remover pelos soltos. No entanto, é importante prestar atenção às orelhas, que podem precisar de limpeza regular para prevenir infecções.",
+    "nutricao": "A Vizsla requer uma dieta de alta qualidade rica em proteínas e gorduras. É importante alimentar seu cão com porções adequadas e prestar atenção ao seu peso para prevenir a obesidade.",
+    "saude": "Para manter a saúde da Vizsla, é essencial fornecer exames veterinários regulares, vacinas e tratamentos preventivos contra parasitas. Também é importante monitorar a saúde dos olhos e quadris do seu cão, pois esta raça pode ser propensa a certas condições."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Vizsla: A Raça Perfeita para Famílias Ativas",
+        "url": "https://www.youtube.com/watch?v=yb5Imo8y_b8"
+      },
+      {
+        "titulo": "Vizsla: Treinamento e Cuidados",
+        "url": "https://www.youtube.com/watch?v=a7GH79hgy8c"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Vizsla Club of America",
+        "url": "https://www.vizslaclubamerica.org/"
+      },
+      {
+        "titulo": "American Kennel Club: Vizsla Dog Breed Information",
+        "url": "https://www.akc.org/dog-breeds/vizsla/"
+      }
+    ]
+  }
+}

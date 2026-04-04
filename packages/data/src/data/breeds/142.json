@@ -1,0 +1,70 @@
+{
+  "id": "142",
+  "nome": "Wolfhound Irlandês",
+  "subtitulo": "Gigante gentil / Caçador habilidoso / Companheiro leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "81-91 cm",
+      "femea": "79-89 cm"
+    },
+    "peso": {
+      "macho": "54-68 kg",
+      "femea": "45-54 kg"
+    },
+    "expectativa_vida": "6-10 anos",
+    "grupo": "Grupo Gigante",
+    "origem": "Irlanda",
+    "data_origem": "Século V a.C."
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Wolfhound Irlandês é uma raça antiga originária da Irlanda, onde era usado para caçar cervos e lobos. Sua aparência imponente e habilidades de caça fizeram dele um companheiro valioso para os guerreiros celtas. A raça quase foi extinta no século XVII, mas foi revivida no século XIX por entusiastas dedicados.",
+    "aparencia": "O Wolfhound Irlandês é um cão excepcionalmente grande e imponente. Possui uma pelagem densa e áspera que pode ser cinza, fulvo ou preto. Sua cabeça é longa e estreita, com focinho pontudo. As orelhas são pequenas e caídas, e os olhos são escuros e expressivos.",
+    "temperamento": "Apesar de seu tamanho e aparência intimidantes, o Wolfhound Irlandês é um cão gentil e afetuoso. Eles são conhecidos por sua lealdade e devoção aos seus familiares. São também animais protetores e farão de tudo para proteger seu lar e entes queridos.",
+    "saude": "O Wolfhound Irlandês é geralmente uma raça saudável, mas como todas as raças, é propenso a certos problemas de saúde. Alguns dos problemas de saúde mais comuns incluem displasia de quadril, osteossarcoma e cardiomiopatia dilatada."
+  },
+  "cuidados": {
+    "exercicios": "O Wolfhound Irlandês requer uma quantidade moderada de exercício. Eles precisam de caminhadas diárias ou corridas em um espaço seguro onde possam correr livremente. Eles também apreciam jogos de busca e outras atividades que estimulem sua mente.",
+    "grooming": "O Wolfhound Irlandês tem uma pelagem de baixa manutenção que requer escovação ocasional para remover cabelos soltos. Eles também precisam de banhos regulares e escovação de dentes para manter a higiene.",
+    "nutricao": "O Wolfhound Irlandês requer uma dieta de alta qualidade formulada para raças grandes. Eles devem ser alimentados duas vezes ao dia e a quantidade diária de comida deve ser ajustada de acordo com seu peso e nível de atividade.",
+    "saude": "Os cuidados preventivos de saúde são essenciais para manter o Wolfhound Irlandês saudável. Isso inclui exames veterinários regulares, vacinas e tratamentos preventivos contra pulgas e carrapatos."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "O Cão Mais Gigante do Mundo - Wolfhound Irlandês",
+        "url": "https://www.youtube.com/watch?v=Yq5ClcZddkY"
+      },
+      {
+        "titulo": "A Raça Mais Gigante do Mundo!",
+        "url": "https://www.youtube.com/watch?v=14rkGNRg31s"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Wolfhound Irlandês: Cuidados, Temperamento e História da Raça",
+        "url": "https://www.tudosobrecachorros.com.br/raca/wolfhound-irlandes/"
+      },
+      {
+        "titulo": "Wolfhound Irlandês",
+        "url": "https://www.akc.org/dog-breeds/irish-wolfhound/"
+      }
+    ]
+  }
+}

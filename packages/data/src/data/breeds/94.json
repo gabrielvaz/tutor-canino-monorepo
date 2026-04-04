@@ -1,0 +1,70 @@
+{
+  "id": "94",
+  "nome": "Doberman Pinscher",
+  "subtitulo": "Protetor / Obediente / Elegante",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "66-72 cm",
+      "femea": "61-68 cm"
+    },
+    "peso": {
+      "macho": "30-45 kg",
+      "femea": "27-40 kg"
+    },
+    "expectativa_vida": "10-13 anos",
+    "grupo": "Trabalho",
+    "origem": "Alemanha",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Doberman Pinscher foi criado por Karl Friedrich Louis Dobermann, um coletor de impostos alemão, no final do século XIX. A raça foi desenvolvida para ser um cão de proteção, combinando características de várias raças, incluindo Pinscher Alemão, Rottweiler e Beauceron. O Doberman Pinscher rapidamente ganhou popularidade como cão de trabalho, especialmente nas forças policiais e militares.",
+    "aparencia": "O Doberman Pinscher é uma raça elegante e musculosa, com um corpo atlético e um focinho longo e fino. Suas orelhas são eretas e cortadas, e sua cauda é geralmente cortada curta. O pelo é curto e liso, e pode ser preto, castanho ou azul. O padrão mais comum é o preto com manchas castanhas no focinho, pernas e peito.",
+    "temperamento": "O Doberman Pinscher é conhecido por ser um cão leal, protetor e obediente. Eles são altamente inteligentes e treináveis, mas também podem ser sensíveis e teimosos. Com treinamento e socialização adequados, os Doberman Pinschers podem ser excelentes cães de companhia, mas não são adequados para todos os proprietários.",
+    "saude": "O Doberman Pinscher é uma raça geralmente saudável, mas pode estar sujeito a certos problemas de saúde, incluindo displasia da anca, cardiomiopatia dilatada e doença de Von Willebrand. Testes de saúde regulares e cuidados veterinários preventivos são essenciais para manter a saúde e o bem-estar dos Doberman Pinschers."
+  },
+  "cuidados": {
+    "exercicios": "Os Doberman Pinschers são cães ativos e precisam de exercícios regulares para se manterem saudáveis e felizes. Eles precisam de pelo menos uma hora de exercícios por dia, que pode incluir caminhadas, corridas ou brincadeiras em um quintal seguro. Os Doberman Pinschers também são cães inteligentes que gostam de desafios mentais, por isso é importante fornecer-lhes brinquedos e atividades que os estimulem.",
+    "grooming": "O Doberman Pinscher tem um pelo curto e liso que requer pouca manutenção. Uma escovação semanal ajudará a remover pelos soltos e manter o pelo saudável. Banhos ocasionais também são necessários, mas evite banhos excessivos, pois isso pode ressecar a pele.",
+    "nutricao": "O Doberman Pinscher é uma raça de porte grande que precisa de uma dieta de alta qualidade rica em proteínas e gorduras. Eles também precisam de muita água fresca. É importante alimentar os Doberman Pinschers com uma quantidade medida de comida duas vezes ao dia para evitar ganho de peso excessivo.",
+    "saude": "Além de cuidados veterinários preventivos regulares, os Doberman Pinschers precisam de cuidados dentários regulares, pois são propensos à doença periodontal. Escovar os dentes regularmente e fornecer brinquedos para mastigar ajudará a manter a saúde bucal e prevenir problemas dentários."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Doberman Pinscher: Um Cão de Trabalho Incrível",
+        "url": "https://www.youtube.com/watch?v=5sB6F740590"
+      },
+      {
+        "titulo": "Treinamento de Obediência de Doberman Pinscher",
+        "url": "https://www.youtube.com/watch?v=w03GlO42eEY"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Doberman Pinscher",
+        "url": "https://www.akc.org/dog-breeds/doberman-pinscher/"
+      },
+      {
+        "titulo": "The Doberman Pinscher Club of America",
+        "url": "https://www.dpca.org/"
+      }
+    ]
+  }
+}

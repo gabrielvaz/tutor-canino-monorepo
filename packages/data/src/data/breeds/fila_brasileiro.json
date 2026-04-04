@@ -1,0 +1,107 @@
+{
+  "id": "fila_brasileiro",
+  "nome": "Fila Brasileiro",
+  "subtitulo": "Leal / Protetor / Calmo",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "65 a 75 cm",
+      "femea": "60 a 70 cm"
+    },
+    "peso": {
+      "macho": "45 a 55 kg",
+      "femea": "35 a 45 kg"
+    },
+    "expectativa_vida": "10 a 12 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Curto e denso",
+      "frequencia_queda_pelo": "Baixa"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Baixa",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Leal",
+      "Protetor",
+      "Calmo",
+      "Inteligente",
+      "Teimoso"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Fila Brasileiro é uma raça de cachorro forte e musculosa conhecida por sua lealdade, instinto protetor e temperamento calmo. Eles são altamente protetores de seus familiares e podem ser distantes com estranhos.",
+    "historia": "A raça foi desenvolvida no Brasil no século XIX e foi originalmente usada para caçar e proteger o gado. Eles também eram usados para rastrear escravos fugitivos. Hoje, o Fila Brasileiro é um animal de estimação popular e um cão de guarda confiável."
+  },
+  "cuidados": {
+    "saude": "O Fila Brasileiro é uma raça geralmente saudável, mas pode ser propenso a displasia de quadril, catarata e infecções de pele.",
+    "higiene": "Escovar o pelo do Fila Brasileiro regularmente ajudará a remover pelos soltos e manter a pelagem saudável. Eles também devem tomar banho ocasionalmente.",
+    "exercicio": "O Fila Brasileiro precisa de exercícios diários regulares para se manter saudável e feliz. Eles são uma raça ativa e precisam de muito espaço para correr e brincar.",
+    "treinamento": "O Fila Brasileiro é uma raça inteligente, mas pode ser teimoso. Eles precisam de treinamento consistente e paciente para aprender bons hábitos. O treinamento de socialização também é importante para ajudá-los a se tornarem mais confortáveis ​​com estranhos.",
+    "nutricao": "O Fila Brasileiro deve ser alimentado com uma dieta de alta qualidade para atender às suas necessidades nutricionais. Eles precisam de uma dieta rica em proteínas e gorduras para manter sua massa muscular e energia."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Fulvo",
+      "Preto",
+      "Tigrado"
+    ],
+    "marcacoes": [
+      "Máscara preta",
+      "Manchas brancas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Fila Brasileiro é um símbolo nacional do Brasil e é respeitado por sua força e lealdade. Eles são frequentemente usados ​​como cães de guarda e são companheiros populares para famílias."
+  },
+  "racas_relacionadas": "Não informado",
+  "images": "https:akc.orgdog-breedsfila-brasileiro",
+  "highlight_photo": "fila-brasileiro.png",
+  "bred_for": "guarda e proteção",
+  "breed_group": "Trabalho",
+  "caracteristicas_personalidade_nivel_energia": "Alto",
+  "caracteristicas_personalidade_socializacao": "Média",
+  "caracteristicas_personalidade_tendencia_latir": "Alta",
+  "caracteristicas_treinamento_facilidade_treino": "Média",
+  "caracteristicas_treinamento_inteligencia": "Alta",
+  "caracteristicas_treinamento_tendencia_fugir": "Baixa",
+  "cuidados_exercicios": "Alta",
+  "cuidados_grooming": "Regular",
+  "height_imperial": 25,
+  "height_metric": "65-75",
+  "informacoes_basicas_data_origem": "Século XVI",
+  "informacoes_basicas_grupo": "Trabalho",
+  "informacoes_basicas_origem": "Brasil",
+  "life_span": "10-12",
+  "links_referencias": "https:pt.wikipedia.orgwikiFilabrasileiro",
+  "links_sites_referencia": "https:www.akc.orgdog-breedsfila-brasileiro",
+  "links_videos": "https:www.youtube.comwatchvLz65R93Fh3M",
+  "links_videos_youtube": "https:www.youtube.comwatchvLz65R93Fh3M",
+  "name": "Fila Brasileiro",
+  "origin": "Brasil",
+  "reference_image_id": "nanor142",
+  "sobre_aparencia": "O Fila Brasileiro é uma raça de cães grandes e musculosos",
+  "sobre_saude": "O Fila Brasileiro é geralmente uma raça saudável",
+  "sobre_temperamento": "O Fila Brasileiro é um cão leal e protetor que é ótimo com a família. Eles podem ser reservados com estranhos",
+  "temperament": "Protetora",
+  "weight_imperial": "88-110",
+  "weight_metric": "40-50",
+  "caracteristicas_fisico_frequencia_queda_pelo": "moderada",
+  "cores_e_marcacoes_cores": "branco",
+  "caracteristicas_personalidade": "afetuoso",
+  "cores_e_marcacoes_marcacoes": "tricolor",
+  "cuidados_treinamento": "inteligente",
+  "cuidados_higiene": "escovação semanal",
+  "sobre_descricao": "cão de companhia pequeno",
+  "caracteristicas_fisico_tipo_pelo": "longo",
+  "caracteristicas_personalidade_amigvel": "Média",
+  "cores_e_marcacoes_cores_preto": "Sim",
+  "cores_e_marcacoes_marcacoes_padro_tricolor_de_preto": "Sim"
+}

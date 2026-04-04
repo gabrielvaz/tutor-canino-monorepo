@@ -1,0 +1,132 @@
+{
+  "id": "gordon_setter",
+  "nome": "gordonsetter",
+  "subtitulo": "Elegante / Amigável / Energético",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "62 - 69 cm",
+      "femea": "58 - 66 cm"
+    },
+    "peso": {
+      "macho": "29 - 36 kg",
+      "femea": "25 - 32 kg"
+    },
+    "expectativa_vida": "12 a 15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Pelagem preta e castanha longa e sedosa",
+      "frequencia_queda_pelo": "Alta"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Amigável",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Inteligente",
+      "Teimoso",
+      "Leal",
+      "Ativo",
+      "Amigável"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Gordon Setter é uma raça de cachorro de porte grande conhecida por sua elegância, manto preto e castanho e personalidade amigável. É uma raça ativa que adora exercícios e se dá bem com famílias.",
+    "historia": "O Gordon Setter foi desenvolvido na Escócia no início do século XIX pelo 4º Duque de Gordon. A raça foi originalmente usada para caça de aves e é conhecida por seu olfato aguçado e capacidade de rastrear aves em terrenos difíceis."
+  },
+  "cuidados": {
+    "saude": "O Gordon Setter é geralmente saudável, mas pode estar sujeito a displasia de quadril, displasia de cotovelo e problemas oculares. É importante fazer exames veterinários regulares e manter um peso saudável.",
+    "higiene": "O Gordon Setter requer escovação regular para manter seu pelo livre de emaranhados e sujeira. Banhos ocasionais também são necessários.",
+    "exercicio": "O Gordon Setter é uma raça ativa que requer muito exercício. São necessários pelo menos 60 minutos de exercício por dia, como caminhadas, corridas ou brincadeiras no quintal.",
+    "treinamento": "O Gordon Setter é uma raça inteligente, mas teimosa. O treinamento deve ser paciente e consistente. Começar o treinamento desde cedo é essencial.",
+    "nutricao": "O Gordon Setter deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. É importante evitar alimentar demais, pois a raça é propensa a ganhar peso."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto e castanho"
+    ],
+    "marcacoes": [
+      "Branco no peito e nas patas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Gordon Setter é uma raça popular entre os caçadores e entusiastas de esportes caninos. É conhecido por seu desempenho em competições de campo e também é um animal de estimação amado por famílias."
+  },
+  "racas_relacionadas": "https://www.youtube.com/watch?v=lZ65r93Fh3M",
+  "images": "Padrão tricolor de preto,",
+  "highlight_photo": "gordon-setter.png",
+  "bred_for": "Bird hunting",
+  "breed_group": "Sporting",
+  "caracteristicas_personalidade_nivel_energia": "Moderado",
+  "caracteristicas_personalidade_socializacao": "Bom com crianças e outros animais de estimação",
+  "caracteristicas_personalidade_tendencia_latir": "Baixa",
+  "caracteristicas_treinamento_facilidade_treino": "Moderada",
+  "caracteristicas_treinamento_inteligencia": "Alta",
+  "caracteristicas_treinamento_tendencia_fugir": "Moderada",
+  "cuidados_exercicios": "60 minutos por dia",
+  "cuidados_grooming": "Escovação semanal",
+  "height_imperial": "23-27",
+  "height_metric": "58-69",
+  "informacoes_basicas_data_origem": "Século XVIII",
+  "informacoes_basicas_grupo": "Esportivo",
+  "informacoes_basicas_origem": "Escócia",
+  "life_span": "10-12",
+  "links_referencias": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_sites_referencia": "https://cdn.akc.org/content/article-body-image/nan-or-142_or_142_01.jpg",
+  "links_videos": "https://www.youtube.com/watch?v=lZ65r93Fh3M",
+  "links_videos_youtube": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "name": "Gordon Setter",
+  "origin": "Scotland",
+  "reference_image_id": "Amigável",
+  "sobre_aparencia": "Elegante, atlético com pelagem preta e castanho",
+  "sobre_saude": "Suscetível a displasia de quadril e cotovelo",
+  "sobre_temperamento": "Temperamento equilibrado e amigável",
+  "temperament": "Amigável",
+  "weight_imperial": "45-80",
+  "weight_metric": "20-36",
+  "**bred_for**": "| hunting birds",
+  "**breed_group**": "| Sporting",
+  "**caracteristicas_personalidade_nivel_energia**": "| High",
+  "**caracteristicas_personalidade_socializacao**": "| Friendly with other dogs and people",
+  "**caracteristicas_personalidade_tendencia_latir**": "| Tendency to bark",
+  "**caracteristicas_treinamento_facilidade_treino**": "| Easy to train",
+  "**caracteristicas_treinamento_inteligencia**": "| Intelligent",
+  "**caracteristicas_treinamento_tendencia_fugir**": "| Tendency to run off",
+  "**cuidados_exercicios**": "| 1-2 hours of exercise per day",
+  "**cuidados_grooming**": "| Brush coat weekly",
+  "**height_imperial**": "| 12-15 inches",
+  "**height_metric**": "| 30-38 cm",
+  "**images**": "| https://cdn.akc.org/content/article-body-image/nan-or-137-02.jpg",
+  "**informacoes_basicas_data_origem**": "| 1800s",
+  "**informacoes_basicas_grupo**": "| Sporting",
+  "**informacoes_basicas_origem**": "| Scotland",
+  "**life_span**": "| 10-12 years",
+  "**name**": "| Nan Or Gordon Setter",
+  "**origin**": "| Escócia",
+  "**racas_relacionadas**": "| Setter Gordon",
+  "**sobre_aparencia**": "| Cão de tamanho médio com uma pelagem dupla densa",
+  "**sobre_saude**": "| Geralmente saudável",
+  "**sobre_temperamento**": "| Amigável",
+  "**temperament**": "| Amigável",
+  "**weight_imperial**": "| 25-35 pounds",
+  "**weight_metric**": "| 11-16 kg",
+  "breed_for": "",
+  "origem": "Escócia",
+  "queda_pelo": "Moderada",
+  "cores_e_marcacoes_cores": "Preto",
+  "caracteristicas_personalidade": "Amigável, leal e inteligente",
+  "image": "https://images.akc.org/breeds/nan_or_142/nan_or_142_01.jpg",
+  "breed_name": "Gordon Setter",
+  "**name": "Gordon Setter",
+  "historico_significance_cultural": "Caça e companhia",
+  "cores_e_marcacoes_marcacoes": "Padrão tricolor de preto, castanho e branco",
+  "cuidados_higiene": "Escovação semanal",
+  "cuidados_treinamento": "Responde bem ao treinamento",
+  "weight_metric**": "20"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@tutorcanino/data",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    "./breeds": "./dist/breeds.js",
+    "./types": "./dist/types.js"
+  },
+  "scripts": {
+    "build": "tsup",
+    "import": "tsx scripts/import.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^4.1.9"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "typescript": "^5",
+    "tsup": "^8.0.0"
+  }
+}

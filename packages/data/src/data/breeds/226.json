@@ -1,0 +1,70 @@
+{
+  "id": "226",
+  "nome": "Silky Terrier",
+  "subtitulo": "Pequeno e cheio de energia / Inteligente e independente / Excelente para companhia",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "20-25 cm",
+      "femea": "20-25 cm"
+    },
+    "peso": {
+      "macho": "4-6 kg",
+      "femea": "4-6 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Terrier",
+    "origem": "Austrália",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Silky Terrier originou-se na Austrália no século XIX como um cruzamento entre o Yorkshire Terrier e o Australiano Terrier. Foi originalmente criado para caçar ratos e outros pequenos roedores. A raça foi reconhecida pelo Australian National Kennel Club em 1906 e pelo American Kennel Club em 1959.",
+    "aparencia": "O Silky Terrier é um cão pequeno e robusto com uma pelagem longa e sedosa. Possui uma cabeça pequena e triangular, orelhas pontudas e olhos escuros e curiosos. A pelagem é geralmente azul e castanha, mas também pode ser preta e castanha.",
+    "temperamento": "O Silky Terrier é um cão ativo, amigável e inteligente. É leal à sua família e gosta de estar perto de pessoas. No entanto, também pode ser independente e um pouco teimoso. É um excelente cão de companhia para pessoas ativas e famílias com crianças mais velhas.",
+    "saude": "O Silky Terrier é geralmente uma raça saudável, mas pode ser propenso a certas condições de saúde, como luxação patelar, glaucoma e doença hepática."
+  },
+  "cuidados": {
+    "exercicios": "O Silky Terrier precisa de exercícios regulares. Uma caminhada diária longa ou uma corrida no quintal serão suficientes para manter esse cão feliz e saudável. Ele também aprecia brincadeiras interativas como buscar.",
+    "grooming": "O Silky Terrier tem uma pelagem longa e sedosa que precisa ser escovada regularmente para evitar emaranhados. Também é importante cortar o pelo regularmente para evitar que fique muito longo e difícil de cuidar.",
+    "nutricao": "O Silky Terrier deve ser alimentado com uma dieta de alta qualidade que seja apropriada para cães de pequeno porte. Ele deve ser alimentado duas vezes ao dia e a quantidade de comida deve ser ajustada de acordo com seu peso e nível de atividade.",
+    "saude": "O Silky Terrier deve ser levado a exames veterinários regulares para check-ups e para vacinas. É também importante escovar os dentes do seu cão regularmente e cortar as suas unhas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Silky Terrier - The Complete Guide",
+        "url": "https://youtu.be/0-Oe_rk4g40"
+      },
+      {
+        "titulo": "Silky Terrier Training Tips",
+        "url": "https://youtu.be/90pcDE_j7rs"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Silky Terrier Breed Standard",
+        "url": "https://www.akc.org/dog-breeds/silky-terrier/"
+      },
+      {
+        "titulo": "Silky Terrier Health Information",
+        "url": "https://www.doghealth.com/silky-terrier"
+      }
+    ]
+  }
+}

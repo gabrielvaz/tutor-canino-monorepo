@@ -1,0 +1,70 @@
+{
+  "id": "45",
+  "nome": "Bloodhound",
+  "subtitulo": "Rastreador nato / Excelentes habilidades olfativas / Cão de companhia leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "58-71 cm",
+      "femea": "53-66 cm"
+    },
+    "peso": {
+      "macho": "41-54 kg",
+      "femea": "36-45 kg"
+    },
+    "expectativa_vida": "8-10 anos",
+    "grupo": "Sabujos",
+    "origem": "Bélgica",
+    "data_origem": "Século XIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Alta",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Bloodhound é uma raça antiga originária da Bélgica, conhecida por suas excepcionais habilidades olfativas. Acredita-se que tenha sido desenvolvido no século XIII para rastrear caça e criminosos. Os Bloodhounds eram altamente valorizados por policiais e militares por suas capacidades de detecção e rastreamento precisas. Com o tempo, eles também se tornaram populares como cães de companhia devido à sua natureza leal e amigável.",
+    "aparencia": "Os Bloodhounds são cães grandes e musculosos, com uma aparência distinta. Eles têm uma cabeça grande com um focinho longo e enrugado, que abriga um poderoso olfato. Suas orelhas são longas e pendentes, cobrindo suas bochechas. A pelagem do Bloodhound é curta, lisa e geralmente preta e castanha, fulvo ou vermelha. Eles também podem ter uma pequena marca branca no peito ou na ponta da cauda.",
+    "temperamento": "Os Bloodhounds são conhecidos por seu temperamento gentil e leal. Eles são companheiros dedicados e protetores com suas famílias. Eles são geralmente amigáveis com crianças e outros animais de estimação. No entanto, devido à sua natureza independente, os Bloodhounds requerem treinamento e socialização consistentes para evitar teimosia ou ansiedade de separação.",
+    "saude": "Como todas as raças, os Bloodhounds são propensos a certos problemas de saúde. Condições comuns incluem displasia de quadril e cotovelo, problemas oculares e infecções de ouvido. Regularmente, visitas ao veterinário e exames são essenciais para manter a saúde e o bem-estar do Bloodhound."
+  },
+  "cuidados": {
+    "exercicios": "Os Bloodhounds têm necessidades de exercícios moderadas. Eles requerem caminhadas diárias regulares ou tempo em um quintal cercado. Eles também apreciam atividades como correr, nadar e brincar de buscar. No entanto, é importante garantir que eles não fiquem superaquecidos, especialmente em climas quentes.",
+    "grooming": "Os Bloodhounds têm uma pelagem de baixa manutenção que requer escovação semanal para remover pelos mortos. Eles também precisam de banhos ocasionais, especialmente após atividades vigorosas. Além disso, as orelhas longas e pendentes dos Bloodhounds devem ser verificadas e limpas regularmente para evitar infecções.",
+    "nutricao": "Os Bloodhounds devem ser alimentados com uma dieta de alta qualidade, específica para seu tamanho e nível de atividade. Eles têm um apetite saudável e são propensos a ganhar peso se superalimentados. É crucial monitorar sua ingestão de alimentos e fornecer refeições regulares para manter um peso saudável.",
+    "saude": "Visitas regulares ao veterinário para exames de rotina e vacinas são essenciais para manter a saúde do Bloodhound. Cuidados dentários regulares também são importantes para prevenir problemas dentários. Os Bloodhounds podem ser propensos a inchaço, portanto, é aconselhável evitar exercícios vigorosos após as refeições."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Bloodhound: O Cão de Rastreamento Definitivo",
+        "url": "https://www.youtube.com/watch?v=n83102xAW8w"
+      },
+      {
+        "titulo": "5 Fatos Incríveis Sobre o Bloodhound",
+        "url": "https://www.youtube.com/watch?v=E5ctPDDYYFM"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Tudo Sobre o Bloodhound",
+        "url": "https://www.akc.org/dog-breeds/bloodhound/"
+      },
+      {
+        "titulo": "Raça de Cachorro Bloodhound",
+        "url": "https://www.petmd.com/dog/breeds/c_dg_bloodhound"
+      }
+    ]
+  }
+}

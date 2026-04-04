@@ -1,0 +1,70 @@
+{
+  "id": "219",
+  "nome": "Schipperke",
+  "subtitulo": "Pequeno, ágil, protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "25-33 cm",
+      "femea": "23-30 cm"
+    },
+    "peso": {
+      "macho": "4-9 kg",
+      "femea": "3-7 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Pastoreio",
+    "origem": "Bélgica",
+    "data_origem": "Século XVII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Schipperke é uma raça belga que surgiu no século XVII como um cão de guarda para barcos. Eles eram conhecidos por sua habilidade em manter os ratos afastados e avisar sobre intrusos. A raça ganhou popularidade como um companheiro de família no século XIX.",
+    "aparencia": "O Schipperke é um cão pequeno e compacto, com uma pelagem dupla densa e negra. Eles têm uma cabeça larga e redonda, orelhas triangulares eretas e um rabo curto. A pelagem requer escovação regular para remover pelos mortos e evitar emaranhados.",
+    "temperamento": "O Schipperke é um cão inteligente, leal e protetor. Eles são muito apegados à sua família e podem ser reservados com estranhos. A raça é conhecida por sua natureza curiosa e brincalhona, mas também pode ser teimosa e independente.",
+    "saude": "O Schipperke é geralmente uma raça saudável, mas pode ser propenso a certos problemas de saúde, como displasia da anca e luxação da patela. Cuidados veterinários regulares e uma dieta equilibrada são essenciais para manter a saúde e o bem-estar da raça."
+  },
+  "cuidados": {
+    "exercicios": "O Schipperke é uma raça ativa que requer bastante exercício. Eles precisam de caminhadas diárias e brincadeiras no quintal. Eles também gostam de jogos de busca e agilidade.",
+    "grooming": "A pelagem dupla do Schipperke requer escovação regular para remover pelos mortos e evitar emaranhados. Eles também precisam de banhos ocasionais para manter a pelagem limpa e saudável.",
+    "nutricao": "O Schipperke deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Eles são propensos a ganhar peso, portanto, é importante monitorar sua ingestão calórica.",
+    "saude": "Além dos cuidados veterinários regulares, o Schipperke pode precisar de cuidados preventivos de saúde específicos, como exames anuais de quadril e joelhos para detectar displasia da anca e luxação da patela."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Schipperke: A Raça Pequena e Protetiva",
+        "url": "https://www.youtube.com/watch?v=3wU96wPrcuE"
+      },
+      {
+        "titulo": "Schipperke: Um Cão Ativo e Inteligente",
+        "url": "https://www.youtube.com/watch?v=8J1BdxY8-cM"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Schipperke",
+        "url": "https://www.akc.org/dog-breeds/schipperke/"
+      },
+      {
+        "titulo": "The Schipperke",
+        "url": "https://www.thekennelclub.org.uk/services/public/breed/display.aspx?id=70"
+      }
+    ]
+  }
+}

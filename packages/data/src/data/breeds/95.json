@@ -1,0 +1,70 @@
+{
+  "id": "95",
+  "nome": "Dogo Argentino",
+  "subtitulo": "Altas / Ativo / Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "62-69 cm",
+      "femea": "60-65 cm"
+    },
+    "peso": {
+      "macho": "40-45 kg",
+      "femea": "35-40 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Grupo 2 – Pinschers, Schnauzers, Molossóides e Boiadeiros Suíços",
+    "origem": "Argentina",
+    "data_origem": "Século XX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Baixa",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Baixa"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Dogo Argentino foi desenvolvido na Argentina na década de 1920 por Antonio Nores Martinez. Ele cruzou uma variedade de raças, incluindo o Dogue Alemão, o Boxer e o Buldogue Americano, com o objetivo de criar um cão de caça versátil e poderoso. O Dogo Argentino rapidamente ganhou popularidade como cão de caça de javalis e leões da montanha, e também foi usado como cão de guarda e de polícia.",
+    "aparencia": "O Dogo Argentino é um cão grande e musculoso com uma pelagem branca curta e brilhante. Eles têm uma cabeça grande e larga com uma focinheira larga e quadrada. Suas orelhas são eretas e pontiagudas, e sua cauda é longa e grossa. Os Dogos Argentinos vêm em uma variedade de cores, incluindo branco, preto e tigrado.",
+    "temperamento": "O Dogo Argentino é um cão leal e protetor. Eles são profundamente ligados à sua família, mas podem ser agressivos com estranhos e outros animais. Os Dogos Argentinos são cães muito enérgicos e precisam de muito exercício. Eles são também cães muito inteligentes e podem ser treinados para uma variedade de tarefas.",
+    "saude": "O Dogo Argentino é geralmente uma raça saudável, mas eles podem ser propensos a certas condições de saúde, como displasia da anca, displasia de cotovelo e cardiomiopatia. É importante levar seu Dogo Argentino ao veterinário regularmente para exames e vacinas."
+  },
+  "cuidados": {
+    "exercicios": "O Dogo Argentino é um cão muito enérgico e precisa de muito exercício. Eles precisam de pelo menos uma hora de exercício vigoroso todos os dias. Além de caminhadas e corridas, os Dogos Argentinos também apreciam nadar, buscar e brincar no quintal.",
+    "grooming": "A pelagem do Dogo Argentino é curta e fácil de cuidar. Eles precisam ser escovados uma ou duas vezes por semana para remover pelos soltos e manter o pelo brilhante. Os Dogos Argentinos também precisam tomar banho ocasionalmente, especialmente se eles se sujarem ao ar livre.",
+    "nutricao": "O Dogo Argentino é um cão grande e precisa de uma dieta de alta qualidade que seja rica em proteínas e calorias. Eles precisam de cerca de 3-4 xícaras de ração por dia, divididas em duas refeições. É importante escolher uma ração que seja específica para cães grandes e ativos.",
+    "saude": "O Dogo Argentino é geralmente uma raça saudável, mas eles podem ser propensos a certas condições de saúde, como displasia da anca, displasia de cotovelo e cardiomiopatia. É importante levar seu Dogo Argentino ao veterinário regularmente para exames e vacinas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Dogo Argentino: The Ultimate Guide",
+        "url": "https://www.youtube.com/watch?v=Q_265U3g1-E"
+      },
+      {
+        "titulo": "Dogo Argentino Training: How to Train a Dogo Argentino",
+        "url": "https://www.youtube.com/watch?v=5JKn4l3Bv94"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Dogo Argentino",
+        "url": "https://www.akc.org/dog-breeds/dogo-argentino/"
+      },
+      {
+        "titulo": "The Dogo Argentino Club of America",
+        "url": "https://dogoargentinoclub.org/"
+      }
+    ]
+  }
+}

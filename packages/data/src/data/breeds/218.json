@@ -1,0 +1,70 @@
+{
+  "id": "218",
+  "nome": "Samoieda",
+  "subtitulo": "Leal / Sociável / Inteligente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "55-63 cm",
+      "femea": "50-58 cm"
+    },
+    "peso": {
+      "macho": "25-30 kg",
+      "femea": "18-23 kg"
+    },
+    "expectativa_vida": "12-14 anos",
+    "grupo": "Spitz",
+    "origem": "Sibéria",
+    "data_origem": "Século XVI"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "A raça Samoieda se originou na Sibéria, onde era usada como cão de trenó e caça pelas tribos nômades Samoyedes. Acredita-se que sua existência remonta a mais de 3.000 anos.\n\nOs Samoiedas eram altamente valorizados por sua resistência, lealdade e capacidade de trabalhar em condições adversas. Eles eram freqüentemente usados para puxar trenós longas distâncias e também para caçar presas como raposas e renas.",
+    "aparencia": "Os Samoiedas são cães de porte médio a grande, com pelagem branca espessa e volumosa. Possuem orelhas eretas e olhos escuros amendoados. Sua cauda é farta e geralmente enrolada sobre as costas.\n\nAlém de sua pelagem branca característica, os Samoiedas também têm um sorriso encantador que os faz parecer estar sempre sorrindo.",
+    "temperamento": "Os Samoiedas são conhecidos por sua natureza amigável e leal. Eles são muito apegados às suas famílias e são excelentes companheiros para crianças. Apesar de serem cães enérgicos, geralmente são calmos e gentis dentro de casa.",
+    "saude": "Os Samoiedas são geralmente saudáveis, mas como todas as raças, são propensos a certos problemas de saúde. Algumas condições comuns incluem displasia de quadril, catarata e diabetes."
+  },
+  "cuidados": {
+    "exercicios": "Os Samoiedas são cães muito ativos e precisam de bastante exercício diário. Eles apreciam longas caminhadas, corridas e brincadeiras. É importante fornecer-lhes atividades suficientes para evitar que fiquem entediados ou destrutivos.",
+    "grooming": "A pelagem do Samoiedo requer escovação regular para mantê-la livre de emaranhados e sujeira. Eles geralmente não precisam de banhos frequentes e podem se autolimpar até certo ponto.",
+    "nutricao": "Os Samoiedas precisam de uma dieta equilibrada e de alta qualidade. Como são cães ativos, requerem mais calorias do que outras raças. É importante alimentar seu Samoieda com ração formulada especificamente para cães de raças grandes.",
+    "saude": "Para manter seu Samoieda saudável, é importante vaciná-lo regularmente e levá-lo ao veterinário para check-ups. Também é importante escovar os dentes regularmente e cortar as unhas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Samoieda: A Raça dos Sorrisos",
+        "url": "https://www.youtube.com/watch?v=F6q-cYpJ52g"
+      },
+      {
+        "titulo": "Treinando um Samoieda",
+        "url": "https://www.youtube.com/watch?v=wX21J8pQ7sI"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Samoieda",
+        "url": "https://www.akc.org/dog-breeds/samoyed/"
+      },
+      {
+        "titulo": "Samoieda Club of America",
+        "url": "https://www.samoyedclubofamerica.org/"
+      }
+    ]
+  }
+}

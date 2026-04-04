@@ -1,0 +1,70 @@
+{
+  "id": "61",
+  "nome": "Buldogue",
+  "subtitulo": "Rosto achatado / Rugas profundas / Corpo musculoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "38-43 cm",
+      "femea": "35-40 cm"
+    },
+    "peso": {
+      "macho": "23-25 kg",
+      "femea": "20-23 kg"
+    },
+    "expectativa_vida": "8-10 anos",
+    "grupo": "Cães de Companhia",
+    "origem": "Inglaterra",
+    "data_origem": "Século 16"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Baixo",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Buldogue foi originalmente criado na Inglaterra no século 16 para competir em eventos de briga de cães. Eles eram conhecidos por sua força, tenacidade e coragem. Com o tempo, sua função mudou e eles se tornaram populares como cães de companhia. Hoje, os Buldogues são amados por sua personalidade doce, leal e afetuosa.",
+    "aparencia": "Os Buldogues são cães de porte médio com corpos musculosos e cabeças grandes e bloqueadas. Eles têm rostos achatados característicos com rugas profundas e focinhos curtos. Seus olhos são escuros e redondos, e suas orelhas são pequenas e em forma de V. Os Buldogues têm uma pelagem curta e lisa que vem em uma variedade de cores, incluindo fulvo, branco e tigrado.",
+    "temperamento": "Os Buldogues são conhecidos por sua personalidade doce, leal e afetuosa. Eles são cães gentis e protetores que amam passar tempo com suas famílias. Eles se dão bem com crianças e outros animais de estimação. Os Buldogues são cães de baixa energia que não requerem muita atividade física. Eles são fáceis de agradar e treinar.",
+    "saude": "Os Buldogues são propensos a uma variedade de problemas de saúde, incluindo displasia de quadril e cotovelo, problemas respiratórios e alergias de pele. Eles também podem ser propensos a insolação devido ao focinho curto. É importante fornecer regularmente check-ups veterinários e cuidados adequados para manter seu Buldogue saudável e feliz."
+  },
+  "cuidados": {
+    "exercicios": "Os Buldogues requerem atividade física regular para se manterem saudáveis. Uma caminhada diária de 30 minutos é geralmente suficiente para atender às suas necessidades de exercícios. É importante evitar o exercício excessivo, especialmente em climas quentes, pois os Buldogues podem superaquecer rapidamente. Além de caminhadas, os Buldogues também apreciam brincadeiras no quintal ou sessão de busca.",
+    "grooming": "Os Buldogues têm uma pelagem curta e fácil de cuidar. Eles só precisam ser escovados uma vez por semana para remover pelos soltos. Eles também precisam de banhos ocasionais. É importante limpar regularmente as dobras faciais do seu Buldogue para evitar infecções. Além disso, as unhas do seu Buldogue devem ser aparadas regularmente.",
+    "nutricao": "Os Buldogues são cães de porte médio e devem ser alimentados com uma dieta de alta qualidade que atenda às suas necessidades nutricionais específicas. Eles precisam de uma dieta rica em proteínas para manter sua musculatura e uma quantidade moderada de carboidratos para fornecer energia. Também é importante garantir que seu Buldogue receba a quantidade correta de cálcio e fósforo para apoiar o desenvolvimento ósseo saudável.",
+    "saude": "Os Buldogues requerem cuidados preventivos de saúde regulares para se manterem saudáveis. Eles devem ser vacinados anualmente contra doenças comuns como cinomose e parvovírus. Eles também devem ser examinados regularmente por um veterinário para detectar quaisquer problemas de saúde subjacentes. É importante seguir as recomendações do seu veterinário para manter seu Buldogue saudável e feliz."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Os Buldogues mais fofos do mundo",
+        "url": "https://www.youtube.com/watch?v=i7FGXW33pLo"
+      },
+      {
+        "titulo": "Tudo sobre a raça Buldogue",
+        "url": "https://www.youtube.com/watch?v=6o32ZNL4xuE"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Raças de Cães - Buldogue",
+        "url": "https://www.akc.org/dog-breeds/bulldog/"
+      },
+      {
+        "titulo": "Tudo sobre o Buldogue",
+        "url": "https://www.petmd.com/dog/breeds/c_dg_bulldog"
+      }
+    ]
+  }
+}

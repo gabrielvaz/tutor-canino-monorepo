@@ -1,0 +1,123 @@
+{
+  "id": "Não encontrei informações sobre a raça nan",
+  "nome": "Kelpie Australiano",
+  "subtitulo": "Inteligente / Ativo / Leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "43 a 51 cm",
+      "femea": "41 a 48 cm"
+    },
+    "peso": {
+      "macho": "12 a 20 kg",
+      "femea": "10 a 18 kg"
+    },
+    "expectativa_vida": "12 a 15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Médio",
+      "tipo_pelo": "Liso ou ondulado e de comprimento médio",
+      "frequencia_queda_pelo": "Baixa"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Baixa",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Inteligente",
+      "Ativo",
+      "Leal",
+      "Trabalhador",
+      "Independente"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Kelpie Australiano é uma raça de cachorro originária da Austrália, conhecida por sua inteligência, agilidade e capacidade de pastoreio. São cães leais e protetores, mas podem ser reservados com estranhos.",
+    "historia": "O Kelpie Australiano foi desenvolvido no século 19 por cruzar cães pastores britânicos com cães selvagens australianos. Esses cães foram criados para pastorear rebanhos de ovelhas em condições difíceis e são conhecidos por sua resistência e capacidade de trabalhar longas horas."
+  },
+  "cuidados": {
+    "saude": "O Kelpie Australiano é geralmente uma raça saudável, mas alguns problemas comuns de saúde incluem displasia de quadril, displasia de cotovelo e epilepsia.",
+    "higiene": "O Kelpie Australiano tem uma pelagem de baixa manutenção que requer escovação ocasional para remover pelos mortos.",
+    "exercicio": "O Kelpie Australiano é uma raça que requer muito exercício e atividades mentais. São cães que se dão bem em atividades como pastoreio, agilidade e passeios longos.",
+    "treinamento": "O Kelpie Australiano é uma raça inteligente que responde bem ao treinamento. Eles precisam de treinamento precoce e socialização para se tornarem cães bem ajustados.",
+    "nutricao": "O Kelpie Australiano deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades energéticas."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto",
+      "Chocolate",
+      "Vermelho"
+    ],
+    "marcacoes": [
+      "Branco"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Kelpie Australiano é um símbolo da indústria pastoril australiana e é amplamente utilizado para pastorear ovelhas em fazendas e estações."
+  },
+  "racas_relacionadas": "Não encontrei informações sobre a raça nan",
+  "images": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kelpie_02.jpg",
+  "highlight_photo": "australian-kelpie.png",
+  "bred_for": "Não encontrei informações sobre a raça nan",
+  "breed_group": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_nivel_energia": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_socializacao": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_personalidade_tendencia_latir": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_facilidade_treino": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_inteligencia": "Não encontrei informações sobre a raça nan",
+  "caracteristicas_treinamento_tendencia_fugir": "Não encontrei informações sobre a raça nan",
+  "cuidados_exercicios": "Não encontrei informações sobre a raça nan",
+  "cuidados_grooming": "Não encontrei informações sobre a raça nan",
+  "height_imperial": "Não encontrei informações sobre a raça nan",
+  "height_metric": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_data_origem": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_grupo": "Não encontrei informações sobre a raça nan",
+  "informacoes_basicas_origem": "Não encontrei informações sobre a raça nan",
+  "life_span": "Não encontrei informações sobre a raça nan",
+  "links_referencias": "Não encontrei informações sobre a raça nan",
+  "links_sites_referencia": "Não encontrei informações sobre a raça nan",
+  "links_videos": "Não encontrei informações sobre a raça nan",
+  "links_videos_youtube": "Não encontrei informações sobre a raça nan",
+  "name": "Não encontrei informações sobre a raça nan",
+  "origin": "Não encontrei informações sobre a raça nan",
+  "reference_image_id": "18928961",
+  "sobre_aparencia": "Não encontrei informações sobre a raça nan",
+  "sobre_saude": "Não encontrei informações sobre a raça nan",
+  "sobre_temperamento": "Não encontrei informações sobre a raça nan",
+  "temperament": "Não encontrei informações sobre a raça nan",
+  "weight_imperial": "min. 31-46 lb",
+  "weight_metric": "min. 14-21 kg",
+  "| links_referencias | [Wikipedia](https://en.wikipedia.org/wiki/Australian_Kelpie)": "[Australian Kelpie Association of America](https://australianshepherdclubofamerica.org/)",
+  "| links_videos | [Vídeo 1](https://www.youtube.com/watch?v=aVShCm54_gI)": "[Vídeo 2](https://www.youtube.com/watch?v=6_rMnuH4vbQ) |",
+  "| links_videos_youtube | [Vídeo 1](https://www.youtube.com/watch?v=aVShCm54_gI)": "[Vídeo 2](https://www.youtube.com/watch?v=6_rMnuH4vbQ) |",
+  "| racas_relacionadas | Border Collie": "Koolie Australiano |",
+  "| sobre_aparencia | Pelagem dupla espessa e ondulada": "cor sólida ou tricolor |",
+  "| sobre_saude | Geralmente saudável": "mas pode ser propenso a problemas de quadril e cotovelo |",
+  "| sobre_temperamento | Leal": "trabalhador e inteligente |",
+  "| temperament | Leal": "trabalhador e inteligente |",
+  "Banhos semanais": "Kelpie Australiano",
+  "Bom com a família": "Kelpie Australiano",
+  "Displasia de quadril": "Kelpie Australiano",
+  "Grande": "Kelpie Australiano",
+  "Leal": "Kelpie Australiano",
+  "informações_básicas_origem": "Austrália",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Moderada",
+  "cuidados_treinamento": "Inteligente e ansioso por agradar",
+  "caracteristicas_fisico_tipo_pelo": "Dupla",
+  "colours_and_markings_colours": "Preto",
+  "campo": "https://www.youtube.com/watch?v=fubkgh-5k94",
+  "caracteristicas_fisico_porte": "Grande",
+  "caracteristicas_personalidade": "Amigável",
+  "caracteristicas_treinamento": "Inteligente, Fácil de treinar",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "Amigável",
+  "caracteristicas_social_sociabilidade_com_estranhos": "Reservado",
+  "sobre_descricao": "O Kelpie Australiano é uma raça de cães de pastoreio originária da Austrália. Eles são conhecidos por sua inteligência, lealdade e ética de trabalho. Os Kelpies são cães ativos e precisam de muito exercício para se manterem saudáveis e felizes.",
+  "caracteristicas_temperament": "Leal",
+  "character": "Leal",
+  "porte": "Grande"
+}

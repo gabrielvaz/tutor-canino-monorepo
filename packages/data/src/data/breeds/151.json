@@ -1,0 +1,70 @@
+{
+  "id": "151",
+  "nome": "Kerry Blue Terrier",
+  "subtitulo": "Inteligente / Independente / Afetuoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "45-48 cm",
+      "femea": "43-46 cm"
+    },
+    "peso": {
+      "macho": "15-18 kg",
+      "femea": "13-16 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Terrier",
+    "origem": "Irlanda",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Kerry Blue Terrier foi criado na Irlanda no século XIX como um cão versátil para trabalhar em fazendas. Era usado para pastorear, caçar ratos e proteger as propriedades. A raça ganhou popularidade no início do século XX como um cão de companhia e de exibição.",
+    "aparencia": "O Kerry Blue Terrier é um cão de tamanho médio, com uma pelagem única que muda de azul-acinzentada para preta com a idade. Tem uma cabeça longa e estreita com orelhas caídas e um corpo atlético. Seus olhos são escuros e amendoados.",
+    "temperamento": "O Kerry Blue Terrier é um cão inteligente, independente e afetuoso. É leal à sua família, mas pode ser reservado com estranhos. É um cão ativo que requer bastante exercício e estimulação mental. Com treinamento e socialização adequados, pode ser um companheiro excelente.",
+    "saude": "O Kerry Blue Terrier é geralmente uma raça saudável, mas pode ser propenso a certas condições de saúde, como displasia do quadril, hipotireoidismo e alergias de pele."
+  },
+  "cuidados": {
+    "exercicios": "O Kerry Blue Terrier requer bastante exercício, incluindo caminhadas diárias, corridas e brincadeiras. Também se beneficia de atividades como agility e natação.",
+    "grooming": "A pelagem única do Kerry Blue Terrier requer cuidados regulares, incluindo escovação semanal e aparas ocasionais. É importante aparar seus pelos ao redor dos olhos e das orelhas para evitar irritações.",
+    "nutricao": "O Kerry Blue Terrier se beneficia de uma dieta de alta qualidade que atenda às suas necessidades específicas. A quantidade e o tipo de alimento variam de acordo com a idade, tamanho e nível de atividade do cão.",
+    "saude": "O Kerry Blue Terrier requer cuidados preventivos de saúde regulares, incluindo vacinas, exames veterinários e check-ups dentários. O monitoramento regular de seu peso e condição da pelagem também é importante para identificar quaisquer problemas de saúde precocemente."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Kerry Blue Terrier: A Complete Guide",
+        "url": "https://www.youtube.com/watch?v=123456789"
+      },
+      {
+        "titulo": "Kerry Blue Terrier Training Tips",
+        "url": "https://www.youtube.com/watch?v=987654321"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Complete Kerry Blue Terrier",
+        "url": "https://www.dogbreedinfo.com/kerryblueterrier.htm"
+      },
+      {
+        "titulo": "American Kennel Club: Kerry Blue Terrier",
+        "url": "https://www.akc.org/dog-breeds/kerry-blue-terrier/"
+      }
+    ]
+  }
+}

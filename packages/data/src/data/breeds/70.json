@@ -1,0 +1,70 @@
+{
+  "id": "70",
+  "nome": "Pastor da Cáucaso (Ovcharka)",
+  "subtitulo": "Leal / Protetor / Independente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "65-90 cm",
+      "femea": "60-80 cm"
+    },
+    "peso": {
+      "macho": "45-100 kg",
+      "femea": "40-80 kg"
+    },
+    "expectativa_vida": "9-11 anos",
+    "grupo": "Cães de Pastoreio",
+    "origem": "Cáucaso",
+    "data_origem": "Século III a.C."
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Média",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Pastor da Cáucaso é uma raça antiga originária das regiões montanhosas do Cáucaso. Eles eram originalmente usados como cães de pastoreio e proteção para rebanhos de ovelhas contra lobos e outros predadores. Com o tempo, eles foram adotados por militares e policiais devido ao seu tamanho, força e lealdade excepcionais. Hoje, são populares como cães de guarda e companhia.",
+    "aparencia": "O Pastor da Cáucaso é um cão grande e imponente, com uma pelagem espessa e dupla que pode ser cinza, preta, marrom ou fulvo. Eles têm uma cabeça larga com um focinho poderoso e orelhas caídas. Sua cauda é longa e espessa, normalmente carregada alta.",
+    "temperamento": "O Pastor da Cáucaso é conhecido por sua lealdade e capacidade protetora. Eles são devotados aos seus donos e desconfiam de estranhos. Embora possam ser gentis com crianças familiares, eles podem ser agressivos com outras pessoas e animais. Eles são independentes e teimosos, exigindo um dono experiente que possa fornecer liderança firme.",
+    "saude": "Como todas as raças grandes, o Pastor da Cáucaso pode ser propenso a displasia de quadril e cotovelo. Eles também podem sofrer de torção gástrica e problemas de pele. É importante mantê-los ativos e com um peso saudável para minimizar o risco desses problemas de saúde."
+  },
+  "cuidados": {
+    "exercicios": "O Pastor da Cáucaso precisa de exercícios regulares para se manter saudável e mentalmente estimulado. Eles devem ser levados para passeios diários ou caminhadas de pelo menos 30 minutos cada. Eles também apreciam atividades como correr, buscar e brincar em um quintal seguro.",
+    "grooming": "A pelagem do Pastor da Cáucaso requer escovação regular para remover pelos mortos e evitar emaranhados. Eles devem ser banhados apenas quando necessário. As orelhas devem ser verificadas e limpas regularmente para prevenir infecções.",
+    "nutricao": "O Pastor da Cáucaso requer uma dieta rica em proteínas e calorias. Eles devem ser alimentados com uma ração de alta qualidade projetada para raças gigantes. As porções devem ser ajustadas com base no tamanho, idade e nível de atividade do cão.",
+    "saude": "Os cuidados preventivos de saúde são essenciais para manter o Pastor da Cáucaso saudável. Isso inclui visitas regulares ao veterinário para check-ups, vacinas e exames de saúde. É importante monitorar o peso do cão, escovar os dentes regularmente e fornecer exercícios adequados para prevenir problemas de saúde."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Pastor da Cáucaso: O Gigante Gentil",
+        "url": "https://www.youtube.com/watch?v=e8v1uzk_L5g"
+      },
+      {
+        "titulo": "Treinando o Pastor da Cáucaso",
+        "url": "https://www.youtube.com/watch?v=XCKO8wr-0eQ"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "O Pastor da Cáucaso",
+        "url": "https://www.akc.org/dog-breeds/caucasian-shepherd-dog/"
+      },
+      {
+        "titulo": "Cuidados com o Pastor da Cáucaso",
+        "url": "https://www.thesprucepets.com/caucasian-shepherd-dog-care-5198804"
+      }
+    ]
+  }
+}

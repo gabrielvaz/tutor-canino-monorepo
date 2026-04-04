@@ -1,0 +1,70 @@
+{
+  "id": "92",
+  "nome": "Dálmata",
+  "subtitulo": "Manchas distintas / Pelagem curta e densa / Energia alta",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-61 cm",
+      "femea": "53-58 cm"
+    },
+    "peso": {
+      "macho": "22,5-32 kg",
+      "femea": "20-27 kg"
+    },
+    "expectativa_vida": "10-13 anos",
+    "grupo": "Não Esportivo",
+    "origem": "Croácia",
+    "data_origem": "1600"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "Acredita-se que os Dálmatas tenham se originado na Croácia durante o século XVII. Eles eram originalmente usados como cães de carruagem, correndo ao lado de carruagens para afastar outros cães e proteger o veículo e seus passageiros. Mais tarde, they foram usados como cães de caça, apontando e recuperando aves. No século XIX, eles se tornaram populares como cães de companhia e hoje são uma raça popular em todo o mundo.",
+    "aparencia": "Os Dálmatas são conhecidos por sua pelagem branca distinta com manchas pretas ou marrons. Sua pelagem é curta e densa e requer cuidados regulares para mantê-la brilhante e saudável. Eles têm porte atlético e musculoso, com orelhas pendentes e olhos amendoados.",
+    "temperamento": "Os Dálmatas são cães leais e afetuosos que formam fortes laços com suas famílias. Eles são altamente energéticos e requerem bastante exercício físico e mental. Eles também são cães inteligentes e treináveis, mas podem ser teimosos às vezes. Em geral, os Dálmatas são cães amigáveis e extrovertidos que se dão bem com crianças e outros animais.",
+    "saude": "Como todas as raças, os Dálmatas são propensos a certos problemas de saúde. Alguns dos problemas de saúde mais comuns em Dálmatas incluem surdez, displasia da anca e pedras na bexiga. É importante fazer exames veterinários regulares e seguir as recomendações do veterinário para ajudar a manter seu Dálmata saudável."
+  },
+  "cuidados": {
+    "exercicios": "Os Dálmatas são cães ativos que requerem bastante exercício. Eles precisam de caminhadas diárias longas e regulares, além de bastante tempo fora da coleira para correr e brincar. Eles também são cães inteligentes que apreciam atividades que estimulem mentalmente, como treinamento de obediência e agility.",
+    "grooming": "Os Dálmatas têm pelagem curta que requer cuidados regulares. Eles devem ser escovados semanalmente para remover pelos mortos e manter a pelagem brilhante. Eles também devem tomar banho ocasionalmente, conforme necessário. Os Dálmatas não perdem muito pêlo, então são geralmente considerados uma raça de baixa manutenção para cuidados com a pelagem.",
+    "nutricao": "Os Dálmatas são cães de porte médio que requerem uma dieta de alta qualidade. Eles devem ser alimentados com duas a três refeições por dia, com uma quantidade diária total de cerca de 1,5 a 2 xícaras de ração. Os Dálmatas também precisam de acesso a água fresca em todos os momentos.",
+    "saude": "Para ajudar a manter seu Dálmata saudável, é importante seguir um cronograma regular de exames veterinários. Siga as recomendações do seu veterinário para vacinações, exames de sangue e limpezas dentárias. Você também deve monitorar seu Dálmata quanto a quaisquer sinais de doença e consultar seu veterinário se notar algo incomum."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Dálmata: Guia Completo da Raça",
+        "url": "https://www.youtube.com/watch?v=0zD_nsY4Z-4"
+      },
+      {
+        "titulo": "Dálmata: Personalidade, Treinamento e Cuidados",
+        "url": "https://www.youtube.com/watch?v=W9e72NYv9HI"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Dalmatian Club of America",
+        "url": "https://www.dalmatianclub.org/"
+      },
+      {
+        "titulo": "The American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/dalmatian/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "briard",
+  "nome": "Briard",
+  "subtitulo": "Inteligente / Leal / Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "58 a 69 cm",
+      "femea": "56 a 63 cm"
+    },
+    "peso": {
+      "macho": "34 a 41 kg",
+      "femea": "27 a 32 kg"
+    },
+    "expectativa_vida": "10 a 12 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Duplo, longo, ondulado e áspero",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Alta"
+    },
+    "personalidade": [
+      "Inteligente",
+      "Leal",
+      "Protetor",
+      "Ativo",
+      "Independente"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Briard é um cão pastor francês com um longo histórico de trabalho no pastoreio de ovelhas. Conhecido por sua inteligência, lealdade e natureza protetora, o Briard é um excelente companheiro de família e cão de trabalho.",
+    "historia": "O Briard originou-se na região da Brie, na França, há pelo menos 300 anos. Os pastores usavam para proteger e pastorear ovelhas. A raça desempenhou um papel ativo durante a Primeira Guerra Mundial como cão mensageiro e sentinela."
+  },
+  "cuidados": {
+    "saude": "O Briard é geralmente saudável, mas pode ser propenso a displasia de quadril e de cotovelo. Eles também podem ser propensos a torção gástrica e hipotireoidismo.",
+    "higiene": "O pelo longo do Briard requer escovação diária para evitar emaranhados. Eles também precisam de banhos periódicos para manter a limpeza.",
+    "exercicio": "O Briard é uma raça ativa que precisa de bastante atividade física diária. Eles se dão bem com caminhadas longas, corridas e natação.",
+    "treinamento": "O Briard é uma raça inteligente, mas pode ser teimoso. O treinamento deve começar cedo e ser consistente. Eles respondem bem a métodos de reforço positivo.",
+    "nutricao": "O Briard deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Eles podem se dar bem com alimentos comerciais ou refeições caseiras preparadas com ingredientes de qualidade."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Preto",
+      "Cinza",
+      "Azul"
+    ],
+    "marcacoes": [
+      "Branco no peito e nas patas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Briard é considerado um símbolo da região da Brie, na França. A raça tem sido destaque em obras de arte e literatura e é frequentemente associada a pastores e militares."
+  },
+  "racas_relacionadas": "France",
+  "images": "https://images.akc.org/breeds/briard_or_113/briard_or_113_01.jpg",
+  "highlight_photo": "briard.png",
+  "bred_for": "Herding",
+  "breed_group": "Herding",
+  "caracteristicas_personalidade_nivel_energia": "High",
+  "caracteristicas_personalidade_socializacao": "Good",
+  "caracteristicas_personalidade_tendencia_latir": "Low",
+  "caracteristicas_treinamento_facilidade_treino": "Medium",
+  "caracteristicas_treinamento_inteligencia": "High",
+  "caracteristicas_treinamento_tendencia_fugir": "Low",
+  "cuidados_exercicios": "Moderate",
+  "cuidados_grooming": "Regular brushing",
+  "height_imperial": "24-27",
+  "height_metric": "61-68.6",
+  "informacoes_basicas_data_origem": "20th century",
+  "informacoes_basicas_grupo": "Herding",
+  "informacoes_basicas_origem": "France",
+  "life_span": "10-12 years",
+  "links_referencias": "https://pt.wikipedia.org/wiki/Briard",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/briard/",
+  "links_videos": "https://wagwalking.com/breed/briard",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=32QH4wX0J78",
+  "name": "Briard",
+  "origin": "França",
+  "reference_image_id": "briard_or_113_01",
+  "sobre_aparencia": "Beauceron,Bouvier des Flandres,German Shepherd Dog",
+  "sobre_saude": "Displasia do quadril e cotovelo, torção gástrica",
+  "sobre_temperamento": "Muscular and athletic",
+  "temperament": "Hip dysplasia,Gastric dilatation-volvulus",
+  "weight_imperial": "70-90",
+  "weight_metric": "32-41",
+  "**bred_for**": "",
+  "**breed_group**": "",
+  "**caracteristicas_personalidade_nivel_energia**": "",
+  "**caracteristicas_personalidade_socializacao**": "",
+  "**caracteristicas_personalidade_tendencia_latir**": "",
+  "**caracteristicas_treinamento_facilidade_treino**": "",
+  "**caracteristicas_treinamento_inteligencia**": "",
+  "**caracteristicas_treinamento_tendencia_fugir**": "",
+  "**cuidados_exercicios**": "",
+  "**cuidados_grooming**": "",
+  "**height_imperial**": "",
+  "**height_metric**": "",
+  "**images**": "",
+  "**informacoes_basicas_data_origem**": "",
+  "**informacoes_basicas_grupo**": "",
+  "**informacoes_basicas_origem**": "",
+  "**life_span**": "",
+  "**links_referencias**": "",
+  "**links_sites_referencia**": "",
+  "**links_videos**": "",
+  "**links_videos_youtube**": "",
+  "**name**": "",
+  "**origin**": "",
+  "**racas_relacionadas**": "",
+  "**reference_image_id**": "",
+  "**sobre_aparencia**": "",
+  "**sobre_saude**": "",
+  "**sobre_temperamento**": "",
+  "**temperament**": "",
+  "**weight_imperial**": "",
+  "**weight_metric**": "",
+  "| caracteristicas_personalidade | Amigável": "",
+  "| cores_e_marcacoes_cores | Preto": "",
+  "| cores_e_marcacoes_marcacoes | Padrão tricolor de preto": "",
+  "cores_e_marcacoes_cores": "preto",
+  "caracteristicas_personalidade": "brincalhão",
+  "cores_e_marcacoes_marcacoes": "padrão tricolor de preto",
+  "cuidados_treinamento": "inteligente",
+  "caracteristicas_fisico_tipo_pelo": "longo",
+  "**Name": "Briard",
+  "Origin": "France",
+  "Bred for": "Herding",
+  "Breed Group": "Herding",
+  "Height (imperial)": "22 - 27 inches",
+  "Height (metric)": "56 - 69 cm",
+  "Weight (imperial)": "56 - 100 pounds",
+  "Weight (metric)": "25 - 45.5 kg"
+}

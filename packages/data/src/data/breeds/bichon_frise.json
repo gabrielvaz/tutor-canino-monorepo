@@ -1,0 +1,71 @@
+{
+  "id": "bichon_frise",
+  "nome": "Bichon Frisé",
+  "subtitulo": "pelagem branca/personalidade alegre/ótimo companheiro",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "24-29 cm",
+      "femea": "24-29 cm"
+    },
+    "peso": {
+      "macho": "5-8 kg",
+      "femea": "5-8 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Não Esportivo",
+    "origem": "França",
+    "data_origem": "século XIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Bichon Frisé tem suas origens na região do Mediterrâneo e é descendente do Barbet ou Water Spaniel. Durante o século XIII, marinheiros italianos trouxeram esses cães para a França, onde se tornaram populares entre a nobreza. A raça quase desapareceu após a Revolução Francesa, mas foi preservada por admiradores dedicados.",
+    "aparencia": "O Bichon Frisé é conhecido por sua pelagem branca, densa e cacheada, que forma uma textura macia e fofa ao redor do corpo. Seus olhos escuros e redondos e nariz preto contrastam belamente com a pelagem branca. O porte é pequeno mas proporcional, com uma expressão alegre e vivaz.",
+    "temperamento": "Conhecido por sua personalidade alegre e afetuosa, o Bichon Frisé é um excelente cão de companhia. São brincalhões, gentis e adaptáveis, se dando bem com pessoas de todas as idades e outros animais. São cães sensíveis que respondem bem ao treinamento positivo.",
+    "saude": "Geralmente saudáveis, mas podem ser propensos a problemas nos olhos, alergias de pele e luxação patelar. A manutenção regular da pelagem é essencial para prevenir problemas dermatológicos."
+  },
+  "cuidados": {
+    "exercicios": "O Bichon Frisé precisa de exercícios moderados diários. Uma caminhada de 30 minutos e algumas sessões de brincadeira são suficientes para mantê-lo saudável e feliz. São ótimos para apartamentos desde que recebam atividade física adequada.",
+    "grooming": "A pelagem requer cuidados intensivos, com escovação diária e tosa profissional a cada 4-6 semanas. O banho regular e a limpeza dos olhos e ouvidos são essenciais para manter a saúde e aparência do cão.",
+    "nutricao": "Uma dieta balanceada de alta qualidade é importante. A quantidade deve ser ajustada ao nível de atividade do cão para evitar obesidade. Dividir as refeições em duas ou três porções diárias ajuda a manter o metabolismo equilibrado.",
+    "saude": "Visitas regulares ao veterinário, vacinação em dia e check-ups dentários são essenciais. A prevenção contra parasitas e exames de rotina ajudam a manter a saúde do Bichon Frisé. Atenção especial deve ser dada à saúde dos olhos e articulações."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Tudo sobre o Bichon Frisé",
+        "url": "https://www.youtube.com/watch?v=example1"
+      },
+      {
+        "titulo": "Cuidados com a pelagem do Bichon Frisé",
+        "url": "https://www.youtube.com/watch?v=example2"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club - Bichon Frisé",
+        "url": "https://www.akc.org/dog-breeds/bichon-frise/"
+      },
+      {
+        "titulo": "The Bichon Frisé Club of America",
+        "url": "https://www.bichon.org/"
+      }
+    ]
+  },
+  "highlight_photo": "bichon-frise.png"
+}

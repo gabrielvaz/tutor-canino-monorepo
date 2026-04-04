@@ -1,0 +1,70 @@
+{
+  "id": "248",
+  "nome": "Weimaraner",
+  "subtitulo": "Elegante / Ativo / Afetuoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "57-70 cm",
+      "femea": "55-63 cm"
+    },
+    "peso": {
+      "macho": "27-40 kg",
+      "femea": "25-32 kg"
+    },
+    "expectativa_vida": "10-13 anos",
+    "grupo": "Sporting",
+    "origem": "Alemanha",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "Originário da Alemanha no século XIX, o Weimaraner foi desenvolvido pelo Grão-Duque Karl August de Weimar para caçar javalis, ursos e veados. A raça tornou-se popular entre a nobreza alemã e foi levada para os Estados Unidos no início do século XX. Os Weimaraners serviram como cães de guerra durante as duas Guerras Mundiais.",
+    "aparencia": "O Weimaraner é um cão elegante e atlético de tamanho médio, com uma pelagem curta e lisa. Sua pelagem vem em dois tons distintos: cinza e prata. A raça tem olhos azuis brilhantes que escurecem com a idade. Os Weimaraners têm uma cabeça longa e estreita, com orelhas penduradas, e uma cauda longa e fina.",
+    "temperamento": "O Weimaraner é conhecido por ser uma raça amigável e afetuosa, com um forte instinto de proteção. Eles são geralmente bons com crianças e outros animais de estimação. No entanto, eles podem ser protetores com seus donos e podem ser territoriais com estranhos. Os Weimaraners são cães inteligentes e treináveis, mas podem ser teimosos.",
+    "saude": "O Weimaraner é geralmente saudável, mas pode ser propenso a displasia de quadril, torção gástrica e doenças oculares. Eles também podem sofrer de alergias e problemas de pele. É importante fazer check-ups regulares com o veterinário para garantir que seu Weimaraner esteja saudável."
+  },
+  "cuidados": {
+    "exercicios": "O Weimaraner é uma raça ativa que requer muito exercício. Eles precisam de pelo menos uma hora de exercício por dia, e preferem atividades que envolvam corrida, busca e natação. Os Weimaraners também são cães inteligentes que se beneficiam do treinamento de obediência.",
+    "grooming": "A pelagem curta e lisa do Weimaraner é fácil de cuidar. Eles precisam de escovação regular para remover pelos mortos e manter a pelagem brilhosa. Os Weimaraners também precisam de banhos ocasionais.",
+    "nutricao": "O Weimaraner é uma raça de porte médio que requer uma dieta de alta qualidade. Eles devem receber 2 a 3 xícaras de ração seca por dia, dividida em duas refeições. Os Weimaraners também precisam de acesso a água fresca o tempo todo.",
+    "saude": "É importante manter o seu Weimaraner atualizado com as vacinas e desparasitações. Você também deve levá-lo ao veterinário para check-ups regulares. Isso ajudará a garantir que seu Weimaraner viva uma vida longa e saudável."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Weimaraner: A raça de cão perfeita para caçadores e famílias",
+        "url": "https://www.youtube.com/watch?v=H5i14d57m2k"
+      },
+      {
+        "titulo": "Weimaraners: 10 coisas que você precisa saber",
+        "url": "https://www.youtube.com/watch?v=KCm6_MSmO7k"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Weimaraner Club of America",
+        "url": "https://www.weimclubamerica.org/"
+      },
+      {
+        "titulo": "American Kennel Club: Weimaraner",
+        "url": "https://www.akc.org/dog-breeds/weimaraner/"
+      }
+    ]
+  }
+}

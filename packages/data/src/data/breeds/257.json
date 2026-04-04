@@ -1,0 +1,70 @@
+{
+  "id": "257",
+  "nome": "Xoloitzcuintle",
+  "subtitulo": "Sem pelo / Crista na cabeça / Olhos escuros",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "22-41 cm",
+      "femea": "22-41 cm"
+    },
+    "peso": {
+      "macho": "7-14 kg",
+      "femea": "7-14 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Cães Primitivos",
+    "origem": "México",
+    "data_origem": "Século III a.C."
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Xoloitzcuintle é uma raça antiga originária da Mesoamérica, onde era venerado pelas culturas asteca e maia como cães sagrados. Os astecas acreditavam que esses cães guiavam os mortos para o submundo. Após a chegada dos espanhóis, a raça quase foi extinta, mas foi revitalizada no México no século XX.",
+    "aparencia": "O Xoloitzcuintle é uma raça sem pelos, o que significa que nasce sem pelagem. Em alguns casos, pode ter alguns tufos leves no topo da cabeça e na cauda. Existem duas variedades: a pelada e a revestida. A variedade revestida possui uma pelagem curta e lisa. A cabeça do Xoloitzcuintle apresenta uma crista proeminente e os olhos são escuros e amendoados.",
+    "temperamento": "O Xoloitzcuintle é conhecido por ser um cão afetuoso, leal e tranquilo. É uma excelente companhia para famílias e indivíduos. Apesar de seu tamanho pequeno, pode ser um cão de guarda alerta e protetor.",
+    "saude": "O Xoloitzcuintle geralmente é uma raça saudável, mas pode estar sujeito a algumas condições de saúde, como displasia de quadril e catarata."
+  },
+  "cuidados": {
+    "exercicios": "O Xoloitzcuintle não requer muitos exercícios, mas precisa de caminhadas regulares e brincadeiras para se manter saudável. Por causa de sua falta de pelos, é importante protegê-lo do sol e do frio.",
+    "grooming": "A manutenção da pelagem do Xoloitzcuintle é mínima, pois ele não tem pelos. No entanto, banhos regulares são necessários para manter a pele saudável. Os banhos devem ser curtos e com água morna.",
+    "nutricao": "O Xoloitzcuintle precisa de uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Rações específicas para raças pequenas são geralmente adequadas.",
+    "saude": "Além dos cuidados básicos de saúde, como vacinas e vermifugação, o Xoloitzcuintle pode se beneficiar de exames regulares de pele para detectar quaisquer problemas precocemente."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Conheça o Xoloitzcuintle, o Cão Sem Pelos do México",
+        "url": "https://www.youtube.com/watch?v=dnEmhz515wE"
+      },
+      {
+        "titulo": "Xoloitzcuintle: A Raça de Cão Antiga e Fascinante",
+        "url": "https://www.youtube.com/watch?v=5l4xrr4_YfM"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Federação Cinológica Internacional (FCI)",
+        "url": "https://www.fci.be/en/"
+      },
+      {
+        "titulo": "American Kennel Club (AKC)",
+        "url": "https://www.akc.org/"
+      }
+    ]
+  }
+}

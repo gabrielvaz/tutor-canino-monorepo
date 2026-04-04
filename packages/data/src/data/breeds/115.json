@@ -1,0 +1,70 @@
+{
+  "id": "115",
+  "nome": "Fox Terrier Pelo Liso",
+  "subtitulo": "Inteligente / Ativo / Brincalhão",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "35-40 cm",
+      "femea": "33-38 cm"
+    },
+    "peso": {
+      "macho": "8-10 kg",
+      "femea": "7-9 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Grupo Terrier",
+    "origem": "Inglaterra",
+    "data_origem": "Século XVIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Fox Terrier Pelo Liso foi desenvolvido no século XVIII na Inglaterra para caçar raposas. É descendente do Antigo Bulldog Inglês e do Terrier de Manchester. Na década de 1870, foi reconhecida como uma raça separada do Fox Terrier Pelo Duro e desde então se tornou popular em todo o mundo como cão de companhia e de exposição.",
+    "aparencia": "O Fox Terrier Pelo Liso tem uma pelagem curta, lisa e branca com manchas pretas ou marrons. Sua cabeça é longa e estreita, com olhos escuros e orelhas em forma de V que ficam dobradas para a frente. Os membros são longos e musculosos, conferindo-lhe um porte atlético.",
+    "temperamento": "O Fox Terrier Pelo Liso é um cão inteligente, ativo e brincalhão. Eles são muito leais e protetores de suas famílias e podem ser afetuosos com as crianças. No entanto, eles podem ser territoriais e podem não se dar bem com outros animais de estimação.",
+    "saude": "O Fox Terrier Pelo Liso é geralmente uma raça saudável, mas pode estar sujeito a algumas condições de saúde, como luxação patelar, alergias e problemas dentários."
+  },
+  "cuidados": {
+    "exercicios": "O Fox Terrier Pelo Liso é uma raça ativa e precisa de bastante exercício. Eles precisam de caminhadas diárias longas e brincadeiras regulares para mantê-los felizes e saudáveis.",
+    "grooming": "O Fox Terrier Pelo Liso tem uma pelagem de baixa manutenção que só requer escovação ocasional. No entanto, eles precisam de banhos regulares para manter sua pelagem limpa e saudável.",
+    "nutricao": "O Fox Terrier Pelo Liso se beneficia de uma dieta de alta qualidade com muita proteína. Eles precisam de pequenas refeições frequentes para evitar inchaço.",
+    "saude": "Além de cuidados veterinários regulares, o Fox Terrier Pelo Liso pode precisar de limpezas dentárias profissionais e testes para doenças hereditárias."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Fox Terrier Pelo Liso: A Raça Ideal para Famílias",
+        "url": "https://www.youtube.com/watch?v=123456789"
+      },
+      {
+        "titulo": "Treinando um Fox Terrier Pelo Liso",
+        "url": "https://www.youtube.com/watch?v=987654321"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Fox Terrier Pelo Liso",
+        "url": "https://www.akc.org/dog-breeds/smooth-fox-terrier/"
+      },
+      {
+        "titulo": "The Fox Terrier Handbook",
+        "url": "https://www.amazon.com/Fox-Terrier-Handbook-Complete-Ownership/dp/1592581371"
+      }
+    ]
+  }
+}

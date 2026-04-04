@@ -1,0 +1,132 @@
+{
+  "id": 25,
+  "name": "Azawakh",
+  "breed_group": "Caça",
+  "bred_for": "Guardião de rebanhos, caça",
+  "life_span": "10 - 13 anos",
+  "temperament": "Leal, Independente, Protetor",
+  "origin": "África Ocidental",
+  "reference_image_id": "SkvZgx94m",
+  "weight": {
+    "imperial": "33 - 55",
+    "metric": "15 - 25"
+  },
+  "height": {
+    "imperial": "23 - 29",
+    "metric": "58 - 74"
+  },
+  "images": [
+    "dog-images/azawakh-1.jpg"
+  ],
+  "subtitulo": "Leal / Independente / Protetor",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "60 - 74 cm",
+      "femea": "58 - 69 cm"
+    },
+    "peso": {
+      "macho": "17 - 25 kg",
+      "femea": "15 - 20 kg"
+    },
+    "expectativa_vida": "10 - 13 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Curto e fino",
+      "frequencia_queda_pelo": "Baixa"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Média",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Independente",
+      "Protetor",
+      "Leal",
+      "Reservado",
+      "Atento"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Azawakh é uma raça elegante e atlética originária da África Ocidental. São cães leais e protetores com um forte instinto de caça.",
+    "historia": "A raça se originou na África Ocidental, onde foi desenvolvida por tribos nômades para caçar gazelas e proteger rebanhos. Eles eram altamente valorizados por sua velocidade, resistência e habilidades de caça excepcionais."
+  },
+  "cuidados": {
+    "saude": "O Azawakh é geralmente uma raça saudável, mas pode ser propenso a displasia de quadril e cotovelo.",
+    "higiene": "O Azawakh requer escovação semanal para remover pelos mortos. Eles também precisam de banhos ocasionais.",
+    "exercicio": "O Azawakh é uma raça ativa que requer muito exercício. Eles precisam de pelo menos uma hora de atividade física por dia.",
+    "treinamento": "O Azawakh é uma raça inteligente, mas pode ser independente. Eles precisam de treinamento consistente e firme, mas sempre com métodos positivos.",
+    "nutricao": "O Azawakh deve receber uma dieta de alta qualidade que atenda às suas necessidades nutricionais específicas."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Fulvo",
+      "Areia",
+      "Castanho",
+      "Azul"
+    ],
+    "marcacoes": []
+  },
+  "historico": {
+    "significado_cultural": "O Azawakh desempenhou um papel importante na vida dos povos nômades da África Ocidental. Eles eram altamente valorizados por suas habilidades de caça e proteção."
+  },
+  "racas_relacionadas": [],
+  "links": {
+    "sites_referencia": [
+      {
+        "titulo": "American Kennel Club - Azawakh",
+        "url": "https://www.akc.org/dog-breeds/azawakh/",
+        "descricao": "Informações oficiais sobre a raça pela AKC"
+      },
+      {
+        "titulo": "Federation Cynologique Internationale - Azawakh",
+        "url": "http://www.fci.be/en/nomenclature/AZAWAKH-307.html",
+        "descricao": "Padrão oficial da raça pela FCI"
+      },
+      {
+        "titulo": "DogTime - Azawakh",
+        "url": "https://dogtime.com/dog-breeds/azawakh",
+        "descricao": "Guia completo sobre características e cuidados"
+      }
+    ],
+    "videos_youtube": [
+      {
+        "titulo": "Azawakh - Raças de Cachorro",
+        "url": "https://www.youtube.com/watch?v=QZ4Vk6nmreY",
+        "canal": "Dog Show",
+        "descricao": "Apresentação geral da raça Azawakh"
+      },
+      {
+        "titulo": "Azawakh - Tudo Sobre a Raça",
+        "url": "https://www.youtube.com/watch?v=xY5jF5X8Zj4",
+        "canal": "Mundo dos Cachorros",
+        "descricao": "Características e cuidados com o Azawakh"
+      },
+      {
+        "titulo": "Conheça o Azawakh",
+        "url": "https://www.youtube.com/watch?v=1X2Q4vK8_Hw",
+        "canal": "Portal do Dog",
+        "descricao": "História e curiosidades sobre a raça"
+      },
+      {
+        "titulo": "Azawakh - O Galgo Africano",
+        "url": "https://www.youtube.com/watch?v=9Z7xK8Hy6bY",
+        "canal": "Cães e Cia",
+        "descricao": "Origem e características do Azawakh"
+      },
+      {
+        "titulo": "Azawakh - Guia da Raça",
+        "url": "https://www.youtube.com/watch?v=mH2Y3pRu_8M",
+        "canal": "Amigos dos Pets",
+        "descricao": "Guia completo sobre o Azawakh"
+      }
+    ]
+  },
+  "nome": "Azawakh"
+}

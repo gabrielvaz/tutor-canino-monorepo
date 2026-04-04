@@ -1,0 +1,70 @@
+{
+  "id": "106",
+  "nome": "Springer Spaniel Inglês",
+  "subtitulo": "Brincalhão / Inteligente / Afetuoso",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "48-56 cm",
+      "femea": "46-51 cm"
+    },
+    "peso": {
+      "macho": "20-32 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Esportes",
+    "origem": "Inglaterra",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Baixa",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Springer Spaniel Inglês foi desenvolvido na Inglaterra no século XIX a partir de várias raças de Spaniels, incluindo o Norfolk Spaniel, o Cocker Spaniel e o Field Spaniel. Eles foram criados para serem versáteis cães de caça, capazes de trabalhar em uma variedade de terrenos e caçar aves e pequenos mamíferos. A raça se tornou popular entre caçadores e ganhou reconhecimento do Kennel Club em 1902.",
+    "aparencia": "O Springer Spaniel Inglês é um cão de tamanho médio com uma pelagem longa e sedosa que pode ser preta e branca, fígado e branca ou tricolor. Eles têm um corpo atlético e musculoso, com orelhas pendentes e uma cauda longa e exuberante. A pelagem requer escovação regular para evitar emaranhados e nódulos.",
+    "temperamento": "O Springer Spaniel Inglês é conhecido por sua natureza afetuosa e brincalhona. Eles são cães inteligentes e ansiosos por agradar, o que os torna fáceis de treinar. Eles são altamente sociais e se dão bem com crianças, adultos e outros animais de estimação. No entanto, eles podem ser propensos à ansiedade de separação se deixados sozinhos por longos períodos.",
+    "saude": "O Springer Spaniel Inglês é geralmente uma raça saudável, mas como todas as raças, eles podem estar predispostos a certos problemas de saúde. Alguns problemas de saúde a serem observados incluem displasia do quadril, displasia de cotovelo e problemas oculares."
+  },
+  "cuidados": {
+    "exercicios": "O Springer Spaniel Inglês é uma raça ativa que requer bastante exercício. Eles devem receber pelo menos duas horas de atividade por dia, incluindo uma combinação de caminhadas, corridas e brincadeiras. Sem exercício suficiente, eles podem se tornar entediados e destrutivos.",
+    "grooming": "A pelagem longa e sedosa do Springer Spaniel Inglês requer escovação regular para evitar emaranhados e nódulos. Eles também devem ser banhados a cada poucas semanas para manter a pelagem limpa e saudável. As unhas devem ser aparadas regularmente e as orelhas devem ser verificadas quanto a sinais de infecção.",
+    "nutricao": "O Springer Spaniel Inglês deve ser alimentado com uma dieta de ração de alta qualidade específica para cães de raças grandes e ativas. Eles devem receber duas a três refeições por dia, e a quantidade de comida deve ser ajustada com base no tamanho, nível de atividade e idade do cão.",
+    "saude": "Para manter o Springer Spaniel Inglês saudável, é importante levá-lo ao veterinário para exames regulares e vacinas. Eles também devem ser testados para displasia do quadril e displasia de cotovelo, e devem receber exames oftalmológicos regulares para verificar se há problemas oculares."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Springer Spaniel Inglês: Um Guia Completo para a Raça",
+        "url": "https://www.youtube.com/watch?v=GFnJFH5nO1E"
+      },
+      {
+        "titulo": "Treinando seu Springer Spaniel Inglês",
+        "url": "https://www.youtube.com/watch?v=F6Rj46d0_l8"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Padrão da Raça Springer Spaniel Inglês",
+        "url": "https://www.akc.org/dog-breeds/english-springer-spaniel/"
+      },
+      {
+        "titulo": "Guia da Raça do Springer Spaniel Inglês",
+        "url": "https://www.thekennelclub.org.uk/services/public/breed/display.aspx?id=339"
+      }
+    ]
+  }
+}

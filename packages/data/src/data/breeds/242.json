@@ -1,0 +1,70 @@
+{
+  "id": "242",
+  "nome": "Terrier Tibetano",
+  "subtitulo": "Companheiro leal / Independente / Alerta",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "33-41 cm",
+      "femea": "30-38 cm"
+    },
+    "peso": {
+      "macho": "8-14 kg",
+      "femea": "6-12 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Grupo Terrier",
+    "origem": "Tibete",
+    "data_origem": "século XIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Baixa"
+    },
+    "treinamento": {
+      "facilidade_treino": "Baixa",
+      "inteligencia": "Média",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Terrier Tibetano é uma raça antiga originária do Tibete. Acredita-se que eles tenham sido criados pelos monges budistas como cães de guarda para proteger os mosteiros. A raça foi introduzida na Europa no início do século XX e rapidamente ganhou popularidade como animal de estimação. Os Terriers Tibetanos são conhecidos por sua lealdade, independência e natureza alerta.",
+    "aparencia": "Os Terriers Tibetanos são cães de pequeno porte com pelagem dupla longa e sedosa. A pelagem pode variar em cor, incluindo preto, dourado, branco e cinza. Eles têm orelhas caídas em forma de V e uma cauda que é portada alta e curvada sobre as costas. Os Terriers Tibetanos têm rostos expressivos com olhos escuros e castanhos e focinhos escuros.",
+    "temperamento": "Os Terriers Tibetanos são cães inteligentes e independentes. Eles são leais e protetores de suas famílias, mas também podem ser reservados com estranhos. Eles são cães ativos que adoram brincar e explorar. Os Terriers Tibetanos podem ser teimosos, portanto, é importante começar a treiná-los e socializá-los desde cedo.",
+    "saude": "Os Terriers Tibetanos são geralmente cães saudáveis, mas podem estar sujeitos a certos problemas de saúde, como displasia de quadril, luxação patelar e problemas oculares. Eles também podem ser sensíveis ao calor, por isso é importante mantê-los frescos durante os meses quentes."
+  },
+  "cuidados": {
+    "exercicios": "Os Terriers Tibetanos são cães ativos que precisam de bastante exercício. Eles devem ser levados para caminhadas diárias ou corridas e ter acesso a um quintal seguro onde possam brincar. Os Terriers Tibetanos também gostam de brincar e podem ser entretidos com jogos de buscar e outros jogos interativos.",
+    "grooming": "Os Terriers Tibetanos têm uma pelagem dupla que requer escovação regular para evitar emaranhados e esteiras. Eles também devem ser tosados a cada 6 a 8 semanas para manter a pelagem saudável. Os Terriers Tibetanos também precisam de banhos regulares.",
+    "nutricao": "Os Terriers Tibetanos precisam de uma dieta rica em proteínas e gorduras. Eles devem ser alimentados com duas a três refeições por dia e a quantidade de comida deve ser ajustada com base no seu peso e nível de atividade.",
+    "saude": "É importante levar seu Terrier Tibetano ao veterinário para check-ups regulares e vacinas. Isso ajudará a garantir que seu cão se mantenha saudável e livre de doenças."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Terrier Tibetano: O Guia Definitivo",
+        "url": "https://www.youtube.com/watch?v=123abc"
+      },
+      {
+        "titulo": "Como Treinar um Terrier Tibetano",
+        "url": "https://www.youtube.com/watch?v=456def"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Tibetan Terrier Club of America",
+        "url": "https://www.ttca.org/"
+      },
+      {
+        "titulo": "American Kennel Club",
+        "url": "https://www.akc.org/dog-breeds/tibetan-terrier/"
+      }
+    ]
+  }
+}

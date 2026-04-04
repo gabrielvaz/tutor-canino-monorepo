@@ -1,0 +1,70 @@
+{
+  "id": "87",
+  "nome": "Collie Pelo Curto",
+  "subtitulo": "Inteligente e ativo / Fácil de treinar / Excelente companheiro de família",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-61 cm",
+      "femea": "51-56 cm"
+    },
+    "peso": {
+      "macho": "20-29 kg",
+      "femea": "18-25 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Pastoreio",
+    "origem": "Escócia",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Média"
+    }
+  },
+  "sobre": {
+    "historia": "O Collie Pelo Curto foi desenvolvido na Escócia no século XIX a partir do Collie de Pelo Longo. Originalmente usado para pastorear ovelhas, tornou-se popular como cão de companhia no final do século XIX. Hoje, é conhecido por sua inteligência, agilidade e devoção à sua família.",
+    "aparencia": "O Collie Pelo Curto é um cão de tamanho médio com uma pelagem dupla curta e lisa. Sua pelagem vem em várias cores, incluindo sable, tricolor e azul merle. Possui um focinho comprido e fino, olhos amendoados e orelhas eretas. A cauda é longa e espessa.",
+    "temperamento": "O Collie Pelo Curto é uma raça gentil e afetuosa que é muito ligada à sua família. É conhecido por sua inteligência e capacidade de aprendizado rápido. São cães ativos que precisam de bastante exercício e estimulação mental. São excelentes cães de companhia e se adaptam bem a uma variedade de estilos de vida.",
+    "saude": "O Collie Pelo Curto é geralmente uma raça saudável, mas é propensa a certos problemas de saúde, incluindo displasia do quadril, catarata e sensibilidade a medicamentos. Testes de saúde regulares são importantes para detectar e tratar precocemente quaisquer problemas de saúde potenciais."
+  },
+  "cuidados": {
+    "exercicios": "O Collie Pelo Curto é uma raça ativa que precisa de bastante exercício diário. Uma caminhada ou corrida longa é ideal, e também apreciam brincadeiras interativas, como buscar e agilidade. Fornecer estimulação mental também é importante, pois pode ajudar a prevenir o tédio e problemas de comportamento.",
+    "grooming": "O Collie Pelo Curto tem uma pelagem dupla curta e lisa que requer escovação regular para remover pelos soltos e evitar emaranhados. Os banhos devem ser dados apenas quando necessário, pois o banho excessivo pode remover os óleos naturais da pelagem. As unhas devem ser aparadas regularmente e os dentes devem ser escovados para manter a saúde bucal.",
+    "nutricao": "O Collie Pelo Curto deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais individuais. A quantidade de alimento necessária variará dependendo do tamanho, idade e nível de atividade do cão. É importante alimentar seu cão em porções regulares e fornecer acesso constante a água fresca.",
+    "saude": "Como com qualquer raça, cuidados preventivos de saúde são essenciais para manter o Collie Pelo Curto saudável. Isso inclui visitas regulares ao veterinário para exames e vacinações, bem como testes de saúde para detectar precocemente quaisquer problemas de saúde potenciais. Os dentes devem ser escovados regularmente para prevenir doenças periodontais e as unhas devem ser aparadas para evitar o crescimento excessivo."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Collie de Pelo Curto: Tudo Sobre a Raça",
+        "url": "https://www.youtube.com/watch?v=9t77Flb2zMQ"
+      },
+      {
+        "titulo": "Collie de Pelo Curto: A Raça Ideal para Famílias",
+        "url": "https://www.youtube.com/watch?v=1P98s0nB4AE"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "American Kennel Club: Collie",
+        "url": "https://www.akc.org/dog-breeds/collie/"
+      },
+      {
+        "titulo": "Collie Club of America",
+        "url": "https://www.collie-club-america.org/"
+      }
+    ]
+  }
+}

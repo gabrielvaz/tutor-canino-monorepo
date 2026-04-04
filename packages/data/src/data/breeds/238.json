@@ -1,0 +1,70 @@
+{
+  "id": "238",
+  "nome": "Sussex Spaniel",
+  "subtitulo": "Leal / Extrovertido / Adaptável",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "38-41 cm",
+      "femea": "38-41 cm"
+    },
+    "peso": {
+      "macho": "18-23 kg",
+      "femea": "16-20 kg"
+    },
+    "expectativa_vida": "12-15 anos",
+    "grupo": "Spaniels",
+    "origem": "Inglaterra",
+    "data_origem": "Século XVIII"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Alta"
+    },
+    "personalidade": {
+      "nivel_energia": "Médio",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Sussex Spaniel é uma raça antiga de cães de caça originária do condado de Sussex, na Inglaterra. Acredita-se que seja um cruzamento entre o Spaniel de Água Inglês e o Norfolk Spaniel, criado para caçar faisões e perdizes em terrenos úmidos. A raça foi reconhecida pelo Kennel Club em 1892.",
+    "aparencia": "O Sussex Spaniel é um cão de tamanho médio, com uma pelagem longa e sedosa que pode ser dourada ou castanha avermelhada. A cabeça é larga e arredondada, com orelhas caídas. A cauda é longa e emplumada.",
+    "temperamento": "O Sussex Spaniel é conhecido por sua natureza leal, extrovertida e adaptável. São cães gentis e afetuosos que gostam de passar tempo com suas famílias. Também são cães inteligentes e fáceis de treinar. No entanto, podem ser propensos a latidos se não forem exercitados adequadamente.",
+    "saude": "O Sussex Spaniel é geralmente uma raça saudável, mas pode ser propenso a algumas condições de saúde, como displasia de quadril, luxação patelar e infecções de ouvido."
+  },
+  "cuidados": {
+    "exercicios": "O Sussex Spaniel requer exercícios regulares moderados, pois são cães relativamente ativos. Eles apreciam longas caminhadas, caminhadas ou brincadeiras no quintal.",
+    "grooming": "O Sussex Spaniel requer cuidados regulares com a pelagem. Escove-os algumas vezes por semana para evitar emaranhados e mantenha os pelos aparados para evitar sujeira e detritos.",
+    "nutricao": "O Sussex Spaniel deve ser alimentado com uma dieta de alta qualidade, especificamente formulada para cães de tamanho médio. A quantidade de alimento necessária variará dependendo da idade, nível de atividade e metabolismo individual do cão.",
+    "saude": "Para manter a saúde do Sussex Spaniel, é importante fornecer-lhes cuidados veterinários regulares, incluindo vacinas, exames físicos e tratamentos preventivos contra parasitas."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Sussex Spaniel: Um cão de caça leal e amoroso",
+        "url": "https://www.youtube.com/watch?v=NQq-1T2_Z48"
+      },
+      {
+        "titulo": "Raça de cachorro Sussex Spaniel: características e cuidados",
+        "url": "https://www.youtube.com/watch?v=n9Xehf_RlQY"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The Complete Sussex Spaniel",
+        "url": "https://www.amazon.com/Complete-Sussex-Spaniel-Margaret-Greenfield/dp/0855382462"
+      },
+      {
+        "titulo": "Sussex Spaniel Club of America",
+        "url": "https://www.sussexspanielclubofamerica.org/"
+      }
+    ]
+  }
+}

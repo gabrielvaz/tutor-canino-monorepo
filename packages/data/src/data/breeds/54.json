@@ -1,0 +1,70 @@
+{
+  "id": "54",
+  "nome": "Bouvier des Flandres",
+  "subtitulo": "Inteligente / Trabalhador / Leal",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "58-68 cm",
+      "femea": "53-63 cm"
+    },
+    "peso": {
+      "macho": "27-40 kg",
+      "femea": "22-32 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Pastoreio e Boiadeiro",
+    "origem": "Bélgica",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Alta",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Média"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Média",
+      "socializacao": "Alta"
+    },
+    "treinamento": {
+      "facilidade_treino": "Alta",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Baixa"
+    }
+  },
+  "sobre": {
+    "historia": "O Bouvier des Flandres é uma raça originária da região da Flandres, na Bélgica. Acredita-se que tenha se desenvolvido a partir de cruzamentos entre raças como o antigo Pastor Belga, o Beauceron e o Griffon. Inicialmente utilizado como cão de pastoreio e guarda, ele também tem sido usado como cão de tração e mensageiro. A popularidade da raça diminuiu após a Primeira Guerra Mundial, mas ela foi reavivada na década de 1950.",
+    "aparencia": "O Bouvier des Flandres é um cão de porte grande, robusto e musculoso. Sua pelagem é espessa, áspera e dupla, apresentando uma cor cinza, preta ou fulva. O focinho é preto e quadrado, com bigodes e sobrancelhas proeminentes. As orelhas são dobradas para baixo e as patas são musculosas e fortes.",
+    "temperamento": "O Bouvier des Flandres é conhecido por seu temperamento leal, inteligente e trabalhador. Ele é dedicado à sua família e pode ser protetor com crianças. A raça é geralmente amigável com estranhos, mas pode ser reservada até conhecê-los melhor. O Bouvier des Flandres é um cão ativo que precisa de bastante exercício e estimulação mental.",
+    "saude": "Como todas as raças, o Bouvier des Flandres pode ser propenso a certos problemas de saúde, como displasia de quadril, displasia de cotovelo e torção gástrica. No entanto, com os devidos cuidados e alimentação adequada, a raça geralmente goza de boa saúde."
+  },
+  "cuidados": {
+    "exercicios": "O Bouvier des Flandres é uma raça ativa que precisa de bastante exercício. Eles devem ser levados para caminhadas ou corridas longas diariamente e também se beneficiarão de brincadeiras e atividades interativas. Se não receberem exercícios suficientes, podem se tornar destrutivos ou desenvolver problemas de comportamento.",
+    "grooming": "A pelagem do Bouvier des Flandres requer escovação regular para remover pelos mortos e manter sua textura áspera. Eles precisam de banhos ocasionais e aparos regulares para manter a pelagem aparada e saudável.",
+    "nutricao": "O Bouvier des Flandres deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais específicas. Eles devem ser alimentados duas vezes ao dia e a quantidade de comida deve ser ajustada de acordo com seu peso, idade e nível de atividade.",
+    "saude": "Além dos exames veterinários regulares, o Bouvier des Flandres deve receber vacinas e vermífugos regulares. Também é importante escovar os dentes regularmente para prevenir doenças dentárias."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Bouvier des Flandres: A Raça Perfeita para Famílias Ativas",
+        "url": "https://www.youtube.com/watch?v=i1u-k3rT1-o"
+      },
+      {
+        "titulo": "Adestramento do Bouvier des Flandres: Um Cão Inteligente e Leal",
+        "url": "https://www.youtube.com/watch?v=X39V49k15VI"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "Clube do Bouvier des Flandres do Brasil",
+        "url": "https://www.bouvierclubedobrasil.com.br/"
+      },
+      {
+        "titulo": "American Kennel Club: Bouvier des Flandres",
+        "url": "https://www.akc.org/dog-breeds/bouvier-des-flandres/"
+      }
+    ]
+  }
+}

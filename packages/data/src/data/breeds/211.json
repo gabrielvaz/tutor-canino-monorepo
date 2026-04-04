@@ -1,0 +1,70 @@
+{
+  "id": "211",
+  "nome": "Redbone Coonhound",
+  "subtitulo": "Excelente faro / Latido musical / Resistente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "56-69 cm",
+      "femea": "53-66 cm"
+    },
+    "peso": {
+      "macho": "25-36 kg",
+      "femea": "20-32 kg"
+    },
+    "expectativa_vida": "10-12 anos",
+    "grupo": "Sabujos",
+    "origem": "Estados Unidos",
+    "data_origem": "Século XIX"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "personalidade": {
+      "nivel_energia": "Alto",
+      "tendencia_latir": "Alta",
+      "socializacao": "Média"
+    },
+    "treinamento": {
+      "facilidade_treino": "Média",
+      "inteligencia": "Alta",
+      "tendencia_fugir": "Alta"
+    }
+  },
+  "sobre": {
+    "historia": "O Redbone Coonhound foi desenvolvido nos Estados Unidos no século XIX por Peter Redbone, um caçador do Tennessee. Ele cruzou Bloodhounds, Foxhounds americanos e Red Irish Hounds para criar uma raça com um faro excepcional e resistência à caça noturna de guaxinins. A raça tornou-se popular entre os caçadores por sua habilidade de rastrear guaxinins em árvores e sua capacidade de latir de forma musical, o que ajudava a localizar o animal.",
+    "aparencia": "O Redbone Coonhound é um cão de tamanho médio a grande com uma estrutura atlética. Ele possui uma pelagem curta e lisa que varia de vermelho brilhante a mogno. Suas orelhas são longas e pendentes, e seus olhos são âmbar ou castanhos. A cauda é longa e portada alta.",
+    "temperamento": "O Redbone Coonhound é um cão amigável e afetuoso que se dá bem com adultos e crianças. Ele é altamente inteligente e ansioso para agradar, mas pode ser teimoso durante o treinamento. A raça é conhecida por sua capacidade de latir alto e é muito territorial.",
+    "saude": "O Redbone Coonhound é geralmente uma raça saudável, mas pode ser propenso a displasia de quadril, inchaço e torção gástrica. É importante fornecer à raça exercícios regulares e uma dieta saudável para manter um peso saudável e prevenir problemas de saúde."
+  },
+  "cuidados": {
+    "exercicios": "O Redbone Coonhound requer bastante exercício diário para se manter saudável e feliz. Ele apreciará longas caminhadas, corridas ou caminhadas na natureza. A raça também gosta de brincar de busca e natação.",
+    "grooming": "A pelagem curta do Redbone Coonhound requer escovação regular para remover pelos soltos e mantê-la brilhante. Ele deve ser banhado ocasionalmente para manter a pele e o pelo limpos.",
+    "nutricao": "O Redbone Coonhound deve ser alimentado com uma dieta de alta qualidade rica em proteínas e gorduras. A raça é propensa a inchaço e torção gástrica, portanto, é importante evitar alimentá-lo com grandes refeições e garantir que ele tenha acesso a bastante água.",
+    "saude": "Além de exercícios regulares, uma dieta saudável e escovação regular, o Redbone Coonhound deve receber cuidados veterinários preventivos regulares, incluindo exames, vacinas e tratamentos antiparasitários."
+  },
+  "links": {
+    "videos": [
+      {
+        "titulo": "Redbone Coonhound: O Cão de Caça Musical",
+        "url": "https://www.youtube.com/watch?v=f-RTrwx5d94"
+      },
+      {
+        "titulo": "O Incrível Faro do Redbone Coonhound",
+        "url": "https://www.youtube.com/watch?v=p6lQDFj05b4"
+      }
+    ],
+    "referencias": [
+      {
+        "titulo": "The American Kennel Club Redbone Coonhound",
+        "url": "https://www.akc.org/dog-breeds/redbone-coonhound/"
+      },
+      {
+        "titulo": "Redbone Coonhound: Informações sobre a raça",
+        "url": "https://www.petmd.com/dog/breeds/c_dg_redbone_coonhound"
+      }
+    ]
+  }
+}

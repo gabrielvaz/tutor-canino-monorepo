@@ -1,0 +1,156 @@
+{
+  "id": "foxhound_americano",
+  "nome": "foxhoundamericano",
+  "subtitulo": "Rastreador obstinado / Resistente / Voz alta",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "53 a 64 cm",
+      "femea": "53 a 64 cm"
+    },
+    "peso": {
+      "macho": "29 a 34 kg",
+      "femea": "25 a 32 kg"
+    },
+    "expectativa_vida": "10 a 13 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Grande",
+      "tipo_pelo": "Curto e denso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Baixa",
+      "sociabilidade_com_outros_caes": "Baixa"
+    },
+    "personalidade": [
+      "Obstinado",
+      "Resistente",
+      "Voz alta",
+      "Curioso",
+      "Amigável"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Foxhound Americano é um cão de caça enérgico e determinado conhecido por sua excelente capacidade de rastrear presas. Eles são cães de matilha, o que significa que podem trabalhar bem em grupos, mas podem ser teimosos para treinar.",
+    "historia": "O Foxhound Americano foi desenvolvido nos Estados Unidos no século XVIII a partir de cães trazidos da Europa. Eles foram criados especificamente para rastrear raposas, e sua natureza tenaz e resistência os tornaram cães de caça altamente eficazes."
+  },
+  "cuidados": {
+    "saude": "O Foxhound Americano é geralmente uma raça saudável, mas pode ser propenso a displasia de quadril e cotovelo. Eles também podem sofrer de problemas de ouvido devido às suas orelhas caídas.",
+    "higiene": "O Foxhound Americano deve ser escovado regularmente para remover pelos mortos e evitar emaranhados. Eles também devem ser banhados ocasionalmente para mantê-los limpos.",
+    "exercicio": "O Foxhound Americano é uma raça muito ativa que requer uma quantidade significativa de exercícios. Eles precisam de caminhadas longas ou outras atividades para se manterem saudáveis e felizes.",
+    "treinamento": "O Foxhound Americano pode ser teimoso para treinar, por isso é importante começar o treinamento desde cedo. Eles respondem bem ao reforço positivo e à consistência.",
+    "nutricao": "O Foxhound Americano deve ser alimentado com uma dieta de alta qualidade que atenda às suas necessidades nutricionais. Eles podem ser propensos a ganhar peso, por isso é importante monitorar sua ingestão calórica."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Branco",
+      "Preto",
+      "Castanho"
+    ],
+    "marcacoes": [
+      "Listras pretas ou castanhas"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "O Foxhound Americano é um símbolo da cultura de caça americana. Eles são frequentemente retratados em arte e literatura, e têm sido usados como cães de caça por presidentes e outras figuras proeminentes."
+  },
+  "racas_relacionadas": "Nenhuma fornecida",
+  "images": "https://cdn2.thedogdigest.com/wp-content/uploads/2020/05/nan-dog-breed-8.jpg",
+  "highlight_photo": "american-foxhound.png",
+  "informacoes_basicas_grupo": "Hound",
+  "informacoes_basicas_origem": "Estados Unidos",
+  "informacoes_basicas_data_origem": "Década de 1700",
+  "height_imperial": "Indisponível",
+  "height_metric": "Indisponível",
+  "weight_imperial": "Indisponível",
+  "weight_metric": "Indisponível",
+  "cuidados_exercicios": "Alta",
+  "cuidados_grooming": "Indisponível",
+  "temperament": "Amigável",
+  "bred_for": "Caça à raposa",
+  "breed_group": "Hound",
+  "caracteristicas_personalidade_nivel_energia": "Energético",
+  "caracteristicas_personalidade_socializacao": "Amigável",
+  "caracteristicas_personalidade_tendencia_latir": "Alta",
+  "caracteristicas_treinamento_facilidade_treino": "Difícil",
+  "caracteristicas_treinamento_inteligencia": "Média",
+  "caracteristicas_treinamento_tendencia_fugir": "Alta",
+  "links_referencias": "Nenhum fornecido",
+  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_videos": "Nenhum fornecido",
+  "links_videos_youtube": "Nenhum fornecido",
+  "name": "Foxhound Americano",
+  "origin": "Estados Unidos",
+  "reference_image_id": "Nenhum fornecido",
+  "sobre_aparencia": "Nenhum fornecido",
+  "sobre_saude": "Nenhum fornecido",
+  "sobre_temperamento": "Amigável",
+  "**Nome do Campo**": "**Resultado**",
+  "**bred_for**": "**Nenhuma informação disponível**",
+  "**breed_group**": "**Nenhuma informação disponível**",
+  "**caracteristicas_personalidade_nivel_energia**": "**Nenhuma informação disponível**",
+  "**caracteristicas_personalidade_socializacao**": "**Nenhuma informação disponível**",
+  "**caracteristicas_personalidade_tendencia_latir**": "**Nenhuma informação disponível**",
+  "**caracteristicas_treinamento_facilidade_treino**": "**Nenhuma informação disponível**",
+  "**caracteristicas_treinamento_inteligencia**": "**Nenhuma informação disponível**",
+  "**caracteristicas_treinamento_tendencia_fugir**": "**Nenhuma informação disponível**",
+  "**cuidados_exercicios**": "**Nenhuma informação disponível**",
+  "**cuidados_grooming**": "**Nenhuma informação disponível**",
+  "**height_imperial**": "**Nenhuma informação disponível**",
+  "**height_metric**": "**Nenhuma informação disponível**",
+  "**images**": "**Nenhuma informação disponível**",
+  "**informacoes_basicas_data_origem**": "**Nenhuma informação disponível**",
+  "**informacoes_basicas_grupo**": "**Nenhuma informação disponível**",
+  "**informacoes_basicas_origem**": "**Nenhuma informação disponível**",
+  "**life_span**": "**Nenhuma informação disponível**",
+  "**links_referencias**": "**Nenhuma informação disponível**",
+  "**links_sites_referencia**": "**Nenhuma informação disponível**",
+  "**links_videos**": "**Nenhuma informação disponível**",
+  "**links_videos_youtube**": "**Nenhuma informação disponível**",
+  "**name**": "**Nan or Foxhound Americano**",
+  "**origin**": "**Nenhuma informação disponível**",
+  "**racas_relacionadas**": "**Nenhuma informação disponível**",
+  "**reference_image_id**": "**Nenhuma informação disponível**",
+  "**sobre_aparencia**": "**Nenhuma informação disponível**",
+  "**sobre_saude**": "**Nenhuma informação disponível**",
+  "**sobre_temperamento**": "**Nenhuma informação disponível**",
+  "**temperament**": "**Nenhuma informação disponível**",
+  "**weight_imperial**": "**Nenhuma informação disponível**",
+  "**weight_metric**": "**Nenhuma informação disponível**",
+  "life_span": "10-13 anos",
+  "Não encontrei informações sobre a raça nan": "",
+  "breed_for": "Boykin Spaniel Dog Breed: Facts",
+  "historico_significance_cultural": "Campo",
+  "Esse modelo não contém informações sobre a raça Nan Or Kuvasz. Por isso": "",
+  "Bom com a família": "Banhos semanais",
+  "caracteristicas_treinamento": "Indisponível",
+  "caracteristicas_fisico_frequencia_queda_pelo": "Baixa",
+  "tipo_pelo": "longo",
+  "temperamento": "amigvel",
+  "characteristics_personalidade": "amigvel",
+  "ID": "foxhound_americano",
+  "Nome": "Foxhound Americano",
+  "Grupo": "Hound",
+  "Origem": "EUA",
+  "Tamanho": "Grande",
+  "Cor": "Preto",
+  "Padrão de Cores": "Tricolor",
+  "Temperamento": "Amigável, confiante, gentil, ansioso para agradar",
+  "Características de Personalidade": "Companion",
+  "Características Físicas": "Pelagem curta, plana e grossa",
+  "Cuidados com Exercícios": "Diários",
+  "Cuidados com Higiene": "Escovação ocasional",
+  "Cuidados com Treinamento": "Inteligente, fácil de treinar",
+  "Imagens": "https://images.akc.org/breeds/foxhound_americano/foxhound_americano_01.jpg",
+  "Links de Referência": "https://www.akc.org/dog-breeds/foxhound-americano/",
+  "Links de Vídeos": "https://www.youtube.com/watch?v=cC464pZsSKo",
+  "Raças Relacionadas": "Bloodhound, Beagle, Basset Hound",
+  "caracteristicas_personalidade": "Amigável",
+  "breed_name": "Foxhound Americano"
+}

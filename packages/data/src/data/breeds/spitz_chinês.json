@@ -1,0 +1,128 @@
+{
+  "id": "spitz_chinês",
+  "nome": "Spitz Chinês",
+  "subtitulo": "Companheiro, Alerta, Inteligente",
+  "informacoes_basicas": {
+    "altura": {
+      "macho": "30-40 cm",
+      "femea": "25-33 cm"
+    },
+    "peso": {
+      "macho": "4-7 kg",
+      "femea": "3-6 kg"
+    },
+    "expectativa_vida": "10-15 anos"
+  },
+  "caracteristicas": {
+    "familia": {
+      "afinidade_com_criancas": "Média",
+      "afinidade_com_adultos": "Alta",
+      "afinidade_com_outros_animais": "Baixa"
+    },
+    "fisico": {
+      "porte": "Pequeno",
+      "tipo_pelo": "Duplo, longo e liso",
+      "frequencia_queda_pelo": "Média"
+    },
+    "social": {
+      "sociabilidade_com_estranhos": "Alta",
+      "sociabilidade_com_outros_caes": "Média"
+    },
+    "personalidade": [
+      "Brincalhão",
+      "Leal",
+      "Destemido",
+      "Protetor",
+      "Independente"
+    ]
+  },
+  "sobre": {
+    "descricao": "O Spitz Chinês é um cão pequeno e ágil, conhecido por seu pelo longo e volumoso. É uma raça inteligente e alerta, que se destaca como companheiro leal e protetor.",
+    "historia": "Acredita-se que o Spitz Chinês tenha se originado no norte da China, há mais de 2.000 anos. Era usado como cão de companhia e alerta por famílias nobres."
+  },
+  "cuidados": {
+    "saude": "Geralmente saudável, mas pode ser propenso a problemas dentários, displasia de quadril e alergias.",
+    "higiene": "Escovação regular e banhos ocasionais são suficientes para manter seu pelo limpo.",
+    "exercicio": "Necessita de exercícios moderados, como caminhadas diárias e brincadeiras.",
+    "treinamento": "Inteligente e fácil de treinar, mas pode ser teimoso.",
+    "nutricao": "Uma dieta de alta qualidade, rica em proteínas, é recomendada."
+  },
+  "cores_e_marcacoes": {
+    "cores": [
+      "Vermelho",
+      "Preto",
+      "Laranja",
+      "Sable"
+    ],
+    "marcacoes": [
+      "Nenhuma marcação típica"
+    ]
+  },
+  "historico": {
+    "significado_cultural": "Na China antiga, o Spitz Chinês era considerado um símbolo de boa sorte e prosperidade."
+  },
+  "racas_relacionadas": "África",
+  "images": "https://cdn.cdnparenting.com/articles/2020/03/nan-or-106-hero.jpg",
+  "highlight_photo": "**Não disponível**",
+  "bred_for": "Caça de leões",
+  "breed_group": "Hound",
+  "caracteristicas_personalidade_nivel_energia": "High",
+  "caracteristicas_personalidade_socializacao": "Friendly",
+  "caracteristicas_personalidade_tendencia_latir": "Média",
+  "caracteristicas_treinamento_facilidade_treino": "Média",
+  "caracteristicas_treinamento_inteligencia": "Baixa",
+  "caracteristicas_treinamento_tendencia_fugir": "Diários",
+  "cuidados_exercicios": "Escovação semanal",
+  "cuidados_grooming": "24-27",
+  "height_imperial": "24-27",
+  "height_metric": "61-69",
+  "informacoes_basicas_data_origem": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "informacoes_basicas_grupo": "Nan Or",
+  "informacoes_basicas_origem": "Não disponível",
+  "life_span": "África",
+  "links_referencias": "12 - 15",
+  "links_sites_referencia": "https://pt.wikipedia.org/wiki/Nan_or",
+  "links_videos": "https://www.akc.org/dog-breeds/nan-or-142/",
+  "links_videos_youtube": "https://www.youtube.com/watch?v=lZ65r93Fh3M",
+  "name": "Pastor da Rodésia",
+  "origin": "África do Sul",
+  "reference_image_id": "Yorkshire Terrier",
+  "sobre_aparencia": "Pelagem dupla densa",
+  "sobre_saude": "Curto, denso e reto",
+  "sobre_temperamento": "Robusto e saudável",
+  "temperament": "Temperamento amigável e fiel",
+  "weight_imperial": "70-85",
+  "weight_metric": "32-38",
+  "**Nome do Campo**": "**Resultado**",
+  "caracteristicas_fisico_frequencia_queda_pelo": "**Não disponível**",
+  "caracteristicas_fisico_porte": "**Não disponível**",
+  "caracteristicas_fisico_tipo_pelo": "**Não disponível**",
+  "caracteristicas_personalidade": "**Não disponível**",
+  "caracteristicas_social_sociabilidade_com_estranhos": "**Não disponível**",
+  "caracteristicas_social_sociabilidade_com_outros_caes": "**Não disponível**",
+  "cuidados_exercicio": "**Não disponível**",
+  "cuidados_treinamento": "Inteligente",
+  "historico_significado_cultural": "**Não disponível**",
+  "sobre_descricao": "**Não disponível**",
+  "cores_e_marcacoes_cores": "Branco",
+  "character": "Energético",
+  "cuidados_higiene": "Banhos semanais",
+  "cores_e_marcacoes_marcacoes": "Padrão tricolor de preto",
+  "ID": "1",
+  "Name": "Pastor da Rodésia",
+  "Origin": "Southern Africa",
+  "Bred for": "Hunting lions",
+  "Breed Group": "Hound",
+  "Energy Level": "High",
+  "Socialization": "High",
+  "Tendency to Bark": "High",
+  "Trainability": "High",
+  "Intelligence": "High",
+  "Tendency to Run Away": "Low",
+  "Exercise Requirements": "High",
+  "Grooming": "Moderate",
+  "Height (Imperial)": "25-27 in",
+  "Height (Metric)": "63-69 cm",
+  "Weight (Imperial)": "70-90 lb",
+  "Weight (Metric)": "32-41 kg"
+}
