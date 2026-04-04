@@ -7,6 +7,24 @@ interface BreedCardProps {
   breed: Breed;
 }
 
+// Helper to validate and get image URL
+function getValidImageUrl(breed: Breed): string {
+  const imagem = breed.imagens?.[0] || breed.imagem_referencia_id;
+
+  // If no image or invalid image, use placeholder
+  if (!imagem || imagem === 'h' || imagem.length < 5) {
+    return '/images/breeds/placeholder.jpg';
+  }
+
+  // Ensure image starts with / or is a full URL
+  if (imagem.startsWith('/') || imagem.startsWith('http://') || imagem.startsWith('https://')) {
+    return imagem;
+  }
+
+  // Relative path needs leading slash
+  return '/' + imagem;
+}
+
 export function BreedCard({ breed }: BreedCardProps) {
   // Generate a slug from the breed name/id
   const slug = breed.nome?.toLowerCase().replace(/[^a-z0-9]+/g, '-') || breed.id;
@@ -21,8 +39,8 @@ export function BreedCard({ breed }: BreedCardProps) {
     'Gigante': 'Gigante',
   }[porte] || 'Médio Porte';
 
-  // Get image
-  const imagem = breed.imagens?.[0] || breed.imagem_referencia_id || '/images/breeds/placeholder.jpg';
+  // Get image with validation
+  const imagem = getValidImageUrl(breed);
 
   // Get description
   const descricao = breed.sobre?.descricao || `${breed.nome || 'Raça'} - ${categoryLabel}`;
