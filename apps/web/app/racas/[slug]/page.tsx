@@ -4,6 +4,8 @@ import Image from 'next/image';
 import { getBreedBySlug, getAllBreeds } from '@tutorcanino/data';
 import { BreedDetail } from '@/components/breeds/breed-detail';
 import { Badge } from '@tutorcanino/ui';
+import { StructuredData } from '@/components/seo/structured-data';
+import { generateBreedSchema } from '@/lib/seo';
 
 interface BreedPageProps {
   params: Promise<{ slug: string }>;
@@ -46,8 +48,11 @@ export default async function BreedPage({ params }: BreedPageProps) {
     notFound();
   }
 
+  const breedSchema = generateBreedSchema(breed);
+
   return (
     <div className="min-h-screen bg-gray-50 pb-20">
+      <StructuredData data={breedSchema} />
       {/* Hero Banner */}
       <section className="relative h-[40vh] md:h-[50vh] min-h-[300px] w-full overflow-hidden">
         <Image

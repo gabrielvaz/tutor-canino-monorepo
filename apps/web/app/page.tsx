@@ -3,9 +3,13 @@ import Image from 'next/image';
 import { getPopularBreeds } from '@tutorcanino/data';
 import { BreedGrid } from '@/components/breeds/breed-grid';
 import { PawPrint, Search, Heart, Shield, Star, Zap, GraduationCap } from 'lucide-react';
+import { StructuredData } from '@/components/seo/structured-data';
+import { generateOrganizationSchema, generateWebsiteSchema } from '@/lib/seo';
 
 export default function Home() {
   const popularBreeds = getPopularBreeds(8);
+  const orgSchema = generateOrganizationSchema();
+  const siteSchema = generateWebsiteSchema();
 
   const categories = [
     { name: 'Pequeno', label: 'Pequeno Porte', desc: 'Ideais para apartamentos e espaços menores.', icon: <Heart className="text-primary" /> },
@@ -16,6 +20,8 @@ export default function Home() {
 
   return (
     <div className="flex flex-col w-full">
+      <StructuredData data={orgSchema} />
+      <StructuredData data={siteSchema} />
       {/* Hero Section */}
       <section className="relative bg-gray-50 py-20 md:py-32 overflow-hidden">
         <div className="container mx-auto px-4 relative z-10">
