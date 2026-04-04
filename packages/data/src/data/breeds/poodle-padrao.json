@@ -1,0 +1,92 @@
+{
+  "id": "poodle-padrao",
+  "nome": "Poodle Padrão",
+  "slug": "poodle-padrao",
+  "nome_en": "Standard Poodle",
+  "apelidos": [
+    "Poodle",
+    "Padrão"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "França",
+    "expectativa_vida": "10 - 17 anos",
+    "altura_macho": "38 cm",
+    "altura_femea": "33 cm",
+    "peso_macho": "9.2 kg",
+    "peso_femea": "3.8 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1980
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 3,
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Poodle Padrão é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Poodle Padrão originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Poodle Padrão possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Poodle Padrão - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Poodle Padrão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "poodle-padrao",
+      "poodle padrão",
+      "pequeno",
+      "frança"
+    ]
+  },
+  "imagem_principal": "/images/breeds/poodle-padrao.jpg",
+  "galeria": [
+    "/images/breeds/poodle-padrao-1.jpg",
+    "/images/breeds/poodle-padrao-2.jpg",
+    "/images/breeds/poodle-padrao-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=poodle-padrao",
+  "popularidade": 36407,
+  "ranking_brasil": 175,
+  "custo_mensal_estimado": [
+    379,
+    1497
+  ]
+}

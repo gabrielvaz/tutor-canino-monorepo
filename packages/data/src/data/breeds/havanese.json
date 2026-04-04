@@ -1,0 +1,89 @@
+{
+  "id": "havanese",
+  "nome": "Havanese",
+  "slug": "havanese",
+  "nome_en": "Havanese",
+  "apelidos": [],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Cuba",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "29 cm",
+    "altura_femea": "25 cm",
+    "peso_macho": "9.4 kg",
+    "peso_femea": "4.9 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1974
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 3,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Havanese é uma raça de porte pequeno originária de Cuba. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Havanese originou-se em Cuba, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Havanese possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Havanese - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Havanese: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "havanese",
+      "havanese",
+      "pequeno",
+      "cuba"
+    ]
+  },
+  "imagem_principal": "/images/breeds/havanese.jpg",
+  "galeria": [
+    "/images/breeds/havanese-1.jpg",
+    "/images/breeds/havanese-2.jpg",
+    "/images/breeds/havanese-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=havanese",
+  "popularidade": 15547,
+  "ranking_brasil": 101,
+  "custo_mensal_estimado": [
+    271,
+    1092
+  ]
+}

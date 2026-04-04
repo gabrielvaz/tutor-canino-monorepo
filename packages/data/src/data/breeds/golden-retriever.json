@@ -1,47 +1,88 @@
 {
-  "**": "| temperament |",
-  "": "resultado",
-  "temperament": "Amigável",
-  "sobre_temperamento": "Amigável",
-  "informacoes_basicas_origem": "Escócia",
-  "life_span": "10 - 12 anos",
-  "caracteristicas_fisico_frequencia_queda_pelo": "moderada",
-  "links_sites_referencia": "https:www.akc.orgdog-breedsgolden-retriever",
-  "height_imperial": "22 - 24 polegadas",
-  "height_metric": "56 - 61 centímetros",
-  "weight_metric": "25 - 34 quilogramas",
-  "caracteristicas_personalidade": "brincalhão",
-  "caracteristicas_social_sociabilidade_com_estranhos": "boa",
-  "racas_relacionadas": "Nenhuma",
-  "cuidados_treinamento": "inteligente e fácil de treinar",
-  "caracteristicas_treinamento": "facilidadetreino",
-  "cuidados_grooming": "Escovação frequente",
-  "sobre_aparencia": "Pelagem reta ou ondulada",
-  "cores_e_marcacoes_cores": "dourado a creme",
+  "id": "golden-retriever",
   "nome": "Golden Retriever",
-  "bred_for": "Retrieving birds",
-  "breed_group": "Sporting",
-  "caracteristicas_personalidade_nivel_energia": "Alto",
-  "caracteristicas_personalidade_socializacao": "Amigável",
-  "caracteristicas_personalidade_tendencia_latir": "Baixa a moderada",
-  "caracteristicas_treinamento_facilidade_treino": "Fácil",
-  "caracteristicas_treinamento_inteligencia": "Inteligente",
-  "caracteristicas_treinamento_tendencia_fugir": "Baixa",
-  "cuidados_exercicios": "Exercícios diários",
-  "images": "https:cdn.akc.orgcontentarticle-body-imagegoldenretriever.jpg",
-  "informacoes_basicas_data_origem": "1920-1930",
-  "informacoes_basicas_grupo": "Sporting",
-  "links_referencias": "https:pt.wikipedia.orgwikiGoldenRetriever",
-  "links_videos": "https:www.youtube.comwatchvlZ65r93FH3M",
-  "links_videos_youtube": "https:www.youtube.comwatchvlZ65r93FH3M",
-  "name": "Golden Retriever",
-  "origin": "Escócia",
-  "sobre_saude": "Displasia do quadril",
-  "weight_imperial": "55 - 75 libras",
-  "caracteristicas_personalidade_amigvel": "Sim",
-  "cores_e_marcacoes_cores_preto": "Não",
-  "cores_e_marcacoes_marcacoes_padro_tricolor_de_preto": "Não",
-  "imagens": "https:www.akc.orgbreedsgoldenretriever",
-  "reference_image_id": 142,
-  "id": "golden-retriever"
+  "slug": "golden-retriever",
+  "nome_en": "Golden Retriever",
+  "apelidos": [
+    "Golden",
+    "Retriever",
+    "Dourado"
+  ],
+  "categoria": "Grande",
+  "ficha_tecnica": {
+    "origem": "Escócia",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "68 cm",
+    "altura_femea": "64 cm",
+    "peso_macho": "31.6 kg",
+    "peso_femea": "27 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1988
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Golden Retriever é uma raça de porte grande originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Golden Retriever originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Golden Retriever possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Inchaço gástrico"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Golden Retriever - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Golden Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "golden-retriever",
+      "golden retriever",
+      "grande",
+      "escócia"
+    ]
+  },
+  "imagem_principal": "/images/breeds/golden-retriever.jpg",
+  "galeria": [
+    "/images/breeds/golden-retriever-1.jpg",
+    "/images/breeds/golden-retriever-2.jpg",
+    "/images/breeds/golden-retriever-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=golden-retriever",
+  "popularidade": 33125,
+  "ranking_brasil": 125,
+  "custo_mensal_estimado": [
+    335,
+    958
+  ]
 }

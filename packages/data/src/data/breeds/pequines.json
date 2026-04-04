@@ -1,0 +1,89 @@
+{
+  "id": "pequines",
+  "nome": "Pequinês",
+  "slug": "pequines",
+  "nome_en": "Pekingese",
+  "apelidos": [],
+  "categoria": "Toy",
+  "ficha_tecnica": {
+    "origem": "China",
+    "expectativa_vida": "11 - 14 anos",
+    "altura_macho": "25 cm",
+    "altura_femea": "23 cm",
+    "peso_macho": "3.9 kg",
+    "peso_femea": "1 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1996
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Pequinês é uma raça de porte toy originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Pequinês originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Pequinês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Pequinês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Pequinês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "pequines",
+      "pequinês",
+      "toy",
+      "china"
+    ]
+  },
+  "imagem_principal": "/images/breeds/pequines.jpg",
+  "galeria": [
+    "/images/breeds/pequines-1.jpg",
+    "/images/breeds/pequines-2.jpg",
+    "/images/breeds/pequines-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=pequines",
+  "popularidade": 14740,
+  "ranking_brasil": 61,
+  "custo_mensal_estimado": [
+    291,
+    726
+  ]
+}

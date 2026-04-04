@@ -1,0 +1,86 @@
+{
+  "id": "galgo-espanhol",
+  "nome": "Galgo Espanhol",
+  "slug": "galgo-espanhol",
+  "nome_en": "Spanish Greyhound",
+  "apelidos": [
+    "Galgo",
+    "Espanhol"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Espanha",
+    "expectativa_vida": "10 - 16 anos",
+    "altura_macho": "43 cm",
+    "altura_femea": "38 cm",
+    "peso_macho": "15.6 kg",
+    "peso_femea": "14.2 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1923
+  },
+  "caracteristicas": {
+    "energia": 2,
+    "inteligencia": 2,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Galgo Espanhol é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Galgo Espanhol originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Galgo Espanhol possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Galgo Espanhol - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Galgo Espanhol: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "galgo-espanhol",
+      "galgo espanhol",
+      "médio",
+      "espanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/galgo-espanhol.jpg",
+  "galeria": [
+    "/images/breeds/galgo-espanhol-1.jpg",
+    "/images/breeds/galgo-espanhol-2.jpg",
+    "/images/breeds/galgo-espanhol-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=galgo-espanhol",
+  "popularidade": 49421,
+  "ranking_brasil": 77,
+  "custo_mensal_estimado": [
+    499,
+    946
+  ]
+}

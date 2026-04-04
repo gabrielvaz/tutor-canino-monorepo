@@ -1,0 +1,92 @@
+{
+  "id": "spaniel-tibetano",
+  "nome": "Spaniel Tibetano",
+  "slug": "spaniel-tibetano",
+  "nome_en": "Tibetan Spaniel",
+  "apelidos": [
+    "Spaniel",
+    "Tibetano"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Tibete",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "26 cm",
+    "altura_femea": "23 cm",
+    "peso_macho": "6.1 kg",
+    "peso_femea": "4.6 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1954
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 3,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Spaniel Tibetano é uma raça de porte pequeno originária de Tibete. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Spaniel Tibetano originou-se em Tibete, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Spaniel Tibetano possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Spaniel Tibetano - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Spaniel Tibetano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "spaniel-tibetano",
+      "spaniel tibetano",
+      "pequeno",
+      "tibete"
+    ]
+  },
+  "imagem_principal": "/images/breeds/spaniel-tibetano.jpg",
+  "galeria": [
+    "/images/breeds/spaniel-tibetano-1.jpg",
+    "/images/breeds/spaniel-tibetano-2.jpg",
+    "/images/breeds/spaniel-tibetano-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=spaniel-tibetano",
+  "popularidade": 6787,
+  "ranking_brasil": 170,
+  "custo_mensal_estimado": [
+    306,
+    791
+  ]
+}

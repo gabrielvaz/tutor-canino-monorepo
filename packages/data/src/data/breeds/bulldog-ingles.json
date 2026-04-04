@@ -1,0 +1,87 @@
+{
+  "id": "bulldog-ingles",
+  "nome": "Bulldog Inglês",
+  "slug": "bulldog-ingles",
+  "nome_en": "English Bulldog",
+  "apelidos": [
+    "Bulldog",
+    "Inglês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "10 - 17 anos",
+    "altura_macho": "49 cm",
+    "altura_femea": "43 cm",
+    "peso_macho": "27.6 kg",
+    "peso_femea": "22.9 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1916
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 1,
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Bulldog Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bulldog Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bulldog Inglês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bulldog Inglês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bulldog Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bulldog-ingles",
+      "bulldog inglês",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bulldog-ingles.jpg",
+  "galeria": [
+    "/images/breeds/bulldog-ingles-1.jpg",
+    "/images/breeds/bulldog-ingles-2.jpg",
+    "/images/breeds/bulldog-ingles-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bulldog-ingles",
+  "popularidade": 16229,
+  "ranking_brasil": 17,
+  "custo_mensal_estimado": [
+    437,
+    873
+  ]
+}

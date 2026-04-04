@@ -1,0 +1,86 @@
+{
+  "id": "cao-dagua-americano",
+  "nome": "Cão d'Água Americano",
+  "slug": "cao-dagua-americano",
+  "nome_en": "American Water Spaniel",
+  "apelidos": [
+    "Cão",
+    "Americano"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Estados Unidos",
+    "expectativa_vida": "11 - 16 anos",
+    "altura_macho": "40 cm",
+    "altura_femea": "37 cm",
+    "peso_macho": "13.1 kg",
+    "peso_femea": "12 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1989
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Cão d'Água Americano é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Cão d'Água Americano originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Cão d'Água Americano possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Cão d'Água Americano - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Cão d'Água Americano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "cao-dagua-americano",
+      "cão d'água americano",
+      "médio",
+      "estados unidos"
+    ]
+  },
+  "imagem_principal": "/images/breeds/cao-dagua-americano.jpg",
+  "galeria": [
+    "/images/breeds/cao-dagua-americano-1.jpg",
+    "/images/breeds/cao-dagua-americano-2.jpg",
+    "/images/breeds/cao-dagua-americano-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=cao-dagua-americano",
+  "popularidade": 33948,
+  "ranking_brasil": 9,
+  "custo_mensal_estimado": [
+    398,
+    647
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "sealyham-terrier",
+  "nome": "Sealyham Terrier",
+  "slug": "sealyham-terrier",
+  "nome_en": "Sealyham Terrier",
+  "apelidos": [
+    "Sealyham",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "País de Gales",
+    "expectativa_vida": "11 - 12 anos",
+    "altura_macho": "33 cm",
+    "altura_femea": "29 cm",
+    "peso_macho": "8.1 kg",
+    "peso_femea": "6 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1909
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Sealyham Terrier é uma raça de porte pequeno originária de País de Gales. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Sealyham Terrier originou-se em País de Gales, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Sealyham Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Sealyham Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Sealyham Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "sealyham-terrier",
+      "sealyham terrier",
+      "pequeno",
+      "país de gales"
+    ]
+  },
+  "imagem_principal": "/images/breeds/sealyham-terrier.jpg",
+  "galeria": [
+    "/images/breeds/sealyham-terrier-1.jpg",
+    "/images/breeds/sealyham-terrier-2.jpg",
+    "/images/breeds/sealyham-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=sealyham-terrier",
+  "popularidade": 2028,
+  "ranking_brasil": 182,
+  "custo_mensal_estimado": [
+    234,
+    1039
+  ]
+}

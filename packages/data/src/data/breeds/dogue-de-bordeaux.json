@@ -1,0 +1,85 @@
+{
+  "id": "dogue-de-bordeaux",
+  "nome": "Dogue de Bordeaux",
+  "slug": "dogue-de-bordeaux",
+  "nome_en": "Dogue de Bordeaux",
+  "apelidos": [
+    "Dogue",
+    "Bordeaux"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "França",
+    "expectativa_vida": "12 - 17 anos",
+    "altura_macho": "55 cm",
+    "altura_femea": "50 cm",
+    "peso_macho": "19.1 kg",
+    "peso_femea": "15.6 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1930
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 1,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Dogue de Bordeaux é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Dogue de Bordeaux originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Dogue de Bordeaux possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Dogue de Bordeaux - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Dogue de Bordeaux: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "dogue-de-bordeaux",
+      "dogue de bordeaux",
+      "médio",
+      "frança"
+    ]
+  },
+  "imagem_principal": "/images/breeds/dogue-de-bordeaux.jpg",
+  "galeria": [
+    "/images/breeds/dogue-de-bordeaux-1.jpg",
+    "/images/breeds/dogue-de-bordeaux-2.jpg",
+    "/images/breeds/dogue-de-bordeaux-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=dogue-de-bordeaux",
+  "popularidade": 16863,
+  "ranking_brasil": 132,
+  "custo_mensal_estimado": [
+    458,
+    526
+  ]
+}

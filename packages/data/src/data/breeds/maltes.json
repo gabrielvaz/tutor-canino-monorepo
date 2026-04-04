@@ -1,0 +1,90 @@
+{
+  "id": "maltes",
+  "nome": "Maltês",
+  "slug": "maltes",
+  "nome_en": "Maltese",
+  "apelidos": [
+    "Maltese"
+  ],
+  "categoria": "Toy",
+  "ficha_tecnica": {
+    "origem": "Malta",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "20 cm",
+    "altura_femea": "15 cm",
+    "peso_macho": "4.6 kg",
+    "peso_femea": "1.9 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1912
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 2,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Maltês é uma raça de porte toy originária de Malta. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Maltês originou-se em Malta, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Maltês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Sedosa, Longa",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Maltês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Maltês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "maltes",
+      "maltês",
+      "toy",
+      "malta"
+    ]
+  },
+  "imagem_principal": "/images/breeds/maltes.jpg",
+  "galeria": [
+    "/images/breeds/maltes-1.jpg",
+    "/images/breeds/maltes-2.jpg",
+    "/images/breeds/maltes-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=maltes",
+  "popularidade": 45766,
+  "ranking_brasil": 60,
+  "custo_mensal_estimado": [
+    217,
+    871
+  ]
+}

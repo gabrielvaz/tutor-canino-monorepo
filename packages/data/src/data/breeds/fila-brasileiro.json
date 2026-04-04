@@ -1,40 +1,85 @@
 {
-  "name": "Fila Brasileiro",
-  "caracteristicas_familia_afinidade_com_adultos": "Não encontrei informações sobre a raça Fila brasileiro",
-  "informacoes_basicas_altura_macho": "Não encontrei informações sobre a raça Fila brasileiro",
-  "sobre_historia": "Não encontrei informações sobre a raça Fila brasileiro",
-  "subtitulo": "Informação não encontrada",
-  "sobre_aparencia": "Porte atlético e musculoso",
-  "origin": "Brasil",
-  "bred_for": "Caça",
-  "breed_group": "Mastiff",
-  "caracteristicas_personalidade": "Protective, loyal, friendly",
-  "caracteristicas_treinamento": "Intelligent, trainable",
-  "cuidados_grooming": "Semanal",
-  "height_imperial": "25.5",
-  "height_metric": "65",
-  "weight_imperial": "110",
-  "weight_metric": "50",
-  "caracteristicas_personalidade_nivel_energia": "Alto",
-  "caracteristicas_personalidade_socializacao": "Amigável com a família",
-  "caracteristicas_personalidade_tendencia_latir": "Médio",
-  "caracteristicas_treinamento_facilidade_treino": "Média",
-  "caracteristicas_treinamento_inteligencia": "Média",
-  "caracteristicas_treinamento_tendencia_fugir": "Médio",
-  "cuidados_exercicios": "Diários",
-  "images": "https://cdn.akc.org/Marketplace/Breeds/Fila%20Brasileiro/Fila%20Brasileiro_01.jpg",
-  "informacoes_basicas_data_origem": "1950",
-  "informacoes_basicas_grupo": "Cães de Trabalho",
-  "informacoes_basicas_origem": "Brasil",
-  "life_span": "10 a 12",
-  "links_referencias": "https://www.akc.org/dog-breeds/fila-brasileiro/",
-  "links_sites_referencia": "https://pt.wikipedia.org/wiki/Fila_Brasileiro",
-  "links_videos": "https://www.youtube.com/watch?v=cFbHmyu-9AI",
-  "links_videos_youtube": "https://www.youtube.com/watch?v=mx-r2-p21kU",
-  "racas_relacionadas": "Alapaha Blue Blood Bulldog, Bulldog, Dogue de Bordeaux, Boxer",
-  "sobre_saude": "Displasia de quadril, Hipotireoidismo",
-  "sobre_temperamento": "Leal, Protetor, Teimoso",
-  "temperament": "Teimoso, Leal, Protetor",
+  "id": "fila-brasileiro",
   "nome": "Fila Brasileiro",
-  "id": "fila-brasileiro"
+  "slug": "fila-brasileiro",
+  "nome_en": "Brazilian Mastiff",
+  "apelidos": [
+    "Fila",
+    "Brasileiro"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Brasil",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "40 cm",
+    "altura_femea": "36 cm",
+    "peso_macho": "14.7 kg",
+    "peso_femea": "12.4 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1935
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Fila Brasileiro é uma raça de porte médio originária de Brasil. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Fila Brasileiro originou-se em Brasil, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Fila Brasileiro possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Fila Brasileiro - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Fila Brasileiro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "fila-brasileiro",
+      "fila brasileiro",
+      "médio",
+      "brasil"
+    ]
+  },
+  "imagem_principal": "/images/breeds/fila-brasileiro.jpg",
+  "galeria": [
+    "/images/breeds/fila-brasileiro-1.jpg",
+    "/images/breeds/fila-brasileiro-2.jpg",
+    "/images/breeds/fila-brasileiro-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=fila-brasileiro",
+  "popularidade": 7659,
+  "ranking_brasil": 62,
+  "custo_mensal_estimado": [
+    397,
+    755
+  ]
 }

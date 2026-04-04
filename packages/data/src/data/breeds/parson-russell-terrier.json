@@ -1,0 +1,86 @@
+{
+  "id": "parson-russell-terrier",
+  "nome": "Parson Russell Terrier",
+  "slug": "parson-russell-terrier",
+  "nome_en": "Parson Russell Terrier",
+  "apelidos": [
+    "Parson",
+    "Terrier"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "43 cm",
+    "peso_macho": "12.1 kg",
+    "peso_femea": "8 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1932
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Parson Russell Terrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Parson Russell Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Parson Russell Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Parson Russell Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Parson Russell Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "parson-russell-terrier",
+      "parson russell terrier",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/parson-russell-terrier.jpg",
+  "galeria": [
+    "/images/breeds/parson-russell-terrier-1.jpg",
+    "/images/breeds/parson-russell-terrier-2.jpg",
+    "/images/breeds/parson-russell-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=parson-russell-terrier",
+  "popularidade": 37686,
+  "ranking_brasil": 11,
+  "custo_mensal_estimado": [
+    252,
+    1142
+  ]
+}

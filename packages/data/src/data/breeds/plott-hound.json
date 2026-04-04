@@ -1,0 +1,86 @@
+{
+  "id": "plott-hound",
+  "nome": "Plott Hound",
+  "slug": "plott-hound",
+  "nome_en": "Plott Hound",
+  "apelidos": [
+    "Plott",
+    "Hound"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Estados Unidos",
+    "expectativa_vida": "12 - 12 anos",
+    "altura_macho": "45 cm",
+    "altura_femea": "43 cm",
+    "peso_macho": "19.8 kg",
+    "peso_femea": "14.9 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1974
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Plott Hound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Plott Hound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Plott Hound possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Plott Hound - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Plott Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "plott-hound",
+      "plott hound",
+      "médio",
+      "estados unidos"
+    ]
+  },
+  "imagem_principal": "/images/breeds/plott-hound.jpg",
+  "galeria": [
+    "/images/breeds/plott-hound-1.jpg",
+    "/images/breeds/plott-hound-2.jpg",
+    "/images/breeds/plott-hound-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=plott-hound",
+  "popularidade": 39557,
+  "ranking_brasil": 58,
+  "custo_mensal_estimado": [
+    218,
+    1255
+  ]
+}

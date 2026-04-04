@@ -1,0 +1,86 @@
+{
+  "id": "afghan-hound",
+  "nome": "Afghan Hound",
+  "slug": "afghan-hound",
+  "nome_en": "Afghan Hound",
+  "apelidos": [
+    "Afghan",
+    "Hound"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Afeganistão",
+    "expectativa_vida": "11 - 16 anos",
+    "altura_macho": "51 cm",
+    "altura_femea": "48 cm",
+    "peso_macho": "16.8 kg",
+    "peso_femea": "13.1 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1956
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 2,
+    "queda_pelo": 1,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Afghan Hound é uma raça de porte médio originária de Afeganistão. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Afghan Hound originou-se em Afeganistão, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Afghan Hound possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Afghan Hound - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Afghan Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "afghan-hound",
+      "afghan hound",
+      "médio",
+      "afeganistão"
+    ]
+  },
+  "imagem_principal": "/images/breeds/afghan-hound.jpg",
+  "galeria": [
+    "/images/breeds/afghan-hound-1.jpg",
+    "/images/breeds/afghan-hound-2.jpg",
+    "/images/breeds/afghan-hound-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=afghan-hound",
+  "popularidade": 27064,
+  "ranking_brasil": 2,
+  "custo_mensal_estimado": [
+    412,
+    520
+  ]
+}

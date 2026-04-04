@@ -1,0 +1,90 @@
+{
+  "id": "king-charles-spaniel",
+  "nome": "King Charles Spaniel",
+  "slug": "king-charles-spaniel",
+  "nome_en": "King Charles Spaniel",
+  "apelidos": [
+    "King",
+    "Spaniel"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "28 cm",
+    "altura_femea": "23 cm",
+    "peso_macho": "9 kg",
+    "peso_femea": "7.5 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1938
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 5,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "King Charles Spaniel é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O King Charles Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "King Charles Spaniel possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "King Charles Spaniel - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre King Charles Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "king-charles-spaniel",
+      "king charles spaniel",
+      "pequeno",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/king-charles-spaniel.jpg",
+  "galeria": [
+    "/images/breeds/king-charles-spaniel-1.jpg",
+    "/images/breeds/king-charles-spaniel-2.jpg",
+    "/images/breeds/king-charles-spaniel-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=king-charles-spaniel",
+  "popularidade": 15608,
+  "ranking_brasil": 153,
+  "custo_mensal_estimado": [
+    213,
+    1133
+  ]
+}

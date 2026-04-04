@@ -1,0 +1,86 @@
+{
+  "id": "podenco-ibicenco",
+  "nome": "Podenco Ibicenco",
+  "slug": "podenco-ibicenco",
+  "nome_en": "Ibizan Hound",
+  "apelidos": [
+    "Podenco",
+    "Ibicenco"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Espanha",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "50 cm",
+    "altura_femea": "47 cm",
+    "peso_macho": "20.9 kg",
+    "peso_femea": "19.8 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1961
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 1,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Podenco Ibicenco é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Podenco Ibicenco originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Podenco Ibicenco possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Podenco Ibicenco - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Podenco Ibicenco: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "podenco-ibicenco",
+      "podenco ibicenco",
+      "médio",
+      "espanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/podenco-ibicenco.jpg",
+  "galeria": [
+    "/images/breeds/podenco-ibicenco-1.jpg",
+    "/images/breeds/podenco-ibicenco-2.jpg",
+    "/images/breeds/podenco-ibicenco-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=podenco-ibicenco",
+  "popularidade": 50762,
+  "ranking_brasil": 176,
+  "custo_mensal_estimado": [
+    416,
+    872
+  ]
+}

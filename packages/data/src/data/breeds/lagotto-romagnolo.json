@@ -1,0 +1,86 @@
+{
+  "id": "lagotto-romagnolo",
+  "nome": "Lagotto Romagnolo",
+  "slug": "lagotto-romagnolo",
+  "nome_en": "Lagotto Romagnolo",
+  "apelidos": [
+    "Lagotto",
+    "Romagnolo"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Itália",
+    "expectativa_vida": "12 - 13 anos",
+    "altura_macho": "37 cm",
+    "altura_femea": "34 cm",
+    "peso_macho": "19.5 kg",
+    "peso_femea": "17.3 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1945
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 1,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Lagotto Romagnolo é uma raça de porte médio originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Lagotto Romagnolo originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Lagotto Romagnolo possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Lagotto Romagnolo - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Lagotto Romagnolo: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "lagotto-romagnolo",
+      "lagotto romagnolo",
+      "médio",
+      "itália"
+    ]
+  },
+  "imagem_principal": "/images/breeds/lagotto-romagnolo.jpg",
+  "galeria": [
+    "/images/breeds/lagotto-romagnolo-1.jpg",
+    "/images/breeds/lagotto-romagnolo-2.jpg",
+    "/images/breeds/lagotto-romagnolo-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=lagotto-romagnolo",
+  "popularidade": 40851,
+  "ranking_brasil": 89,
+  "custo_mensal_estimado": [
+    215,
+    853
+  ]
+}

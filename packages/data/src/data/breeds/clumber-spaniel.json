@@ -1,50 +1,86 @@
 {
-  "Name": "Clumber Spaniel",
-  "Origin": "England",
-  "Bred For": "Flushing and retrieving game birds",
-  "Breed Group": "Sporting",
-  "Energy Level": "Low to moderate",
-  "Sociability": "Good",
-  "Tendency to bark": "Low",
-  "Trainability": "Good",
-  "Intelligence": "Good",
-  "Tendency to run away": "Low",
-  "Exercise Requirements": "Moderate",
-  "Grooming": "Weekly brushing",
-  "Height (imperial)": "17-20 inches",
-  "Height (metric)": "43-51 centimeters",
-  "Weight (imperial)": "55-85 pounds",
-  "Weight (metric)": "25-39 kilograms",
-  "**name**": "Clumber Spaniel",
-  "**bred_for**": "Bird hunting, companionship",
-  "**breed_group**": "Sporting",
-  "**caracteristicas_personalidade_nivel_energia**": "Moderate",
-  "**caracteristicas_personalidade_socializacao**": "Friendly,gentle",
-  "**caracteristicas_personalidade_tendencia_latir**": "Moderate",
-  "**caracteristicas_treinamento_facilidade_treino**": "Moderate",
-  "**caracteristicas_treinamento_inteligencia**": "Average",
-  "**caracteristicas_treinamento_tendencia_fugir**": "Low",
-  "**cuidados_exercicios**": "Moderate",
-  "**cuidados_grooming**": "Moderate",
-  "**height_imperial**": "17-20 in (43-51 cm)",
-  "**height_metric**": "43-51 cm",
-  "**images**": "[Image 1](https://cdn.akc.org/content/article-body-image/clumber-spaniel-02.jpg)",
-  "**informacoes_basicas_data_origem**": "1854",
-  "**informacoes_basicas_grupo**": "Sporting",
-  "**informacoes_basicas_origem**": "England",
-  "**life_span**": "10-12 years",
-  "**links_referencias**": "[Wikipedia](https://en.wikipedia.org/wiki/Clumber_Spaniel)",
-  "**links_sites_referencia**": "[AKC](https://www.akc.org/dog-breeds/clumber-spaniel/)",
-  "**links_videos**": "[YouTube](https://www.youtube.com/watch?v=o88h79vWDrM)",
-  "**links_videos_youtube**": "[YouTube2](https://www.youtube.com/watch?v=9GyJjGys-A4)",
-  "**origin**": "England",
-  "**racas_relacionadas**": "Cockerspaniel, Sussex Spaniel",
-  "**sobre_aparencia**": "Long, silky feathers",
-  "**sobre_saude**": "Ear infections, eye problems",
-  "**sobre_temperamento**": "Calm, gentle, friendly",
-  "**temperament**": "Calm, gentle, friendly",
-  "**weight_imperial**": "55-85 lb (25-38 kg)",
-  "**weight_metric**": "25-38 kg",
+  "id": "clumber-spaniel",
   "nome": "Clumber Spaniel",
-  "id": "clumber-spaniel"
+  "slug": "clumber-spaniel",
+  "nome_en": "Clumber Spaniel",
+  "apelidos": [
+    "Clumber",
+    "Spaniel"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 14 anos",
+    "altura_macho": "47 cm",
+    "altura_femea": "42 cm",
+    "peso_macho": "29.7 kg",
+    "peso_femea": "25.7 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1957
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 1,
+    "queda_pelo": 1,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Clumber Spaniel é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Clumber Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Clumber Spaniel possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Clumber Spaniel - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Clumber Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "clumber-spaniel",
+      "clumber spaniel",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/clumber-spaniel.jpg",
+  "galeria": [
+    "/images/breeds/clumber-spaniel-1.jpg",
+    "/images/breeds/clumber-spaniel-2.jpg",
+    "/images/breeds/clumber-spaniel-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=clumber-spaniel",
+  "popularidade": 33135,
+  "ranking_brasil": 146,
+  "custo_mensal_estimado": [
+    353,
+    1272
+  ]
 }

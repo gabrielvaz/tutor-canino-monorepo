@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import type { Breed } from '../../types';
+import type { Breed } from '../../types/breed';
 
 // Get breeds directory - works from both root and apps/web
 const getBreedsDir = () => {
@@ -38,20 +38,24 @@ export function getAllBreeds(): Breed[] {
 }
 
 export function getBreedsBasic(): Breed[] {
-  return getAllBreeds();
+  return getAllBreeds().map(breed => ({
+    id: breed.id,
+    nome: breed.nome,
+    slug: breed.slug,
+    categoria: breed.categoria,
+    imagem_principal: breed.imagem_principal,
+    popularidade: breed.popularidade,
+  })) as any; // Cast as any for basic list usage if needed
 }
 
 export function getBreedBySlug(slug: string): Breed | undefined {
   const breeds = getAllBreeds();
-  return breeds.find(breed => {
-    const breedSlug = breed.nome?.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    return breedSlug === slug;
-  });
+  return breeds.find(breed => breed.slug === slug);
 }
 
-export function getBreedsByCategory(porte: string): Breed[] {
+export function getBreedsByCategory(categoria: Breed['categoria']): Breed[] {
   const breeds = getAllBreeds();
-  return breeds.filter(b => b.caracteristicas?.fisico?.porte === porte);
+  return breeds.filter(b => b.categoria === categoria);
 }
 
 export function searchBreeds(query: string): Breed[] {
@@ -59,8 +63,16 @@ export function searchBreeds(query: string): Breed[] {
   const lowerQuery = query.toLowerCase();
 
   return breeds.filter(breed =>
-    (breed.nome || breed.name || '').toLowerCase().includes(lowerQuery) ||
+    breed.nome.toLowerCase().includes(lowerQuery) ||
+    (breed.nome_en || '').toLowerCase().includes(lowerQuery) ||
     breed.sobre?.descricao?.toLowerCase().includes(lowerQuery) ||
-    breed.informacoes_basicas?.origem?.toLowerCase().includes(lowerQuery)
+    breed.ficha_tecnica?.origem?.toLowerCase().includes(lowerQuery) ||
+    breed.apelidos?.some(a => a.toLowerCase().includes(lowerQuery))
   );
+}
+
+export function getPopularBreeds(limit = 8): Breed[] {
+  return getAllBreeds()
+    .sort((a, b) => (b.popularidade || 0) - (a.popularidade || 0))
+    .slice(0, limit);
 }

@@ -1,0 +1,87 @@
+{
+  "id": "mastiff-ingles",
+  "nome": "Mastiff Inglês",
+  "slug": "mastiff-ingles",
+  "nome_en": "Mastiff",
+  "apelidos": [
+    "Mastiff",
+    "Inglês"
+  ],
+  "categoria": "Gigante",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "71 cm",
+    "altura_femea": "68 cm",
+    "peso_macho": "60 kg",
+    "peso_femea": "54.3 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1938
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 2,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Mastiff Inglês é uma raça de porte gigante originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Mastiff Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Mastiff Inglês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Apartamentos pequenos",
+      "Tutores sedentários",
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Mastiff Inglês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Mastiff Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "mastiff-ingles",
+      "mastiff inglês",
+      "gigante",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/mastiff-ingles.jpg",
+  "galeria": [
+    "/images/breeds/mastiff-ingles-1.jpg",
+    "/images/breeds/mastiff-ingles-2.jpg",
+    "/images/breeds/mastiff-ingles-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=mastiff-ingles",
+  "popularidade": 10867,
+  "ranking_brasil": 145,
+  "custo_mensal_estimado": [
+    328,
+    979
+  ]
+}

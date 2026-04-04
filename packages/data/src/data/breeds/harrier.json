@@ -1,143 +1,83 @@
 {
   "id": "harrier",
   "nome": "Harrier",
-  "subtitulo": "Perseguidor, Leal, Pacífico",
-  "informacoes_basicas": {
-    "altura": {
-      "macho": "46 a 56 cm",
-      "femea": "44 a 53 cm"
-    },
-    "peso": {
-      "macho": "25 a 36 kg",
-      "femea": "20 a 32 kg"
-    },
-    "expectativa_vida": "10 a 13 anos"
+  "slug": "harrier",
+  "nome_en": "Harrier",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 15 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "45 cm",
+    "peso_macho": "16.9 kg",
+    "peso_femea": "14.6 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1946
   },
   "caracteristicas": {
-    "familia": {
-      "afinidade_com_criancas": "Alta",
-      "afinidade_com_adultos": "Alta",
-      "afinidade_com_outros_animais": "Média"
-    },
-    "fisico": {
-      "porte": "Médio",
-      "tipo_pelo": "Curto e denso",
-      "frequencia_queda_pelo": "Baixa"
-    },
-    "social": {
-      "sociabilidade_com_estranhos": "Alta",
-      "sociabilidade_com_outros_caes": "Alta"
-    },
-    "personalidade": [
-      "Amigável",
-      "Leal",
-      "Enérgico",
-      "Inteligente",
-      "Calmo"
-    ]
+    "energia": 5,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "O Harrier é um cão de caça amigável e leal, conhecido por sua habilidade em rastrear e perseguir presas. Eles são cães ativos que adoram brincar e explorar.",
-    "historia": "O Harrier se originou na Inglaterra no século XIX como um cão de caça. Foi desenvolvido a partir do Foxhound e do Beagle para criar um cão rápido e ágil que pudesse rastrear e perseguir lebres."
-  },
-  "cuidados": {
-    "saude": "O Harrier é geralmente saudável, mas pode ser propenso a problemas de saúde como displasia de quadril e hipotireoidismo.",
-    "higiene": "O Harrier precisa de escovação regular para manter seu pelo curto e saudável. Eles também devem tomar banho ocasionalmente.",
-    "exercicio": "O Harrier é um cão ativo que precisa de bastante exercício diário. Eles gostam de correr, brincar e explorar.",
-    "treinamento": "O Harrier é inteligente e fácil de treinar. Eles respondem bem a métodos de treinamento positivos.",
-    "nutricao": "O Harrier deve ser alimentado com uma dieta de alta qualidade rica em proteínas e outros nutrientes."
-  },
-  "cores_e_marcacoes": {
-    "cores": [
-      "Preto e castanho",
-      "Tricolor"
+    "descricao": "Harrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Harrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Harrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
     ],
-    "marcacoes": [
-      "Máscara facial",
-      "Selas"
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
     ]
   },
-  "historico": {
-    "significado_cultural": "O Harrier é um cão de caça popular na Inglaterra há séculos. Eles também são usados como cães de terapia e cães de serviço."
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
   },
-  "racas_relacionadas": "akita",
-  "images": "https://i.pinimg.com/originals/8f/62/38/8f6238faa4c87827b4beb3c6d1db4ecf.jpg",
-  "highlight_photo": "harrier.png",
-  "bred_for": "hunting hares",
-  "breed_group": "hound",
-  "caracteristicas_personalidade_nivel_energia": "Moderado",
-  "caracteristicas_personalidade_socializacao": "Amigável com estranhos",
-  "caracteristicas_personalidade_tendencia_latir": "Baixa",
-  "caracteristicas_treinamento_facilidade_treino": "Moderada",
-  "caracteristicas_treinamento_inteligencia": "Média",
-  "caracteristicas_treinamento_tendencia_fugir": "Baixa",
-  "cuidados_exercicios": "bom com a família",
-  "cuidados_grooming": "Weekly brushing",
-  "height_imperial": "21-25",
-  "height_metric": "53-64",
-  "informacoes_basicas_data_origem": "Século XVIII",
-  "informacoes_basicas_grupo": "Hound",
-  "informacoes_basicas_origem": "Estados Unidos",
-  "life_span": "12-14 anos",
-  "links_referencias": "wikipedia(https://pt.wikipedia.org/wiki/foxterrier)",
-  "links_sites_referencia": "https://www.akc.org/dog-breeds/nan-or-137/",
-  "links_videos": "vídeo 1(https://www.youtube.com/watch?v=avshcm54gi)",
-  "links_videos_youtube": "vídeo 1(https://www.youtube.com/watch?v=fubkgh-5k94)",
-  "name": "bred_for",
-  "origin": "England",
-  "reference_image_id": "Nenhuma informação encontrada",
-  "sobre_aparencia": "pelagem dupla densa",
-  "sobre_saude": "o fox terrier de pelo duro é geralmente uma raça saudável",
-  "sobre_temperamento": "o fox terrier de pelo duro é um cão ativo e corajoso",
-  "temperament": "Friendly",
-  "weight_imperial": "45-65",
-  "weight_metric": "20-29",
-  "caracteristicas_personalidade": "Intelligent, friendly, playful",
-  "cores_e_marcacoes_marcacoes": "tricolor",
-  "cuidados_treinamento": "inteligente",
-  "cores_e_marcacoes_cores": "branco",
-  "cuidados_higiene": "escovação semanal",
-  "sobre_descricao": "cão de companhia pequeno",
-  "caracteristicas_treinamento": "Easy to train, eager to please",
-  "caracteristicas_fisico_porte": "longo",
-  "**breed_group**": "Hound",
-  "**caracteristicas_personalidade_nivel_energia**": "Moderate",
-  "**caracteristicas_personalidade_socializacao**": "Friendly",
-  "**caracteristicas_personalidade_tendencia_latir**": "Moderate",
-  "**caracteristicas_treinamento_facilidade_treino**": "Moderate",
-  "**caracteristicas_treinamento_inteligencia**": "Intelligent",
-  "**caracteristicas_treinamento_tendencia_fugir**": "Moderate",
-  "**cuidados_exercicios**": "Moderate",
-  "**cuidados_grooming**": "Lightly brush weekly",
-  "**height_imperial**": "21-25",
-  "**height_metric**": "53-64",
-  "**images**": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/English_Harrier.jpg/1200px-English_Harrier.jpg",
-  "**informacoes_basicas_data_origem**": "13th century",
-  "**informacoes_basicas_grupo**": "Hound Group",
-  "**informacoes_basicas_origem**": "England",
-  "**life_span**": "10-13 years",
-  "**links_referencias**": "https://en.wikipedia.org/wiki/Harrier",
-  "**links_sites_referencia**": "https://www.akc.org/dog-breeds/harrier/",
-  "**links_videos**": "https://www.youtube.com/watch?v=RZ_CA6lEeMk",
-  "**links_videos_youtube**": "https://www.youtube.com/watch?v=RZ_CA6lEeMk",
-  "**name**": "Harrier",
-  "**origin**": "England",
-  "**racas_relacionadas**": "Beagle, Basset Hound, Foxhound",
-  "**reference_image_id**": "37",
-  "**sobre_aparencia**": "Dense, short coat",
-  "**sobre_saude**": "Susceptible to hip dysplasia",
-  "**sobre_temperamento**": "Loyal, friendly, and affectionate",
-  "**temperament**": "Loyal, friendly, and affectionate",
-  "**weight_imperial**": "45-65",
-  "**weight_metric**": "20-29",
-  "ID": "harrier",
-  "group": "Hound Group",
-  "lifespan": "12-15 years",
-  "weight (kg)": "20 - 30",
-  "personality": "Friendly and outgoing, but can be stubborn and independent",
-  "colors": "Black, Tan, White",
-  "reference links": "https://dogtime.com/dog-breeds/harrier#/slide/1",
-  "breed_name": "Harrier",
-  "image": "https://cdn.akc.org/content/article-body-image/harrier_or_120.jpg",
-  "harrier": "Hunting"
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Harrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Harrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "harrier",
+      "harrier",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/harrier.jpg",
+  "galeria": [
+    "/images/breeds/harrier-1.jpg",
+    "/images/breeds/harrier-2.jpg",
+    "/images/breeds/harrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=harrier",
+  "popularidade": 8451,
+  "ranking_brasil": 157,
+  "custo_mensal_estimado": [
+    459,
+    1097
+  ]
 }

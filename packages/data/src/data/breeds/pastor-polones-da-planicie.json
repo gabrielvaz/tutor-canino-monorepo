@@ -1,0 +1,86 @@
+{
+  "id": "pastor-polones-da-planicie",
+  "nome": "Pastor Polonês da Planície",
+  "slug": "pastor-polones-da-planicie",
+  "nome_en": "Polish Lowland Sheepdog",
+  "apelidos": [
+    "Pastor",
+    "Planície"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Polônia",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "52 cm",
+    "altura_femea": "47 cm",
+    "peso_macho": "16.5 kg",
+    "peso_femea": "11.8 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1950
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 2,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Pastor Polonês da Planície é uma raça de porte médio originária de Polônia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Pastor Polonês da Planície originou-se em Polônia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Pastor Polonês da Planície possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Pastor Polonês da Planície - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Pastor Polonês da Planície: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "pastor-polones-da-planicie",
+      "pastor polonês da planície",
+      "médio",
+      "polônia"
+    ]
+  },
+  "imagem_principal": "/images/breeds/pastor-polones-da-planicie.jpg",
+  "galeria": [
+    "/images/breeds/pastor-polones-da-planicie-1.jpg",
+    "/images/breeds/pastor-polones-da-planicie-2.jpg",
+    "/images/breeds/pastor-polones-da-planicie-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=pastor-polones-da-planicie",
+  "popularidade": 33669,
+  "ranking_brasil": 24,
+  "custo_mensal_estimado": [
+    326,
+    608
+  ]
+}

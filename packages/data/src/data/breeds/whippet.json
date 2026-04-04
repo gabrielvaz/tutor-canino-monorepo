@@ -1,158 +1,83 @@
 {
   "id": "whippet",
   "nome": "Whippet",
-  "subtitulo": "Atléticos / Elegantes / Afetivos",
-  "informacoes_basicas": {
-    "altura": {
-      "macho": "47-55 cm",
-      "femea": "44-52 cm"
-    },
-    "peso": {
-      "macho": "12-16 kg",
-      "femea": "10-14 kg"
-    },
-    "expectativa_vida": "12-15 anos"
+  "slug": "whippet",
+  "nome_en": "Whippet",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "12 - 17 anos",
+    "altura_macho": "40 cm",
+    "altura_femea": "38 cm",
+    "peso_macho": "29.7 kg",
+    "peso_femea": "26 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1902
   },
   "caracteristicas": {
-    "familia": {
-      "afinidade_com_criancas": "Média",
-      "afinidade_com_adultos": "Alta",
-      "afinidade_com_outros_animais": "Média"
-    },
-    "fisico": {
-      "porte": "Médio",
-      "tipo_pelo": "Curto e fino",
-      "frequencia_queda_pelo": "Baixa"
-    },
-    "social": {
-      "sociabilidade_com_estranhos": "Alta",
-      "sociabilidade_com_outros_caes": "Média"
-    },
-    "personalidade": [
-      "Amigável",
-      "Afetivo",
-      "Inteligente",
-      "Brincalhão",
-      "Sensível"
-    ]
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "O Whippet é uma raça de cão de caça originária da Inglaterra. Conhecidos por sua elegância, agilidade e velocidade, foram originalmente criados para perseguir lebres.",
-    "historia": "A história do Whippet remonta ao século XIX, quando cruzamentos entre Galgos, Terriers e outras raças foram feitos para criar um cão de caça rápido e eficiente. Tornaram-se populares entre os mineiros no norte da Inglaterra, que os usavam para caçar coelhos e outras pequenas presas."
-  },
-  "cuidados": {
-    "saude": "Os Whippets são geralmente saudáveis, mas podem estar sujeitos a certos problemas de saúde, como hipotireoidismo, doenças oculares e problemas ósseos.",
-    "higiene": "Seus pelos curtos requerem escovação mínima, mas banhos ocasionais são recomendados.",
-    "exercicio": "Embora não precisem de tanto exercício quanto outras raças de caça, os Whippets ainda requerem passeios diários e oportunidades para correr.",
-    "treinamento": "Os Whippets são inteligentes e fáceis de treinar, mas podem ser sensíveis, portanto, a abordagem positiva é essencial.",
-    "nutricao": "Uma dieta de alta qualidade para raças médias é adequada, com atenção ao controle de peso, pois podem ter tendência a engordar."
-  },
-  "cores_e_marcacoes": {
-    "cores": [
-      "Preto",
-      "Azul",
-      "Fulvo",
-      "Vermelho",
-      "Branco"
+    "descricao": "Whippet é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Whippet originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Whippet possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
     ],
-    "marcacoes": [
-      "Manchas brancas no peito, pés ou cauda"
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
     ]
   },
-  "historico": {
-    "significado_cultural": "Os Whippets eram cães de caça apreciados na Inglaterra e eram frequentemente retratados em obras de arte e literatura."
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
   },
-  "racas_relacionadas": "Greyhound",
-  "images": "https://cdn.britannica.com/17/214317-050-2E726BC0/Whippet-dog-breed.jpg",
-  "highlight_photo": "whippet.png",
-  "**Nome do Campo**": "**Resultado**",
-  "bred_for": "Sighthound",
-  "breed_group": "Hound",
-  "caracteristicas_personalidade_nivel_energia": "ativo",
-  "caracteristicas_personalidade_socializacao": "amigável",
-  "caracteristicas_personalidade_tendencia_latir": "baixa",
-  "caracteristicas_treinamento_facilidade_treino": "fácil",
-  "caracteristicas_treinamento_inteligencia": "alta",
-  "caracteristicas_treinamento_tendencia_fugir": "baixa",
-  "cuidados_exercicios": "moderados",
-  "cuidados_grooming": "escovação semanal",
-  "height_imperial": "18-22",
-  "height_metric": "46-56 cm",
-  "informacoes_basicas_data_origem": "Século XIX",
-  "informacoes_basicas_grupo": "Grupo 10",
-  "informacoes_basicas_origem": "Inglaterra",
-  "life_span": "10-15 anos",
-  "links_referencias": "https://www.akc.org/dog-breeds/whippet/",
-  "links_sites_referencia": "https://www.thekennelclub.org.uk/services/public/breed/standard.aspx?id=232",
-  "links_videos": "https://www.youtube.com/watch?v=263FAh3ockA",
-  "links_videos_youtube": "https://www.youtube.com/watch?v=YfM-TxW_2_c",
-  "name": "Whippet",
-  "origin": "Inglaterra",
-  "reference_image_id": "22",
-  "sobre_aparencia": "atlética, leve",
-  "sobre_saude": "alguns problemas cardíacos",
-  "sobre_temperamento": "amigável, independente",
-  "temperament": "ativo, gentil",
-  "weight_imperial": "18-27",
-  "weight_metric": "8-12",
-  "| bred_for | Não encontrei informações sobre a raça nan": "|",
-  "| breed_group | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_personalidade_nivel_energia | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_personalidade_socializacao | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_personalidade_tendencia_latir | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_treinamento_facilidade_treino | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_treinamento_inteligencia | Não encontrei informações sobre a raça nan": "|",
-  "| caracteristicas_treinamento_tendencia_fugir | Não encontrei informações sobre a raça nan": "|",
-  "| cuidados_exercicios | Não encontrei informações sobre a raça nan": "|",
-  "| cuidados_grooming | Não encontrei informações sobre a raça nan": "|",
-  "| height_imperial | Não encontrei informações sobre a raça nan": "|",
-  "| height_metric | Não encontrei informações sobre a raça nan": "|",
-  "| informacoes_basicas_data_origem | Não encontrei informações sobre a raça nan": "|",
-  "| informacoes_basicas_grupo | Não encontrei informações sobre a raça nan": "|",
-  "| informacoes_basicas_origem | Não encontrei informações sobre a raça nan": "|",
-  "| life_span | Não encontrei informações sobre a raça nan": "|",
-  "| links_referencias | Não encontrei informações sobre a raça nan": "|",
-  "| links_sites_referencia | Não encontrei informações sobre a raça nan": "|",
-  "| links_videos | Não encontrei informações sobre a raça nan": "|",
-  "| links_videos_youtube | Não encontrei informações sobre a raça nan": "|",
-  "| name | Não encontrei informações sobre a raça nan": "|",
-  "| origin | Não encontrei informações sobre a raça nan": "|",
-  "| racas_relacionadas | Não encontrei informações sobre a raça nan": "|",
-  "| reference_image_id | Não encontrei informações sobre a raça nan": "|",
-  "| sobre_aparencia | Não encontrei informações sobre a raça nan": "|",
-  "| sobre_saude | Não encontrei informações sobre a raça nan": "|",
-  "| sobre_temperamento | Não encontrei informações sobre a raça nan": "|",
-  "| temperament | Não encontrei informações sobre a raça nan": "|",
-  "| weight_imperial | Não encontrei informações sobre a raça nan": "|",
-  "| weight_metric | Não encontrei informações sobre a raça nan": "|",
-  "caracteristicas_personalidade": "afetuoso",
-  "cores_e_marcacoes_marcacoes": "padrão tricolor de preto",
-  "cuidados_treinamento": "inteligente",
-  "cuidados_higiene": "escovação semanal",
-  "cores_e_marcacoes_cores": "branco",
-  "sobre_descricao": "cão de companhia pequeno",
-  "caracteristicas_fisico_tipo_pelo": "longo",
-  "nome_da_raa": "Whippet",
-  "altura_metrica": "51-58",
-  "altura_imperial": "20-23",
-  "peso_metrico": "10-14",
-  "peso_imperial": "22-31",
-  "vida_media": "12-15",
-  "cores": "Preto",
-  "marcaes": "Padrão tricolor de preto",
-  "tipo_pelo": "Curto",
-  "frequencia_queda_pelo": "Moderada",
-  "exercicios": "Diários",
-  "grooming": "Escovação regular",
-  "treinamento": "Fácil de treinar",
-  "inteligente": "Sim",
-  "tendencia_fugir": "Moderada",
-  "tendencia_latir": "Baixa",
-  "sociabilidade_com_outros_caes": "Boa",
-  "sociabilidade_com_estranhos": "Amigável",
-  "sociabilidade_com_crianas": "Boa",
-  "adequado_para_primeiro_dono": "Sim",
-  "temperamento": "Amigável",
-  "saude_problemas_comuns": "Alergias",
-  "imagem_1": "https:www.akc.orgdog-breedswhippet"
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Whippet - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Whippet: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "whippet",
+      "whippet",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/whippet.jpg",
+  "galeria": [
+    "/images/breeds/whippet-1.jpg",
+    "/images/breeds/whippet-2.jpg",
+    "/images/breeds/whippet-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=whippet",
+  "popularidade": 45104,
+  "ranking_brasil": 43,
+  "custo_mensal_estimado": [
+    350,
+    933
+  ]
 }

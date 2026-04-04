@@ -1,0 +1,88 @@
+{
+  "id": "lakeland-terrier",
+  "nome": "Lakeland Terrier",
+  "slug": "lakeland-terrier",
+  "nome_en": "Lakeland Terrier",
+  "apelidos": [
+    "Lakeland",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "12 - 13 anos",
+    "altura_macho": "28 cm",
+    "altura_femea": "24 cm",
+    "peso_macho": "5.8 kg",
+    "peso_femea": "-0.1 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1906
+  },
+  "caracteristicas": {
+    "energia": 2,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Lakeland Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Lakeland Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Lakeland Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Lakeland Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Lakeland Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "lakeland-terrier",
+      "lakeland terrier",
+      "pequeno",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/lakeland-terrier.jpg",
+  "galeria": [
+    "/images/breeds/lakeland-terrier-1.jpg",
+    "/images/breeds/lakeland-terrier-2.jpg",
+    "/images/breeds/lakeland-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=lakeland-terrier",
+  "popularidade": 15721,
+  "ranking_brasil": 42,
+  "custo_mensal_estimado": [
+    465,
+    925
+  ]
+}

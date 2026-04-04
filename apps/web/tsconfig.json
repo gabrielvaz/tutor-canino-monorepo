@@ -19,7 +19,9 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@tutorcanino/data": ["../../packages/data/src"],
+      "@tutorcanino/ui": ["../../packages/ui/src"]
     }
   },
   "include": [

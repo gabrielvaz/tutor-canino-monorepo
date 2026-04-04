@@ -1,126 +1,136 @@
 import type { Breed } from '@tutorcanino/data';
 import { BreedSpecs } from './breed-specs';
 import { BreedTemperament } from './breed-temperament';
+import { Info, History, ShieldAlert, Sparkles, HeartPulse, Stethoscope, Scissors } from 'lucide-react';
 
 interface BreedDetailProps {
   breed: Breed;
 }
 
 export function BreedDetail({ breed }: BreedDetailProps) {
+  const { sobre, saude, cuidados, ficha_tecnica } = breed;
+
   return (
-    <article className="max-w-4xl mx-auto">
-      {/* Header */}
-      <header className="mb-8">
-        <div className="flex items-center gap-2 text-sm text-gray-600 mb-2">
-          <span>{breed.informacoes_basicas?.origem || 'Origem desconhecida'}</span>
-          <span>•</span>
-          <span>{breed.informacoes_basicas?.expectativa_vida || 'Vida média: -'}</span>
+    <div className="flex flex-col gap-16">
+      {/* Introduction */}
+      <section id="sobre">
+        <h2 className="text-3xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+          <Info className="text-primary" size={32} />
+          Sobre o {breed.nome}
+        </h2>
+        <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-4">
+          {sobre?.descricao?.split('\n').map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
+          ))}
         </div>
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-          {breed.nome || breed.name || 'Raça'}
-        </h1>
-        {breed.subtitulo && (
-          <p className="text-xl text-gray-600 italic">{breed.subtitulo}</p>
-        )}
-      </header>
+      </section>
 
-      {/* Description */}
-      {breed.sobre?.descricao && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Sobre a Raça</h2>
-          <div className="prose prose-lg max-w-none text-gray-700">
-            {breed.sobre.descricao.split('\n').map((paragraph, index) => (
-              <p key={index} className="mb-4 last:mb-0">{paragraph}</p>
-            ))}
-          </div>
-        </section>
-      )}
-
-      {/* Grid Layout */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-        <div>
-          <BreedSpecs breed={breed} />
-        </div>
-        <div>
-          <BreedTemperament breed={breed} />
-        </div>
+      {/* Grid Layout Specs & Temperament */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <BreedSpecs breed={breed} />
+        <BreedTemperament breed={breed} />
       </div>
 
       {/* History */}
-      {breed.sobre?.historia && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">História</h2>
-          <div className="prose prose-lg max-w-none text-gray-700">
-            {breed.sobre.historia.split('\n').map((paragraph, index) => (
+      {sobre?.historia && (
+        <section id="historia">
+          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+            <History className="text-primary" size={32} />
+            Origem e História
+          </h2>
+          <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
+            {sobre.historia.split('\n').map((paragraph, index) => (
               <p key={index} className="mb-4 last:mb-0">{paragraph}</p>
             ))}
           </div>
         </section>
       )}
 
-      {/* Care */}
-      {breed.cuidados && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Cuidados</h2>
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <dl className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {breed.cuidados.exercicio && (
-                <div>
-                  <dt className="text-sm font-medium text-gray-500">Exercício</dt>
-                  <dd className="mt-1 text-gray-900">{breed.cuidados.exercicio}</dd>
-                </div>
-              )}
-              {breed.cuidados.saude && (
-                <div>
-                  <dt className="text-sm font-medium text-gray-500">Saúde</dt>
-                  <dd className="mt-1 text-gray-900">{breed.cuidados.saude}</dd>
-                </div>
-              )}
-              {breed.cuidados.higiene && (
-                <div>
-                  <dt className="text-sm font-medium text-gray-500">Higiene</dt>
-                  <dd className="mt-1 text-gray-900">{breed.cuidados.higiene}</dd>
-                </div>
-              )}
-              {breed.cuidados.treinamento && (
-                <div>
-                  <dt className="text-sm font-medium text-gray-500">Treinamento</dt>
-                  <dd className="mt-1 text-gray-900">{breed.cuidados.treinamento}</dd>
-                </div>
-              )}
-            </dl>
+      {/* Health & Diseases */}
+      {saude && (
+        <section id="saude" className="bg-primary/5 rounded-3xl p-8 md:p-12 border border-primary/10">
+          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+            <HeartPulse className="text-primary" size={32} />
+            Saúde e Bem-estar
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+            <div>
+              <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                <ShieldAlert className="text-primary" size={20} />
+                Problemas Comuns
+              </h3>
+              <ul className="grid grid-cols-1 gap-3">
+                {saude.doencas_comuns?.map((doenca, index) => (
+                  <li key={index} className="flex items-start gap-2 text-gray-600 font-medium">
+                    <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary flex-shrink-0" />
+                    {doenca}
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                <Stethoscope className="text-primary" size={20} />
+                Acompanhamento
+              </h3>
+              <p className="text-gray-600 leading-relaxed">
+                {saude.cuidados_veterinarios || 'Recomenda-se acompanhamento veterinário periódico para garantir a saúde da raça.'}
+              </p>
+            </div>
           </div>
         </section>
       )}
 
-      {/* Cultural Significance */}
-      {breed.historico?.significado_cultural && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Significado Cultural</h2>
-          <div className="prose prose-lg max-w-none text-gray-700">
-            {breed.historico.significado_cultural.split('\n').map((paragraph, index) => (
-              <p key={index} className="mb-4 last:mb-0">{paragraph}</p>
-            ))}
+      {/* Daily Care */}
+      {cuidados && (
+        <section id="cuidados">
+          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+            <Sparkles className="text-primary" size={32} />
+            Cuidados Diários
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+              <div className="w-12 h-12 rounded-xl bg-secondary/10 flex items-center justify-center text-secondary mb-4">
+                <Scissors size={24} />
+              </div>
+              <h3 className="text-lg font-bold text-gray-900 mb-2">Higiene e Pelo</h3>
+              <p className="text-sm text-gray-600">{cuidados.higiene || 'Escovação regular recomendada.'}</p>
+            </div>
+            <div className="p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+              <div className="w-12 h-12 rounded-xl bg-secondary/10 flex items-center justify-center text-secondary mb-4">
+                <HeartPulse size={24} />
+              </div>
+              <h3 className="text-lg font-bold text-gray-900 mb-2">Exercícios</h3>
+              <p className="text-sm text-gray-600">{cuidados.exercicios || 'Atividade física diária é essencial.'}</p>
+            </div>
+            <div className="p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+              <div className="w-12 h-12 rounded-xl bg-secondary/10 flex items-center justify-center text-secondary mb-4">
+                <Sparkles size={24} />
+              </div>
+              <h3 className="text-lg font-bold text-gray-900 mb-2">Alimentação</h3>
+              <p className="text-sm text-gray-600">{cuidados.alimentacao || 'Dieta balanceada conforme orientação profissional.'}</p>
+            </div>
           </div>
         </section>
       )}
 
-      {/* Related Breeds */}
-      {breed.racas_relacionadas && breed.racas_relacionadas.length > 0 && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Raças Relacionadas</h2>
-          <div className="flex flex-wrap gap-2">
-            {breed.racas_relacionadas.map((related, index) => (
-              <span
-                key={index}
-                className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-800"
-              >
-                {related}
-              </span>
+      {/* Fun Facts */}
+      {sobre?.curiosidades && sobre.curiosidades.length > 0 && (
+        <section id="curiosidades" className="bg-accent/5 rounded-3xl p-8 md:p-12 border border-accent/10">
+          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+            <Sparkles className="text-accent" size={32} />
+            Curiosidades
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {sobre.curiosidades.map((curiosidade, index) => (
+              <div key={index} className="flex gap-4 items-start p-4 rounded-xl bg-white/50">
+                <span className="text-2xl font-black text-accent/20">{(index + 1).toString().padStart(2, '0')}</span>
+                <p className="text-gray-700 font-medium italic leading-relaxed">{curiosidade}</p>
+              </div>
             ))}
           </div>
         </section>
       )}
-    </article>
+    </div>
   );
 }

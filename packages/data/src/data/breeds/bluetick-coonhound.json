@@ -1,0 +1,86 @@
+{
+  "id": "bluetick-coonhound",
+  "nome": "Bluetick Coonhound",
+  "slug": "bluetick-coonhound",
+  "nome_en": "Bluetick Coonhound",
+  "apelidos": [
+    "Bluetick",
+    "Coonhound"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Estados Unidos",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "38 cm",
+    "altura_femea": "36 cm",
+    "peso_macho": "29.5 kg",
+    "peso_femea": "25.4 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1970
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 1,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Bluetick Coonhound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bluetick Coonhound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bluetick Coonhound possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bluetick Coonhound - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bluetick Coonhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bluetick-coonhound",
+      "bluetick coonhound",
+      "médio",
+      "estados unidos"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bluetick-coonhound.jpg",
+  "galeria": [
+    "/images/breeds/bluetick-coonhound-1.jpg",
+    "/images/breeds/bluetick-coonhound-2.jpg",
+    "/images/breeds/bluetick-coonhound-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bluetick-coonhound",
+  "popularidade": 20450,
+  "ranking_brasil": 21,
+  "custo_mensal_estimado": [
+    305,
+    1407
+  ]
+}

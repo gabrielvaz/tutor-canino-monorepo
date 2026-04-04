@@ -1,0 +1,86 @@
+{
+  "id": "spaniel-ingles-springer",
+  "nome": "Spaniel Inglês Springer",
+  "slug": "spaniel-ingles-springer",
+  "nome_en": "English Springer Spaniel",
+  "apelidos": [
+    "Spaniel",
+    "Springer"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 12 anos",
+    "altura_macho": "47 cm",
+    "altura_femea": "44 cm",
+    "peso_macho": "28.2 kg",
+    "peso_femea": "25.4 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1913
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Spaniel Inglês Springer é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Spaniel Inglês Springer originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Spaniel Inglês Springer possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Spaniel Inglês Springer - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Spaniel Inglês Springer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "spaniel-ingles-springer",
+      "spaniel inglês springer",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/spaniel-ingles-springer.jpg",
+  "galeria": [
+    "/images/breeds/spaniel-ingles-springer-1.jpg",
+    "/images/breeds/spaniel-ingles-springer-2.jpg",
+    "/images/breeds/spaniel-ingles-springer-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=spaniel-ingles-springer",
+  "popularidade": 19234,
+  "ranking_brasil": 94,
+  "custo_mensal_estimado": [
+    317,
+    764
+  ]
+}

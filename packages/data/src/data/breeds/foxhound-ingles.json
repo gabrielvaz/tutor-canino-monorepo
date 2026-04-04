@@ -1,0 +1,86 @@
+{
+  "id": "foxhound-ingles",
+  "nome": "Foxhound Inglês",
+  "slug": "foxhound-ingles",
+  "nome_en": "English Foxhound",
+  "apelidos": [
+    "Foxhound",
+    "Inglês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "44 cm",
+    "altura_femea": "40 cm",
+    "peso_macho": "19.4 kg",
+    "peso_femea": "16.7 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1951
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Foxhound Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Foxhound Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Foxhound Inglês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Foxhound Inglês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Foxhound Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "foxhound-ingles",
+      "foxhound inglês",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/foxhound-ingles.jpg",
+  "galeria": [
+    "/images/breeds/foxhound-ingles-1.jpg",
+    "/images/breeds/foxhound-ingles-2.jpg",
+    "/images/breeds/foxhound-ingles-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=foxhound-ingles",
+  "popularidade": 23184,
+  "ranking_brasil": 128,
+  "custo_mensal_estimado": [
+    416,
+    629
+  ]
+}

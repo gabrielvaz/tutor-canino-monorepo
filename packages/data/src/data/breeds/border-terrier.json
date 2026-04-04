@@ -1,0 +1,89 @@
+{
+  "id": "border-terrier",
+  "nome": "Border Terrier",
+  "slug": "border-terrier",
+  "nome_en": "Border Terrier",
+  "apelidos": [
+    "Border",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "28 cm",
+    "altura_femea": "23 cm",
+    "peso_macho": "12.5 kg",
+    "peso_femea": "7.5 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1916
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Border Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Border Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Border Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Border Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Border Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "border-terrier",
+      "border terrier",
+      "pequeno",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/border-terrier.jpg",
+  "galeria": [
+    "/images/breeds/border-terrier-1.jpg",
+    "/images/breeds/border-terrier-2.jpg",
+    "/images/breeds/border-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=border-terrier",
+  "popularidade": 3531,
+  "ranking_brasil": 199,
+  "custo_mensal_estimado": [
+    281,
+    1110
+  ]
+}

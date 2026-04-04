@@ -1,0 +1,86 @@
+{
+  "id": "lundehund-noruegues",
+  "nome": "Lundehund Norueguês",
+  "slug": "lundehund-noruegues",
+  "nome_en": "Norwegian Lundehund",
+  "apelidos": [
+    "Lundehund",
+    "Norueguês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Noruega",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "44 cm",
+    "altura_femea": "41 cm",
+    "peso_macho": "24.3 kg",
+    "peso_femea": "18.7 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1907
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Lundehund Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Lundehund Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Lundehund Norueguês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Lundehund Norueguês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Lundehund Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "lundehund-noruegues",
+      "lundehund norueguês",
+      "médio",
+      "noruega"
+    ]
+  },
+  "imagem_principal": "/images/breeds/lundehund-noruegues.jpg",
+  "galeria": [
+    "/images/breeds/lundehund-noruegues-1.jpg",
+    "/images/breeds/lundehund-noruegues-2.jpg",
+    "/images/breeds/lundehund-noruegues-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=lundehund-noruegues",
+  "popularidade": 5682,
+  "ranking_brasil": 72,
+  "custo_mensal_estimado": [
+    256,
+    1428
+  ]
+}

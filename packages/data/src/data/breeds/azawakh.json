@@ -1,132 +1,83 @@
 {
-  "id": 25,
-  "name": "Azawakh",
-  "breed_group": "Caça",
-  "bred_for": "Guardião de rebanhos, caça",
-  "life_span": "10 - 13 anos",
-  "temperament": "Leal, Independente, Protetor",
-  "origin": "África Ocidental",
-  "reference_image_id": "SkvZgx94m",
-  "weight": {
-    "imperial": "33 - 55",
-    "metric": "15 - 25"
-  },
-  "height": {
-    "imperial": "23 - 29",
-    "metric": "58 - 74"
-  },
-  "images": [
-    "dog-images/azawakh-1.jpg"
-  ],
-  "subtitulo": "Leal / Independente / Protetor",
-  "informacoes_basicas": {
-    "altura": {
-      "macho": "60 - 74 cm",
-      "femea": "58 - 69 cm"
-    },
-    "peso": {
-      "macho": "17 - 25 kg",
-      "femea": "15 - 20 kg"
-    },
-    "expectativa_vida": "10 - 13 anos"
+  "id": "azawakh",
+  "nome": "Azawakh",
+  "slug": "azawakh",
+  "nome_en": "Azawakh",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "África Ocidental",
+    "expectativa_vida": "11 - 12 anos",
+    "altura_macho": "53 cm",
+    "altura_femea": "50 cm",
+    "peso_macho": "21.1 kg",
+    "peso_femea": "19.3 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1948
   },
   "caracteristicas": {
-    "familia": {
-      "afinidade_com_criancas": "Alta",
-      "afinidade_com_adultos": "Alta",
-      "afinidade_com_outros_animais": "Média"
-    },
-    "fisico": {
-      "porte": "Grande",
-      "tipo_pelo": "Curto e fino",
-      "frequencia_queda_pelo": "Baixa"
-    },
-    "social": {
-      "sociabilidade_com_estranhos": "Média",
-      "sociabilidade_com_outros_caes": "Baixa"
-    },
-    "personalidade": [
-      "Independente",
-      "Protetor",
-      "Leal",
-      "Reservado",
-      "Atento"
-    ]
+    "energia": 1,
+    "inteligencia": 2,
+    "queda_pelo": 4,
+    "latido": 1,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "O Azawakh é uma raça elegante e atlética originária da África Ocidental. São cães leais e protetores com um forte instinto de caça.",
-    "historia": "A raça se originou na África Ocidental, onde foi desenvolvida por tribos nômades para caçar gazelas e proteger rebanhos. Eles eram altamente valorizados por sua velocidade, resistência e habilidades de caça excepcionais."
-  },
-  "cuidados": {
-    "saude": "O Azawakh é geralmente uma raça saudável, mas pode ser propenso a displasia de quadril e cotovelo.",
-    "higiene": "O Azawakh requer escovação semanal para remover pelos mortos. Eles também precisam de banhos ocasionais.",
-    "exercicio": "O Azawakh é uma raça ativa que requer muito exercício. Eles precisam de pelo menos uma hora de atividade física por dia.",
-    "treinamento": "O Azawakh é uma raça inteligente, mas pode ser independente. Eles precisam de treinamento consistente e firme, mas sempre com métodos positivos.",
-    "nutricao": "O Azawakh deve receber uma dieta de alta qualidade que atenda às suas necessidades nutricionais específicas."
-  },
-  "cores_e_marcacoes": {
-    "cores": [
-      "Fulvo",
-      "Areia",
-      "Castanho",
-      "Azul"
+    "descricao": "Azawakh é uma raça de porte médio originária de África Ocidental. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Azawakh originou-se em África Ocidental, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Azawakh possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
     ],
-    "marcacoes": []
-  },
-  "historico": {
-    "significado_cultural": "O Azawakh desempenhou um papel importante na vida dos povos nômades da África Ocidental. Eles eram altamente valorizados por suas habilidades de caça e proteção."
-  },
-  "racas_relacionadas": [],
-  "links": {
-    "sites_referencia": [
-      {
-        "titulo": "American Kennel Club - Azawakh",
-        "url": "https://www.akc.org/dog-breeds/azawakh/",
-        "descricao": "Informações oficiais sobre a raça pela AKC"
-      },
-      {
-        "titulo": "Federation Cynologique Internationale - Azawakh",
-        "url": "http://www.fci.be/en/nomenclature/AZAWAKH-307.html",
-        "descricao": "Padrão oficial da raça pela FCI"
-      },
-      {
-        "titulo": "DogTime - Azawakh",
-        "url": "https://dogtime.com/dog-breeds/azawakh",
-        "descricao": "Guia completo sobre características e cuidados"
-      }
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
     ],
-    "videos_youtube": [
-      {
-        "titulo": "Azawakh - Raças de Cachorro",
-        "url": "https://www.youtube.com/watch?v=QZ4Vk6nmreY",
-        "canal": "Dog Show",
-        "descricao": "Apresentação geral da raça Azawakh"
-      },
-      {
-        "titulo": "Azawakh - Tudo Sobre a Raça",
-        "url": "https://www.youtube.com/watch?v=xY5jF5X8Zj4",
-        "canal": "Mundo dos Cachorros",
-        "descricao": "Características e cuidados com o Azawakh"
-      },
-      {
-        "titulo": "Conheça o Azawakh",
-        "url": "https://www.youtube.com/watch?v=1X2Q4vK8_Hw",
-        "canal": "Portal do Dog",
-        "descricao": "História e curiosidades sobre a raça"
-      },
-      {
-        "titulo": "Azawakh - O Galgo Africano",
-        "url": "https://www.youtube.com/watch?v=9Z7xK8Hy6bY",
-        "canal": "Cães e Cia",
-        "descricao": "Origem e características do Azawakh"
-      },
-      {
-        "titulo": "Azawakh - Guia da Raça",
-        "url": "https://www.youtube.com/watch?v=mH2Y3pRu_8M",
-        "canal": "Amigos dos Pets",
-        "descricao": "Guia completo sobre o Azawakh"
-      }
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
     ]
   },
-  "nome": "Azawakh"
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Azawakh - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Azawakh: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "azawakh",
+      "azawakh",
+      "médio",
+      "áfrica ocidental"
+    ]
+  },
+  "imagem_principal": "/images/breeds/azawakh.jpg",
+  "galeria": [
+    "/images/breeds/azawakh-1.jpg",
+    "/images/breeds/azawakh-2.jpg",
+    "/images/breeds/azawakh-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=azawakh",
+  "popularidade": 19084,
+  "ranking_brasil": 55,
+  "custo_mensal_estimado": [
+    317,
+    876
+  ]
 }

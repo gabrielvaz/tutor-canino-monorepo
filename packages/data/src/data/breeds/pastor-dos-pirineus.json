@@ -1,0 +1,86 @@
+{
+  "id": "pastor-dos-pirineus",
+  "nome": "Pastor dos Pirineus",
+  "slug": "pastor-dos-pirineus",
+  "nome_en": "Pyrenean Shepherd",
+  "apelidos": [
+    "Pastor",
+    "Pirineus"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "França",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "41 cm",
+    "altura_femea": "36 cm",
+    "peso_macho": "19.1 kg",
+    "peso_femea": "17.2 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1969
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 3,
+    "queda_pelo": 5,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Pastor dos Pirineus é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Pastor dos Pirineus originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Pastor dos Pirineus possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Pastor dos Pirineus - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Pastor dos Pirineus: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "pastor-dos-pirineus",
+      "pastor dos pirineus",
+      "médio",
+      "frança"
+    ]
+  },
+  "imagem_principal": "/images/breeds/pastor-dos-pirineus.jpg",
+  "galeria": [
+    "/images/breeds/pastor-dos-pirineus-1.jpg",
+    "/images/breeds/pastor-dos-pirineus-2.jpg",
+    "/images/breeds/pastor-dos-pirineus-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=pastor-dos-pirineus",
+  "popularidade": 34728,
+  "ranking_brasil": 18,
+  "custo_mensal_estimado": [
+    393,
+    924
+  ]
+}

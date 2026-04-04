@@ -1,0 +1,88 @@
+{
+  "id": "soft-coated-wheaten-terrier",
+  "nome": "Soft Coated Wheaten Terrier",
+  "slug": "soft-coated-wheaten-terrier",
+  "nome_en": "Soft Coated Wheaten Terrier",
+  "apelidos": [
+    "Soft",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Irlanda",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "34 cm",
+    "altura_femea": "30 cm",
+    "peso_macho": "6.1 kg",
+    "peso_femea": "0.7 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1917
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 1,
+    "queda_pelo": 3,
+    "latido": 1,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Soft Coated Wheaten Terrier é uma raça de porte pequeno originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Soft Coated Wheaten Terrier originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Soft Coated Wheaten Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Soft Coated Wheaten Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Soft Coated Wheaten Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "soft-coated-wheaten-terrier",
+      "soft coated wheaten terrier",
+      "pequeno",
+      "irlanda"
+    ]
+  },
+  "imagem_principal": "/images/breeds/soft-coated-wheaten-terrier.jpg",
+  "galeria": [
+    "/images/breeds/soft-coated-wheaten-terrier-1.jpg",
+    "/images/breeds/soft-coated-wheaten-terrier-2.jpg",
+    "/images/breeds/soft-coated-wheaten-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=soft-coated-wheaten-terrier",
+  "popularidade": 25796,
+  "ranking_brasil": 166,
+  "custo_mensal_estimado": [
+    237,
+    646
+  ]
+}

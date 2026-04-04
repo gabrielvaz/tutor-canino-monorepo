@@ -1,0 +1,83 @@
+{
+  "id": "bobtail",
+  "nome": "Bobtail",
+  "slug": "bobtail",
+  "nome_en": "Old English Sheepdog",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "50 cm",
+    "altura_femea": "45 cm",
+    "peso_macho": "20.1 kg",
+    "peso_femea": "15.8 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1951
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 1,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Bobtail é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bobtail originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bobtail possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bobtail - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bobtail: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bobtail",
+      "bobtail",
+      "médio",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bobtail.jpg",
+  "galeria": [
+    "/images/breeds/bobtail-1.jpg",
+    "/images/breeds/bobtail-2.jpg",
+    "/images/breeds/bobtail-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bobtail",
+  "popularidade": 6367,
+  "ranking_brasil": 174,
+  "custo_mensal_estimado": [
+    220,
+    1375
+  ]
+}

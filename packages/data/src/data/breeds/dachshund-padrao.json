@@ -1,0 +1,86 @@
+{
+  "id": "dachshund-padrao",
+  "nome": "Dachshund Padrão",
+  "slug": "dachshund-padrao",
+  "nome_en": "Dachshund Standard",
+  "apelidos": [
+    "Dachshund",
+    "Padrão"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Alemanha",
+    "expectativa_vida": "11 - 17 anos",
+    "altura_macho": "45 cm",
+    "altura_femea": "41 cm",
+    "peso_macho": "16 kg",
+    "peso_femea": "11.8 kg",
+    "grupo_fci": "Grupo 4 - Dachshunds",
+    "ano_reconhecimento_fci": 1986
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 3,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Dachshund Padrão é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Dachshund Padrão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 4. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Dachshund Padrão possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Dachshund Padrão - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Dachshund Padrão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "dachshund-padrao",
+      "dachshund padrão",
+      "médio",
+      "alemanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/dachshund-padrao.jpg",
+  "galeria": [
+    "/images/breeds/dachshund-padrao-1.jpg",
+    "/images/breeds/dachshund-padrao-2.jpg",
+    "/images/breeds/dachshund-padrao-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=dachshund-padrao",
+  "popularidade": 50497,
+  "ranking_brasil": 64,
+  "custo_mensal_estimado": [
+    357,
+    1377
+  ]
+}

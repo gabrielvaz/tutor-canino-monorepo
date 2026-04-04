@@ -1,0 +1,87 @@
+{
+  "id": "cairn-terrier",
+  "nome": "Cairn Terrier",
+  "slug": "cairn-terrier",
+  "nome_en": "Cairn Terrier",
+  "apelidos": [
+    "Cairn",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Escócia",
+    "expectativa_vida": "12 - 13 anos",
+    "altura_macho": "35 cm",
+    "altura_femea": "30 cm",
+    "peso_macho": "9.2 kg",
+    "peso_femea": "7 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1937
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Cairn Terrier é uma raça de porte pequeno originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Cairn Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Cairn Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Cairn Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Cairn Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "cairn-terrier",
+      "cairn terrier",
+      "pequeno",
+      "escócia"
+    ]
+  },
+  "imagem_principal": "/images/breeds/cairn-terrier.jpg",
+  "galeria": [
+    "/images/breeds/cairn-terrier-1.jpg",
+    "/images/breeds/cairn-terrier-2.jpg",
+    "/images/breeds/cairn-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=cairn-terrier",
+  "popularidade": 20098,
+  "ranking_brasil": 57,
+  "custo_mensal_estimado": [
+    391,
+    931
+  ]
+}

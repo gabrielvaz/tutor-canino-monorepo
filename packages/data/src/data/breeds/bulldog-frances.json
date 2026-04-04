@@ -1,0 +1,91 @@
+{
+  "id": "bulldog-frances",
+  "nome": "Bulldog Francês",
+  "slug": "bulldog-frances",
+  "nome_en": "French Bulldog",
+  "apelidos": [
+    "Bulldog",
+    "Francês",
+    "Frenchie"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "França",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "26 cm",
+    "altura_femea": "24 cm",
+    "peso_macho": "13.3 kg",
+    "peso_femea": "8.2 kg",
+    "grupo_fci": "Grupo 9 - Cães de Companhia",
+    "ano_reconhecimento_fci": 1985
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Bulldog Francês é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bulldog Francês originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bulldog Francês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães",
+      "Companhia",
+      "Crianças",
+      "Vida urbana"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bulldog Francês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bulldog Francês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bulldog-frances",
+      "bulldog francês",
+      "pequeno",
+      "frança"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bulldog-frances.jpg",
+  "galeria": [
+    "/images/breeds/bulldog-frances-1.jpg",
+    "/images/breeds/bulldog-frances-2.jpg",
+    "/images/breeds/bulldog-frances-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bulldog-frances",
+  "popularidade": 2233,
+  "ranking_brasil": 76,
+  "custo_mensal_estimado": [
+    336,
+    727
+  ]
+}

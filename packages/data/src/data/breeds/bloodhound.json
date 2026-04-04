@@ -1,0 +1,83 @@
+{
+  "id": "bloodhound",
+  "nome": "Bloodhound",
+  "slug": "bloodhound",
+  "nome_en": "Bloodhound",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Bélgica",
+    "expectativa_vida": "10 - 17 anos",
+    "altura_macho": "52 cm",
+    "altura_femea": "46 cm",
+    "peso_macho": "22.1 kg",
+    "peso_femea": "19.4 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1970
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 2,
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Bloodhound é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bloodhound originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bloodhound possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bloodhound - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bloodhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bloodhound",
+      "bloodhound",
+      "médio",
+      "bélgica"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bloodhound.jpg",
+  "galeria": [
+    "/images/breeds/bloodhound-1.jpg",
+    "/images/breeds/bloodhound-2.jpg",
+    "/images/breeds/bloodhound-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bloodhound",
+  "popularidade": 28452,
+  "ranking_brasil": 72,
+  "custo_mensal_estimado": [
+    229,
+    1095
+  ]
+}

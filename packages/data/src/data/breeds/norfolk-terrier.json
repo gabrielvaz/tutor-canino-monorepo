@@ -1,0 +1,89 @@
+{
+  "id": "norfolk-terrier",
+  "nome": "Norfolk Terrier",
+  "slug": "norfolk-terrier",
+  "nome_en": "Norfolk Terrier",
+  "apelidos": [
+    "Norfolk",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 16 anos",
+    "altura_macho": "30 cm",
+    "altura_femea": "25 cm",
+    "peso_macho": "7.2 kg",
+    "peso_femea": "3.2 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1919
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 3,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Norfolk Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Norfolk Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Norfolk Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela",
+      "Problemas respiratórios"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Norfolk Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Norfolk Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "norfolk-terrier",
+      "norfolk terrier",
+      "pequeno",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/norfolk-terrier.jpg",
+  "galeria": [
+    "/images/breeds/norfolk-terrier-1.jpg",
+    "/images/breeds/norfolk-terrier-2.jpg",
+    "/images/breeds/norfolk-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=norfolk-terrier",
+  "popularidade": 9167,
+  "ranking_brasil": 153,
+  "custo_mensal_estimado": [
+    270,
+    1066
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "malamute-do-alasca",
+  "nome": "Malamute do Alasca",
+  "slug": "malamute-do-alasca",
+  "nome_en": "Alaskan Malamute",
+  "apelidos": [
+    "Malamute",
+    "Alasca"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Estados Unidos",
+    "expectativa_vida": "10 - 16 anos",
+    "altura_macho": "52 cm",
+    "altura_femea": "48 cm",
+    "peso_macho": "13.3 kg",
+    "peso_femea": "7.5 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1931
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Malamute do Alasca é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Malamute do Alasca originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Malamute do Alasca possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Malamute do Alasca - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Malamute do Alasca: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "malamute-do-alasca",
+      "malamute do alasca",
+      "médio",
+      "estados unidos"
+    ]
+  },
+  "imagem_principal": "/images/breeds/malamute-do-alasca.jpg",
+  "galeria": [
+    "/images/breeds/malamute-do-alasca-1.jpg",
+    "/images/breeds/malamute-do-alasca-2.jpg",
+    "/images/breeds/malamute-do-alasca-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=malamute-do-alasca",
+  "popularidade": 43462,
+  "ranking_brasil": 18,
+  "custo_mensal_estimado": [
+    272,
+    993
+  ]
+}

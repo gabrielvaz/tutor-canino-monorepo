@@ -1,96 +1,77 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Badge } from '@tutorcanino/ui';
+import { Badge, Card } from '@tutorcanino/ui';
 import type { Breed } from '@tutorcanino/data';
+import { Star } from 'lucide-react';
 
 interface BreedCardProps {
   breed: Breed;
 }
 
-// Helper to validate and get image URL
-function getValidImageUrl(breed: Breed): string {
-  const imagem = breed.imagens?.[0] || breed.imagem_referencia_id;
-
-  // If no image or invalid image, use placeholder
-  if (!imagem || imagem === 'h' || imagem.length < 5) {
-    return '/images/breeds/placeholder.jpg';
-  }
-
-  // Ensure image starts with / or is a full URL
-  if (imagem.startsWith('/') || imagem.startsWith('http://') || imagem.startsWith('https://')) {
-    return imagem;
-  }
-
-  // Relative path needs leading slash
-  return '/' + imagem;
-}
-
 export function BreedCard({ breed }: BreedCardProps) {
-  // Generate a slug from the breed name/id
-  const slug = breed.nome?.toLowerCase().replace(/[^a-z0-9]+/g, '-') || breed.id;
+  // Use fields from the new professional schema
+  const { nome, slug, categoria, imagem_principal, sobre, popularidade } = breed;
 
-  // Get category from characteristics
-  const porte = breed.caracteristicas?.fisico?.porte || 'Médio';
+  const categoryLabel = categoria === 'Pequeno' ? 'Pequeno Porte' : 
+                       categoria === 'Médio' ? 'Médio Porte' : 
+                       categoria === 'Grande' ? 'Grande Porte' : 
+                       categoria;
 
-  const categoryLabel = {
-    'Pequeno': 'Pequeno Porte',
-    'Médio': 'Médio Porte',
-    'Grande': 'Grande Porte',
-    'Gigante': 'Gigante',
-  }[porte] || 'Médio Porte';
+  // Image validation fallback
+  const imagem = imagem_principal || '/images/breeds/placeholder.jpg';
 
-  // Get image with validation
-  const imagem = getValidImageUrl(breed);
+  // Content summary
+  const descricao = sobre?.descricao || `${nome} - ${categoryLabel}`;
+  const resumo = descricao.length > 100 ? descricao.substring(0, 100) + '...' : descricao;
 
-  // Get description
-  const descricao = breed.sobre?.descricao || `${breed.nome || 'Raça'} - ${categoryLabel}`;
-  const resumo = descricao.length > 120 ? descricao.substring(0, 120) + '...' : descricao;
+  // Star rating based on popularity (just for visual representation)
+  const stars = Math.min(5, Math.max(1, Math.floor((popularidade || 0) / 2000) + 1));
 
   return (
-    <Link href={`/racas/${slug}`} className="group">
-      <article className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
-        <div className="relative h-48 bg-gray-200">
+    <Link href={`/racas/${slug}`} className="group block h-full">
+      <Card className="h-full overflow-hidden border-gray-200 hover:border-primary/50 hover:shadow-lg transition-all duration-300">
+        <div className="relative aspect-[4/3] bg-gray-100 overflow-hidden">
           <Image
             src={imagem}
-            alt={breed.nome || 'Raça'}
+            alt={nome}
             fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
+            className="object-cover group-hover:scale-110 transition-transform duration-500"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
-          <Badge className="absolute top-3 right-3 bg-blue-600">
-            {categoryLabel}
-          </Badge>
+          <div className="absolute top-3 right-3">
+            <Badge className="bg-secondary text-white border-none shadow-sm">
+              {categoryLabel}
+            </Badge>
+          </div>
         </div>
 
-        <div className="p-5">
-          <h3 className="text-xl font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
-            {breed.nome || 'Raça'}
+        <div className="p-5 flex flex-col h-[calc(100%-75%)]">
+          <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+            {nome}
           </h3>
 
-          <p className="text-gray-600 text-sm line-clamp-2 mb-3">
+          <p className="text-gray-600 text-sm line-clamp-2 mb-4 flex-grow">
             {resumo}
           </p>
 
-          <div className="flex items-center justify-between text-sm">
-            <span className="text-gray-500">Popularidade</span>
-            <div className="flex items-center gap-1">
+          <div className="flex items-center justify-between pt-4 border-t border-gray-100">
+            <span className="text-xs font-medium text-gray-400 uppercase tracking-wider">Popularidade</span>
+            <div className="flex items-center gap-0.5">
               {[...Array(5)].map((_, i) => (
-                <svg
+                <Star
                   key={i}
-                  className={`w-4 h-4 ${
-                    i < 4
-                      ? 'text-yellow-400 fill-current'
-                      : 'text-gray-300 fill-current'
+                  size={14}
+                  className={`${
+                    i < stars
+                      ? 'text-accent fill-accent'
+                      : 'text-gray-200 fill-gray-200'
                   }`}
-                  viewBox="0 0 20 20"
-                >
-                  <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-                </svg>
+                />
               ))}
             </div>
           </div>
         </div>
-      </article>
+      </Card>
     </Link>
   );
 }

@@ -1,0 +1,86 @@
+{
+  "id": "cane-corso",
+  "nome": "Cane Corso",
+  "slug": "cane-corso",
+  "nome_en": "Cane Corso",
+  "apelidos": [
+    "Cane",
+    "Corso"
+  ],
+  "categoria": "Grande",
+  "ficha_tecnica": {
+    "origem": "Itália",
+    "expectativa_vida": "10 - 16 anos",
+    "altura_macho": "52 cm",
+    "altura_femea": "47 cm",
+    "peso_macho": "25.2 kg",
+    "peso_femea": "23.6 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1977
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Cane Corso é uma raça de porte grande originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Cane Corso originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Cane Corso possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Inchaço gástrico"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Cane Corso - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Cane Corso: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "cane-corso",
+      "cane corso",
+      "grande",
+      "itália"
+    ]
+  },
+  "imagem_principal": "/images/breeds/cane-corso.jpg",
+  "galeria": [
+    "/images/breeds/cane-corso-1.jpg",
+    "/images/breeds/cane-corso-2.jpg",
+    "/images/breeds/cane-corso-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=cane-corso",
+  "popularidade": 8443,
+  "ranking_brasil": 143,
+  "custo_mensal_estimado": [
+    395,
+    1113
+  ]
+}

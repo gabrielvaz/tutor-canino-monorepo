@@ -1,0 +1,88 @@
+{
+  "id": "bull-terrier-miniatura",
+  "nome": "Bull Terrier Miniatura",
+  "slug": "bull-terrier-miniatura",
+  "nome_en": "Miniature Bull Terrier",
+  "apelidos": [
+    "Bull",
+    "Miniatura"
+  ],
+  "categoria": "Toy",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "11 - 14 anos",
+    "altura_macho": "24 cm",
+    "altura_femea": "21 cm",
+    "peso_macho": "3.9 kg",
+    "peso_femea": "0.5 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1978
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Bull Terrier Miniatura é uma raça de porte toy originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bull Terrier Miniatura originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bull Terrier Miniatura possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Luxação da patela"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bull Terrier Miniatura - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bull Terrier Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bull-terrier-miniatura",
+      "bull terrier miniatura",
+      "toy",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bull-terrier-miniatura.jpg",
+  "galeria": [
+    "/images/breeds/bull-terrier-miniatura-1.jpg",
+    "/images/breeds/bull-terrier-miniatura-2.jpg",
+    "/images/breeds/bull-terrier-miniatura-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bull-terrier-miniatura",
+  "popularidade": 25020,
+  "ranking_brasil": 120,
+  "custo_mensal_estimado": [
+    239,
+    832
+  ]
+}

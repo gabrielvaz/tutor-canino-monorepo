@@ -1,0 +1,86 @@
+{
+  "id": "cao-da-serra-da-estrela",
+  "nome": "Cão da Serra da Estrela",
+  "slug": "cao-da-serra-da-estrela",
+  "nome_en": "Estrela Mountain Dog",
+  "apelidos": [
+    "Cão",
+    "Estrela"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Portugal",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "54 cm",
+    "altura_femea": "50 cm",
+    "peso_macho": "21.9 kg",
+    "peso_femea": "17.3 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1905
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 1,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Cão da Serra da Estrela é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Cão da Serra da Estrela originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Cão da Serra da Estrela possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Cão da Serra da Estrela - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Cão da Serra da Estrela: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "cao-da-serra-da-estrela",
+      "cão da serra da estrela",
+      "médio",
+      "portugal"
+    ]
+  },
+  "imagem_principal": "/images/breeds/cao-da-serra-da-estrela.jpg",
+  "galeria": [
+    "/images/breeds/cao-da-serra-da-estrela-1.jpg",
+    "/images/breeds/cao-da-serra-da-estrela-2.jpg",
+    "/images/breeds/cao-da-serra-da-estrela-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=cao-da-serra-da-estrela",
+  "popularidade": 41833,
+  "ranking_brasil": 131,
+  "custo_mensal_estimado": [
+    479,
+    536
+  ]
+}

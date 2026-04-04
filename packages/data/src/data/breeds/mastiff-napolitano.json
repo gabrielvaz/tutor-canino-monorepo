@@ -1,0 +1,88 @@
+{
+  "id": "mastiff-napolitano",
+  "nome": "Mastiff Napolitano",
+  "slug": "mastiff-napolitano",
+  "nome_en": "Neapolitan Mastiff",
+  "apelidos": [
+    "Mastiff",
+    "Napolitano"
+  ],
+  "categoria": "Gigante",
+  "ficha_tecnica": {
+    "origem": "Itália",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "83 cm",
+    "altura_femea": "79 cm",
+    "peso_macho": "57.3 kg",
+    "peso_femea": "53.5 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1938
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 1,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Mastiff Napolitano é uma raça de porte gigante originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Mastiff Napolitano originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Mastiff Napolitano possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Apartamentos pequenos",
+      "Tutores sedentários",
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas",
+      "Inchaço gástrico"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Mastiff Napolitano - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Mastiff Napolitano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "mastiff-napolitano",
+      "mastiff napolitano",
+      "gigante",
+      "itália"
+    ]
+  },
+  "imagem_principal": "/images/breeds/mastiff-napolitano.jpg",
+  "galeria": [
+    "/images/breeds/mastiff-napolitano-1.jpg",
+    "/images/breeds/mastiff-napolitano-2.jpg",
+    "/images/breeds/mastiff-napolitano-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=mastiff-napolitano",
+  "popularidade": 24616,
+  "ranking_brasil": 19,
+  "custo_mensal_estimado": [
+    478,
+    1021
+  ]
+}

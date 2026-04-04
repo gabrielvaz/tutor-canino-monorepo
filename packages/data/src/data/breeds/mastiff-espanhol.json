@@ -1,0 +1,87 @@
+{
+  "id": "mastiff-espanhol",
+  "nome": "Mastiff Espanhol",
+  "slug": "mastiff-espanhol",
+  "nome_en": "Spanish Mastiff",
+  "apelidos": [
+    "Mastiff",
+    "Espanhol"
+  ],
+  "categoria": "Gigante",
+  "ficha_tecnica": {
+    "origem": "Espanha",
+    "expectativa_vida": "12 - 13 anos",
+    "altura_macho": "72 cm",
+    "altura_femea": "68 cm",
+    "peso_macho": "70.7 kg",
+    "peso_femea": "69.5 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1977
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 3,
+    "queda_pelo": 5,
+    "latido": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Mastiff Espanhol é uma raça de porte gigante originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Mastiff Espanhol originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Mastiff Espanhol possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Apartamentos pequenos",
+      "Tutores sedentários",
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Mastiff Espanhol - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Mastiff Espanhol: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "mastiff-espanhol",
+      "mastiff espanhol",
+      "gigante",
+      "espanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/mastiff-espanhol.jpg",
+  "galeria": [
+    "/images/breeds/mastiff-espanhol-1.jpg",
+    "/images/breeds/mastiff-espanhol-2.jpg",
+    "/images/breeds/mastiff-espanhol-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=mastiff-espanhol",
+  "popularidade": 8699,
+  "ranking_brasil": 60,
+  "custo_mensal_estimado": [
+    353,
+    1467
+  ]
+}

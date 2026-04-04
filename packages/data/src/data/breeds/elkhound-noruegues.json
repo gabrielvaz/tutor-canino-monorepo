@@ -1,0 +1,86 @@
+{
+  "id": "elkhound-noruegues",
+  "nome": "Elkhound Norueguês",
+  "slug": "elkhound-noruegues",
+  "nome_en": "Norwegian Elkhound",
+  "apelidos": [
+    "Elkhound",
+    "Norueguês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Noruega",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "55 cm",
+    "altura_femea": "52 cm",
+    "peso_macho": "23.9 kg",
+    "peso_femea": "20 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1900
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
+  },
+  "sobre": {
+    "descricao": "Elkhound Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Elkhound Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Elkhound Norueguês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 4/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Elkhound Norueguês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Elkhound Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "elkhound-noruegues",
+      "elkhound norueguês",
+      "médio",
+      "noruega"
+    ]
+  },
+  "imagem_principal": "/images/breeds/elkhound-noruegues.jpg",
+  "galeria": [
+    "/images/breeds/elkhound-noruegues-1.jpg",
+    "/images/breeds/elkhound-noruegues-2.jpg",
+    "/images/breeds/elkhound-noruegues-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=elkhound-noruegues",
+  "popularidade": 27698,
+  "ranking_brasil": 200,
+  "custo_mensal_estimado": [
+    303,
+    1241
+  ]
+}

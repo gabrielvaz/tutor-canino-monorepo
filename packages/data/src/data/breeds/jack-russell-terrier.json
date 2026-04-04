@@ -1,0 +1,87 @@
+{
+  "id": "jack-russell-terrier",
+  "nome": "Jack Russell Terrier",
+  "slug": "jack-russell-terrier",
+  "nome_en": "Jack Russell Terrier",
+  "apelidos": [
+    "Jack",
+    "Terrier"
+  ],
+  "categoria": "Pequeno",
+  "ficha_tecnica": {
+    "origem": "Inglaterra",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "29 cm",
+    "altura_femea": "26 cm",
+    "peso_macho": "5.7 kg",
+    "peso_femea": "0.8 kg",
+    "grupo_fci": "Grupo 3 - Terriers",
+    "ano_reconhecimento_fci": 1978
+  },
+  "caracteristicas": {
+    "energia": 2,
+    "inteligencia": 2,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Jack Russell Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Jack Russell Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Jack Russell Terrier possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Apartamentos",
+      "Idosos",
+      "Primeira vez com cães"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Jack Russell Terrier - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Jack Russell Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "jack-russell-terrier",
+      "jack russell terrier",
+      "pequeno",
+      "inglaterra"
+    ]
+  },
+  "imagem_principal": "/images/breeds/jack-russell-terrier.jpg",
+  "galeria": [
+    "/images/breeds/jack-russell-terrier-1.jpg",
+    "/images/breeds/jack-russell-terrier-2.jpg",
+    "/images/breeds/jack-russell-terrier-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=jack-russell-terrier",
+  "popularidade": 2274,
+  "ranking_brasil": 119,
+  "custo_mensal_estimado": [
+    428,
+    883
+  ]
+}

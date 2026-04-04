@@ -1,0 +1,86 @@
+{
+  "id": "dachshund-kaninchen",
+  "nome": "Dachshund Kaninchen",
+  "slug": "dachshund-kaninchen",
+  "nome_en": "Dachshund Rabbit",
+  "apelidos": [
+    "Dachshund",
+    "Kaninchen"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Alemanha",
+    "expectativa_vida": "11 - 17 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "46 cm",
+    "peso_macho": "24.3 kg",
+    "peso_femea": "21.6 kg",
+    "grupo_fci": "Grupo 4 - Dachshunds",
+    "ano_reconhecimento_fci": 1991
+  },
+  "caracteristicas": {
+    "energia": 2,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Dachshund Kaninchen é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Dachshund Kaninchen originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 4. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Dachshund Kaninchen possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Dachshund Kaninchen - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Dachshund Kaninchen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "dachshund-kaninchen",
+      "dachshund kaninchen",
+      "médio",
+      "alemanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/dachshund-kaninchen.jpg",
+  "galeria": [
+    "/images/breeds/dachshund-kaninchen-1.jpg",
+    "/images/breeds/dachshund-kaninchen-2.jpg",
+    "/images/breeds/dachshund-kaninchen-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=dachshund-kaninchen",
+  "popularidade": 45377,
+  "ranking_brasil": 15,
+  "custo_mensal_estimado": [
+    233,
+    585
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "lulu-da-pomerania",
+  "nome": "Lulu da Pomerânia",
+  "slug": "lulu-da-pomerania",
+  "nome_en": "Pomeranian",
+  "apelidos": [
+    "Lulu",
+    "Pomerânia"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Alemanha",
+    "expectativa_vida": "12 - 17 anos",
+    "altura_macho": "51 cm",
+    "altura_femea": "47 cm",
+    "peso_macho": "22.4 kg",
+    "peso_femea": "20.9 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1981
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 1,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Lulu da Pomerânia é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Lulu da Pomerânia originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Lulu da Pomerânia possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Lulu da Pomerânia - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Lulu da Pomerânia: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "lulu-da-pomerania",
+      "lulu da pomerânia",
+      "médio",
+      "alemanha"
+    ]
+  },
+  "imagem_principal": "/images/breeds/lulu-da-pomerania.jpg",
+  "galeria": [
+    "/images/breeds/lulu-da-pomerania-1.jpg",
+    "/images/breeds/lulu-da-pomerania-2.jpg",
+    "/images/breeds/lulu-da-pomerania-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=lulu-da-pomerania",
+  "popularidade": 17380,
+  "ranking_brasil": 95,
+  "custo_mensal_estimado": [
+    496,
+    744
+  ]
+}

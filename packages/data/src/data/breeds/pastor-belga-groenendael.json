@@ -1,0 +1,86 @@
+{
+  "id": "pastor-belga-groenendael",
+  "nome": "Pastor Belga Groenendael",
+  "slug": "pastor-belga-groenendael",
+  "nome_en": "Belgian Groenendael",
+  "apelidos": [
+    "Pastor",
+    "Groenendael"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Bélgica",
+    "expectativa_vida": "12 - 13 anos",
+    "altura_macho": "38 cm",
+    "altura_femea": "34 cm",
+    "peso_macho": "13.6 kg",
+    "peso_femea": "11.4 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1948
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 5,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Pastor Belga Groenendael é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Pastor Belga Groenendael originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Pastor Belga Groenendael possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Pastor Belga Groenendael - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Pastor Belga Groenendael: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "pastor-belga-groenendael",
+      "pastor belga groenendael",
+      "médio",
+      "bélgica"
+    ]
+  },
+  "imagem_principal": "/images/breeds/pastor-belga-groenendael.jpg",
+  "galeria": [
+    "/images/breeds/pastor-belga-groenendael-1.jpg",
+    "/images/breeds/pastor-belga-groenendael-2.jpg",
+    "/images/breeds/pastor-belga-groenendael-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=pastor-belga-groenendael",
+  "popularidade": 36504,
+  "ranking_brasil": 194,
+  "custo_mensal_estimado": [
+    332,
+    1403
+  ]
+}

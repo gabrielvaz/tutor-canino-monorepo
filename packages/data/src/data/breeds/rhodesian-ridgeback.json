@@ -1,0 +1,86 @@
+{
+  "id": "rhodesian-ridgeback",
+  "nome": "Rhodesian Ridgeback",
+  "slug": "rhodesian-ridgeback",
+  "nome_en": "Rhodesian Ridgeback",
+  "apelidos": [
+    "Rhodesian",
+    "Ridgeback"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "África do Sul",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "54 cm",
+    "altura_femea": "49 cm",
+    "peso_macho": "14.4 kg",
+    "peso_femea": "10.8 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1938
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 4,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
+  },
+  "sobre": {
+    "descricao": "Rhodesian Ridgeback é uma raça de porte médio originária de África do Sul. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Rhodesian Ridgeback originou-se em África do Sul, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Rhodesian Ridgeback possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Rhodesian Ridgeback - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Rhodesian Ridgeback: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "rhodesian-ridgeback",
+      "rhodesian ridgeback",
+      "médio",
+      "áfrica do sul"
+    ]
+  },
+  "imagem_principal": "/images/breeds/rhodesian-ridgeback.jpg",
+  "galeria": [
+    "/images/breeds/rhodesian-ridgeback-1.jpg",
+    "/images/breeds/rhodesian-ridgeback-2.jpg",
+    "/images/breeds/rhodesian-ridgeback-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=rhodesian-ridgeback",
+  "popularidade": 28837,
+  "ranking_brasil": 113,
+  "custo_mensal_estimado": [
+    470,
+    1240
+  ]
+}

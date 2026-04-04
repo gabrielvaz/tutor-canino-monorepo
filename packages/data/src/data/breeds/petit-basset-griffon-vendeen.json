@@ -1,0 +1,86 @@
+{
+  "id": "petit-basset-griffon-vendeen",
+  "nome": "Petit Basset Griffon Vendéen",
+  "slug": "petit-basset-griffon-vendeen",
+  "nome_en": "Petit Basset Griffon Vendéen",
+  "apelidos": [
+    "Petit",
+    "Vendéen"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "França",
+    "expectativa_vida": "11 - 14 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "45 cm",
+    "peso_macho": "15.1 kg",
+    "peso_femea": "10 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1944
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 1,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 1,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Petit Basset Griffon Vendéen é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Petit Basset Griffon Vendéen originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Petit Basset Griffon Vendéen possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 1/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Petit Basset Griffon Vendéen - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Petit Basset Griffon Vendéen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "petit-basset-griffon-vendeen",
+      "petit basset griffon vendéen",
+      "médio",
+      "frança"
+    ]
+  },
+  "imagem_principal": "/images/breeds/petit-basset-griffon-vendeen.jpg",
+  "galeria": [
+    "/images/breeds/petit-basset-griffon-vendeen-1.jpg",
+    "/images/breeds/petit-basset-griffon-vendeen-2.jpg",
+    "/images/breeds/petit-basset-griffon-vendeen-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=petit-basset-griffon-vendeen",
+  "popularidade": 25393,
+  "ranking_brasil": 112,
+  "custo_mensal_estimado": [
+    474,
+    1040
+  ]
+}

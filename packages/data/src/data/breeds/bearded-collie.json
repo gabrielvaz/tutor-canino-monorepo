@@ -1,0 +1,86 @@
+{
+  "id": "bearded-collie",
+  "nome": "Bearded Collie",
+  "slug": "bearded-collie",
+  "nome_en": "Bearded Collie",
+  "apelidos": [
+    "Bearded",
+    "Collie"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Escócia",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "45 cm",
+    "peso_macho": "25.8 kg",
+    "peso_femea": "21.3 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1902
+  },
+  "caracteristicas": {
+    "energia": 2,
+    "inteligencia": 1,
+    "queda_pelo": 5,
+    "latido": 4,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Bearded Collie é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Bearded Collie originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Bearded Collie possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias ativas",
+      "Casas com quintal",
+      "Tutores experientes"
+    ],
+    "nao_recomendado_para": [
+      "Tutores iniciantes inexperientes"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Bearded Collie - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Bearded Collie: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "bearded-collie",
+      "bearded collie",
+      "médio",
+      "escócia"
+    ]
+  },
+  "imagem_principal": "/images/breeds/bearded-collie.jpg",
+  "galeria": [
+    "/images/breeds/bearded-collie-1.jpg",
+    "/images/breeds/bearded-collie-2.jpg",
+    "/images/breeds/bearded-collie-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=bearded-collie",
+  "popularidade": 12010,
+  "ranking_brasil": 174,
+  "custo_mensal_estimado": [
+    209,
+    1324
+  ]
+}

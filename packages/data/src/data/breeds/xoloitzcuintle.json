@@ -1,0 +1,83 @@
+{
+  "id": "xoloitzcuintle",
+  "nome": "Xoloitzcuintle",
+  "slug": "xoloitzcuintle",
+  "nome_en": "Xoloitzcuintle",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "México",
+    "expectativa_vida": "10 - 15 anos",
+    "altura_macho": "46 cm",
+    "altura_femea": "41 cm",
+    "peso_macho": "23.7 kg",
+    "peso_femea": "20.2 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1936
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 4,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Xoloitzcuintle é uma raça de porte médio originária de México. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Xoloitzcuintle originou-se em México, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Xoloitzcuintle possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Anual"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Xoloitzcuintle - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Xoloitzcuintle: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "xoloitzcuintle",
+      "xoloitzcuintle",
+      "médio",
+      "méxico"
+    ]
+  },
+  "imagem_principal": "/images/breeds/xoloitzcuintle.jpg",
+  "galeria": [
+    "/images/breeds/xoloitzcuintle-1.jpg",
+    "/images/breeds/xoloitzcuintle-2.jpg",
+    "/images/breeds/xoloitzcuintle-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=xoloitzcuintle",
+  "popularidade": 15190,
+  "ranking_brasil": 125,
+  "custo_mensal_estimado": [
+    437,
+    723
+  ]
+}

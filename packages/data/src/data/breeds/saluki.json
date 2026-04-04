@@ -1,0 +1,83 @@
+{
+  "id": "saluki",
+  "nome": "Saluki",
+  "slug": "saluki",
+  "nome_en": "Saluki",
+  "apelidos": [],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Oriente Médio",
+    "expectativa_vida": "11 - 17 anos",
+    "altura_macho": "48 cm",
+    "altura_femea": "42 cm",
+    "peso_macho": "18.6 kg",
+    "peso_femea": "12.7 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1976
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 1,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 1
+  },
+  "sobre": {
+    "descricao": "Saluki é uma raça de porte médio originária de Oriente Médio. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Saluki originou-se em Oriente Médio, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Saluki possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Fácil",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Saluki - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Saluki: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "saluki",
+      "saluki",
+      "médio",
+      "oriente médio"
+    ]
+  },
+  "imagem_principal": "/images/breeds/saluki.jpg",
+  "galeria": [
+    "/images/breeds/saluki-1.jpg",
+    "/images/breeds/saluki-2.jpg",
+    "/images/breeds/saluki-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=saluki",
+  "popularidade": 25204,
+  "ranking_brasil": 63,
+  "custo_mensal_estimado": [
+    353,
+    504
+  ]
+}

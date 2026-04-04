@@ -1,0 +1,86 @@
+{
+  "id": "spaniel-gales-springer",
+  "nome": "Spaniel Galês Springer",
+  "slug": "spaniel-gales-springer",
+  "nome_en": "Welsh Springer Spaniel",
+  "apelidos": [
+    "Spaniel",
+    "Springer"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "País de Gales",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "41 cm",
+    "altura_femea": "36 cm",
+    "peso_macho": "29.6 kg",
+    "peso_femea": "24.7 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1934
+  },
+  "caracteristicas": {
+    "energia": 4,
+    "inteligencia": 2,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 2,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
+  },
+  "sobre": {
+    "descricao": "Spaniel Galês Springer é uma raça de porte médio originária de País de Gales. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Spaniel Galês Springer originou-se em País de Gales, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Spaniel Galês Springer possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Spaniel Galês Springer - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Spaniel Galês Springer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "spaniel-gales-springer",
+      "spaniel galês springer",
+      "médio",
+      "país de gales"
+    ]
+  },
+  "imagem_principal": "/images/breeds/spaniel-gales-springer.jpg",
+  "galeria": [
+    "/images/breeds/spaniel-gales-springer-1.jpg",
+    "/images/breeds/spaniel-gales-springer-2.jpg",
+    "/images/breeds/spaniel-gales-springer-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=spaniel-gales-springer",
+  "popularidade": 11128,
+  "ranking_brasil": 146,
+  "custo_mensal_estimado": [
+    225,
+    844
+  ]
+}

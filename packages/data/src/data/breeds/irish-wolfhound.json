@@ -1,0 +1,86 @@
+{
+  "id": "irish-wolfhound",
+  "nome": "Irish Wolfhound",
+  "slug": "irish-wolfhound",
+  "nome_en": "Irish Wolfhound",
+  "apelidos": [
+    "Irish",
+    "Wolfhound"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Irlanda",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "50 cm",
+    "altura_femea": "45 cm",
+    "peso_macho": "14.1 kg",
+    "peso_femea": "10.6 kg",
+    "grupo_fci": "Grupo 10 - Lebréis",
+    "ano_reconhecimento_fci": 1978
+  },
+  "caracteristicas": {
+    "energia": 3,
+    "inteligencia": 1,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 1,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 1,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Irish Wolfhound é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Irish Wolfhound originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Irish Wolfhound possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 3/5",
+    "treinamento": "Desafiador",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Irish Wolfhound - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Irish Wolfhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "irish-wolfhound",
+      "irish wolfhound",
+      "médio",
+      "irlanda"
+    ]
+  },
+  "imagem_principal": "/images/breeds/irish-wolfhound.jpg",
+  "galeria": [
+    "/images/breeds/irish-wolfhound-1.jpg",
+    "/images/breeds/irish-wolfhound-2.jpg",
+    "/images/breeds/irish-wolfhound-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=irish-wolfhound",
+  "popularidade": 44833,
+  "ranking_brasil": 105,
+  "custo_mensal_estimado": [
+    329,
+    967
+  ]
+}

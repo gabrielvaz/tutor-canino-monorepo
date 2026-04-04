@@ -1,76 +1,69 @@
 import type { Breed } from '@tutorcanino/data';
+import { Heart, Zap, Brain, Volume2, Shield, Users, Baby, Dog } from 'lucide-react';
 
 interface BreedTemperamentProps {
   breed: Breed;
 }
 
-function RatingStars({ rating, label }: { rating: number; label: string }) {
+function RatingBar({ rating, label, icon }: { rating: number; label: string; icon: React.ReactNode }) {
   return (
-    <div className="flex items-center gap-2">
-      <span className="text-sm text-gray-600 w-32">{label}</span>
-      <div className="flex items-center gap-1">
-        {[...Array(5)].map((_, i) => (
-          <svg
-            key={i}
-            className={`w-5 h-5 ${
-              i < rating ? 'text-yellow-400 fill-current' : 'text-gray-300 fill-current'
-            }`}
-            viewBox="0 0 20 20"
-          >
-            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-          </svg>
-        ))}
+    <div className="flex flex-col gap-2">
+      <div className="flex items-center justify-between text-sm">
+        <div className="flex items-center gap-2 font-semibold text-gray-700">
+          {icon}
+          {label}
+        </div>
+        <span className="text-gray-400 font-bold">{rating}/5</span>
+      </div>
+      <div className="h-2 w-full bg-gray-100 rounded-full overflow-hidden">
+        <div 
+          className="h-full bg-secondary rounded-full transition-all duration-1000" 
+          style={{ width: `${(rating / 5) * 100}%` }}
+        />
       </div>
     </div>
   );
 }
 
 export function BreedTemperament({ breed }: BreedTemperamentProps) {
-  // Extract temperament info from personalidade array
-  const personalidade = breed.caracteristicas?.personalidade || [];
-  const familia = breed.caracteristicas?.familia || {};
+  const { caracteristicas, sobre } = breed;
 
-  // Create ratings from available data
+  if (!caracteristicas) return null;
+
   const ratings = [
-    {
-      label: 'Energia',
-      rating: personalidade.includes('Alto') || personalidade.includes('Ativo') ? 5 :
-              personalidade.includes('Médio') ? 3 : 2,
-    },
-    {
-      label: 'Inteligência',
-      rating: 4, // Default since we don't have specific data
-    },
-    {
-      label: 'Crianças',
-      rating: familia.afinidade_com_criancas === 'Alta' ? 5 :
-              familia.afinidade_com_criancas === 'Média' ? 3 : 2,
-    },
-    {
-      label: 'Sociabilidade',
-      rating: familia.afinidade_com_adultos === 'Alta' ? 5 : 3,
-    },
+    { label: 'Nível de Energia', rating: caracteristicas.energia || 3, icon: <Zap size={16} className="text-primary" /> },
+    { label: 'Inteligência', rating: caracteristicas.inteligencia || 3, icon: <Brain size={16} className="text-primary" /> },
+    { label: 'Afeto com Família', rating: caracteristicas.afeicao_familia || 3, icon: <Heart size={16} className="text-primary" /> },
+    { label: 'Bom com Crianças', rating: caracteristicas.bom_com_criancas || 3, icon: <Baby size={16} className="text-primary" /> },
+    { label: 'Bom com outros Cães', rating: caracteristicas.bom_com_outros_caes || 3, icon: <Dog size={16} className="text-primary" /> },
+    { label: 'Nível de Latido', rating: caracteristicas.latido || 3, icon: <Volume2 size={16} className="text-primary" /> },
+    { label: 'Facilidade de Treino', rating: caracteristicas.facilidade_treinamento || 3, icon: <Shield size={16} className="text-primary" /> },
+    { label: 'Instinto de Guarda', rating: caracteristicas.instinto_guarda || 3, icon: <Shield size={16} className="text-primary" /> },
   ];
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-6">
-      <h2 className="text-2xl font-bold text-gray-900 mb-6">Temperamento</h2>
-      <div className="space-y-4">
+    <div className="bg-gray-50 rounded-2xl p-8 h-full border border-gray-100">
+      <h2 className="text-2xl font-bold text-gray-900 mb-8 flex items-center gap-3">
+        <div className="w-2 h-8 bg-secondary rounded-full" />
+        Temperamento
+      </h2>
+      
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-10 gap-y-6">
         {ratings.map((rating, index) => (
-          <RatingStars key={index} rating={rating.rating} label={rating.label} />
+          <RatingBar key={index} {...rating} />
         ))}
       </div>
 
-      {personalidade.length > 0 && (
-        <div className="mt-6 pt-6 border-t">
-          <h3 className="text-lg font-semibold text-gray-900 mb-3">Características</h3>
+      {(sobre?.ideal_para || sobre?.curiosidades) && (
+        <div className="mt-10 pt-8 border-t border-gray-200">
+          <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">Ideal para</h3>
           <div className="flex flex-wrap gap-2">
-            {personalidade.map((trait, index) => (
+            {sobre?.ideal_para?.map((item, index) => (
               <span
                 key={index}
-                className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800"
+                className="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-semibold bg-white text-secondary border border-secondary/20 shadow-sm"
               >
-                {trait}
+                {item}
               </span>
             ))}
           </div>

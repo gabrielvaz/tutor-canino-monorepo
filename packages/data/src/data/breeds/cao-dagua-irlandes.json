@@ -1,0 +1,86 @@
+{
+  "id": "cao-dagua-irlandes",
+  "nome": "Cão d'Água Irlandês",
+  "slug": "cao-dagua-irlandes",
+  "nome_en": "Irish Water Spaniel",
+  "apelidos": [
+    "Cão",
+    "Irlandês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Irlanda",
+    "expectativa_vida": "11 - 15 anos",
+    "altura_macho": "37 cm",
+    "altura_femea": "32 cm",
+    "peso_macho": "26.3 kg",
+    "peso_femea": "20.3 kg",
+    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
+    "ano_reconhecimento_fci": 1945
+  },
+  "caracteristicas": {
+    "energia": 1,
+    "inteligencia": 3,
+    "queda_pelo": 1,
+    "latido": 1,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Cão d'Água Irlandês é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Cão d'Água Irlandês originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Cão d'Água Irlandês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Semestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 2/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Cão d'Água Irlandês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Cão d'Água Irlandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "cao-dagua-irlandes",
+      "cão d'água irlandês",
+      "médio",
+      "irlanda"
+    ]
+  },
+  "imagem_principal": "/images/breeds/cao-dagua-irlandes.jpg",
+  "galeria": [
+    "/images/breeds/cao-dagua-irlandes-1.jpg",
+    "/images/breeds/cao-dagua-irlandes-2.jpg",
+    "/images/breeds/cao-dagua-irlandes-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=cao-dagua-irlandes",
+  "popularidade": 44752,
+  "ranking_brasil": 38,
+  "custo_mensal_estimado": [
+    331,
+    861
+  ]
+}

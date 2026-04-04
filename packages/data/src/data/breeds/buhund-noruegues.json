@@ -1,0 +1,86 @@
+{
+  "id": "buhund-noruegues",
+  "nome": "Buhund Norueguês",
+  "slug": "buhund-noruegues",
+  "nome_en": "Norwegian Buhund",
+  "apelidos": [
+    "Buhund",
+    "Norueguês"
+  ],
+  "categoria": "Médio",
+  "ficha_tecnica": {
+    "origem": "Noruega",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "43 cm",
+    "altura_femea": "40 cm",
+    "peso_macho": "18 kg",
+    "peso_femea": "16.3 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
+    "ano_reconhecimento_fci": 1988
+  },
+  "caracteristicas": {
+    "energia": 5,
+    "inteligencia": 3,
+    "queda_pelo": 5,
+    "latido": 5,
+    "afeicao_familia": 1,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
+  },
+  "sobre": {
+    "descricao": "Buhund Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
+    "historia": "O Buhund Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "curiosidades": [
+      "Buhund Norueguês possui características únicas que o distinguem de outras raças.",
+      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+    ],
+    "ideal_para": [
+      "Famílias dedicadas",
+      "Tutores responsáveis"
+    ],
+    "nao_recomendado_para": [
+      "Abandono",
+      "Falta de cuidados veterinários"
+    ]
+  },
+  "saude": {
+    "doencas_comuns": [
+      "Displasia do quadril",
+      "Problemas oculares",
+      "Alergias cutâneas"
+    ],
+    "cuidados_veterinarios": "Trimestral"
+  },
+  "cuidados": {
+    "higiene": "Lisa, Curta",
+    "exercicios": "Necessidade nível 5/5",
+    "treinamento": "Moderado",
+    "alimentacao": "Consulte um veterinário para dieta balanceada"
+  },
+  "seo": {
+    "title": "Buhund Norueguês - Características, Temperamento e Cuidados | Guia Completo",
+    "description": "Descubra tudo sobre Buhund Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "keywords": [
+      "buhund-noruegues",
+      "buhund norueguês",
+      "médio",
+      "noruega"
+    ]
+  },
+  "imagem_principal": "/images/breeds/buhund-noruegues.jpg",
+  "galeria": [
+    "/images/breeds/buhund-noruegues-1.jpg",
+    "/images/breeds/buhund-noruegues-2.jpg",
+    "/images/breeds/buhund-noruegues-3.jpg"
+  ],
+  "video_url": "https://youtube.com/watch?v=buhund-noruegues",
+  "popularidade": 23426,
+  "ranking_brasil": 17,
+  "custo_mensal_estimado": [
+    448,
+    1076
+  ]
+}
