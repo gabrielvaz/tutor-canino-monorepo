@@ -4,70 +4,86 @@
   "slug": "bull-terrier",
   "nome_en": "Bull Terrier",
   "apelidos": [
+    "Gladiador Branco",
     "Bull",
-    "Terrier"
+    "Cão cabeça de ovo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "35 cm",
-    "altura_femea": "30 cm",
-    "peso_macho": "21.2 kg",
-    "peso_femea": "18.3 kg",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "45 - 55 cm",
+    "altura_femea": "45 - 55 cm",
+    "peso_macho": "25 - 38 kg",
+    "peso_femea": "22 - 30 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1907
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Bull Terrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bull Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bull Terrier é um dos cães mais singulares e reconhecíveis do mundo, famoso por sua cabeça em formato de ovo e seu perfil romano. É um cão de porte médio a grande, com uma constituição física que é puro músculo, denotando uma força e agilidade extraordinárias. Seus olhos pequenos e triangulares conferem-lhe uma expressão penetrante e perspicaz. Apesar de sua aparência imponente e passado como lutador, o Bull Terrier moderno é conhecido como o 'crianção' do mundo canino. Ele é extremamente afetuoso, brincalhão e possui um senso de humor quase humano, dedicando-se inteiramente à sua família com uma lealdade feroz e uma alegria contagiante.",
+    "historia": "A raça foi criada na Inglaterra por James Hinks na década de 1860. Hinks cruzou o antigo Bulldog Inglês com o extinto English White Terrier, buscando criar um cão que combinasse a bravura e tenacidade de um com a inteligência e agilidade do outro. O resultado foi o Bull Terrier, inicialmente conhecido como o 'Gladiador Branco'. Diferente dos cães de briga da época, Hinks focou em um animal que fosse também elegante para acompanhar cavalheiros. A característica cabeça ovalada foi refinada ao longo de décadas. Com o tempo, a raça evoluiu de um lutador de arenas para um companheiro doméstico de elite e um excelente cão de guarda.",
     "curiosidades": [
-      "Bull Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Bull Terrier é a única raça que possui olhos triangulares reconhecidos pelo padrão oficial.",
+      "Eles são famosos pelo comportamento de 'Bull Run', onde correm freneticamente em círculos ou em zigue-zague para liberar energia acumulada.",
+      "Um Bull Terrier chamado Target foi condecorado por salvar soldados no Afeganistão ao detectar um homem-bomba.",
+      "A raça é a estrela de inúmeras campanhas publicitárias, como os comerciais da Target nos EUA e do cão Spuds MacKenzie da Bud Light.",
+      "Eles possuem uma pele muito sensível e podem sofrer queimaduras solares facilmente, especialmente os exemplares de pelagem branca."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que gostam de brincadeiras vigorosas",
+      "Tutores que apreciam cães com personalidade forte e cômica",
+      "Pessoas que vivem em casas com quintais seguros e bem murados",
+      "Donos dispostos a investir tempo e paciência em treinamento de obediência",
+      "Quem busca um cão de guarda leal que também seja um grande companheiro de sofá"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (exige pulso firme e liderança)",
+      "Pessoas sedentárias que buscam um cão passivo",
+      "Casas com outros cães do mesmo sexo sem socialização profunda",
+      "Ambientes onde o cão ficará isolado no quintal sem contato humano",
+      "Tutores que não toleram uma certa dose de teimosia e independência"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Doença Renal Hereditária (Nefrite)",
+      "Problemas Cardíacos (Estenose Aórtica e Displasia Mitral)",
+      "Surdez (especialmente em brancos puros)",
+      "Luxação de Patela",
+      "Problemas de pele e alergias graves",
+      "Transtorno Obsessivo Compulsivo (como perseguir a cauda)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames renais e cardíacos anuais são cruciais. Teste de audição (BAER) em filhotes brancos. Atenção rigorosa à saúde da pele e ouvidos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e dura é muito simples, bastando uma escovação semanal. Eles soltam pouco pelo. Banhos devem ser dados conforme a necessidade. É importante proteger a pele branca do sol direto com protetor solar canino em áreas sensíveis.",
+    "exercicios": "Necessita de muito exercício físico e mental. O Bull Terrier é um atleta que precisa de caminhadas vigorosas, corridas e muito tempo de brincadeira com brinquedos resistentes. Sem gasto de energia, ele pode se tornar excessivamente agitado e destrutivo.",
+    "treinamento": "O adestramento é fundamental e deve ser baseado em reforço positivo, paciência e firmeza. Eles são inteligentes, mas 'pensam por si mesmos'. A socialização precoce com outros cães e pessoas é OBRIGATÓRIA para garantir um temperamento equilibrado.",
+    "alimentacao": "Dieta de alta qualidade controlada. Evite o excesso de petiscos, pois o Bull Terrier tem facilidade para engordar, o que prejudica as articulações e o coração."
   },
   "seo": {
-    "title": "Bull Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bull Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bull Terrier: O Gladiador Branco e Brincalhão - Guia Completo",
+    "description": "Descubra tudo sobre o Bull Terrier: conheça a cabeça em formato de ovo, o temperamento afetuoso e os cuidados essenciais com esta raça musculosa e divertida.",
     "keywords": [
-      "bull-terrier",
-      "bull terrier",
-      "médio",
-      "inglaterra"
+      "Bull Terrier",
+      "Gladiador Branco",
+      "cão cabeça de ovo",
+      "raças de cães fortes",
+      "cuidados com Bull Terrier",
+      "temperamento Bull Terrier",
+      "saúde do Bull Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/bull-terrier.jpg",
@@ -76,11 +92,54 @@
     "/images/breeds/bull-terrier-2.jpg",
     "/images/breeds/bull-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bull-terrier",
-  "popularidade": 19405,
-  "ranking_brasil": 81,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Bull Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bullterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bullterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Bull Terrier: Realidade",
+      "url": "https://www.youtube.com/watch?v=example-bull-life",
+      "canal": "Tutor Canino",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bull-terrier-miniatura",
+    "american-staffordshire-terrier",
+    "staffordshire-bull-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Tigrado (Brindle)",
+    "Vermelho",
+    "Fawn (Fulvo)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Manchas na cabeça (permitidas no branco)",
+    "Pode ter qualquer marcação no colorido"
+  ],
+  "curiosidades_historicas": "James Hinks, o 'pai' da raça, dizia que queria criar um cão que fosse um 'gentleman's companion' (companheiro de cavalheiro). Ele buscava um cão branco puro para simbolizar pureza e classe, o que levou à cor branca sendo a marca registrada da raça por muitos anos até que as variantes coloridas fossem aceitas no início do século XX.",
+  "referencias_externas": [
+    {
+      "titulo": "Bull Terrier Club of America",
+      "url": "https://www.btca.com/",
+      "descricao": "Clube oficial com guias de saúde, ética e eventos da raça."
+    },
+    {
+      "titulo": "FCI - Bull Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/BULL-TERRIER-11.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 52,
   "custo_mensal_estimado": [
-    227,
-    1430
+    400,
+    1100
   ]
 }

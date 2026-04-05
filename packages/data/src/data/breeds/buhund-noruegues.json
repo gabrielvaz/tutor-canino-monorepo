@@ -5,69 +5,82 @@
   "nome_en": "Norwegian Buhund",
   "apelidos": [
     "Buhund",
-    "Norueguês"
+    "Norsk Buhund"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Noruega",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "18 kg",
-    "peso_femea": "16.3 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "43 - 47 cm",
+    "altura_femea": "41 - 45 cm",
+    "peso_macho": "14 - 18 kg",
+    "peso_femea": "12 - 16 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1988
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
     "latido": 5,
-    "afeicao_familia": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Buhund Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Buhund Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Buhund Norueguês é um clássico cão de tipo Spitz, de porte médio, constituição quadrada e uma expressão de eterna prontidão e alegria. Caracteriza-se por suas orelhas pontiagudas e eretas, uma cauda firmemente enrolada sobre o dorso e uma pelagem dupla densa e lisa que o protege do rigoroso clima nórdico. É um cão extremamente versátil, usado historicamente para tudo, desde pastoreio até guarda. O Buhund é conhecido por seu temperamento vibrante, sendo um companheiro 'elétrico' que adora participar de todas as atividades da família, sempre com uma atitude positiva e um desejo genuíno de agradar.",
+    "historia": "As origens do Buhund Norueguês remontam à era Viking. Escavações arqueológicas em barcos-tumbas vikings (como o de Gokstad, datado de cerca de 900 d.C.) revelaram esqueletos de cães quase idênticos ao Buhund moderno, provando que eles acompanhavam seus donos tanto em vida quanto na morte. O nome deriva das palavras norueguesas 'bu' (fazenda ou abrigo de pastores) e 'hund' (cão). Durante séculos, eles foram os cães de fazenda essenciais na Noruega, guardando o gado, protegendo a propriedade e servindo como companheiros leais em terrenos montanhosos isolados. A raça foi formalmente padronizada e exibida pela primeira vez na Noruega na década de 1920.",
     "curiosidades": [
-      "Buhund Norueguês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Buhund Norueguês é uma das poucas raças Spitz que se destaca no pastoreio, utilizando um estilo de trabalho muito vocal para guiar os rebanhos.",
+      "Eles são conhecidos como 'cães que sorriem' devido à forma como abrem a boca e o brilho feliz em seus olhos.",
+      "Devido à sua inteligência e desejo de trabalhar, eles são frequentemente treinados na Noruega como cães de assistência para pessoas com deficiência auditiva.",
+      "Apesar do seu instinto de guarda, eles raramente são agressivos, preferindo alertar sobre intrusos com um latido potente e insistente.",
+      "Eles possuem um nível de energia que parece nunca acabar, sendo chamados por alguns de 'o border collie dos países nórdicos'."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que gostam de atividades ao ar livre constantes",
+      "Tutores que vivem em casas com quintais seguros (ele adora patrulhar seu território)",
+      "Pessoas interessadas em esportes caninos como Agility, Obediência ou Herding",
+      "Famílias com crianças (ele é um parceiro de brincadeiras incansável e gentil)",
+      "Quem busca um cão de guarda de alerta extremamente vigilante"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que buscam um cão calmo e passivo",
+      "Pessoas que vivem em apartamentos com vizinhos intolerantes a latidos (ele é muito vocal)",
+      "Tutores que não toleram queda de pelos constante (ele troca de casaco intensamente)",
+      "Proprietários que não podem dedicar tempo ao estímulo mental diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Catarata Pulverulenta Hereditária (específica da raça)",
+      "Hipotireoidismo",
+      "Alergias de pele",
+      "Problemas dentários (se não houver higiene)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são obrigatórios devido à propensão a cataratas. Check-ups ortopédicos regulares e monitoramento da tireoide em cães seniores."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem dupla exige escovação pelo menos duas vezes por semana para gerenciar a queda. Durante as trocas sazonais, a escovação deve ser diária para remover o subpelo morto. Banhos devem ser ocasionais para manter a impermeabilidade natural do pelo. É essencial escovar os dentes regularmente para evitar o acúmulo de tártaro.",
+    "exercicios": "Necessita de muito exercício físico e mental. Caminhadas longas, corridas e sessões de treinamento complexo são fundamentais. Se ficar entediado, o Buhund pode se tornar um latidor excessivo e destrutivo.",
+    "treinamento": "Muito inteligente e fácil de treinar, mas pode ser independente. Ele aprende rápido e gosta de desafios. O treinamento deve ser baseado em reforço positivo. Socialização precoce é VITAL para ensinar o cão quando o latido de alerta é necessário e quando deve parar.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Atenção às porções para manter o peso ideal e não sobrecarregar as articulações desta raça saltadora e ágil."
   },
   "seo": {
-    "title": "Buhund Norueguês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Buhund Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Buhund Norueguês: O Cão Fazendeiro dos Vikings - Guia de Raça",
+    "description": "Descubra o Buhund Norueguês, o versátil cão nórdico. Conheça sua história milenar com os Vikings, seu temperamento alegre e dicas essenciais de cuidados.",
     "keywords": [
-      "buhund-noruegues",
-      "buhund norueguês",
-      "médio",
-      "noruega"
+      "Buhund Norueguês",
+      "Norwegian Buhund",
+      "cão viking",
+      "Spitz norueguês",
+      "cão de pastoreio nórdico",
+      "raças de cães médias",
+      "cuidados com Buhund"
     ]
   },
   "imagem_principal": "/images/breeds/buhund-noruegues.jpg",
@@ -76,11 +89,55 @@
     "/images/breeds/buhund-noruegues-2.jpg",
     "/images/breeds/buhund-noruegues-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=buhund-noruegues",
-  "popularidade": 23426,
-  "ranking_brasil": 17,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Norwegian Buhund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-buhund",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-buhund/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Buhund Norueguês",
+      "url": "https://www.youtube.com/watch?v=example-buhund-action",
+      "canal": "Nordic Dogs",
+      "duracao": "06:50"
+    }
+  ],
+  "racas_relacionadas": [
+    "elkhound-noruegues",
+    "pastor-islandes",
+    "lulu-da-pomerania",
+    "spitz-alemao"
+  ],
+  "cores_disponiveis": [
+    "Trigo (Wheaten)",
+    "Preto",
+    "Creme",
+    "Dourado"
+  ],
+  "marcacoes": [
+    "Máscara preta leve (opcional)",
+    "Pode ter pontas de pelos pretos na pelagem trigo",
+    "Pequenas manchas brancas permitidas"
+  ],
+  "curiosidades_historicas": "Os ancestrais do Buhund eram tão importantes para a sobrevivência das comunidades rurais norueguesas que eles eram frequentemente mencionados nas antigas 'Sagas' norueguesas como símbolos de fidelidade e utilidade. Um provérbio norueguês diz que 'uma fazenda sem um Buhund é uma fazenda sem alma'.",
+  "referencias_externas": [
+    {
+      "titulo": "Norwegian Buhund Club of America",
+      "url": "https://www.buhundclub.org/",
+      "descricao": "Clube oficial com guias extensos de saúde e criação."
+    },
+    {
+      "titulo": "Norsk Buhundklubb (Noruega)",
+      "url": "https://www.buhund.no/",
+      "descricao": "O clube de origem da raça no seu país natal."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 165,
   "custo_mensal_estimado": [
-    448,
-    1076
+    300,
+    700
   ]
 }

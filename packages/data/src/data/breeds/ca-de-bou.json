@@ -2,71 +2,88 @@
   "id": "ca-de-bou",
   "nome": "Ca de Bou",
   "slug": "ca-de-bou",
-  "nome_en": "Ca de Bou",
+  "nome_en": "Perro de Presa Mallorquin",
   "apelidos": [
-    "Ca",
-    "Bou"
+    "Dogue de Maiorca",
+    "Presa Maiorquino",
+    "Mastiff de Maiorca"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Espanha",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "13.7 kg",
-    "peso_femea": "11.5 kg",
+    "origem": "Espanha (Ilhas Baleares - Maiorca)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "55 - 58 cm",
+    "altura_femea": "52 - 55 cm",
+    "peso_macho": "35 - 38 kg",
+    "peso_femea": "30 - 34 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1977
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 1,
-    "queda_pelo": 4,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Ca de Bou é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Ca de Bou originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Ca de Bou é um molossóide de porte médio, constituição poderosa e uma expressão de seriedade calma. Originário da ilha de Maiorca, ele possui uma cabeça massiva, quase quadrada, com mandíbulas extremamente fortes que denotam sua herança de cão de presa. Sua pelagem é curta e áspera ao tato. Apesar de sua aparência intimidadora e musculosa, o Ca de Bou é conhecido por ter um temperamento excepcionalmente equilibrado: é um guardião vigilante e destemido quando necessário, mas um companheiro extremamente dócil, carinhoso e paciente com sua família, integrando-se perfeitamente à vida doméstica.",
+    "historia": "A raça desenvolveu-se nas Ilhas Baleares a partir do século XIII, resultado do cruzamento de mastiffs levados por navegadores com cães locais. O nome 'Ca de Bou' significa literalmente 'Cão de Touro' em catalão, referindo-se ao seu uso histórico no 'bull-baiting' (luta contra touros) e também no auxílio a carniceiros para segurar o gado. Com a proibição dessas lutas, a raça foi direcionada para a guarda de propriedades e fazendas. Quase extinto após a Guerra Civil Espanhola, o Ca de Bou foi recuperado na década de 1980 por criadores dedicados que utilizaram os poucos exemplares puros restantes para reconstruir a raça.",
     "curiosidades": [
-      "Ca de Bou possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Ca de Bou é considerado o orgulho cinófilo das Ilhas Baleares.",
+      "Eles possuem uma mordida extraordinariamente forte e uma tolerância à dor muito alta.",
+      "Diferente de outros mastiffs, eles são cães muito ágeis e capazes de reagir com velocidade surpreendente.",
+      "A raça apresenta um dimorfismo sexual marcante: a cabeça do macho é visivelmente maior e mais massiva que a da fêmea.",
+      "Eles são conhecidos por serem cães 'silenciosos', preferindo agir em vez de latir excessivamente para intrusos."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças de guarda e dominantes",
+      "Famílias que buscam um protetor leal e afetuoso com crianças",
+      "Casas com espaço e quintais bem cercados",
+      "Proprietários que desejam um cão de guarda dissuasivo mas equilibrado",
+      "Pessoas que vivem em climas temperados ou quentes (ele lida bem com o calor)"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores iniciantes que nunca tiveram cães de grande porte",
+      "Pessoas que vivem em apartamentos muito pequenos",
+      "Casas com muitos cães do mesmo sexo sem supervisão profissional",
+      "Proprietários que não podem dedicar tempo à socialização e adestramento consistente",
+      "Tutores que buscam um cão para frequentar parques de cães sem controle (pode ser territorial)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Ectrópio e Entrópio",
+      "Problemas cardíacos",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. É importante manter o cão em um peso saudável para não sobrecarregar as articulações. Atenção a sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é mínima. Uma escovação semanal remove pelos mortos e mantém a pele saudável. Banhos devem ser ocasionais. É importante limpar as dobras faciais periodicamente e manter as unhas curtas.",
+    "exercicios": "Necessita de exercícios diários moderados a intensos. Caminhadas longas e sessões de treinamento mental são fundamentais para manter seu equilíbrio emocional. Ele gosta de ter uma função ou 'trabalho' a cumprir.",
+    "treinamento": "O adestramento de obediência deve começar cedo e ser baseado em liderança firme, justa e reforço positivo. O Ca de Bou é inteligente e aprende bem, mas pode ser teimoso se não houver uma hierarquia clara. A socialização precoce é CRÍTICA.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães médios/grandes. Dividir a alimentação em pelo menos duas refeições para reduzir o risco de problemas gástricos."
   },
   "seo": {
-    "title": "Ca de Bou - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Ca de Bou: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Ca de Bou (Perro de Presa Mallorquin): O Guardião Equilibrado - Guia de Raça",
+    "description": "Conheça o Ca de Bou, o poderoso cão de Maiorca. Descubra sua história como cão de touro, seu temperamento leal e os cuidados essenciais com este guardião magnífico.",
     "keywords": [
-      "ca-de-bou",
-      "ca de bou",
-      "médio",
-      "espanha"
+      "Ca de Bou",
+      "Perro de Presa Mallorquin",
+      "Dogue de Maiorca",
+      "cão de guarda",
+      "raças de cães médias",
+      "cuidados com Ca de Bou",
+      "temperamento Ca de Bou",
+      "molosso espanhol"
     ]
   },
   "imagem_principal": "/images/breeds/ca-de-bou.jpg",
@@ -75,11 +92,54 @@
     "/images/breeds/ca-de-bou-2.jpg",
     "/images/breeds/ca-de-bou-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=ca-de-bou",
-  "popularidade": 36659,
-  "ranking_brasil": 137,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Ca de Bou - O Guardião de Maiorca",
+      "url": "https://www.youtube.com/watch?v=example-cadebou",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-cadebou/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Força e Lealdade do Ca de Bou",
+      "url": "https://www.youtube.com/watch?v=example-cadebou-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cane-corso",
+    "dogo-argentino",
+    "presa-canario",
+    "bulldog-ingles"
+  ],
+  "cores_disponiveis": [
+    "Tigrado (Brindle)",
+    "Fulvo (Fawn)",
+    "Preto"
+  ],
+  "marcacoes": [
+    "Máscara preta preferível",
+    "Manchas brancas permitidas nas patas dianteiras e peito",
+    "Máximo de 30% de branco no total"
+  ],
+  "curiosidades_historicas": "O padrão da raça estabelece que o Ca de Bou deve ser um cão 'imperturbável'. Na história da ilha, eles eram tão confiáveis que os pastores podiam deixá-los vigiando o rebanho e a propriedade por dias sem qualquer supervisão, sabendo que o cão daria a vida para proteger o que lhe foi confiado.",
+  "referencias_externas": [
+    {
+      "titulo": "Club Español del Ca de Bou",
+      "url": "http://www.clubespanolcadebou.es/",
+      "descricao": "Clube oficial da raça na Espanha, dedicado à sua preservação e padrão."
+    },
+    {
+      "titulo": "FCI - Perro de Presa Mallorquín Standard",
+      "url": "https://www.fci.be/en/nomenclature/PERRO-DE-PRESA-MALLORQUIN-249.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    421,
-    539
+    400,
+    900
   ]
 }

@@ -4,72 +4,85 @@
   "slug": "bull-terrier-miniatura",
   "nome_en": "Miniature Bull Terrier",
   "apelidos": [
-    "Bull",
-    "Miniatura"
+    "Mini Bull",
+    "Bull Mini"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Inglaterra",
     "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "24 cm",
-    "altura_femea": "21 cm",
-    "peso_macho": "3.9 kg",
-    "peso_femea": "0.5 kg",
+    "altura_macho": "25 - 35.5 cm",
+    "altura_femea": "25 - 35.5 cm",
+    "peso_macho": "11 - 15 kg",
+    "peso_femea": "11 - 15 kg",
     "grupo_fci": "Grupo 3 - Terriers",
     "ano_reconhecimento_fci": 1978
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 5,
+    "energia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 4,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Bull Terrier Miniatura é uma raça de porte toy originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bull Terrier Miniatura originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bull Terrier Miniatura é a versão compacta, mas igualmente poderosa e divertida, do Bull Terrier padrão. Ele possui a mesma cabeça icônica em formato de ovo, olhos triangulares pequenos e escuros e uma constituição física extremamente musculosa e sólida. Apesar de ser classificado como pequeno, o Mini Bull é um 'concentrado' de força e determinação. Conhecido por seu temperamento travesso e sua energia inesgotável, ele é frequentemente descrito como uma 'criança de quatro patas vestindo uma roupa de cachorro'. É um companheiro leal, corajoso e dotado de um senso de humor único, capaz de transformar qualquer situação em uma brincadeira.",
+    "historia": "A história do Bull Terrier Miniatura caminha junto com a do padrão. Ambos descendem do cruzamento de Bulldogs com Terriers no século XIX, visando criar um caçador de pragas ágil e forte. Enquanto o Bull Terrier original foi crescendo em tamanho, alguns criadores mantiveram a linhagem dos exemplares menores. O tipo 'Miniatura' foi reconhecido como raça separada pelo Kennel Club inglês em 1939 e pelo AKC em 1991. O objetivo da criação sempre foi manter todas as proporções e o temperamento da raça original em um pacote menor, mais adequado para a vida urbana, mas sem perder a essência de terrier de trabalho.",
     "curiosidades": [
-      "Bull Terrier Miniatura possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente de muitas raças 'mini', o Bull Terrier Miniatura não deve ser frágil; ele deve parecer um cão grande em miniatura.",
+      "Eles são famosos pelo 'Bull Run' ou 'huckle-buck', onde correm em círculos em alta velocidade pela casa por pura alegria.",
+      "A raça possui um limite de altura rigoroso (35,5 cm), mas não possui um limite oficial de peso, desde que o cão pareça balanceado.",
+      "Eles são conhecidos por serem cães 'teimosos' que precisam de uma razão convincente para obedecer comandos.",
+      "Os Mini Bulls tendem a ser um pouco mais ativos e latidores do que seus primos de tamanho padrão."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que apreciam cães com personalidade forte",
+      "Pessoas que vivem em apartamentos grandes ou casas com quintal",
+      "Tutores que buscam um cão de guarda pequeno, mas intimidador",
+      "Donos que gostam de atividades intensas como corridas e jogos de busca",
+      "Famílias com crianças maiores que saibam lidar com a força física do cão"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores iniciantes que não consigam estabelecer limites claros",
+      "Pessoas que buscam um cão de colo calmo e sedentário",
+      "Casas com outros cães do mesmo sexo sem supervisão (pode haver dominância)",
+      "Proprietários que ficam fora de casa por muitas horas (ele é muito carente de interação)",
+      "Tutores que não toleram uma certa dose de destruição de brinquedos (eles têm mandíbulas potentes)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Lente Primária (PLL) - doença ocular hereditária",
+      "Problemas renais (Doença Renal Familiar)",
+      "Doenças cardíacas (Estenose Aórtica e Displasia Mitral)",
+      "Surdez (especialmente em exemplares brancos)",
+      "Luxação de Patela",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "É obrigatório realizar testes de DNA para PLL e Doppler cardíaco. Check-ups renais regulares através de exames de sangue e urina são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e lisa é muito fácil, exigindo apenas uma escovação semanal. Eles soltam pouco pelo. Banhos devem ser ocasionais. É importante manter as unhas curtas, pois o peso do cão sobre as patas pequenas exige bom apoio.",
+    "exercicios": "Necessita de muito exercício diário para queimar sua alta energia. Caminhadas rápidas, corridas e muito tempo de brincadeira com brinquedos resistentes são essenciais. O Mini Bull precisa ser estimulado fisicamente para não se tornar ansioso ou destrutivo.",
+    "treinamento": "O adestramento é um desafio e requer paciência, criatividade e reforço positivo. Eles se aborrecem com repetições monótonas. A socialização precoce e intensa com outros cães é fundamental para mitigar tendências de dominância.",
+    "alimentacao": "Dieta de alta qualidade controlada. Tendem a ser gulosos e podem engordar rapidamente, o que sobrecarrega o coração e as articulações."
   },
   "seo": {
-    "title": "Bull Terrier Miniatura - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bull Terrier Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bull Terrier Miniatura: O Pequeno Travesso Musculoso - Guia de Raça",
+    "description": "Descubra o Bull Terrier Miniatura: conheça sua personalidade cômica, história fascinante e cuidados essenciais com a saúde e adestramento.",
     "keywords": [
-      "bull-terrier-miniatura",
-      "bull terrier miniatura",
-      "toy",
-      "inglaterra"
+      "Bull Terrier Miniatura",
+      "Mini Bull",
+      "cão cabeça de ovo",
+      "terrier pequeno",
+      "raças de cães fortes",
+      "cuidados com Mini Bull",
+      "temperamento Bull Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/bull-terrier-miniatura.jpg",
@@ -78,11 +91,54 @@
     "/images/breeds/bull-terrier-miniatura-2.jpg",
     "/images/breeds/bull-terrier-miniatura-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bull-terrier-miniatura",
-  "popularidade": 25020,
-  "ranking_brasil": 120,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Miniature Bull Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-minibull",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-minibull/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre o Bull Terrier e o Mini",
+      "url": "https://www.youtube.com/watch?v=example-bull-diff",
+      "canal": "Mundo Canino",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "bull-terrier",
+    "staffordshire-bull-terrier",
+    "american-staffordshire-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Tigrado (Brindle)",
+    "Vermelho",
+    "Fawn (Fulvo)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Manchas na cabeça permitidas no branco",
+    "Pode ter qualquer marcação no colorido"
+  ],
+  "curiosidades_historicas": "O Bull Terrier Miniatura foi apelidado por muito tempo de 'Gladiador Branco' quando a cor branca era a única aceita. James Hinks, o criador original da raça no século XIX, buscou criar um cão que unisse a bravura do Bulldog com a inteligência e agilidade do Terrier, mas com a elegância de um cavalheiro para acompanhá-lo em passeios sociais.",
+  "referencias_externas": [
+    {
+      "titulo": "Miniature Bull Terrier Club of America",
+      "url": "https://www.minibull.org/",
+      "descricao": "Clube oficial com recursos sobre saúde, ética e eventos da raça."
+    },
+    {
+      "titulo": "FCI - Miniature Bull Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-BULL-TERRIER-359.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 18000,
+  "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    239,
-    832
+    300,
+    700
   ]
 }

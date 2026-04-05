@@ -3,67 +3,88 @@
   "nome": "Boxer",
   "slug": "boxer",
   "nome_en": "Boxer",
-  "apelidos": [],
+  "apelidos": [
+    "Cão de Guarda Alegre",
+    "Peter Pan dos Cães"
+  ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "62 cm",
-    "altura_femea": "57 cm",
-    "peso_macho": "41.9 kg",
-    "peso_femea": "38 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "57 - 63 cm",
+    "altura_femea": "53 - 59 cm",
+    "peso_macho": "30 - 32 kg",
+    "peso_femea": "25 - 27 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1917
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
+    "energia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Boxer é uma raça de porte grande originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Boxer originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Boxer é a combinação perfeita de força, inteligência e alegria. De porte grande e constituição atlética e elegante, ele possui uma musculatura bem definida que transparece sob sua pele curta e lisa. Sua cabeça é sua característica mais marcante, com um focinho largo e rombo, mandíbulas potentes e olhos escuros e expressivos que parecem sempre prontos para uma brincadeira. Frequentemente chamado de 'o Peter Pan' do mundo canino, o Boxer mantém um espírito brincalhão e jovial até a velhice. No entanto, por trás dessa fachada divertida, esconde-se um cão de guarda sério, vigilante e intensamente leal, capaz de defender sua família com coragem inabalável.",
+    "historia": "A raça foi desenvolvida na Alemanha no final do século XIX, descendendo do antigo 'Bullenbeisser' (mordedor de touros), um cão usado para caçar animais de grande porte como ursos e javalis. Através de cruzamentos selecionados com o Bulldog Inglês e outros cães locais, os criadores buscaram criar um cão de trabalho mais elegante, ágil e equilibrado. O Boxer tornou-se um dos primeiros cães a serem utilizados para o trabalho policial e militar na Alemanha devido à sua coragem e capacidade de treinamento. Após a Segunda Guerra Mundial, soldados que voltavam para casa levaram exemplares para outros países, onde a raça rapidamente se tornou uma das mais populares do mundo como animal de estimação familiar.",
     "curiosidades": [
-      "Boxer possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Boxer' acredita-se que venha do hábito da raça de usar as patas dianteiras para brincar ou lutar, assemelhando-se a um pugilista.",
+      "Eles são famosos por darem o 'kidney bean' (rim), uma dança onde dobram o corpo em forma de vírgula e giram de felicidade.",
+      "O Boxer é um cão braquicefálico (focinho curto), o que significa que ele pode roncar e ser sensível ao calor extremo.",
+      "A raça é conhecida por sua paciência extrema com crianças, muitas vezes permitindo brincadeiras que outros cães não tolerariam.",
+      "Antigamente, as orelhas e caudas eram cortadas por motivos de trabalho, mas hoje a tendência mundial (e obrigatória em muitos países, incluindo o Brasil) é manter o aspecto natural.",
+      "Existem Boxers brancos, mas eles não são albinos; no entanto, possuem maior propensão à surdez."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas com crianças (ele é um companheiro de brincadeiras fantástico)",
+      "Tutores que buscam um cão de guarda eficiente e intimidador, mas dócil com a família",
+      "Pessoas que dispõem de tempo para exercícios diários intensos",
+      "Donos que apreciam um cão com personalidade forte e senso de humor",
+      "Casas com quintais amplos e seguros onde ele possa correr"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores sedentários que não podem oferecer gasto de energia",
+      "Pessoas que vivem em apartamentos muito pequenos sem rotina de passeios",
+      "Donos que não toleram baba (Boxers tendem a babar um pouco, especialmente após comer ou beber)",
+      "Tutores que ficam fora de casa por períodos muito longos (sofre com a solidão)",
+      "Ambientes externos com temperaturas muito elevadas (devido ao focinho curto)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Cardiomiopatia Arritmogênica do Ventrículo Direito (Boxer Cardiomyopathy)",
+      "Cânceres (especialmente Mastocitomas e Linfomas)",
+      "Displasia de Quadril",
+      "Dilatação e Torção Gástrica",
+      "Hipotireoidismo",
+      "Úlceras de Córnea"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames cardíacos regulares (Ecocardiograma/Holter) são vitais para a raça. Check-ups semestrais para detecção precoce de nódulos ou tumores de pele. Monitoramento rigoroso da respiração em dias quentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos ocasionais são suficientes. As dobras do focinho devem ser limpas e secas periodicamente para evitar fungos.",
+    "exercicios": "Necessita de muito exercício físico. Caminhadas longas, corridas e, principalmente, sessões de brincadeira que envolvam saltos e agilidade (com moderação para não lesionar articulações) são essenciais. Ele adora jogos de busca e interagir com outros cães.",
+    "treinamento": "Muito inteligente e aprende rápido, mas pode ser teimoso e facilmente distraído. O treinamento deve ser firme, consistente e muito divertido. O uso de métodos punitivos é contraproducente para sua sensibilidade. A socialização precoce é fundamental.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições para evitar a torção gástrica. Deve-se controlar o peso rigorosamente, pois o Boxer obeso perde sua agilidade e sobrecarrega o coração."
   },
   "seo": {
-    "title": "Boxer - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Boxer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Boxer: O Atleta Brincalhão e Guardião Leal - Guia de Raça",
+    "description": "Descubra tudo sobre o Boxer: do temperamento de 'Peter Pan' à sua coragem como cão de guarda. Conheça a história, saúde e cuidados essenciais com esta raça incrível.",
     "keywords": [
-      "boxer",
-      "boxer",
-      "grande",
-      "alemanha"
+      "Boxer",
+      "cão de guarda",
+      "cão para crianças",
+      "raças de cães grandes",
+      "cuidados com Boxer",
+      "temperamento Boxer",
+      "saúde do Boxer",
+      "Bullenbeisser"
     ]
   },
   "imagem_principal": "/images/breeds/boxer.jpg",
@@ -72,11 +93,54 @@
     "/images/breeds/boxer-2.jpg",
     "/images/breeds/boxer-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=boxer",
-  "popularidade": 25367,
-  "ranking_brasil": 54,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Boxer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-boxer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-boxer/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento do Boxer em Família",
+      "url": "https://www.youtube.com/watch?v=example-boxer-life",
+      "canal": "Vida de Cão",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "dogue-alemao",
+    "rottweiler",
+    "bulldog-ingles",
+    "bullmastiff"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Fawn)",
+    "Tigrado (Brindle)",
+    "Branco (não aceito em algumas confederações para exposição)"
+  ],
+  "marcacoes": [
+    "Máscara preta (obrigatória no dourado e tigrado)",
+    "Manchas brancas (Flashy)",
+    "Peito branco"
+  ],
+  "curiosidades_historicas": "Durante as Guerras Mundiais, os Boxers foram heróis silenciosos, atuando como mensageiros, cães de busca e salvamento e até guardas de segurança. Sua versatilidade e inteligência salvaram inúmeras vidas, o que ajudou a cimentar a reputação da raça como um trabalhador incansável e confiável.",
+  "referencias_externas": [
+    {
+      "titulo": "American Boxer Club",
+      "url": "https://americanboxerclub.org/",
+      "descricao": "Clube oficial com vasta informação sobre saúde, genética e padrão da raça."
+    },
+    {
+      "titulo": "BK - Boxer-Klub E.V. (Alemanha)",
+      "url": "https://www.bk-muenchen.de/",
+      "descricao": "O clube de origem da raça, fundado em 1895 na Alemanha."
+    }
+  ],
+  "popularidade": 48000,
+  "ranking_brasil": 18,
   "custo_mensal_estimado": [
-    347,
-    656
+    400,
+    1000
   ]
 }

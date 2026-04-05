@@ -3,69 +3,86 @@
   "nome": "Bullmastiff",
   "slug": "bullmastiff",
   "nome_en": "Bullmastiff",
-  "apelidos": [],
-  "categoria": "Gigante",
+  "apelidos": [
+    "Cão Noturno do Guarda-Caça",
+    "Sentinela dos Estates"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "72 cm",
-    "altura_femea": "69 cm",
-    "peso_macho": "64 kg",
-    "peso_femea": "61.4 kg",
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "64 - 69 cm",
+    "altura_femea": "61 - 66 cm",
+    "peso_macho": "50 - 59 kg",
+    "peso_femea": "41 - 50 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1915
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Bullmastiff é uma raça de porte gigante originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bullmastiff originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bullmastiff é um cão de guarda por excelência, combinando a força massiva do Mastiff com a agilidade e tenacidade do Bulldog. É um cão imponente, de constituição poderosa e simétrica, que exala uma aura de confiança e vigilância silenciosa. Sua cabeça é larga e quadrada, com rugas expressivas quando está atento, e sua pelagem é curta e densa. Conhecido como o 'gigante gentil' da guarda, o Bullmastiff é extremamente dócil e protetor com sua família, mas possui um instinto territorial aguçado que o torna um guardião incorruptível. Diferente de outras raças de guarda, ele foi treinado para não morder, mas sim para derrubar e imobilizar intrusos com seu peso.",
+    "historia": "A raça foi desenvolvida na Inglaterra em meados do século XIX para auxiliar os guardas-caça (gamekeepers) na proteção das vastas propriedades rurais contra caçadores furtivos (poachers). Os guardas precisavam de um cão que fosse grande, rápido, silencioso e corajoso o suficiente para rastrear e segurar um homem adulto sem feri-lo gravemente. Após testar várias misturas, chegaram à fórmula ideal: 60% Mastiff Inglês e 40% Bulldog. Essa combinação criou o 'Gamekeeper's Night Dog' (Cão Noturno do Guarda-Caça). Com o tempo, a raça foi refinada para exposições e companhia, mantendo sua integridade funcional.",
     "curiosidades": [
-      "Bullmastiff possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Bullmastiff foi treinado para trabalhar silenciosamente, raramente latindo, para não alertar os caçadores furtivos de sua aproximação.",
+      "Eles possuem uma habilidade inata de 'bloquear' o caminho de uma pessoa usando apenas seu corpo massivo.",
+      "Apesar do tamanho, o Bullmastiff é conhecido por ser um cão de 'baixo consumo de energia' dentro de casa, sendo muito calmo e preguiçoso.",
+      "O ator Sylvester Stallone teve um Bullmastiff chamado Butkus, que apareceu nos filmes da série 'Rocky'.",
+      "Eles são extremamente sensíveis e sentem-se profundamente magoados se forem ignorados por seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que buscam um cão de guarda eficiente e intimidador",
+      "Famílias com crianças (ele é muito protetor e paciente)",
+      "Pessoas que vivem em casas com quintais médios a grandes",
+      "Donos que preferem um cão silencioso e calmo dentro de casa",
+      "Tutores experientes que entendam a necessidade de liderança gentil"
     ],
     "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+      "Tutores de primeira viagem (ele pode ser teimoso e desafiar a autoridade)",
+      "Pessoas sedentárias que não possam oferecer caminhadas diárias para controle de peso",
+      "Ambientes extremamente quentes (devido ao focinho curto e massa corporal)",
+      "Tutores que não toleram baba (Bullmastiffs tendem a babar, especialmente após beber água)",
+      "Apartamentos muito pequenos onde o cão não tenha espaço para se virar"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Cânceres (Linfomas e Hemangiossarcomas)",
+      "Displasia de Quadril e Cotovelo",
+      "Hipotireoidismo",
+      "Problemas oculares (Entrópio)",
+      "Calos de apoio nas articulações"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oncológicos semestrais são fundamentais. O controle do peso é crítico para evitar a sobrecarga nas articulações. Atenção total a sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é muito fácil de cuidar, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser dados conforme a necessidade. É importante manter as dobras do rosto limpas e verificar os ouvidos regularmente. Prepare-se para limpar baba ocasionalmente.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em horários frescos são suficientes para mantê-lo saudável. Ele não é um cão para corridas de longa distância, mas gosta de explorar áreas abertas.",
+    "treinamento": "O adestramento deve começar cedo e ser baseado em respeito mútuo. O Bullmastiff é inteligente, mas pode ser teimoso. O uso de reforço positivo é essencial. A socialização intensiva com pessoas e outros cães é OBRIGATÓRIA desde filhote para garantir que ele saiba distinguir amigos de ameaças.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições ao dia para evitar a torção gástrica. Deve-se evitar o exercício pesado antes e depois de comer."
   },
   "seo": {
-    "title": "Bullmastiff - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bullmastiff: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bullmastiff: O Sentinela Silencioso e Leal - Guia de Raça",
+    "description": "Conheça o Bullmastiff, o cão de guarda perfeito. Descubra sua história como protetor de propriedades, temperamento dócil e cuidados com a saúde e o peso.",
     "keywords": [
-      "bullmastiff",
-      "bullmastiff",
-      "gigante",
-      "inglaterra"
+      "Bullmastiff",
+      "cão de guarda",
+      "sentinela silencioso",
+      "raças de cães grandes",
+      "cuidados com Bullmastiff",
+      "temperamento Bullmastiff",
+      "Gamekeeper's Night Dog"
     ]
   },
   "imagem_principal": "/images/breeds/bullmastiff.jpg",
@@ -74,11 +91,54 @@
     "/images/breeds/bullmastiff-2.jpg",
     "/images/breeds/bullmastiff-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bullmastiff",
-  "popularidade": 40823,
-  "ranking_brasil": 133,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Bullmastiff - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bullmastiff",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bullmastiff/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho de Guarda do Bullmastiff",
+      "url": "https://www.youtube.com/watch?v=example-bullmastiff-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "10:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-ingles",
+    "bulldog-ingles",
+    "rottweiler",
+    "dogue-de-bordeaux"
+  ],
+  "cores_disponiveis": [
+    "Fawn (Fulvo)",
+    "Vermelho",
+    "Brindle (Tigrado)"
+  ],
+  "marcacoes": [
+    "Máscara preta (obrigatória)",
+    "Orelhas escuras",
+    "Pode ter uma pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "No final do século XIX, o Bullmastiff era o cão favorito dos grandes proprietários de terras na Inglaterra. Havia competições de 'detenção de intrusos', onde um homem recebia uma vantagem inicial na floresta e o Bullmastiff deveria encontrá-lo e derrubá-lo sem causar ferimentos, demonstrando o controle e a força da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "American Bullmastiff Association",
+      "url": "https://bullmastiff.us/",
+      "descricao": "Clube oficial com vasta informação sobre saúde, genética e padrão da raça."
+    },
+    {
+      "titulo": "The Bullmastiff Association UK",
+      "url": "https://www.bullmastiffassociation.org.uk/",
+      "descricao": "Organização dedicada à preservação da raça em seu país de origem."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 92,
   "custo_mensal_estimado": [
-    305,
-    785
+    500,
+    1300
   ]
 }

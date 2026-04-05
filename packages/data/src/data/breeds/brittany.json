@@ -3,68 +3,86 @@
   "nome": "Brittany",
   "slug": "brittany",
   "nome_en": "Brittany",
-  "apelidos": [],
+  "apelidos": [
+    "Épagneul Breton",
+    "Spaniel Bretão"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "15.7 kg",
-    "peso_femea": "10.2 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1995
+    "origem": "França (Bretanha)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "47 - 52 cm",
+    "altura_femea": "46 - 51 cm",
+    "peso_macho": "14 - 18 kg",
+    "peso_femea": "13 - 16 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores (Pointers)",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 5,
     "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 1,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Brittany é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Brittany originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Brittany (ou Épagneul Breton) é a personificação da energia e entusiasmo em um cão de porte médio. Frequentemente confundido com um spaniel devido ao seu nome original, ele trabalha mais como um setter ou pointer. É um cão compacto, de constituição atlética e pernas longas em proporção ao corpo, o que lhe confere uma agilidade e velocidade impressionantes. Sua pelagem é densa, plana ou ondulada, geralmente em combinações vibrantes de laranja e branco ou fígado e branco. Com um olhar inteligente e expressivo e orelhas franjadas, o Brittany é um cão que irradia alegria e está sempre pronto para uma nova aventura, seja em campo ou com sua família.",
+    "historia": "A raça desenvolveu-se na província da Bretanha, na França, a partir do século XVII. Originalmente, eram cães de fazendeiros e caçadores locais que precisavam de um animal versátil: capaz de apontar a caça, levantá-la e também buscá-la (retriever). Acredita-se que o Brittany moderno seja o resultado de cruzamentos entre spaniels franceses locais e setters ingleses levados por caçadores britânicos para a região. O reconhecimento oficial veio em 1907 na França. Devido à sua eficiência incrível em campo e seu tamanho gerenciável, o Brittany tornou-se um dos cães de caça mais populares do mundo e um companheiro doméstico muito querido.",
     "curiosidades": [
-      "Brittany possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Embora fosse chamado de 'Brittany Spaniel' até 1982, o AKC removeu a palavra 'Spaniel' do nome porque seu estilo de trabalho é mais próximo ao dos Pointers.",
+      "Muitos Brittanys nascem naturalmente sem cauda (anuros) ou com caudas muito curtas (braquiuros).",
+      "Eles possuem um 'nariz' extremamente sensível, sendo capazes de detectar aves a grandes distâncias.",
+      "É considerado o menor dos cães de aponte (pointing dogs) versáteis.",
+      "O Brittany é famoso por sua 'sensibilidade' — eles são muito afetados pelo tom de voz e pelo humor de seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam esportes ao ar livre",
+      "Tutores que gostam de trilhas, corridas ou ciclismo",
+      "Caçadores que buscam um parceiro versátil e incansável",
+      "Famílias com crianças (ele adora ser um parceiro de brincadeiras)",
+      "Pessoas interessadas em esportes caninos como Agility ou Field Trials"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que buscam um cão de colo passivo",
+      "Moradores de apartamentos sem tempo para longas atividades externas diárias",
+      "Pessoas que ficam fora de casa o dia todo (ele pode desenvolver ansiedade de separação severa)",
+      "Tutores que utilizam métodos de treinamento severos (ele é muito sensível)",
+      "Casas com pássaros de estimação soltos (forte instinto de caça de aves)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Epilepsia idiopática",
+      "Hipotireoidismo",
+      "Lupus Eritematoso Discoide",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são recomendados. Limpeza semanal das orelhas franjadas para prevenir infecções. Monitoramento da função tireoidiana em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem requer escovação pelo menos duas vezes por semana para remover pelos mortos e evitar nós nas franjas das orelhas e pernas. Banhos devem ser dados conforme a necessidade. É importante verificar se há espinhos ou carrapatos após passeios em áreas de vegetação densa.",
+    "exercicios": "Necessita de muito exercício diário — pelo menos 1 a 2 horas de atividade vigorosa. O Brittany precisa de liberdade para correr em áreas seguras e de estímulo mental através de jogos de busca ou treinamento complexo.",
+    "treinamento": "Inteligente e ansioso para aprender, o Brittany responde maravilhosamente bem ao reforço positivo. Devido à sua sensibilidade, correções bruscas podem fazer com que o cão se torne tímido ou 'fechado'. O foco deve ser na consistência e na recompensa.",
+    "alimentacao": "Dieta equilibrada para cães ativos. Atenção redobrada para não deixar o cão engordar, pois ele é um atleta que depende de sua leveza para não sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Brittany - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Brittany: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Brittany (Épagneul Breton): O Atleta Sensível - Guia de Raça",
+    "description": "Descubra tudo sobre o Brittany: do seu incrível instinto de caça ao seu temperamento afetuoso em família. Conheça sua história e cuidados essenciais.",
     "keywords": [
-      "brittany",
-      "brittany",
-      "médio",
-      "frança"
+      "Brittany",
+      "Épagneul Breton",
+      "Spaniel Bretão",
+      "cão de caça francês",
+      "cão de aponte",
+      "raças de cães médias",
+      "cuidados com Brittany",
+      "temperamento Brittany"
     ]
   },
   "imagem_principal": "/images/breeds/brittany.jpg",
@@ -73,11 +91,55 @@
     "/images/breeds/brittany-2.jpg",
     "/images/breeds/brittany-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=brittany",
-  "popularidade": 40974,
-  "ranking_brasil": 78,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Brittany - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-brittany",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-brittany/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Épagneul Breton",
+      "url": "https://www.youtube.com/watch?v=example-brittany-action",
+      "canal": "Natureza Pet",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-ingles",
+    "setter-irlandes",
+    "vizsla",
+    "cocker-spaniel-ingles"
+  ],
+  "cores_disponiveis": [
+    "Laranja e Branco",
+    "Fígado (Liver) e Branco",
+    "Preto e Branco",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Padrão particolor (malhado)",
+    "Roan (ruão)",
+    "Marcações fogo (tan) no tricolor"
+  ],
+  "curiosidades_historicas": "O nome 'Épagneul' acredita-se que derive de 'espanhol', indicando uma possível origem remota na Espanha, mas a raça foi inteiramente moldada na Bretanha. Histórias locais dizem que os primeiros Brittanys eram tão valorizados que um único cão poderia ser trocado por um par de cavalos de trabalho.",
+  "referencias_externas": [
+    {
+      "titulo": "American Brittany Club",
+      "url": "https://americanbrittanyclub.org/",
+      "descricao": "Organização dedicada à preservação do padrão e das habilidades de caça da raça."
+    },
+    {
+      "titulo": "CEB - Club de l'Épagneul Breton (França)",
+      "url": "https://www.epagneul-breton.org/",
+      "descricao": "O clube de origem da raça na França."
+    }
+  ],
+  "popularidade": 28000,
+  "ranking_brasil": 112,
   "custo_mensal_estimado": [
-    440,
-    509
+    250,
+    600
   ]
 }

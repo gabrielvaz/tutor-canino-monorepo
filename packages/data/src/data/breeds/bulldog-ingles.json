@@ -5,70 +5,86 @@
   "nome_en": "English Bulldog",
   "apelidos": [
     "Bulldog",
-    "Inglês"
+    "Bullie"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "43 cm",
-    "peso_macho": "27.6 kg",
-    "peso_femea": "22.9 kg",
-    "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1916
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "31 - 40 cm",
+    "altura_femea": "31 - 40 cm",
+    "peso_macho": "23 - 25 kg",
+    "peso_femea": "18 - 23 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
+    "energia": 2,
+    "inteligencia": 3,
     "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Bulldog Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bulldog Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bulldog Inglês é um ícone nacional da Grã-Bretanha e um dos cães mais singulares do mundo. Caracteriza-se por seu corpo baixo, largo e musculoso, uma cabeça massiva com bochechas pendentes e uma face repleta de rugas profundas. Sua mandíbula inferior é proeminente (prognatismo), conferindo-lhe uma expressão de 'rabugento' que esconde um dos corações mais doces e afetuosos do reino canino. É um cão de grande dignidade, determinação e coragem, mas que hoje prefere muito mais um cochilo no sofá ao lado de seus tutores do que qualquer atividade vigorosa. Sua caminhada é pesada e balançante, um reflexo de sua constituição sólida e compacta.",
+    "historia": "A história do Bulldog é marcada por uma transformação radical. Originalmente, no século XIII, esses cães eram criados para o esporte cruel do 'bull-baiting' (luta contra touros), onde precisavam de força extrema, ferocidade e uma mandíbula que não soltasse por nada. Quando o esporte foi proibido em 1835, a raça quase desapareceu. No entanto, entusiastas decidiram preservar o Bulldog, eliminando a agressividade e focando no temperamento dócil e na aparência física distinta. O resultado foi a transição de um lutador temido para um dos companheiros de família mais gentis e leais que existem, tornando-se o símbolo da tenacidade britânica.",
     "curiosidades": [
-      "Bulldog Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Bulldog Inglês é a mascote oficial de inúmeras instituições, incluindo o Corpo de Fuzileiros Navais dos EUA (US Marine Corps).",
+      "Devido à sua cabeça muito larga, a imensa maioria dos Bulldogs nasce via cesariana, pois o parto natural é extremamente arriscado.",
+      "Eles são famosos por seus roncos altos e por produzirem uma variedade de ruídos engraçados devido ao seu focinho curto.",
+      "Apesar da aparência pesada, o Bulldog Inglês é um cão muito sensível e pode ficar visivelmente 'magoado' se for repreendido severamente.",
+      "Eles possuem um centro de gravidade muito baixo, o que os torna quase impossíveis de serem derrubados, herança de seu passado de luta."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Pessoas que vivem em apartamentos ou casas pequenas",
+      "Tutores que preferem um estilo de vida sedentário ou calmo",
+      "Famílias com crianças (ele é extremamente paciente e tolerante)",
+      "Proprietários que buscam um companheiro leal e muito afetuoso",
+      "Quem não se importa com ruídos respiratórios e um pouco de baba"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que buscam um parceiro para atividades físicas ou caminhadas longas",
+      "Tutores que vivem em locais com calor extremo sem refrigeração",
+      "Ambientes com escadas frequentes (pode ser difícil para suas articulações)",
+      "Tutores que não podem arcar com cuidados veterinários que podem ser frequentes",
+      "Pessoas extremamente zelosas com a limpeza absoluta (devido à baba e queda de pelo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Síndrome Braquicefálica (dificuldade respiratória grave)",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Cherry Eye, Entrópio, Ectrópio)",
+      "Dermatite de dobras cutâneas",
+      "Problemas cardíacos",
+      "Cálculos na bexiga",
+      "Sensibilidade extrema ao calor (intermação)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups frequentes são essenciais. Monitoramento constante da respiração e temperatura. Limpeza diária das rugas faciais para prevenir infecções fúngicas. Atenção rigorosa ao peso."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta cai moderadamente e requer escovação semanal. O ponto crítico são as rugas da face e ao redor da cauda, que devem ser limpas e secas todos os dias. As orelhas também precisam de atenção. Unhas devem ser mantidas curtas para não prejudicar a pisada.",
+    "exercicios": "Necessita de muito pouco exercício. Caminhadas curtas e lentas nos horários mais frescos do dia são suficientes. Nunca exercite um Bulldog no calor ou umidade elevados, pois ele pode sofrer um colapso respiratório rapidamente.",
+    "treinamento": "O Bulldog é famoso por sua teimosia. Ele entende o que você quer, mas pode demorar a decidir se vale a pena obedecer. O treinamento deve ser baseado em paciência, reforço positivo e petiscos. Eles não respondem a pressão ou força.",
+    "alimentacao": "Dieta de alta qualidade com controle rígido de porções. A obesidade é o maior inimigo do Bulldog, pois agrava todos os seus problemas respiratórios e articulares. Tendem a comer muito rápido, então comedouros lentos são recomendados."
   },
   "seo": {
-    "title": "Bulldog Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bulldog Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bulldog Inglês: O Gigante Gentil e Teimoso - Guia de Raça",
+    "description": "Descubra tudo sobre o Bulldog Inglês: conheça seu temperamento dócil, história de bravura e os cuidados essenciais com a saúde e as rugas deste ícone britânico.",
     "keywords": [
-      "bulldog-ingles",
-      "bulldog inglês",
-      "médio",
-      "inglaterra"
+      "Bulldog Inglês",
+      "English Bulldog",
+      "cão de companhia",
+      "cachorro para apartamento",
+      "raças de cães calmas",
+      "cuidados com Bulldog",
+      "temperamento Bulldog Inglês",
+      "saúde braquicefálica"
     ]
   },
   "imagem_principal": "/images/breeds/bulldog-ingles.jpg",
@@ -77,11 +93,56 @@
     "/images/breeds/bulldog-ingles-2.jpg",
     "/images/breeds/bulldog-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bulldog-ingles",
-  "popularidade": 16229,
-  "ranking_brasil": 17,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Bulldog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bulldog",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bulldog/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é ter um Bulldog Inglês em casa",
+      "url": "https://www.youtube.com/watch?v=example-bulldog-life",
+      "canal": "Mundo Canino",
+      "duracao": "13:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "bulldog-frances",
+    "bullmastiff",
+    "pug",
+    "dogue-de-bordeaux"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Branco",
+    "Fawn (Fulvo)",
+    "Brindle (Tigrado)",
+    "Malhado (Pied)"
+  ],
+  "marcacoes": [
+    "Máscara preta",
+    "Mancha branca no peito",
+    "Marcações fogo (tan) raras"
+  ],
+  "curiosidades_historicas": "O Bulldog é frequentemente chamado de 'The British Bulldog' e tornou-se um símbolo da determinação do Reino Unido durante a Segunda Guerra Mundial, muitas vezes comparado à fisionomia e espírito de Winston Churchill. Churchill, inclusive, possuía Bulldogs e admirava sua coragem inabalável.",
+  "referencias_externas": [
+    {
+      "titulo": "The Bulldog Club of America",
+      "url": "https://bulldogclubofamerica.org/",
+      "descricao": "Clube oficial com diretrizes extensas de saúde e preservação da raça."
+    },
+    {
+      "titulo": "The Bulldog Club UK",
+      "url": "https://www.thebulldogclub.org.uk/",
+      "descricao": "O clube de Bulldog mais antigo do mundo, fundado em 1875."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 12,
   "custo_mensal_estimado": [
-    437,
-    873
+    500,
+    1500
   ]
 }

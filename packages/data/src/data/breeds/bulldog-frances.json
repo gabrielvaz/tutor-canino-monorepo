@@ -4,75 +4,85 @@
   "slug": "bulldog-frances",
   "nome_en": "French Bulldog",
   "apelidos": [
-    "Bulldog",
-    "Francês",
-    "Frenchie"
+    "Frenchie",
+    "Bouledogue"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "França",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "24 cm",
-    "peso_macho": "13.3 kg",
-    "peso_femea": "8.2 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "27 - 35 cm",
+    "altura_femea": "24 - 32 cm",
+    "peso_macho": "9 - 14 kg",
+    "peso_femea": "8 - 13 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1985
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 1,
+    "queda_pelo": 2,
     "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 4,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Bulldog Francês é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bulldog Francês originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bulldog Francês, ou carinhosamente 'Frenchie', é um dos cães de companhia mais populares e charmosos do mundo. Com suas icônicas 'orelhas de morcego', olhos redondos e expressivos e um rosto achatado repleto de dobras, ele conquista qualquer um à primeira vista. Apesar de sua aparência robusta e musculosa, o Frenchie é um cão pequeno e compacto, dotado de um temperamento extremamente dócil, adaptável e companheiro. Ele é conhecido por ser um cão 'de baixo ruído', latindo pouco, mas compensando com uma variedade de sons engraçados, como roncos, bufos e até uma espécie de 'conversa' melódica com seus tutores.",
+    "historia": "Apesar do nome, as raízes da raça estão na Inglaterra. Durante a Revolução Industrial, rendas inglesas eram produzidas em Nottingham, e os artesãos locais tinham pequenos bulldogs como companheiros. Quando muitos desses artesãos migraram para a França em busca de trabalho, levaram seus cães. Em Paris, esses pequenos bulldogs foram cruzados com cães locais (provavelmente terriers e bassets), resultando no Bulldog Francês que conhecemos. Eles se tornaram os favoritos da boemia parisiense, das damas da alta sociedade e até da realeza europeia, ganhando fama mundial como o cão de luxo por excelência.",
     "curiosidades": [
-      "Bulldog Francês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "As 'orelhas de morcego' (bat ears) são uma característica distintiva que os americanos lutaram para preservar, enquanto os europeus preferiam orelhas em formato de rosa.",
+      "Devido à sua estrutura física (cabeça grande e quadril estreito), a grande maioria dos Bulldogs Franceses nasce através de cesariana e é concebida via inseminação artificial.",
+      "Eles são péssimos nadadores! Devido ao corpo denso e pernas curtas, a maioria dos Frenchies afunda como uma pedra, sendo obrigatório o uso de coletes salva-vidas perto de água.",
+      "O Bulldog Francês é um dos cães mais populares entre celebridades, de Lady Gaga a Hugh Jackman.",
+      "Eles são extremamente sensíveis ao calor e podem sofrer hipertermia rapidamente devido ao seu sistema respiratório braquicefálico."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Tutores que buscam um companheiro calmo e sedentário",
+      "Pessoas que viajam com frequência (ele é fácil de transportar)",
+      "Famílias com crianças (ele é gentil e adora atenção)",
+      "Tutores que não querem se preocupar com latidos excessivos"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que vivem em climas tropicais extremos sem ar-condicionado",
+      "Tutores que buscam um parceiro para corridas ou exercícios vigorosos",
+      "Pessoas sensíveis a roncos e ruídos respiratórios altos",
+      "Tutores que não podem arcar com custos veterinários potencialmente elevados",
+      "Proprietários que se incomodam com um pouco de flatulência (comum na raça)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Síndrome Braquicefálica (dificuldade respiratória)",
+      "Alergias de pele e dermatites de dobra",
+      "Problemas de coluna (Doença do Disco Intervertebral - IVDD)",
+      "Problemas oculares (Cherry Eye, Úlceras de Córnea)",
+      "Hemivértebra",
+      "Luxação de Patela"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups oftalmológicos e ortopédicos regulares. Limpeza diária das dobras faciais para prevenir infecções. Monitoramento constante da respiração e temperatura corporal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é simples, bastando uma escovação semanal. O ponto crucial é a limpeza e secagem das dobras do rosto e da base da cauda para evitar fungos. Unhas devem ser mantidas curtas para não prejudicar a postura das patas.",
+    "exercicios": "Necessita de pouco exercício físico. Caminhadas curtas nos horários mais frescos do dia (cedo pela manhã ou final da tarde) são suficientes. Nunca force o cão a se exercitar no calor.",
+    "treinamento": "O Frenchie é inteligente, mas pode ser teimoso. O treinamento deve ser baseado em reforço positivo, elogios e petiscos. Eles respondem mal a métodos severos, podendo se tornar amuados. A socialização precoce é importante.",
+    "alimentacao": "Dieta de alta qualidade com controle rigoroso de calorias. A obesidade é extremamente perigosa para raças braquicefálicas e com propensão a problemas de coluna."
   },
   "seo": {
-    "title": "Bulldog Francês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bulldog Francês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bulldog Francês: Guia Completo da Raça - Temperamento e Cuidados",
+    "description": "Tudo sobre o Bulldog Francês: conheça o temperamento amoroso, as orelhas de morcego e as dicas essenciais de saúde para cuidar do seu Frenchie.",
     "keywords": [
-      "bulldog-frances",
-      "bulldog francês",
-      "pequeno",
-      "frança"
+      "Bulldog Francês",
+      "Frenchie",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Bulldog Francês",
+      "temperamento Frenchie",
+      "saúde braquicefálica"
     ]
   },
   "imagem_principal": "/images/breeds/bulldog-frances.jpg",
@@ -81,11 +91,55 @@
     "/images/breeds/bulldog-frances-2.jpg",
     "/images/breeds/bulldog-frances-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bulldog-frances",
-  "popularidade": 2233,
-  "ranking_brasil": 76,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "French Bulldog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-frenchie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-frenchie/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cuidados Básicos com seu Bulldog Francês",
+      "url": "https://www.youtube.com/watch?v=example-frenchie-care",
+      "canal": "Vida de Frenchie",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "bulldog-ingles",
+    "pug",
+    "boston-terrier",
+    "bull-terrier-miniatura"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn)",
+    "Tigrado (Brindle)",
+    "Branco e Fulvo (Caille)",
+    "Branco e Tigrado"
+  ],
+  "marcacoes": [
+    "Máscara preta",
+    "Manchas brancas",
+    "Pied (Malhado)"
+  ],
+  "curiosidades_historicas": "No final do século XIX, o Bulldog Francês tornou-se tão associado às 'Belas de Noite' (prostitutas de luxo) de Paris que aparecer em um cartão postal com um desses cães era quase uma confirmação da profissão. Felizmente, a raça logo quebrou esse estigma, subindo para os salões da mais alta aristocracia mundial.",
+  "referencias_externas": [
+    {
+      "titulo": "French Bull Dog Club of America",
+      "url": "https://frenchbulldogclub.org/",
+      "descricao": "O clube de raça mais antigo do mundo dedicado ao Bulldog Francês."
+    },
+    {
+      "titulo": "CBKC - Padrão do Bulldog Francês",
+      "url": "https://cbkc.org/breeds/padrao/101",
+      "descricao": "Padrão oficial da raça no Brasil."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 3,
   "custo_mensal_estimado": [
-    336,
-    727
+    400,
+    1200
   ]
 }
