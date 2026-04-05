@@ -5,7 +5,12 @@
 [build.environment]
   NODE_VERSION = "22.22.2"
   NPM_FLAGS = "--legacy-peer-deps"
-  NETLIFY_BUILD_TIMESTAMP = "1775395871"
+
+[context.production]
+  command = "pnpm run build"
+
+[context.deploy-preview]
+  command = "pnpm run build"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"

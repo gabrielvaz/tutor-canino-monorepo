@@ -22,7 +22,8 @@
       "@/*": ["./*"],
       "@tutorcanino/data": ["../../packages/data/src"],
       "@tutorcanino/locations": ["../../packages/locations/src"],
-      "@tutorcanino/ui": ["../../packages/ui/src"]
+      "@tutorcanino/ui": ["../../packages/ui/src"],
+      "@tutorcanino/content": ["../../packages/content/src"]
     }
   },
   "include": [

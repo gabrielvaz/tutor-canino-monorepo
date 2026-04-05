@@ -425,21 +425,18 @@ const allBreeds: Breed[] = [
   whippet,
   xoloitzcuintle,
   yorkshireTerrier,
-].map(breed => {
-  const result = BreedSchema.safeParse(breed);
-  if (result.success) {
-    return result.data;
-  }
-  console.warn(`Invalid breed data:`, breed);
-  return breed as Breed;
-});
+].map(breed => breed as Breed);
 
 export function getAllBreeds(): Breed[] {
   return allBreeds;
 }
 
 export function getBreedBySlug(slug: string): Breed | null {
-  return allBreeds.find(breed => breed.slug === slug) || null;
+  const breed = allBreeds.find(breed => breed.slug === slug);
+  if (slug === 'golden-retriever' && breed?.videos_youtube) {
+    console.log('[MULTIMEDIA] Golden Retriever has', breed.videos_youtube.length, 'videos');
+  }
+  return breed || null;
 }
 
 export function getBreedById(id: string): Breed | null {
