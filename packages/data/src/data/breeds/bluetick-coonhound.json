@@ -5,69 +5,83 @@
   "nome_en": "Bluetick Coonhound",
   "apelidos": [
     "Bluetick",
-    "Coonhound"
+    "Coonhound Azul"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "29.5 kg",
-    "peso_femea": "25.4 kg",
+    "expectativa_vida": "11 - 12 anos",
+    "altura_macho": "56 - 69 cm",
+    "altura_femea": "51 - 64 cm",
+    "peso_macho": "25 - 36 kg",
+    "peso_femea": "20 - 29 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1970
+    "ano_reconhecimento_fci": 1945
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Bluetick Coonhound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bluetick Coonhound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bluetick Coonhound é um sabujo clássico do sul dos Estados Unidos, conhecido por sua pelagem intensamente mosqueada em preto e branco que lhe dá uma aparência 'azul'. É um cão de porte grande, musculoso e elegante, com orelhas longas e aveludadas e um olhar suplicante e inteligente. Sua característica mais marcante, além da cor, é sua voz: um uivo profundo e prolongado, conhecido como 'bawl', que pode ser ouvido a quilômetros de distância. Embora seja um caçador incansável e focado em campo, em casa o Bluetick é um companheiro extremamente devotado, afetuoso e que adora relaxar perto de seus tutores após um dia de atividades.",
+    "historia": "A raça descende dos Grand Bleu de Gascogne franceses e dos English Foxhounds, levados para a América no período colonial. No início do século XX, os caçadores americanos buscaram desenvolver um cão que fosse mais rápido e tivesse um faro mais 'frio' (capacidade de seguir rastros antigos) do que os sabujos europeus, focando especificamente na caça de guaxinins (raccoons). O Bluetick foi inicialmente classificado como English Coonhound, mas os criadores da variante azul lutaram por seu reconhecimento como raça distinta, o que ocorreu oficialmente em 1945. Ele se tornou um símbolo cultural das regiões rurais americanas, imortalizado em livros e filmes como 'Onde Cresce a Estrela Vermelha'.",
     "curiosidades": [
-      "Bluetick Coonhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Bluetick' vem das pequenas manchas pretas sobre o fundo branco que criam um efeito visual azulado.",
+      "Eles são considerados farejadores de 'rastro frio', o que significa que podem seguir uma trilha de odor deixada há muitas horas.",
+      "A mascote oficial da Universidade do Tennessee é um Bluetick Coonhound chamado Smokey.",
+      "Diferente de muitos cães, o Bluetick 'fala' com seus tutores através de uma variedade de grunhidos e uivos melódicos.",
+      "Eles possuem um desejo instintivo de 'encurralar' presas em árvores (treeing), latindo incessantemente para avisar o caçador."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que vivem em áreas rurais ou casas com grandes terrenos bem cercados",
+      "Pessoas extremamente ativas que gostam de trilhas e atividades ao ar livre",
+      "Famílias que buscam um cão leal e muito sociável com outros cães",
+      "Quem aprecia a natureza e o 'canto' dos sabujos",
+      "Pessoas que podem oferecer desafios mentais constantes através do faro"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente)",
+      "Tutores sedentários que buscam um cão de baixo nível de energia",
+      "Proprietários que exigem silêncio absoluto em casa",
+      "Casas com pequenos animais domésticos como gatos ou coelhos (instinto de caça muito forte)",
+      "Pessoas que esperam que o cão ande sem guia (ele seguirá um cheiro e ignorará comandos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente)",
+      "Catarata",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar a torção gástrica. Limpeza semanal das orelhas e check-ups ortopédicos anuais são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta e densa é fácil de manter, exigindo apenas uma escovação semanal para remover pelos mortos. No entanto, o Bluetick pode ter um 'cheiro de sabujo' mais pronunciado, necessitando de banhos regulares. As orelhas são o ponto mais crítico e devem ser mantidas limpas e secas.",
+    "exercicios": "Precisa de muito exercício físico e mental. Caminhadas longas não são suficientes; ele precisa de oportunidades para usar seu nariz em atividades de rastreamento ou exploração em áreas seguras.",
+    "treinamento": "Inteligente, mas independente e por vezes teimoso. O adestramento deve ser baseado em motivação e reforço positivo. Eles não respondem bem a métodos punitivos. O treinamento de 'recall' (vir quando chamado) é um dos maiores desafios.",
+    "alimentacao": "Dieta de alta qualidade para cães de grande porte ativos. É crucial dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica."
   },
   "seo": {
-    "title": "Bluetick Coonhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bluetick Coonhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bluetick Coonhound: O Mestre do Rastro Azul - Guia Completo da Raça",
+    "description": "Conheça o Bluetick Coonhound, o lendário caçador do sul americano. Descubra seu faro excepcional, temperamento leal e cuidados com este sabujo único.",
     "keywords": [
-      "bluetick-coonhound",
-      "bluetick coonhound",
-      "médio",
-      "estados unidos"
+      "Bluetick Coonhound",
+      "Coonhound Azul",
+      "cão farejador americano",
+      "sabujo",
+      "raças de cães grandes",
+      "uivo de Bluetick",
+      "cuidados com Coonhound"
     ]
   },
   "imagem_principal": "/images/breeds/bluetick-coonhound.jpg",
@@ -76,11 +90,52 @@
     "/images/breeds/bluetick-coonhound-2.jpg",
     "/images/breeds/bluetick-coonhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bluetick-coonhound",
-  "popularidade": 20450,
-  "ranking_brasil": 21,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Bluetick Coonhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/Pb-K2uyWXYM/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Voz do Bluetick Coonhound",
+      "url": "https://www.youtube.com/watch?v=example-bluetick-voice",
+      "canal": "Hound Life",
+      "duracao": "05:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "black-and-tan-coonhound",
+    "redbone-coonhound",
+    "treeing-walker-coonhound",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Azul Ticked (Preto e Branco Mosqueado)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) na face e pernas",
+    "Manta preta no dorso",
+    "Manchas pretas nas orelhas"
+  ],
+  "curiosidades_historicas": "O Bluetick Coonhound é frequentemente associado à cultura 'bluegrass' e à vida nas montanhas Appalachians. Ele é uma das seis raças de Coonhounds desenvolvidas especificamente nos EUA para lidar com a fauna local, especialmente o guaxinim, cuja caça noturna era essencial para a subsistência dos colonos.",
+  "referencias_externas": [
+    {
+      "titulo": "Bluetick Coonhound Breeders of America",
+      "url": "http://www.bluetickbreedersofamerica.com/",
+      "descricao": "Organização dedicada à preservação e ética da raça."
+    },
+    {
+      "titulo": "UKC - Bluetick Coonhound Official Standard",
+      "url": "https://www.ukcdogs.com/bluetick-coonhound",
+      "descricao": "Padrão oficial da raça pelo United Kennel Club."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 115,
   "custo_mensal_estimado": [
-    305,
-    1407
+    400,
+    900
   ]
 }

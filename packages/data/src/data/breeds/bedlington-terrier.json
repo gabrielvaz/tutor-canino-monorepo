@@ -4,70 +4,83 @@
   "slug": "bedlington-terrier",
   "nome_en": "Bedlington Terrier",
   "apelidos": [
-    "Bedlington",
-    "Terrier"
+    "Cão Cordeiro",
+    "Rothbury Terrier"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "27.6 kg",
-    "peso_femea": "26.2 kg",
+    "expectativa_vida": "11 - 16 anos",
+    "altura_macho": "41 - 44 cm",
+    "altura_femea": "38 - 42 cm",
+    "peso_macho": "8 - 10 kg",
+    "peso_femea": "8 - 10 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1910
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 5,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Bedlington Terrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bedlington Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bedlington Terrier é uma das raças mais singulares do mundo canino, frequentemente descrito como tendo a 'aparência de um cordeiro, mas o coração de um leão'. Com seu dorso elegantemente arqueado, cabeça em formato de pera coberta por um topete sedoso e uma pelagem lanosa e encaracolada, ele é inconfundível. Embora pareça um animal delicado de exposição, o Bedlington é um terrier rústico, ágil e surpreendentemente forte. É conhecido por ser mais calmo e menos 'agitado' do que outros terriers dentro de casa, mas possui uma velocidade impressionante e uma determinação feroz quando estimulado ou em perseguição.",
+    "historia": "A raça originou-se na vila mineira de Bedlington, em Northumberland, Inglaterra, no início do século XIX. Originalmente conhecido como Rothbury Terrier, ele foi desenvolvido para ser um caçador de pragas multifuncional: caçava ratos e texugos nas minas de carvão e até participava de caçadas a lebres. Seus ancestrais incluem provavelmente o Whippet (o que explica sua velocidade e dorso arqueado) e o Dandie Dinmont Terrier. Com o tempo, sua aparência exótica chamou a atenção da aristocracia, e o Bedlington passou das minas para as mansões, tornando-se um cão de companhia e exposição altamente valorizado.",
     "curiosidades": [
-      "Bedlington Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Bedlington Terrier é um dos poucos cães que não solta pelo, sendo uma excelente escolha para alérgicos.",
+      "Apesar da aparência dócil, eles eram conhecidos como caçadores implacáveis e até 'cães de briga' no passado mineiro.",
+      "Eles nascem com pelagem escura (preta ou marrom) e vão clareando gradualmente até atingirem a cor definitiva (azul, fígado ou areia).",
+      "Sua corrida é semelhante à dos galgos, com um galope de suspensão dupla que lhe permite atingir altas velocidades.",
+      "A forma como a orelha é tosada, deixando uma pequena franja na ponta, é uma das marcas registradas da raça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias que vivem em apartamentos (ele é relativamente silencioso e calmo)",
+      "Pessoas com alergias a pelos de cães",
+      "Tutores que buscam um companheiro afetuoso e muito apegado",
+      "Pessoas que apreciam cães com aparência exótica e elegante",
+      "Proprietários que podem investir em tosas profissionais regulares"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que buscam um cão que não exija manutenção de pelagem",
+      "Pessoas que esperam um cão passivo com outros animais (o instinto de terrier ainda está lá)",
+      "Casas com pequenos animais como ratos ou hamsters",
+      "Proprietários que não podem oferecer caminhadas diárias para gastar sua energia atlética"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Toxicose por Cobre (doença hepática hereditária grave)",
+      "Displasia Retiniana",
+      "Distiquíase (cílios em posição anormal)",
+      "Displasia Renal",
+      "Luxação de Patela"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "É crucial realizar o teste de DNA para Toxicose por Cobre. Check-ups hepáticos e oftalmológicos regulares são altamente recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Sua pelagem é uma mistura de pelos duros e macios que não caem, mas tendem a formar nós se não forem escovados duas a três vezes por semana. A tosa característica da raça é complexa e exige um profissional experiente a cada 6-8 semanas para manter o 'look de cordeiro'. Banhos ocasionais são suficientes.",
+    "exercicios": "Precisa de exercícios moderados. Caminhadas diárias e sessões de brincadeira em locais seguros são ideais. Ele adora correr e perseguir bolas, aproveitando sua agilidade de galgo.",
+    "treinamento": "O Bedlington é inteligente e responde bem ao reforço positivo, sendo geralmente mais dócil que a média dos terriers. No entanto, pode ser teimoso se forçado. O treinamento deve ser baseado em paciência e consistência.",
+    "alimentacao": "Recomenda-se uma dieta de alta qualidade. Para cães com predisposição à toxicose por cobre, pode ser necessária uma dieta específica com baixo teor de cobre, sob orientação veterinária."
   },
   "seo": {
-    "title": "Bedlington Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bedlington Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bedlington Terrier: O Cão com Aparência de Cordeiro - Guia Completo",
+    "description": "Conheça o Bedlington Terrier, a raça única que parece um cordeirinho. Descubra sua história nas minas inglesas, temperamento calmo e cuidados essenciais.",
     "keywords": [
-      "bedlington-terrier",
-      "bedlington terrier",
-      "médio",
-      "inglaterra"
+      "Bedlington Terrier",
+      "Cão Cordeiro",
+      "terrier que não solta pelo",
+      "raças de cães hipoalergênicas",
+      "cuidados com Bedlington Terrier",
+      "temperamento Bedlington",
+      "Toxicose por Cobre em cães"
     ]
   },
   "imagem_principal": "/images/breeds/bedlington-terrier.jpg",
@@ -76,11 +89,53 @@
     "/images/breeds/bedlington-terrier-2.jpg",
     "/images/breeds/bedlington-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bedlington-terrier",
-  "popularidade": 1766,
-  "ranking_brasil": 100,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Bedlington Terrier - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/isAbNCZtoLo/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Tosa do Bedlington Terrier",
+      "url": "https://www.youtube.com/watch?v=example-bedlington-groom",
+      "canal": "Grooming Expert",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "whippet",
+    "dandie-dinmont-terrier",
+    "kerry-blue-terrier"
+  ],
+  "cores_disponiveis": [
+    "Azul",
+    "Fígado (Liver)",
+    "Areia (Sandy)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) permitidas",
+    "Topete sedoso na cabeça",
+    "Franjas nas pontas das orelhas"
+  ],
+  "curiosidades_historicas": "Apesar do visual 'fofinho' atual, o Bedlington foi um dos terriers mais temidos do século XIX. Sua pele grossa protegia-o de mordidas enquanto ele lutava contra pragas. Diz-se que Joseph Ainsley de Bedlington, em 1825, foi o primeiro a chamar seu cão de 'Bedlington Terrier', marcando o início formal da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "Bedlington Terrier Club of America",
+      "url": "https://www.bedlingtonterrierclubofamerica.com/",
+      "descricao": "Clube oficial com informações extensas sobre saúde e a doença do cobre."
+    },
+    {
+      "titulo": "The Kennel Club UK - Bedlington Terrier",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/bedlington-terrier/",
+      "descricao": "Guia oficial da raça em seu país de origem."
+    }
+  ],
+  "popularidade": 8500,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    437,
-    913
+    300,
+    700
   ]
 }

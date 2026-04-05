@@ -5,69 +5,84 @@
   "nome_en": "Basset Hound",
   "apelidos": [
     "Basset",
-    "Hound"
+    "Cão do Hush Puppies",
+    "Flash"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "17.6 kg",
-    "peso_femea": "15.2 kg",
+    "origem": "França / Grã-Bretanha",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "33 - 38 cm",
+    "altura_femea": "33 - 38 cm",
+    "peso_macho": "25 - 34 kg",
+    "peso_femea": "20 - 29 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 2,
     "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 4
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Basset Hound é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Basset Hound originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Basset Hound é um dos cães mais reconhecíveis do mundo, com sua silhueta baixa, orelhas extraordinariamente longas e uma expressão melancólica que derrete corações. Apesar de sua baixa estatura, o Basset é um cão de 'grande substância', possuindo ossos pesados e uma massa muscular que o torna muito mais pesado do que parece. Sua pele é solta e elástica, formando rugas charmosas na face. Conhecido por seu temperamento bonachão, preguiçoso e extremamente dócil, ele é o companheiro de família ideal para quem busca um cão calmo, embora possua uma teimosia lendária quando decide seguir um cheiro interessante.",
+    "historia": "A linhagem do Basset Hound remonta à França do século XVI, onde bassets (cães de pernas curtas) eram usados para caçar em terrenos densos. A raça foi desenvolvida por monges da Abadia de St. Hubert para ser um caçador lento, permitindo que os caçadores o seguissem a pé. No século XIX, a raça foi levada para a Inglaterra, onde foi refinada e cruzada com Bloodhounds para aumentar seu tamanho e apurar seu faro. O resultado foi o Basset Hound moderno: um mestre do rastro, perdendo em capacidade olfativa apenas para o próprio Bloodhound. Tornou-se um ícone cultural nos anos 50 e 60, especialmente como o rosto da marca de sapatos Hush Puppies.",
     "curiosidades": [
-      "Basset Hound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Suas orelhas longas servem para 'varrer' os odores do chão diretamente para o seu nariz potente enquanto ele caminha.",
+      "O Basset Hound possui mais de 220 milhões de receptores olfativos, tornando seu nariz milhares de vezes mais sensível que o humano.",
+      "Apesar de parecerem tristes, eles são cães muito bem-humorados e sociáveis.",
+      "Devido à sua densidade óssea e pernas curtas, a maioria dos Basset Hounds não consegue nadar bem e pode afundar rapidamente.",
+      "As dobras de pele no pescoço (barbelas) ajudam a reter o cheiro da presa próximo ao focinho."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente tolerante)",
+      "Tutores que preferem um estilo de vida mais calmo e sedentário",
+      "Casas com outros cães ou animais de estimação (ele é muito sociável)",
+      "Pessoas que vivem em apartamentos (desde que façam caminhadas diárias)",
+      "Donos que não se importam com um pouco de baba e pelos pela casa"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que buscam um cão para corridas ou trilhas intensas",
+      "Tutores que exigem obediência rápida e precisa (ele é muito independente)",
+      "Ambientes onde o cão precise subir e descer muitas escadas (prejudicial à coluna)",
+      "Pessoas extremamente zelosas com a limpeza absoluta da casa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Doença do Disco Intervertebral (IVDD)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Ectrópio e Entrópio (problemas nas pálpebras)",
+      "Otites crônicas",
+      "Obesidade (um dos maiores riscos para a raça)",
+      "Displasia de Quadril"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso do peso para evitar pressão na coluna. Limpeza semanal das orelhas e check-ups oftalmológicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é fácil de escovar, mas cai consideravelmente durante o ano todo. As orelhas são o ponto crítico e devem ser limpas e secas com frequência. As rugas faciais também precisam de limpeza para evitar dermatites. Unhas devem ser cortadas com frequência, pois o Basset não as desgasta facilmente devido ao seu nível de atividade.",
+    "exercicios": "Embora tenha fama de preguiçoso, o Basset precisa de caminhadas diárias para manter o tônus muscular e o peso sob controle. Ele adora passeios lentos onde possa explorar cada centímetro com o nariz.",
+    "treinamento": "Treinar um Basset Hound exige paciência infinita e muitos petiscos. Eles são famosos por ignorar comandos se houver um cheiro melhor por perto. O foco deve ser na socialização e em comandos básicos de segurança.",
+    "alimentacao": "Controle rígido de calorias. O Basset Hound é mestre em pedir comida com seu olhar triste, mas a obesidade é devastadora para suas articulações e coluna."
   },
   "seo": {
-    "title": "Basset Hound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Basset Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Basset Hound: O Guia Definitivo do Mestre do Faro e da Calma",
+    "description": "Tudo sobre o Basset Hound: conheça o temperamento dócil, a história real por trás do olhar triste e os cuidados essenciais com a saúde e a coluna.",
     "keywords": [
-      "basset-hound",
-      "basset hound",
-      "médio",
-      "frança"
+      "Basset Hound",
+      "cão bassê",
+      "cão de orelhas longas",
+      "Hush Puppies dog",
+      "raças de cães calmas",
+      "cuidados com Basset Hound",
+      "saúde da coluna canina"
     ]
   },
   "imagem_principal": "/images/breeds/basset-hound.jpg",
@@ -76,11 +91,54 @@
     "/images/breeds/basset-hound-2.jpg",
     "/images/breeds/basset-hound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=basset-hound",
-  "popularidade": 35674,
-  "ranking_brasil": 41,
+  "video_url": "https://www.youtube.com/watch?v=Y_m99ZmqskA",
+  "videos_youtube": [
+    {
+      "titulo": "Basset Hound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=Y_m99ZmqskA",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/Y_m99ZmqskA/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Basset Hound",
+      "url": "https://www.youtube.com/watch?v=example-basset-life",
+      "canal": "Tutor Canino",
+      "duracao": "12:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "beagle",
+    "basset-azul-da-gasconha"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Preto, Branco e Marrom)",
+    "Bicolor (Limão e Branco)",
+    "Vermelho e Branco",
+    "Cinza e Branco"
+  ],
+  "marcacoes": [
+    "Manta preta no dorso",
+    "Chama branca na face",
+    "Ponta da cauda branca"
+  ],
+  "curiosidades_historicas": "O Basset Hound tornou-se uma estrela de TV nos anos 70 com a série 'Columbo', onde o detetive tinha um Basset chamado simplesmente de 'Cão'. Mais tarde, no Brasil, a raça ficou eternizada como o 'Cofapinho', devido às propagandas de amortecedores que usavam o cão para simbolizar estabilidade e resistência.",
+  "referencias_externas": [
+    {
+      "titulo": "Basset Hound Club of America",
+      "url": "https://basset-bhca.org/",
+      "descricao": "Clube oficial com recursos sobre padrão, saúde e resgate."
+    },
+    {
+      "titulo": "The Kennel Club UK - Basset Hound",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/hound/basset-hound/",
+      "descricao": "Guia detalhado sobre a raça no Reino Unido."
+    }
+  ],
+  "popularidade": 38000,
+  "ranking_brasil": 48,
   "custo_mensal_estimado": [
-    488,
-    882
+    400,
+    900
   ]
 }

@@ -3,72 +3,84 @@
   "nome": "Affenpinscher",
   "slug": "affenpinscher",
   "nome_en": "Affenpinscher",
-  "apelidos": [],
+  "apelidos": [
+    "Terrier Macaco",
+    "Diabinho Bigodudo",
+    "Zwergaffenpinscher"
+  ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "34 cm",
-    "altura_femea": "29 cm",
-    "peso_macho": "8.4 kg",
-    "peso_femea": "7.2 kg",
-    "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1921
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "3 - 6 kg",
+    "peso_femea": "3 - 6 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, Boiadeiros Suíços",
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Affenpinscher é uma raça de porte pequeno originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Affenpinscher originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Affenpinscher é uma raça distinta e charmosa, frequentemente descrita como tendo uma expressão facial que lembra a de um macaco — daí seu nome, que em alemão significa 'Terrier Macaco'. É um cão pequeno em estatura, mas com uma personalidade gigante. De constituição compacta, peito largo e pelagem áspera e densa, o Affenpinscher exala uma aura de seriedade cômica. Seu olhar é inteligente e curioso, sempre atento ao que acontece ao seu redor. Embora seja classificado como um cão de companhia, ele mantém muito do vigor e da coragem de seus ancestrais caçadores de ratos, sendo um excelente cão de alerta para o lar.",
+    "historia": "As origens do Affenpinscher remontam ao século XVII na Alemanha. Originalmente, esses cães eram maiores e serviam como exímios caçadores de roedores em estábulos, cozinhas e fazendas. Com o tempo, a raça foi sendo miniaturizada para se tornar um animal de companhia de estimação, especialmente apreciado pelas damas da alta sociedade europeia no século XIX. Acredita-se que o Affenpinscher tenha contribuído para o desenvolvimento de outras raças populares, como o Griffon de Bruxelas e até mesmo o Schnauzer Miniatura. Durante as Guerras Mundiais, a raça quase foi extinta, mas sobreviveu graças ao esforço de criadores dedicados na Alemanha e, posteriormente, nos Estados Unidos.",
     "curiosidades": [
-      "Affenpinscher possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A expressão 'Affen' em seu nome significa 'macaco' em alemão, devido ao seu focinho curto e barba característica.",
+      "Apesar do tamanho, é conhecido por sua bravura destemida, não hesitando em enfrentar cães muito maiores.",
+      "O Affenpinscher foi retratado em pinturas de mestres famosos, como Jan van Eyck e Albrecht Dürer, já no século XV.",
+      "Sua pelagem áspera é quase hipoalergênica, o que o torna uma opção viável para algumas pessoas com alergias leves.",
+      "Na França, é carinhosamente chamado de 'diablotin moustachu', ou 'diabinho bigodudo'."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Apartamentos e vida urbana",
+      "Pessoas que buscam um cão de companhia com personalidade forte",
+      "Tutores que apreciam cães alertas e vigilantes",
+      "Famílias com crianças maiores que saibam respeitar o espaço do animal",
+      "Quem procura um cão que solta pouco pelo"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Famílias com crianças muito pequenas e brutas",
+      "Tutores que ficam fora de casa por períodos extremamente longos sem companhia para o pet",
+      "Pessoas que buscam um cão 100% submisso e fácil de adestrar (ele é independente)",
+      "Ambientes com calor extremo sem refrigeração (devido ao focinho mais curto)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Doença de Legg-Calve-Perthes (necrose da cabeça do fêmur)",
+      "Anomalias oculares (como catarata)",
+      "Problemas respiratórios leves em climas muito quentes",
+      "Sopros cardíacos em idade avançada"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais são essenciais, com atenção especial às articulações e saúde bucal, comum em raças pequenas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem áspera do Affenpinscher deve ser escovada pelo menos duas a três vezes por semana para evitar nós. O 'stripping' (remoção manual de pelos mortos) é recomendado periodicamente para manter a textura correta do pelo. Banhos devem ser dados apenas quando necessário para não remover a oleosidade natural protetora.",
+    "exercicios": "Apesar do tamanho, o Affenpinscher é ativo e adora brincar. Caminhadas diárias de 20 a 30 minutos e sessões de brincadeiras internas são suficientes para mantê-lo fisicamente saudável e mentalmente estimulado.",
+    "treinamento": "O adestramento deve ser baseado em reforço positivo, paciência e consistência. O Affenpinscher pode ser teimoso e independente, perdendo o interesse se as sessões forem muito repetitivas ou severas. Transforme o treino em um jogo para melhores resultados.",
+    "alimentacao": "Recomenda-se uma ração de alta qualidade para cães de raças pequenas, dividida em duas refeições diárias para evitar hipoglicemia, comum em cães pequenos ativos."
   },
   "seo": {
-    "title": "Affenpinscher - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Affenpinscher: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Affenpinscher: Guia Completo da Raça - Temperamento e Cuidados",
+    "description": "Conheça o Affenpinscher, o 'terrier macaco'. Descubra sua história fascinante, temperamento leal e dicas essenciais de cuidados para este pequeno gigante.",
     "keywords": [
-      "affenpinscher",
-      "affenpinscher",
-      "pequeno",
-      "alemanha"
+      "Affenpinscher",
+      "terrier macaco",
+      "cão pequeno",
+      "raças de cães alemãs",
+      "cachorro para apartamento",
+      "cuidados affenpinscher"
     ]
   },
   "imagem_principal": "/images/breeds/affenpinscher.jpg",
@@ -77,11 +89,54 @@
     "/images/breeds/affenpinscher-2.jpg",
     "/images/breeds/affenpinscher-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=affenpinscher",
-  "popularidade": 33525,
-  "ranking_brasil": 15,
+  "video_url": "https://www.youtube.com/watch?v=DOfvXl7S4_U",
+  "videos_youtube": [
+    {
+      "titulo": "Affenpinscher - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=DOfvXl7S4_U",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/DOfvXl7S4_U/hqdefault.jpg"
+    },
+    {
+      "titulo": "Affenpinscher: Conheça esse Cão Incrível",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "canal": "Tutor Canino",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "griffon-de-bruxelas",
+    "schnauzer-miniatura",
+    "pinscher-miniatura"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Cinza",
+    "Prata",
+    "Vermelho",
+    "Preto e Castanho"
+  ],
+  "marcacoes": [
+    "Máscara preta",
+    "Barba proeminente"
+  ],
+  "curiosidades_historicas": "O Affenpinscher foi oficialmente reconhecido pelo AKC em 1936, mas sua linhagem é muito mais antiga, tendo sido essencial para manter despensas livres de ratos na Alemanha do século XVII. Em 2013, um Affenpinscher chamado Banana Joe ganhou o prestigiado prêmio 'Best in Show' no Westminster Kennel Club Dog Show, aumentando a visibilidade da raça mundialmente.",
+  "referencias_externas": [
+    {
+      "titulo": "American Kennel Club - Affenpinscher",
+      "url": "https://www.akc.org/dog-breeds/affenpinscher/",
+      "descricao": "Padrão oficial e história da raça pelo AKC."
+    },
+    {
+      "titulo": "FCI - Affenpinscher Standard",
+      "url": "https://www.fci.be/en/nomenclature/AFFENPINSCHER-186.html",
+      "descricao": "Padrão morfológico internacional da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 8500,
+  "ranking_brasil": 142,
   "custo_mensal_estimado": [
-    480,
-    1044
+    250,
+    600
   ]
 }

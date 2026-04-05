@@ -3,68 +3,86 @@
   "nome": "Bloodhound",
   "slug": "bloodhound",
   "nome_en": "Bloodhound",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Cão de Santo Humberto",
+    "Sleuth Hound",
+    "Santo Humberto"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Bélgica",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "22.1 kg",
-    "peso_femea": "19.4 kg",
+    "origem": "Bélgica / França",
+    "expectativa_vida": "7 - 10 anos",
+    "altura_macho": "62 - 72 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "46 - 54 kg",
+    "peso_femea": "40 - 48 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1970
+    "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 3,
+    "energy": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
     "latido": 5,
     "afeicao_familia": 5,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Bloodhound é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bloodhound originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bloodhound, ou Cão de Santo Humberto, é o mestre absoluto do olfato no mundo canino. De porte grande e aparência inconfundível, ele possui uma pele extremamente solta que cai em dobras profundas ao redor da face e do pescoço, além de orelhas pendentes que são as mais longas entre todas as raças. Sua expressão é de uma dignidade melancólica e profunda sabedoria. Apesar de sua construção poderosa e massiva, o Bloodhound é um dos cães mais dóceis e gentis que existem, conhecido por seu temperamento pacífico e sua paciência lendária. No entanto, quando coloca o nariz no chão, ele se torna um perseguidor obstinado e incansável, capaz de seguir um rastro por centenas de quilômetros.",
+    "historia": "A história do Bloodhound remonta à Idade Média, na região das Ardennes, na Bélgica. A raça foi desenvolvida por monges na Abadia de Saint-Hubert para ser um caçador de grandes animais. Esses cães eram tão valorizados pela nobreza francesa que eram enviados como presentes anuais ao rei da França. Mais tarde, a raça foi levada para a Inglaterra, onde foi refinada e ganhou o nome 'Bloodhound' (não por ser sanguinário, mas por ser um cão de 'puro sangue' ou linhagem aristocrática). Tornou-se mundialmente famoso por sua habilidade de 'man-trailing' (rastreamento humano), sendo a única raça cujo 'testemunho' olfativo é aceito como prova em tribunais de justiça em alguns países.",
     "curiosidades": [
-      "Bloodhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nariz de um Bloodhound contém cerca de 300 milhões de receptores olfativos, superando qualquer outra criatura viva.",
+      "As longas orelhas e as dobras de pele no pescoço funcionam como 'coletores de odor', levantando as partículas de cheiro do chão diretamente para o nariz do cão.",
+      "Eles são capazes de seguir um rastro que tenha mais de 300 horas (quase duas semanas) de idade.",
+      "O Bloodhound é um cão de 'uivo' potente e musical, capaz de ser ouvido a quilômetros de distância.",
+      "Apesar da fama de cão policial, eles não são cães de ataque; após encontrar o rastro, eles costumam apenas lamber a pessoa encontrada."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que moram em casas com quintais muito grandes e bem cercados",
+      "Famílias com crianças (ele é um dos cães mais tolerantes do mundo)",
+      "Pessoas que buscam um companheiro calmo e afetuoso dentro de casa",
+      "Proprietários que se interessam por atividades de rastreamento e busca e salvamento",
+      "Donos que não se incomodam com baba e uivos ocasionais"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que vivem em apartamentos (devido ao tamanho, uivos e cheiro característico)",
+      "Tutores obcecados com limpeza absoluta (ele baba consideravelmente)",
+      "Donos que esperam obediência cega (ele é extremamente teimoso e focado no nariz)",
+      "Ambientes onde o cão precise ser passeado sem guia (ele fugirá seguindo qualquer cheiro)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (maior risco entre todas as raças)",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Otites graves (infecções de ouvido)",
+      "Dermatite de dobras cutâneas",
+      "Displasia de Quadril e Cotovelo",
+      "Calos de apoio"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups semestrais são vitais. Atenção redobrada aos sinais de torção gástrica. Limpeza diária dos olhos e orelhas é necessária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é fácil de escovar, mas o 'cheiro de cachorro' é forte na raça e exige banhos regulares. O ponto crítico é a limpeza diária das dobras faciais e do pescoço para evitar infecções e odores. As orelhas também precisam ser limpas e secas constantemente. Prepare-se para limpar baba das paredes e móveis.",
+    "exercicios": "Precisa de exercícios moderados, mas de longa duração. Caminhadas longas são essenciais para mantê-lo em forma. Atividades de enriquecimento ambiental que usem o faro são obrigatórias para sua satisfação mental.",
+    "treinamento": "O Bloodhound é famoso por sua teimosia 'gentil'. Ele entende o que você quer, mas se o nariz disser o contrário, ele seguirá o nariz. O treinamento deve ser feito com muita paciência, reforço positivo extremo e nunca com força física.",
+    "alimentacao": "Requer uma dieta de alta qualidade dividida em várias pequenas refeições ao dia. O uso de tigelas elevadas e o repouso absoluto após as refeições são cruciais para tentar evitar a torção gástrica."
   },
   "seo": {
-    "title": "Bloodhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bloodhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bloodhound: O Mestre do Rastro e Gigante Gentil - Guia de Raça",
+    "description": "Conheça o Bloodhound, o cão com o melhor olfato do mundo. Descubra sua história na Abadia de Saint-Hubert, temperamento dócil e cuidados com a saúde.",
     "keywords": [
-      "bloodhound",
-      "bloodhound",
-      "médio",
-      "bélgica"
+      "Bloodhound",
+      "Cão de Santo Humberto",
+      "melhor faro do mundo",
+      "cão de rastreamento",
+      "raças de cães grandes",
+      "cuidados com Bloodhound",
+      "temperamento Bloodhound"
     ]
   },
   "imagem_principal": "/images/breeds/bloodhound.jpg",
@@ -73,11 +91,53 @@
     "/images/breeds/bloodhound-2.jpg",
     "/images/breeds/bloodhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bloodhound",
-  "popularidade": 28452,
-  "ranking_brasil": 72,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Bloodhound - O Melhor Nariz do Mundo",
+      "url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/Pb-K2uyWXYM/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Habilidade de Rastreio do Bloodhound",
+      "url": "https://www.youtube.com/watch?v=example-bloodhound-track",
+      "canal": "Discovery Pet",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "basset-hound",
+    "otterhound",
+    "coonhound-preto-e-castanho"
+  ],
+  "cores_disponiveis": [
+    "Preto e Fogo (Black and Tan)",
+    "Fígado e Fogo (Liver and Tan)",
+    "Vermelho (Red)"
+  ],
+  "marcacoes": [
+    "Manta escura no dorso",
+    "Marcações fogo nos olhos e bochechas",
+    "Pouco branco permitido no peito"
+  ],
+  "curiosidades_historicas": "O nome 'Santo Humberto' vem do padroeiro dos caçadores, Hubertus, que fundou o mosteiro onde a raça foi preservada. Na era vitoriana, o Bloodhound foi usado para tentar capturar Jack, o Estripador, embora sem sucesso devido a erros de logística da polícia da época, não por falha do nariz dos cães.",
+  "referencias_externas": [
+    {
+      "titulo": "American Bloodhound Club",
+      "url": "https://www.americanbloodhoundclub.org/",
+      "descricao": "Clube oficial com diretrizes de saúde e treinamento de rastreio."
+    },
+    {
+      "titulo": "FCI - Bloodhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/BLOODHOUND-84.html",
+      "descricao": "Padrão morfológico internacional oficial (Chien de Saint-Hubert)."
+    }
+  ],
+  "popularidade": 18000,
+  "ranking_brasil": 125,
   "custo_mensal_estimado": [
-    229,
-    1095
+    500,
+    1200
   ]
 }

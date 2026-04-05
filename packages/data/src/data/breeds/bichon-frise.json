@@ -4,74 +4,85 @@
   "slug": "bichon-frise",
   "nome_en": "Bichon Frise",
   "apelidos": [
-    "Bichon",
-    "Frisé"
+    "Bichon Tenerife",
+    "Tenerife Dog",
+    "Bichon"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "32 cm",
-    "altura_femea": "27 cm",
-    "peso_macho": "7.2 kg",
-    "peso_femea": "4.5 kg",
+    "origem": "França / Bélgica",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "23 - 30 cm",
+    "altura_femea": "23 - 28 cm",
+    "peso_macho": "3 - 5 kg",
+    "peso_femea": "3 - 5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1945
+    "ano_reconhecimento_fci": 1959
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 4,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 4
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Bichon Frisé é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bichon Frisé originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bichon Frisé é a personificação da alegria e do charme em um pacote pequeno e branco. Frequentemente comparado a uma 'nuvem' ou a um 'pompom de algodão' (powder puff), ele possui uma pelagem branca impecável composta por cachos em espiral sedosos. Seus olhos são escuros e expressivos, e sua cauda é carregada alegremente sobre o dorso. Mais do que apenas um cão bonito, o Bichon é conhecido por sua resiliência e temperamento extraordinariamente equilibrado. Ele é um cão de companhia por excelência: afetuoso, inteligente, brincalhão e dotado de uma capacidade única de fazer todos ao seu redor sorrirem com suas palhaçadas.",
+    "historia": "A raça tem raízes mediterrâneas antigas, descendendo provavelmente do Barbet (um cão d'água). Marinheiros espanhóis levaram esses cães para a ilha de Tenerife, onde a raça se desenvolveu e ficou conhecida como Bichon Tenerife. No século XIV, marinheiros italianos os trouxeram de volta para o continente, onde se tornaram os favoritos da nobreza italiana e, mais tarde, da realeza francesa nos reinados de Francisco I e Henrique III. Após a Revolução Francesa, muitos desses cães de 'luxo' foram para as ruas e acabaram sendo adotados por artistas de circo e órgãos de rua por sua inteligência e facilidade em aprender truques. Foi apenas após a Primeira Guerra Mundial que a raça foi formalmente padronizada na França e Bélgica.",
     "curiosidades": [
-      "Bichon Frisé possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Bichon Frisé é considerado uma raça hipoalergênica porque seu pelo quase não cai; os fios mortos ficam presos nos cachos até serem escovados.",
+      "Eles eram usados por artistas de rua e circenses por sua incrível habilidade de andar sobre as patas traseiras e realizar acrobacias.",
+      "Apesar da aparência delicada, são cães muito robustos e ativos, capazes de acompanhar seus tutores em caminhadas razoáveis.",
+      "O nome 'Bichon' vem do francês antigo 'biche' (cadela), enquanto 'Frisé' refere-se à pelagem encaracolada.",
+      "Eles são famosos pela 'Bichon Blitz' (ou Zoomies), momentos súbitos de energia onde correm freneticamente pela casa por pura felicidade."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Pessoas com alergias a pelos de cães",
+      "Famílias com crianças (ele é muito paciente e sociável)",
+      "Moradores de apartamentos e vida urbana",
+      "Tutores de primeira viagem que buscam um cão alegre e treinável",
+      "Proprietários que buscam um companheiro constante (ele adora estar no centro das atenções)"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que não podem arcar com custos regulares de tosa profissional",
+      "Tutores que ficam fora de casa o dia todo (sofre muito com ansiedade de separação)",
+      "Ambientes onde o cão será tratado de forma bruta (ele é sensível e precisa de reforço positivo)",
+      "Pessoas que buscam um cão de guarda protetor (ele é amigável demais com estranhos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Alergias de pele (especialmente a picadas de pulga)",
+      "Luxação de Patela",
+      "Cálculos na bexiga",
+      "Catarata",
+      "Problemas dentários",
+      "Sensibilidade a vacinas (ocasional)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento constante da saúde bucal e da dieta para prevenir cálculos urinários. Testes oftalmológicos regulares são indicados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente. Escovação diária é necessária para evitar que os nós alcancem a pele. A tosa profissional completa é obrigatória a cada 4 a 6 semanas. As manchas de lágrimas ao redor dos olhos devem ser limpas diariamente com produtos específicos.",
+    "exercicios": "Precisa de caminhadas diárias moderadas e muito estímulo através de brincadeiras. O Bichon é muito inteligente e adora aprender truques novos, o que também serve como um ótimo exercício mental.",
+    "treinamento": "São fáceis de treinar devido à sua natureza ansiosa por agradar e inteligência. No entanto, o treinamento de higiene (fazer as necessidades no lugar certo) pode ser um pouco mais demorado do que em outras raças, exigindo paciência e consistência.",
+    "alimentacao": "Dieta balanceada para cães pequenos. É importante não exagerar nos petiscos, apesar da 'cara de pidão', para evitar o sobrepeso que prejudica as articulações."
   },
   "seo": {
-    "title": "Bichon Frisé - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bichon Frisé: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bichon Frisé: O Alegre Cão Nuvem - Guia Completo e Cuidados",
+    "description": "Descubra tudo sobre o Bichon Frisé: sua pelagem hipoalergênica, temperamento amoroso e história na realeza francesa. Dicas essenciais de cuidados e saúde.",
     "keywords": [
-      "bichon-frise",
-      "bichon frisé",
-      "pequeno",
-      "frança"
+      "Bichon Frisé",
+      "Bichon",
+      "cão hipoalergênico",
+      "cachorro que não solta pelo",
+      "raças de cães brancas",
+      "cuidados com Bichon Frisé",
+      "temperamento Bichon"
     ]
   },
   "imagem_principal": "/images/breeds/bichon-frise.jpg",
@@ -80,11 +91,50 @@
     "/images/breeds/bichon-frise-2.jpg",
     "/images/breeds/bichon-frise-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bichon-frise",
-  "popularidade": 42411,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Bichon Frisé - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/isAbNCZtoLo/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Tosa de Pompom do Bichon Frisé",
+      "url": "https://www.youtube.com/watch?v=example-bichon-groom",
+      "canal": "Estética Canina",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "maltes",
+    "poodle-toy",
+    "havanese",
+    "bolognese"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Sombra de damasco ou creme (permitida apenas em filhotes)"
+  ],
+  "curiosidades_historicas": "O pintor espanhol Goya retratou o Bichon Frisé em várias de suas pinturas, mostrando a popularidade da raça entre a aristocracia espanhola do século XVIII. Durante o Renascimento, os cães eram tão mimados pelos reis que surgiu o termo 'bichonner' em francês, que significa 'mimar ou cuidar com excesso'.",
+  "referencias_externas": [
+    {
+      "titulo": "Bichon Frise Club of America",
+      "url": "https://bichon.org/",
+      "descricao": "Recurso oficial para saúde, criação e padrão da raça."
+    },
+    {
+      "titulo": "The Kennel Club UK - Bichon Frise",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/toy/bichon-frise/",
+      "descricao": "Guia detalhado sobre a raça e sua manutenção."
+    }
+  ],
+  "popularidade": 35000,
   "ranking_brasil": 36,
   "custo_mensal_estimado": [
-    381,
-    1040
+    300,
+    800
   ]
 }

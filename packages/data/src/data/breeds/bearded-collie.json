@@ -4,70 +4,83 @@
   "slug": "bearded-collie",
   "nome_en": "Bearded Collie",
   "apelidos": [
-    "Bearded",
-    "Collie"
+    "Beardie",
+    "Collie Barbudo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Escócia",
-    "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "25.8 kg",
-    "peso_femea": "21.3 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "53 - 56 cm",
+    "altura_femea": "51 - 53 cm",
+    "peso_macho": "20 - 27 kg",
+    "peso_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1902
+    "ano_reconhecimento_fci": 1967
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 1,
-    "queda_pelo": 5,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
     "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Bearded Collie é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bearded Collie originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bearded Collie, carinhosamente chamado de 'Beardie', é um dos cães mais carismáticos e entusiasmados do mundo canino. Famoso por sua pelagem longa e desalinhada e por sua 'barba' característica que lhe dá o nome, ele possui uma expressão de alegria contagiante. É um cão de porte médio, ágil e de movimentos fluidos, conhecido pelo 'pulo do Beardie' — um salto acrobático que faz para localizar ovelhas em terrenos acidentados ou apenas para demonstrar felicidade. Seu temperamento é vibrante, afetuoso e muito inteligente, tornando-o um companheiro de família excepcional para lares ativos.",
+    "historia": "As raízes do Bearded Collie estão nas montanhas da Escócia, onde eram usados por séculos como pastores de gado e ovelhas. Acredita-se que a raça descenda de cães pastores levados por mercadores poloneses em 1514, que foram cruzados com cães pastores escoceses locais. Diferente de outros collies, o Beardie trabalhava de forma independente, sendo capaz de tomar decisões sem a orientação constante do pastor. Após quase desaparecer no início do século XX, a raça foi revitalizada por criadores dedicados, mantendo sua essência de cão de trabalho rústico e incansável.",
     "curiosidades": [
-      "Bearded Collie possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles são famosos pelo 'Beardie Bounce' (Salto do Beardie), um comportamento instintivo de pular alto para enxergar sobre o rebanho ou o mato alto.",
+      "A pelagem do Bearded Collie muda drasticamente de cor durante o crescimento, clareando até a maturidade e escurecendo ligeiramente depois.",
+      "São cães extremamente sensíveis ao humor dos seus tutores, agindo muitas vezes como verdadeiros terapeutas caninos.",
+      "Apesar da abundância de pelos, eles são surpreendentemente ágeis e se destacam em esportes como Agility e Flyball.",
+      "Um Bearded Collie chamado Coal atuou no filme 'The Shaggy Dog' (O Solteirão e a Menor), da Disney."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias muito ativas que praticam esportes ao ar livre",
+      "Tutores que dispõem de tempo para escovação frequente",
+      "Famílias com crianças (ele é um excelente parceiro de brincadeiras)",
+      "Pessoas que buscam um cão alegre e 'otimista'",
+      "Casas com quintais grandes onde ele possa correr livremente"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores sedentários que não podem prover o exercício físico e mental necessário",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável demais)",
+      "Proprietários que se incomodam com pelos longos que podem trazer sujeira da rua",
+      "Ambientes onde o cão ficará confinado por longas horas sozinho"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Doença de Addison (insuficiência adrenal)",
+      "Hipotireoidismo",
+      "Problemas oculares (PRA e Catarata)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em níveis hormonais (Addison) e saúde articular. Exames oftalmológicos regulares são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem longa e dupla exige escovação profunda pelo menos três vezes por semana para evitar nós e emaranhados dolorosos. Banhos devem ser mensais ou conforme a necessidade. O pelo ao redor das patas e olhos precisa de manutenção frequente.",
+    "exercicios": "Necessita de muito exercício diário. Caminhadas vigorosas, corridas e tempo para brincadeiras de busca são fundamentais. O Bearded Collie precisa de desafios mentais tanto quanto físicos para não se tornar destrutivo por tédio.",
+    "treinamento": "Muito inteligente e aprende rápido, mas pode ser teimoso e independente. O adestramento deve ser divertido, variado e baseado em reforço positivo. Eles não respondem bem a métodos autoritários.",
+    "alimentacao": "Dieta balanceada para cães ativos. Evite o excesso de peso para proteger as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Bearded Collie - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bearded Collie: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bearded Collie: O Alegre Pastor Escocês - Guia Completo e Cuidados",
+    "description": "Conheça o Bearded Collie, o Collie Barbudo. Descubra seu temperamento vibrante, sua história de pastoreio na Escócia e dicas essenciais de cuidados com o pelo.",
     "keywords": [
-      "bearded-collie",
-      "bearded collie",
-      "médio",
-      "escócia"
+      "Bearded Collie",
+      "Collie Barbudo",
+      "Beardie",
+      "cão pastor escocês",
+      "raças de cães médias",
+      "cuidados com pelo longo",
+      "temperamento Bearded Collie"
     ]
   },
   "imagem_principal": "/images/breeds/bearded-collie.jpg",
@@ -76,11 +89,54 @@
     "/images/breeds/bearded-collie-2.jpg",
     "/images/breeds/bearded-collie-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bearded-collie",
-  "popularidade": 12010,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Bearded Collie - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-beardie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-beardie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Alegria do Bearded Collie em Família",
+      "url": "https://www.youtube.com/watch?v=example-beardie-home",
+      "canal": "Mundo Animal",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "bobtail",
+    "collie",
+    "pastor-polones-da-planicie"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Azul",
+    "Marrom (Slate)",
+    "Fulvo (Fawn)"
+  ],
+  "marcacoes": [
+    "Marcações brancas no focinho",
+    "Colar branco",
+    "Ponta da cauda branca"
+  ],
+  "curiosidades_historicas": "O Bearded Collie quase se extinguiu após a Segunda Guerra Mundial. A raça moderna deve sua existência a uma mulher chamada Sra. Willison, que em 1944 encomendou um Shetland Sheepdog mas recebeu por engano uma filhote de Bearded Collie, que se tornou a fundadora do kennel Bothkennar e da linhagem moderna da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "Bearded Collie Club of America",
+      "url": "https://beardedcollieclub.us/",
+      "descricao": "Clube oficial da raça nos Estados Unidos."
+    },
+    {
+      "titulo": "The Bearded Collie Club UK",
+      "url": "http://www.beardedcollieclub.co.uk/",
+      "descricao": "Informações históricas e de saúde da raça no Reino Unido."
+    }
+  ],
+  "popularidade": 12000,
   "ranking_brasil": 174,
   "custo_mensal_estimado": [
-    209,
-    1324
+    300,
+    850
   ]
 }

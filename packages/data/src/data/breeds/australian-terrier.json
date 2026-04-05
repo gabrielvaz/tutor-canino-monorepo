@@ -4,71 +4,84 @@
   "slug": "australian-terrier",
   "nome_en": "Australian Terrier",
   "apelidos": [
-    "Australian",
-    "Terrier"
+    "Aussie Terrier",
+    "Terrier Australiano",
+    "Aussie"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Austrália",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "35 cm",
-    "altura_femea": "31 cm",
-    "peso_macho": "14.4 kg",
-    "peso_femea": "9.7 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 28 cm",
+    "altura_femea": "25 - 28 cm",
+    "peso_macho": "6 - 7 kg",
+    "peso_femea": "6 - 7 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1917
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 4,
-    "afeicao_familia": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Australian Terrier é uma raça de porte pequeno originária de Austrália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Australian Terrier originou-se em Austrália, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Australian Terrier é um cão pequeno, robusto e de pernas curtas, com um espírito corajoso que desmente seu tamanho. É um terrier de trabalho clássico: atento, ativo e muito autoconfiante. Sua pelagem é dura, áspera e reta, com um colar característico ao redor do pescoço que lhe dá uma aparência levemente despenteada e charmosa. Com seu corpo ligeiramente longo em relação à altura e um topete de pelo mais macio na cabeça, o Australian Terrier é um companheiro afetuoso, mas que mantém a tenacidade típica de quem foi criado para enfrentar cobras e ratos no outback australiano.",
+    "historia": "Esta foi a primeira raça nativa a ser desenvolvida e reconhecida na Austrália. Seus ancestrais foram diversos terriers britânicos levados por colonos no século XIX, incluindo o precursor do Cairn Terrier, o Yorkshire Terrier e o Skye Terrier. Os colonos precisavam de um cão rústico que pudesse suportar o clima severo da Austrália, controlar pragas e atuar como cão de guarda. O resultado foi o Australian Terrier, oficialmente reconhecido pela primeira vez em Melbourne em 1887. Ele é valorizado por ser um dos menores terriers de trabalho, capaz de uma bravura incrível diante de predadores muito maiores.",
     "curiosidades": [
-      "Australian Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Australian Terrier é conhecido por ser um 'cão de pessoas', sendo mais apegado à família do que muitos outros terriers.",
+      "Eles foram criados especificamente para serem exterminadores de cobras, uma habilidade vital na Austrália rural do século XIX.",
+      "Apesar de pequeno, ele é um excelente saltador e muito ágil, herança de seu passado como caçador.",
+      "A raça possui uma 'colereira' (frill) de pelos longos ao redor do pescoço, que servia como proteção contra mordidas de presas.",
+      "Diz-se que o Australian Terrier tem a 'coragem de um leão em um corpo de brinquedo'."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias que vivem em apartamentos ou casas menores",
+      "Pessoas que buscam um terrier com temperamento um pouco mais calmo e afetuoso",
+      "Tutores que gostam de cães inteligentes e fáceis de treinar",
+      "Idosos ativos que buscam companhia constante",
+      "Famílias com crianças que saibam brincar gentilmente"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que não toleram escavações no jardim (ele adora cavar)",
+      "Casas com pequenos animais de estimação como hamsters ou coelhos (devido ao forte instinto de caça)",
+      "Pessoas que buscam um cão silencioso (ele late para alertar sobre estranhos)",
+      "Proprietários que não possam oferecer estímulo mental diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Diabetes Mellitus",
+      "Doença de Legg-Calve-Perthes",
+      "Alergias de pele",
+      "Problemas dentários (comum em raças pequenas)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento regular do peso (raça propensa a diabetes) e limpezas dentárias profissionais frequentes. Check-ups ortopédicos anuais."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Sua pelagem aramada repele a sujeira e é fácil de cuidar. Escovação semanal é suficiente para manter o pelo limpo e remover fios mortos. O pelo ao redor dos olhos e patas deve ser aparado ocasionalmente. Banhos devem ser raros para não amolecer a pelagem dura natural.",
+    "exercicios": "Precisa de caminhadas diárias moderadas e muito tempo de brincadeira. Ele adora jogos de busca e desafios mentais. Sessões de 30 a 45 minutos de atividade por dia costumam ser suficientes.",
+    "treinamento": "Inteligente e geralmente mais disposto a agradar do que outros terriers. Responde muito bem ao reforço positivo. No entanto, pode se entediar com repetições, por isso os treinos devem ser curtos e divertidos.",
+    "alimentacao": "Ração de alta qualidade para cães pequenos. Atenção redobrada para não deixar o cão engordar, prevenindo o diabetes."
   },
   "seo": {
-    "title": "Australian Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Australian Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Australian Terrier: O Pequeno Caçador Australiano - Guia Completo",
+    "description": "Descubra o Australian Terrier, um cão pequeno em tamanho, mas gigante em coragem. Conheça sua história, temperamento afetuoso e dicas de cuidados.",
     "keywords": [
-      "australian-terrier",
-      "australian terrier",
-      "pequeno",
-      "austrália"
+      "Australian Terrier",
+      "Aussie Terrier",
+      "Terrier Australiano",
+      "cão para apartamento",
+      "cão caçador de cobras",
+      "raças de cães pequenas",
+      "cuidados com terrier"
     ]
   },
   "imagem_principal": "/images/breeds/australian-terrier.jpg",
@@ -77,11 +90,52 @@
     "/images/breeds/australian-terrier-2.jpg",
     "/images/breeds/australian-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=australian-terrier",
-  "popularidade": 26325,
-  "ranking_brasil": 155,
+  "video_url": "https://www.youtube.com/watch?v=13I583-U5S8",
+  "videos_youtube": [
+    {
+      "titulo": "Australian Terrier - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=13I583-U5S8",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/13I583-U5S8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Terrier Australiano: Temperamento e Dicas",
+      "url": "https://www.youtube.com/watch?v=example-aussie",
+      "canal": "Pet Lovers",
+      "duracao": "07:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "cairn-terrier",
+    "yorkshire-terrier",
+    "silky-terrier"
+  ],
+  "cores_disponiveis": [
+    "Azul e Tan",
+    "Areia (Sandy)",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Topete mais claro",
+    "Colar de pelos no pescoço"
+  ],
+  "curiosidades_historicas": "O Australian Terrier detém o título de primeira raça australiana a ser exibida e reconhecida oficialmente. Foi criado para ser um cão 'pau para toda obra', capaz de viver em minas, fazendas e lares urbanos, protegendo contra ratos e cobras peçonhentas, o que lhe conferiu uma resistência física admirável para um cão do seu porte.",
+  "referencias_externas": [
+    {
+      "titulo": "Australian Terrier Club of America",
+      "url": "https://www.australianterrier.org/",
+      "descricao": "Clube oficial da raça nos Estados Unidos."
+    },
+    {
+      "titulo": "ANKC - Australian National Kennel Council",
+      "url": "https://ankc.org.au/Breed/Detail/13",
+      "descricao": "Padrão oficial da raça no seu país de origem, Austrália."
+    }
+  ],
+  "popularidade": 11000,
+  "ranking_brasil": 165,
   "custo_mensal_estimado": [
-    222,
-    1328
+    200,
+    500
   ]
 }

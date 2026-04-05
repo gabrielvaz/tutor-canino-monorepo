@@ -3,68 +3,86 @@
   "nome": "Basenji",
   "slug": "basenji",
   "nome_en": "Basenji",
-  "apelidos": [],
+  "apelidos": [
+    "Cão que não late",
+    "Cão do Congo",
+    "Cão de Zande",
+    "Cão Africano"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "República Democrática do Congo",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "55 cm",
-    "altura_femea": "52 cm",
-    "peso_macho": "13.9 kg",
-    "peso_femea": "9.8 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "41 - 43 cm",
+    "altura_femea": "38 - 41 cm",
+    "peso_macho": "10 - 12 kg",
+    "peso_femea": "9 - 11 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1905
+    "ano_reconhecimento_fci": 1964
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
+    "energia": 4,
+    "inteligencia": 4,
     "queda_pelo": 1,
-    "latido": 4,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "latido": 1,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Basenji é uma raça de porte médio originária de República Democrática do Congo. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Basenji originou-se em República Democrática do Congo, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Basenji é conhecido mundialmente como o 'cão que não late'. No entanto, ele está longe de ser silencioso; em vez do latido tradicional, ele emite um som único que mistura um canto tirolês (yodel) com um choro agudo, devido à estrutura diferenciada de suas cordas vocais. É um cão de porte médio, elegante e de construção leve, com uma aparência que lembra uma gazela. Suas características físicas mais distintivas incluem uma testa enrugada que lhe dá uma expressão de eterna preocupação, orelhas eretas e pontiagudas, e uma cauda firmemente enrolada sobre o dorso. É um animal extremamente limpo, com hábitos de higiene que lembram os dos gatos, e uma personalidade independente e curiosa.",
+    "historia": "O Basenji é uma das raças de cães mais antigas do mundo, com representações encontradas em tumbas egípcias que datam de milhares de anos. Originalmente, viviam de forma semi-selvagem na região do Congo, na África Central, onde eram valorizados pelas tribos locais por suas habilidades de caça excepcionais, visão aguçada e faro apurado. Eles ajudavam a conduzir animais de pequeno porte para as redes dos caçadores. A raça permaneceu isolada por milênios, sendo 'redescoberta' por exploradores ocidentais no final do século XIX. Os primeiros exemplares levados para a Europa sucumbiram a doenças, e a raça só se estabeleceu no ocidente na década de 1930.",
     "curiosidades": [
-      "Basenji possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Basenji não late porque sua laringe tem um formato diferente da maioria das outras raças caninas.",
+      "Eles se limpam lambendo o próprio corpo, assim como os gatos, e quase não possuem o odor característico de cachorro.",
+      "As fêmeas de Basenji entram no cio apenas uma vez por ano, ao contrário da maioria das raças que têm dois ciclos anuais.",
+      "São cães extremamente rápidos e ágeis, capazes de saltar verticalmente de forma impressionante.",
+      "O nome 'Basenji' significa literalmente 'cão do mato' ou 'cão selvagem' em dialetos locais do Congo."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Apartamentos (devido à ausência de latidos)",
+      "Pessoas que buscam um cão limpo e com pouco cheiro",
+      "Tutores que apreciam a independência e personalidade de raças primitivas",
+      "Quem gosta de cães inteligentes e ativos para trilhas",
+      "Pessoas com alergias leves devido à pelagem muito curta e pouco shedding"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que buscam obediência cega (ele é independente e teimoso)",
+      "Casas com pequenos animais como roedores ou aves (forte instinto de caça)",
+      "Pessoas que não podem oferecer exercícios e desafios mentais diários",
+      "Tutores que esperam um cão que lhes dê as boas-vindas com latidos festivos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Síndrome de Fanconi (distúrbio renal hereditário)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "IPSID (Doença Intestinal Imunoproliferativa)",
+      "Hipotireoidismo",
+      "Hérnia Inguinal"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes de DNA para Síndrome de Fanconi são obrigatórios para criadores responsáveis. Exames de urina e sangue regulares para monitorar a função renal são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Sua pelagem é muito curta, fina e sedosa. Quase não cai e requer apenas uma escovação semanal rápida para remover pelos mortos. Banhos são raramente necessários, pois o Basenji é obsessivo com sua própria limpeza.",
+    "exercicios": "Precisa de exercícios diários substanciais. Caminhadas longas e sessões de brincadeiras são essenciais. Ele adora correr e perseguir objetos, mas nunca deve ser deixado sem guia em áreas abertas devido ao seu instinto de caça.",
+    "treinamento": "O adestramento pode ser um desafio. O Basenji entende os comandos, mas decide se quer obedecer. Use reforço positivo, paciência e mantenha as sessões curtas e interessantes. Ele é motivado por curiosidade e comida.",
+    "alimentacao": "Requer uma dieta balanceada. Como é um cão ativo e esguio, evite o excesso de peso para manter sua agilidade característica."
   },
   "seo": {
-    "title": "Basenji - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Basenji: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Basenji: O Incrível Cão que Não Late - Guia de Raça e Cuidados",
+    "description": "Descubra o fascinante Basenji, o cão africano conhecido por não latir. Conheça sua história milenar, temperamento felino e cuidados essenciais.",
     "keywords": [
-      "basenji",
-      "basenji",
-      "médio",
-      "república democrática do congo"
+      "Basenji",
+      "cão que não late",
+      "cão do Congo",
+      "raças de cães primitivas",
+      "cachorro para apartamento",
+      "temperamento Basenji",
+      "saúde do Basenji"
     ]
   },
   "imagem_principal": "/images/breeds/basenji.jpg",
@@ -73,11 +91,54 @@
     "/images/breeds/basenji-2.jpg",
     "/images/breeds/basenji-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=basenji",
-  "popularidade": 21912,
-  "ranking_brasil": 157,
+  "video_url": "https://www.youtube.com/watch?v=3-E7H18yMpg",
+  "videos_youtube": [
+    {
+      "titulo": "Basenji - O Cão que não Late",
+      "url": "https://www.youtube.com/watch?v=3-E7H18yMpg",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/3-E7H18yMpg/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Canto (Yodel) do Basenji",
+      "url": "https://www.youtube.com/watch?v=example-basenji-sound",
+      "canal": "African Wildlife",
+      "duracao": "04:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "shiba-inu",
+    "pharaoh-hound",
+    "whippet"
+  ],
+  "cores_disponiveis": [
+    "Vermelho e Branco",
+    "Preto e Branco",
+    "Tricolor (Preto, Vermelho e Branco)",
+    "Brindle (Tigrado)"
+  ],
+  "marcacoes": [
+    "Patas brancas",
+    "Peito branco",
+    "Ponta da cauda branca (obrigatória)"
+  ],
+  "curiosidades_historicas": "O Basenji é uma das poucas raças que não foi 'criada' pelo homem, mas sim 'descoberta'. Sua morfologia é virtualmente idêntica à de cães retratados em hieróglifos egípcios de 4.000 anos atrás, provando que a raça permaneceu inalterada em seu habitat africano por milênios.",
+  "referencias_externas": [
+    {
+      "titulo": "Basenji Club of America",
+      "url": "https://www.basenji.org/",
+      "descricao": "Principal fonte de informação sobre saúde e ética da raça."
+    },
+    {
+      "titulo": "FCI - Basenji Standard",
+      "url": "https://www.fci.be/en/nomenclature/BASENJI-43.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 112,
   "custo_mensal_estimado": [
-    317,
-    571
+    250,
+    600
   ]
 }

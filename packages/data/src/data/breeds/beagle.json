@@ -3,68 +3,87 @@
   "nome": "Beagle",
   "slug": "beagle",
   "nome_en": "Beagle",
-  "apelidos": [],
+  "apelidos": [
+    "Snoopy",
+    "English Beagle"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "53 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "12.9 kg",
-    "peso_femea": "10.3 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "33 - 40 cm",
+    "altura_femea": "33 - 40 cm",
+    "peso_macho": "10 - 14 kg",
+    "peso_femea": "9 - 13 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1960
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 4,
     "inteligencia": 4,
     "queda_pelo": 3,
     "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Beagle é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Beagle originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Beagle é a definição de um cão 'alegre' (merry). Compacto, atlético e de médio porte, ele é um dos sabujos mais populares e amados do mundo. Sua expressão é doce e suplicante, com olhos castanhos grandes e orelhas longas e aveludadas que emolduram o rosto. Uma característica física fundamental é a ponta da cauda branca, conhecida como 'bandeira', que permitia aos caçadores localizarem o cão enquanto ele farejava em vegetação alta. O Beagle é um explorador nato, movido pelo nariz e por um desejo insaciável de descobrir novos cheiros, sempre acompanhado por uma cauda abanando e um temperamento extremamente sociável.",
+    "historia": "As origens do Beagle remontam à Grécia Antiga, mas a raça como a conhecemos foi desenvolvida na Inglaterra. Eles foram criados para caçar lebres e coelhos em matilhas, sendo o caçador acompanhado a pé (beagling). O nome 'Beagle' acredita-se derivar da palavra francesa 'bégueule', que significa uivo de boca aberta, ou do celta 'beag', que significa pequeno. Na era elisabetana, existiam os 'Pocket Beagles', tão pequenos que cabiam no bolso de uma jaqueta de caça. No século XIX, a raça foi padronizada e sua popularidade explodiu mundialmente, não apenas como caçador, mas como um companheiro doméstico inigualável.",
     "curiosidades": [
-      "Beagle possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O personagem de desenho animado Snoopy, de Charles Schulz, é o Beagle mais famoso da história.",
+      "A ponta da cauda de um Beagle puro deve obrigatoriamente ter pelos brancos.",
+      "Beagles possuem cerca de 220 milhões de receptores olfativos, sendo frequentemente usados em aeroportos para detectar alimentos e produtos ilícitos.",
+      "Eles são conhecidos como 'artistas da fuga', capazes de cavar sob cercas ou escalar obstáculos se sentirem um cheiro irresistível do outro lado.",
+      "A raça possui três tipos de vozes: o latido normal, o uivo prolongado e o 'baying', um som intermediário usado durante a caça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças ativas (ele adora brincar)",
+      "Tutores que gostam de caminhadas exploratórias",
+      "Casas com outros cães (ele odeia ficar sozinho)",
+      "Pessoas que buscam um cão de médio porte robusto e alegre",
+      "Donos que apreciam a personalidade de um explorador curioso"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que vivem em apartamentos com vizinhos sensíveis a ruídos (ele uiva)",
+      "Tutores que buscam obediência absoluta (o nariz dele sempre manda mais)",
+      "Proprietários que não podem oferecer exercícios diários consistentes",
+      "Casas onde o cão ficará sozinho por longos períodos (propenso a ansiedade de separação)",
+      "Pessoas que não toleram queda moderada de pelos durante o ano"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Epilepsia idiopática",
+      "Hipotireoidismo",
+      "Cherry Eye (prolapso da glândula da terceira pálpebra)",
+      "Doença do Disco Intervertebral (IVDD)",
+      "Obesidade (extrema facilidade para engordar)",
+      "Síndrome de Dor do Beagle (SRMA)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso do peso corporal e da saúde da coluna. Check-ups oftalmológicos e de tireoide são recomendados anualmente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é densa e resistente às intempéries. Requer escovação semanal para remover pelos mortos. As orelhas pendentes devem ser verificadas e limpas semanalmente para evitar o acúmulo de cera e infecções. Unhas devem ser cortadas regularmente.",
+    "exercicios": "Precisa de pelo menos 1 hora de exercício diário. Caminhadas onde ele possa cheirar livremente são essenciais para sua saúde mental. Brincadeiras de busca e jogos de faro escondendo petiscos são excelentes formas de gastar sua energia.",
+    "treinamento": "O Beagle é inteligente, mas focado em comida e cheiros. O treinamento deve ser baseado em recompensas altamente palatáveis. Eles podem ser distraídos facilmente, então as sessões devem ser curtas, dinâmicas e realizadas em locais com poucas distrações inicialmente.",
+    "alimentacao": "Cuidado extremo com as porções! O Beagle é um comedor compulsivo e usará todo o seu charme para conseguir extras. A obesidade reduz drasticamente sua expectativa de vida e saúde articular."
   },
   "seo": {
-    "title": "Beagle - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Beagle: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Beagle: O Guia Completo da Raça - Temperamento, Faro e Cuidados",
+    "description": "Tudo sobre o Beagle: conheça a raça do Snoopy. Descubra seu temperamento alegre, sua incrível capacidade olfativa e dicas essenciais de saúde e alimentação.",
     "keywords": [
-      "beagle",
-      "beagle",
-      "médio",
-      "inglaterra"
+      "Beagle",
+      "Snoopy",
+      "cão farejador",
+      "raças de cães médias",
+      "temperamento Beagle",
+      "uivo do Beagle",
+      "cuidados com Beagle",
+      "saúde do Beagle"
     ]
   },
   "imagem_principal": "/images/breeds/beagle.jpg",
@@ -73,11 +92,55 @@
     "/images/breeds/beagle-2.jpg",
     "/images/breeds/beagle-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=beagle",
-  "popularidade": 31261,
-  "ranking_brasil": 137,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Beagle - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/Pb-K2uyWXYM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é ter um Beagle em casa?",
+      "url": "https://www.youtube.com/watch?v=example-beagle-home",
+      "canal": "Vida de Cão",
+      "duracao": "15:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "basset-hound",
+    "harrier",
+    "foxhound-ingles"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Preto, Branco e Fogo)",
+    "Bicolor (Limão e Branco)",
+    "Vermelho e Branco",
+    "Chocolate Tricolor",
+    "Mottle (Mosqueado)"
+  ],
+  "marcacoes": [
+    "Ponta da cauda branca (obrigatória)",
+    "Manta preta",
+    "Marcações fogo (tan)"
+  ],
+  "curiosidades_historicas": "A Rainha Elizabeth I tinha matilhas de Pocket Beagles, que mediam apenas 20 a 25 cm de altura e eram levados em cestos pendurados nos cavalos durante as caçadas. Embora essa versão em miniatura tenha se extinguido, o Beagle padrão manteve a mesma tenacidade e alegria daqueles pequenos caçadores reais.",
+  "referencias_externas": [
+    {
+      "titulo": "National Beagle Club of America",
+      "url": "https://www.nationalbeagleclub.org/",
+      "descricao": "Clube oficial dedicado à preservação do padrão e saúde da raça."
+    },
+    {
+      "titulo": "The Beagle Club UK",
+      "url": "http://www.thebeagleclub.org/",
+      "descricao": "O clube de Beagle mais antigo do mundo, fundado em 1890."
+    }
+  ],
+  "popularidade": 48000,
+  "ranking_brasil": 12,
   "custo_mensal_estimado": [
-    307,
-    954
+    300,
+    750
   ]
 }

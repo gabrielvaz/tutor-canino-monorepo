@@ -4,73 +4,84 @@
   "slug": "american-staffordshire-terrier",
   "nome_en": "American Staffordshire Terrier",
   "apelidos": [
-    "American",
-    "Terrier"
+    "AmStaff",
+    "Staffy Americano",
+    "Stafford Americano"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "28 cm",
-    "altura_femea": "24 cm",
-    "peso_macho": "8.7 kg",
-    "peso_femea": "3.5 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "46 - 48 cm",
+    "altura_femea": "43 - 46 cm",
+    "peso_macho": "25 - 32 kg",
+    "peso_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1950
+    "ano_reconhecimento_fci": 1936
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 3,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "American Staffordshire Terrier é uma raça de porte pequeno originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O American Staffordshire Terrier originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O American Staffordshire Terrier, carinhosamente chamado de AmStaff, é um cão que combina força impressionante com uma doçura surpreendente. Musculoso, ágil e atarracado, ele possui uma cabeça larga com mandíbulas poderosas e um olhar inteligente que transborda lealdade. É uma raça extremamente orientada para as pessoas, conhecida por seu 'sorriso' característico e por ser um companheiro dedicado que deseja estar sempre perto de sua família. Apesar de sua aparência imponente e passado robusto, o AmStaff moderno é um cão equilibrado, afetuoso e, quando bem socializado, um excelente protetor e amigo.",
+    "historia": "A história do AmStaff começa na Inglaterra do século XIX, onde bulldogs e diversos terriers foram cruzados para criar cães que unissem a força de um com a agilidade do outro. Quando esses cães chegaram aos Estados Unidos, criadores americanos focaram em desenvolver um animal maior e com temperamento mais estável para o trabalho em fazendas e companhia familiar, separando-se gradualmente da linhagem do Staffordshire Bull Terrier inglês. Em 1936, a raça foi oficialmente reconhecida pelo AKC como Staffordshire Terrier, mudando para American Staffordshire Terrier em 1972 para evitar confusões. Desde então, o foco tem sido puramente no temperamento familiar e em exposições de beleza.",
     "curiosidades": [
-      "American Staffordshire Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O AmStaff é frequentemente confundido com o Pit Bull, mas são raças distintas com padrões de criação diferentes há décadas.",
+      "A raça é famosa por sua tolerância e amor por crianças, sendo muitas vezes chamada de 'babá' em alguns países, embora toda interação deva ser supervisionada.",
+      "Stubby, um cão herói da Primeira Guerra Mundial, era frequentemente descrito como um ancestral do AmStaff.",
+      "Eles são atletas excepcionais e se destacam em esportes como weight pulling (tração), agility e obediência.",
+      "Apesar da força física, muitos AmStaffs acreditam sinceramente que são cães de colo e tentarão se aconchegar no colo de seus tutores."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que podem dedicar tempo para exercícios",
+      "Tutores que buscam um cão de guarda afetuoso com a família",
+      "Pessoas que moram em casas com quintal seguro",
+      "Proprietários dispostos a investir em socialização precoce",
+      "Quem busca um companheiro leal e muito carinhoso"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores inexperientes que não conseguem estabelecer liderança clara",
+      "Pessoas que planejam deixar o cão isolado no quintal sem interação humana",
+      "Casas com outros cães do mesmo sexo sem socialização rigorosa",
+      "Proprietários que buscam um cão que não exija gasto de energia física"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Displasia de Quadril",
+      "Ataxia Cerebelar (doença neurológica hereditária)",
+      "Cardiopatias (como Estenose Aórtica)",
+      "Alergias de pele e dermatites",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames neurológicos e cardíacos periódicos. Check-ups ortopédicos anuais são recomendados devido à sua massa muscular sobre as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Sua pelagem curta e lisa é extremamente fácil de manter. Uma escovação semanal com uma luva de borracha é suficiente para remover pelos mortos. Banhos devem ser dados apenas quando necessário.",
+    "exercicios": "Precisa de exercícios diários consistentes. Caminhadas rápidas, corridas e, principalmente, brincadeiras que estimulem sua força e agilidade são ideais.",
+    "treinamento": "O AmStaff é inteligente e ansioso para agradar, o que facilita o adestramento. No entanto, sua força requer que ele aprenda a não puxar a guia e a obedecer comandos básicos desde cedo. Socialização com outros cães é fundamental desde filhote.",
+    "alimentacao": "Dieta equilibrada para cães médios/grandes e ativos. Evite o sobrepeso, pois isso pode agravar problemas articulares."
   },
   "seo": {
-    "title": "American Staffordshire Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre American Staffordshire Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "American Staffordshire Terrier (AmStaff): Guia de Raça e Cuidados",
+    "description": "Tudo sobre o AmStaff: descubra o temperamento amoroso, a força e os cuidados essenciais para o American Staffordshire Terrier. Guia completo da raça.",
     "keywords": [
-      "american-staffordshire-terrier",
-      "american staffordshire terrier",
-      "pequeno",
-      "estados unidos"
+      "American Staffordshire Terrier",
+      "AmStaff",
+      "Staffy Americano",
+      "cão de guarda familiar",
+      "raças de cães fortes",
+      "temperamento AmStaff",
+      "cuidados AmStaff"
     ]
   },
   "imagem_principal": "/images/breeds/american-staffordshire-terrier.jpg",
@@ -79,11 +90,56 @@
     "/images/breeds/american-staffordshire-terrier-2.jpg",
     "/images/breeds/american-staffordshire-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=american-staffordshire-terrier",
-  "popularidade": 34750,
-  "ranking_brasil": 192,
+  "video_url": "https://www.youtube.com/watch?v=J3mR6eB0Gis",
+  "videos_youtube": [
+    {
+      "titulo": "American Staffordshire Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=J3mR6eB0Gis",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/J3mR6eB0Gis/hqdefault.jpg"
+    },
+    {
+      "titulo": "AmStaff: O Cão que é Puro Coração",
+      "url": "https://www.youtube.com/watch?v=example-amstaff",
+      "canal": "Tutor Canino",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "staffordshire-bull-terrier",
+    "bull-terrier",
+    "boxer"
+  ],
+  "cores_disponiveis": [
+    "Azul",
+    "Preto",
+    "Branco",
+    "Vermelho",
+    "Fawn (Fulvo)",
+    "Brindle (Tigrado)"
+  ],
+  "marcacoes": [
+    "Manchas brancas",
+    "Máscara preta",
+    "Pied"
+  ],
+  "curiosidades_historicas": "Um dos AmStaffs mais famosos da história foi Stubby, que serviu na 26ª Divisão de Infantaria dos EUA durante a WWI. Ele detectava ataques de gás, localizava soldados feridos e até capturou um espião alemão, tornando-se o cão mais condecorado da guerra e sendo promovido ao posto de Sargento.",
+  "referencias_externas": [
+    {
+      "titulo": "Staffordshire Terrier Club of America",
+      "url": "https://www.amstaff.org/",
+      "descricao": "Clube oficial de raça reconhecido pelo AKC."
+    },
+    {
+      "titulo": "FCI - American Staffordshire Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html",
+      "descricao": "Padrão morfológico internacional da raça."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 35,
   "custo_mensal_estimado": [
-    202,
-    707
+    350,
+    800
   ]
 }

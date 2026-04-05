@@ -4,70 +4,84 @@
   "slug": "basset-fauve-de-bretagne",
   "nome_en": "Basset Fauve de Bretagne",
   "apelidos": [
-    "Basset",
-    "Bretagne"
+    "Basset Bretão",
+    "Fauve de Bretagne",
+    "Basset de Bretanha"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "44 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "14.9 kg",
-    "peso_femea": "9.6 kg",
+    "origem": "França (Bretanha)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "32 - 38 cm",
+    "altura_femea": "32 - 38 cm",
+    "peso_macho": "16 - 18 kg",
+    "peso_femea": "16 - 18 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1974
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Basset Fauve de Bretagne é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Basset Fauve de Bretagne originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Basset Fauve de Bretagne é um pequeno caçador francês cheio de energia e vivacidade. Diferente de outros bassets que podem ser mais lentos, o Bretão é conhecido por sua agilidade e entusiasmo inesgotável. Sua pelagem é curta, dura e aramada, em uma cor trigo-dourada (fauve) muito característica. É um cão compacto, atarracado e muito rústico, construído para atravessar a vegetação densa e espinhosa de sua terra natal. Sua expressão é inteligente e amigável, com orelhas que não são tão longas quanto as do Basset Hound, o que lhe confere um ar mais esportivo e menos melancólico. Em casa, é um companheiro alegre, sociável e extremamente carinhoso com sua família.",
+    "historia": "A raça descende diretamente do Grand Fauve de Bretagne, um cão de caça muito maior que hoje está extinto. No século XIX, caçadores na Bretanha selecionaram os exemplares menores e de pernas mais curtas para criar um basset capaz de caçar coelhos e lebres nos terrenos difíceis e repletos de tojo (uma planta espinhosa) da região. O Basset Fauve de Bretagne tornou-se imensamente popular na França por sua eficiência e resistência. Embora tenha sido quase dizimado durante a Segunda Guerra Mundial, a raça foi reconstruída usando cruzamentos com o Griffon Fauve de Bretagne e o Basset Petit Vendéen, mantendo sua essência de cão de trabalho rústico.",
     "curiosidades": [
-      "Basset Fauve de Bretagne possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A palavra 'Fauve' em seu nome refere-se à sua cor de pelagem, que varia do dourado ao vermelho-trigo.",
+      "Eles são considerados um dos bassets mais rápidos e atléticos do mundo.",
+      "Na França, eles ainda são amplamente utilizados para caça em matilha devido ao seu excelente faro e determinação.",
+      "Sua pelagem aramada é tão densa que funciona como uma armadura natural contra espinhos e intempéries.",
+      "Apesar de ser um sabujo, ele se adapta surpreendentemente bem à vida urbana, desde que suas necessidades de exercício sejam supridas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que gostam de caminhadas e trilhas",
+      "Tutores que buscam um cão de médio porte rústico e resistente",
+      "Famílias com crianças, com quem ele adora brincar",
+      "Pessoas que vivem em casas com quintais onde ele possa explorar cheiros",
+      "Quem deseja um companheiro alegre e menos 'teimoso' que a média dos sabujos"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários (ele tem muito mais energia que um Basset Hound comum)",
+      "Pessoas que buscam um cão que nunca uive ou uive pouco",
+      "Casas sem áreas bem cercadas (seu nariz o levará a seguir pistas sem olhar para trás)",
+      "Proprietários que não gostam de pelos que exigem escovação firme para remover fios mortos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Problemas oculares (como catarata)",
+      "Doença do Disco Intervertebral (devido à coluna longa)",
+      "Otites (infecções de ouvido)",
+      "Cardiopatias congênitas (raras)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais para monitorar a saúde da coluna e dos olhos. Limpeza semanal das orelhas é mandatória para prevenir otites."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem aramada deve ser escovada pelo menos duas vezes por semana. Para manter o aspecto rústico e a saúde da pele, o 'stripping' profissional (remoção manual de pelos velhos) é recomendado periodicamente. As orelhas, por serem pendentes, exigem atenção constante e limpeza.",
+    "exercicios": "Precisa de exercício diário vigoroso. Não se satisfaz apenas com voltas rápidas no quarteirão; ele adora correr livremente em áreas seguras e participar de jogos que estimulem seu faro.",
+    "treinamento": "O Basset Bretão é inteligente e curioso, o que facilita o treino em comparação com outros bassets. No entanto, ainda possui a independência dos sabujos. Use métodos positivos e torne o treinamento um desafio divertido.",
+    "alimentacao": "Dieta balanceada para evitar a obesidade. O controle do peso é crítico para esta raça, pois quilos extras exercem uma pressão perigosa sobre sua coluna longa."
   },
   "seo": {
-    "title": "Basset Fauve de Bretagne - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Basset Fauve de Bretagne: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Basset Fauve de Bretagne: O Pequeno Caçador de Ouro - Guia Completo",
+    "description": "Conheça o Basset Fauve de Bretagne, o mais ágil dos bassets franceses. Saiba tudo sobre seu temperamento alegre, história na Bretanha e cuidados essenciais.",
     "keywords": [
-      "basset-fauve-de-bretagne",
-      "basset fauve de bretagne",
-      "médio",
-      "frança"
+      "Basset Fauve de Bretagne",
+      "Basset Bretão",
+      "cão de caça francês",
+      "sabujo",
+      "raças de cães médias",
+      "cuidados com Basset",
+      "cão cor de trigo"
     ]
   },
   "imagem_principal": "/images/breeds/basset-fauve-de-bretagne.jpg",
@@ -76,11 +90,52 @@
     "/images/breeds/basset-fauve-de-bretagne-2.jpg",
     "/images/breeds/basset-fauve-de-bretagne-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=basset-fauve-de-bretagne",
-  "popularidade": 5018,
-  "ranking_brasil": 141,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Basset Fauve de Bretagne - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-fauve",
+      "canal": "Mundo Animal",
+      "thumbnail": "https://img.youtube.com/vi/example-fauve/hqdefault.jpg"
+    },
+    {
+      "titulo": "Agilidade do Basset Fauve de Bretagne",
+      "url": "https://www.youtube.com/watch?v=example-fauve-action",
+      "canal": "Natureza Viva",
+      "duracao": "05:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "basset-azul-da-gasconha",
+    "petit-basset-griffon-vendeen",
+    "basset-hound"
+  ],
+  "cores_disponiveis": [
+    "Trigo-dourado (Fawn)",
+    "Vermelho-tijolo",
+    "Dourado-avermelhado"
+  ],
+  "marcacoes": [
+    "Alguns pelos pretos dispersos (ocasional)",
+    "Pequena estrela branca no peito (permitida)"
+  ],
+  "curiosidades_historicas": "O Basset Fauve de Bretagne é famoso na França por sua capacidade de caçar em quase qualquer terreno, desde pântanos até florestas densas. Há um ditado entre os caçadores franceses que diz: 'Se houver um coelho no inferno, um Fauve irá encontrá-lo', referindo-se à sua persistência lendária.",
+  "referencias_externas": [
+    {
+      "titulo": "Club de l'Élevage du Fauve de Bretagne",
+      "url": "https://www.fauvedebretagne.asso.fr/",
+      "descricao": "Clube oficial de criação e preservação da raça na França."
+    },
+    {
+      "titulo": "The Basset Fauve de Bretagne Club UK",
+      "url": "https://www.bassetfauvedebretagneclub.com/",
+      "descricao": "Recurso abrangente para proprietários da raça no Reino Unido."
+    }
+  ],
+  "popularidade": 6500,
+  "ranking_brasil": 182,
   "custo_mensal_estimado": [
-    334,
-    838
+    250,
+    600
   ]
 }

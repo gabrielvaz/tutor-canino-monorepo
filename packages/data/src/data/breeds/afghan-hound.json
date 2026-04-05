@@ -4,70 +4,85 @@
   "slug": "afghan-hound",
   "nome_en": "Afghan Hound",
   "apelidos": [
-    "Afghan",
-    "Hound"
+    "Tazi",
+    "Baluchi Hound",
+    "Cão de Cabul",
+    "Galgo Afegão"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Afeganistão",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "16.8 kg",
-    "peso_femea": "13.1 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "68 - 74 cm",
+    "altura_femea": "63 - 69 cm",
+    "peso_macho": "26 - 34 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1956
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 2,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 5,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
+    "energia": 4,
+    "inteligencia": 3,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Afghan Hound é uma raça de porte médio originária de Afeganistão. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Afghan Hound originou-se em Afeganistão, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Afghan Hound é a personificação da elegância e aristocracia no mundo canino. Conhecido por sua pelagem longa, sedosa e fluida, além de sua silhueta exótica com um anel característico na ponta da cauda, esta raça é frequentemente descrita como 'o rei dos cães'. Sua expressão é distante e digna, com um olhar que parece observar o horizonte. Fisicamente, é um atleta nato, com ossos do quadril proeminentes e patas largas que funcionavam como 'pneus de neve' em seu terreno de origem. Embora sua beleza seja estonteante, o Afghan Hound é um cão de temperamento complexo, sendo independente e, por vezes, comparado aos gatos em sua atitude reservada.",
+    "historia": "Uma das raças mais antigas do mundo, o Afghan Hound tem raízes que remontam a milhares de anos nas regiões montanhosas do Afeganistão, Índia e Paquistão. Originalmente, era um cão de caça de alta performance, utilizado por tribos nômades para perseguir gazelas, leopardos e lebres através de terrenos acidentados. Sua pelagem longa não era apenas estética, mas uma proteção vital contra o frio extremo das montanhas. A raça permaneceu um segredo bem guardado em sua terra natal por séculos, sendo proibida sua exportação até o início do século XX, quando exemplares começaram a chegar à Inglaterra e ganharam popularidade imediata em exposições de beleza.",
     "curiosidades": [
-      "Afghan Hound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Afghan Hound é um lebrél (sighthound), o que significa que ele caça usando a visão em vez do olfato.",
+      "Sua pelagem é composta por fios muito finos, semelhantes ao cabelo humano, e não para de crescer.",
+      "Apesar de sua aparência delicada, eles são corredores extremamente velozes, capazes de atingir até 60 km/h.",
+      "Diz a lenda que o Afghan Hound foi o cão escolhido para representar a espécie na Arca de Noé.",
+      "A raça possui uma 'sela' nas costas, onde o pelo é curto e denso em adultos, contrastando com as longas franjas laterais."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que entendem a natureza de cães independentes",
+      "Pessoas dispostas a dedicar horas semanais à escovação e banhos",
+      "Quem possui quintais grandes e cercados para o animal correr",
+      "Proprietários que buscam um companheiro calmo dentro de casa",
+      "Entusiastas de exposições caninas e esportes como lure coursing"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem que buscam obediência cega",
+      "Pessoas que não têm paciência para cuidados intensivos com a pelagem",
+      "Ambientes onde o cão ficará solto em áreas não cercadas (ele perseguirá qualquer presa)",
+      "Famílias que buscam um cão que aprenda truques rapidamente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Sensibilidade extrema à anestesia (comum em lebréis)",
+      "Displasia de Quadril",
+      "Mielopatia Hereditária",
+      "Catarata Juvenil",
+      "Dilatação e Torção Gástrica (Bloat)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Devido à sua fisiologia de galgo, requer veterinários familiarizados com a raça para procedimentos cirúrgicos. Exames cardíacos e ortopédicos regulares são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Este é um dos cães mais exigentes do mundo em termos de higiene. Requer escovação diária profunda para evitar o 'feltro' (nós impenetráveis). Banhos semanais são quase obrigatórios para manter o pelo saudável e limpo. Muitos tutores utilizam 'snoods' (toucas) durante as refeições para evitar que as orelhas sujem na comida.",
+    "exercicios": "Precisa de pelo menos uma hora de exercício vigoroso diariamente. O ideal é que ele tenha a oportunidade de correr em velocidade máxima em um local seguro pelo menos 2 a 3 vezes por semana.",
+    "treinamento": "O Afghan Hound é famoso por sua teimosia e independência. O treinamento deve ser feito com muita paciência e motivação, sem nunca usar força ou gritos, o que faria o cão se fechar completamente. Ele decide se vale a pena obedecer.",
+    "alimentacao": "Requer dieta balanceada e de alta qualidade. Devido ao risco de torção gástrica, é melhor alimentar em porções menores ao longo do dia e evitar exercícios pesados logo após comer."
   },
   "seo": {
-    "title": "Afghan Hound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Afghan Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Afghan Hound: O Guia Completo da Raça mais Elegante do Mundo",
+    "description": "Descubra tudo sobre o Afghan Hound: do seu temperamento independente aos cuidados intensivos com sua pelagem única. Conheça a história deste antigo galgo.",
     "keywords": [
-      "afghan-hound",
-      "afghan hound",
-      "médio",
-      "afeganistão"
+      "Afghan Hound",
+      "Galgo Afegão",
+      "Tazi",
+      "cão de luxo",
+      "cuidados com pelo longo",
+      "lebrél",
+      "raças de cães grandes"
     ]
   },
   "imagem_principal": "/images/breeds/afghan-hound.jpg",
@@ -76,11 +91,57 @@
     "/images/breeds/afghan-hound-2.jpg",
     "/images/breeds/afghan-hound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=afghan-hound",
-  "popularidade": 27064,
-  "ranking_brasil": 2,
+  "video_url": "https://www.youtube.com/watch?v=M57R8mEwK5Q",
+  "videos_youtube": [
+    {
+      "titulo": "Afghan Hound - O Galgo Mais Elegante",
+      "url": "https://www.youtube.com/watch?v=M57R8mEwK5Q",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/M57R8mEwK5Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cuidados com a pelagem do Afghan Hound",
+      "url": "https://www.youtube.com/watch?v=example-afghan",
+      "canal": "Estética Pet",
+      "duracao": "15:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "saluki",
+    "borzoi",
+    "galgo-ingles"
+  ],
+  "cores_disponiveis": [
+    "Creme",
+    "Dourado",
+    "Branco",
+    "Prata",
+    "Azul",
+    "Preto",
+    "Dominó"
+  ],
+  "marcacoes": [
+    "Máscara preta",
+    "Pelo em formato de sela",
+    "Franjas nas orelhas"
+  ],
+  "curiosidades_historicas": "O Afghan Hound foi o primeiro cão a ser clonado com sucesso em 2005, um cão chamado Snuppy. Na década de 1970, a raça tornou-se um ícone da moda e do status, aparecendo em inúmeras capas de revistas e anúncios de perfumes, consolidando sua imagem de sofisticação.",
+  "referencias_externas": [
+    {
+      "titulo": "Afghan Hound Club of America",
+      "url": "http://www.afghanhoundclubofamerica.org/",
+      "descricao": "Clube oficial da raça com recursos extensos sobre saúde e criação."
+    },
+    {
+      "titulo": "The Kennel Club UK - Afghan Hound",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/hound/afghan-hound/",
+      "descricao": "Guia detalhado do Kennel Club britânico sobre a raça."
+    }
+  ],
+  "popularidade": 12500,
+  "ranking_brasil": 88,
   "custo_mensal_estimado": [
-    412,
-    520
+    500,
+    1200
   ]
 }

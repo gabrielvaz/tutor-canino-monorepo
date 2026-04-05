@@ -3,67 +3,85 @@
   "nome": "Appenzeller",
   "slug": "appenzeller",
   "nome_en": "Appenzeller Sennenhund",
-  "apelidos": [],
+  "apelidos": [
+    "Appenzeller Sennenhund",
+    "Cão de Montanha de Appenzell",
+    "Appie"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Suíça",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "20.6 kg",
-    "peso_femea": "14.7 kg",
-    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1940
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "52 - 56 cm",
+    "altura_femea": "50 - 54 cm",
+    "peso_macho": "22 - 32 kg",
+    "peso_femea": "22 - 32 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, Boiadeiros Suíços",
+    "ano_reconhecimento_fci": 1898
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 2,
+    "inteligencia": 5,
     "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 4,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Appenzeller é uma raça de porte médio originária de Suíça. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Appenzeller originou-se em Suíça, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Appenzeller Sennenhund é o mais ágil, energético e versátil dos quatro cães de montanha suíços. É um cão tricolor (preto ou chocolate com marcações simétricas em marrom-avermelhado e branco), de porte médio e constituição quadrada. Sua característica física mais marcante é a cauda enrolada, carregada firmemente sobre o dorso quando o cão está em movimento. Com uma expressão inteligente e sempre alerta, o Appenzeller é um cão multifuncional: um excelente pastor de gado, um cão de guarda incorruptível e um companheiro familiar extremamente devotado e vibrante.",
+    "historia": "A raça tem suas raízes na região de Appenzell, na Suíça, onde era essencial para os fazendeiros locais no manejo do gado nas encostas íngremes dos Alpes. Descrito pela primeira vez em 1853, o Appenzeller foi distinguido das outras raças de montanha suíças por seu latido agudo e sua habilidade de 'beliscar' os calcanhares das vacas para guiá-las. Em 1906, Max Siber fundou o primeiro clube da raça para preservá-la. Diferente do seu primo maior, o Bernese, o Appenzeller permaneceu um cão de trabalho rústico e incansável, sendo hoje apreciado em todo o mundo por sua vitalidade e inteligência.",
     "curiosidades": [
-      "Appenzeller possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "É considerado o mais barulhento dos Sennenhunds suíços, usando seu latido frequente para alertar sobre qualquer coisa incomum.",
+      "Sua agilidade nos Alpes é lendária; ele pode navegar por terrenos rochosos e íngremes com a facilidade de uma cabra montesa.",
+      "O Appenzeller é um cão de 'um único dono' ou 'uma única família', sendo extremamente reservado e até desconfiado com estranhos.",
+      "Eles possuem um senso de humor peculiar e são conhecidos por serem cães muito 'falantes', emitindo sons variados para se comunicar.",
+      "Embora o preto tricolor seja o mais comum, a cor chocolate tricolor (marrom escuro) também é aceita e muito apreciada."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que vivem em áreas rurais ou casas com grandes terrenos cercados",
+      "Pessoas extremamente ativas que praticam esportes como corrida ou trilhas",
+      "Famílias que buscam um cão de guarda atento e territorial",
+      "Quem deseja um cão para esportes caninos como Herding ou Agility",
+      "Proprietários experientes que saibam canalizar sua alta energia"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Pessoas que moram em apartamentos (ele precisa de espaço e tende a latir)",
+      "Tutores sedentários que buscam um cão de colo passivo",
+      "Ambientes urbanos muito barulhentos onde ele possa se tornar hipervigilante",
+      "Pessoas que não toleram latidos de alerta frequentes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas Cardíacos (como estenoses)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Epilepsia (rara, mas documentada)",
+      "Luxação de Patela"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames ortopédicos e cardíacos regulares são recomendados. A raça é geralmente muito saudável e rústica, mas o check-up anual é indispensável."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Possui pelagem dupla curta e densa que é fácil de cuidar. Escovação semanal é suficiente para remover pelos mortos, aumentando para diária durante as trocas de pelo sazonais. Banhos apenas quando necessário.",
+    "exercicios": "Este cão tem energia inesgotável. Ele precisa de pelo menos 1,5 a 2 horas de atividade física vigorosa e estimulação mental diariamente. Se não tiver um 'trabalho' para fazer, ele pode se tornar destrutivo.",
+    "treinamento": "Muito inteligente e aprende rápido, mas requer um líder firme e coerente. Ele pode ser teimoso se perceber fraqueza no tutor. Socialização precoce e contínua é VITAL para evitar que sua desconfiança natural com estranhos se torne agressividade.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Atenção às porções para manter o peso ideal e não sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Appenzeller - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Appenzeller: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Appenzeller Sennenhund: O Boiadeiro Suíço Ágil - Guia Completo",
+    "description": "Descubra tudo sobre o Appenzeller Sennenhund: o cão de montanha suíço mais energético e versátil. Conheça seu temperamento, história e cuidados.",
     "keywords": [
-      "appenzeller",
-      "appenzeller",
-      "médio",
-      "suíça"
+      "Appenzeller",
+      "Appenzeller Sennenhund",
+      "Cão de Montanha Suíço",
+      "Boiadeiro de Appenzell",
+      "cão de pastoreio",
+      "raças de cães suíças",
+      "cão de guarda"
     ]
   },
   "imagem_principal": "/images/breeds/appenzeller.jpg",
@@ -72,11 +90,52 @@
     "/images/breeds/appenzeller-2.jpg",
     "/images/breeds/appenzeller-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=appenzeller",
-  "popularidade": 35736,
-  "ranking_brasil": 179,
+  "video_url": "https://www.youtube.com/watch?v=R7D_4pXG4U8",
+  "videos_youtube": [
+    {
+      "titulo": "Appenzeller Sennenhund - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=R7D_4pXG4U8",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/R7D_4pXG4U8/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Appenzeller nos Alpes",
+      "url": "https://www.youtube.com/watch?v=example-appie",
+      "canal": "Swiss Life",
+      "duracao": "06:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "bernese-mountain-dog",
+    "grande-cao-da-montanha-suica",
+    "entlebucher"
+  ],
+  "cores_disponiveis": [
+    "Preto Tricolor",
+    "Havana (Chocolate) Tricolor"
+  ],
+  "marcacoes": [
+    "Manchas brancas simétricas",
+    "Marcações 'tan' (castanhas)",
+    "Ponta da cauda branca (frequente)"
+  ],
+  "curiosidades_historicas": "O Appenzeller é o único dos quatro Sennenhunds suíços que possui uma cauda enrolada. Antigamente, os fazendeiros acreditavam que essa cauda era um sinal de vitalidade e força para o trabalho nas montanhas. A raça quase desapareceu no final do século XIX, mas foi salva pelo Professor Albert Heim, um grande entusiasta dos cães suíços.",
+  "referencias_externas": [
+    {
+      "titulo": "Appenzell Sennenhunde Club (Suíça)",
+      "url": "https://www.appenzeller-sennenhunde-club.ch/",
+      "descricao": "Clube de origem da raça com padrões rigorosos de criação."
+    },
+    {
+      "titulo": "American Kennel Club - Appenzeller Sennenhund",
+      "url": "https://www.akc.org/dog-breeds/appenzeller-sennenhund/",
+      "descricao": "Informações da raça no serviço de estoque da AKC."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    299,
-    521
+    300,
+    700
   ]
 }

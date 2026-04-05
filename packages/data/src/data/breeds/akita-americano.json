@@ -4,70 +4,84 @@
   "slug": "akita-americano",
   "nome_en": "American Akita",
   "apelidos": [
+    "Grande Cão Japonês",
     "Akita",
     "Americano"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "20 kg",
-    "peso_femea": "17.5 kg",
+    "origem": "Japão / Estados Unidos",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "66 - 71 cm",
+    "altura_femea": "61 - 66 cm",
+    "peso_macho": "45 - 60 kg",
+    "peso_femea": "32 - 45 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1942
+    "ano_reconhecimento_fci": 1999
   },
   "caracteristicas": {
-    "energia": 4,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 1,
+    "queda_pelo": 5,
     "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Akita Americano é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Akita Americano originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Akita Americano é um cão de presença imponente, caracterizado por sua ossatura pesada e uma cabeça que lembra a de um urso. É um cão substancial, com uma constituição poderosa e alerta. Suas orelhas são eretas e ligeiramente inclinadas para a frente, e sua cauda é grossa e enrolada sobre o dorso. Diferente do Akita Inu (japonês), o americano aceita qualquer cor de pelagem e frequentemente apresenta uma máscara preta marcante. É um cão digno, corajoso e extremamente leal à sua família, mas que mantém uma postura reservada e cautelosa com estranhos, o que o torna um cão de guarda natural e muito eficiente.",
+    "historia": "A história do Akita Americano está intrinsecamente ligada à do Akita japonês. Após a Segunda Guerra Mundial, soldados americanos que ocupavam o Japão ficaram encantados com a raça e levaram muitos exemplares para os Estados Unidos. Enquanto os criadores japoneses focaram em retornar a raça ao seu tipo original e mais leve, os criadores americanos preferiram os cães maiores, mais pesados e com cores variadas, incluindo a máscara preta (que é proibida no padrão japonês). Essa divergência levou à criação de duas raças distintas: o Akita Inu e o Akita Americano. O reconhecimento oficial como raça separada pela FCI ocorreu apenas em 1999.",
     "curiosidades": [
-      "Akita Americano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Akita Americano é conhecido por ser um cão 'silencioso', latindo apenas quando há um motivo real e importante.",
+      "Eles possuem patas com membranas que os tornam excelentes nadadores e facilitam o deslocamento na neve.",
+      "A raça é famosa por seu hábito de se limpar como um gato, lambendo as patas e o corpo com frequência.",
+      "A famosa Helen Keller foi a responsável por levar o primeiro Akita para os Estados Unidos em 1937.",
+      "Sua força é impressionante; no passado, seus ancestrais eram usados para caçar ursos pretos nas montanhas do Japão."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes e firmes",
+      "Famílias que buscam um cão de guarda protetor e silencioso",
+      "Pessoas que vivem em climas temperados ou frios",
+      "Casas com quintal amplo e seguro",
+      "Proprietários que apreciam um cão leal, mas independente"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (devido à dominância e força da raça)",
+      "Pessoas que buscam um cão extremamente sociável com outros cães (pode ser agressivo)",
+      "Ambientes com calor extremo sem acesso a refrigeração",
+      "Tutores que não tenham tempo para socialização intensiva desde filhote"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Hipotireoidismo",
+      "Adenite Sebácea (doença de pele autoimune)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Dilatação e Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames ortopédicos e oftalmológicos regulares são fundamentais. Check-ups da tireoide também são recomendados anualmente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Possui pelagem dupla densa. Embora a queda de pelo seja moderada na maior parte do ano, ele 'troca de casaco' (shedding) intensamente duas vezes por ano, quando a escovação diária se torna obrigatória. Banhos devem ser ocasionais para não prejudicar a impermeabilidade natural do pelo.",
+    "exercicios": "Precisa de exercícios moderados a intensos diariamente. Caminhadas longas e sessões de treinamento mental são essenciais para evitar o tédio, que pode levar a comportamentos destrutivos devido ao seu tamanho e força.",
+    "treinamento": "O treinamento deve começar cedo e ser consistente. O Akita Americano é inteligente, mas pode ser teimoso e desafiar a autoridade se o tutor não for firme e justo. A socialização precoce com pessoas e outros animais é CRÍTICA para evitar agressividade excessiva.",
+    "alimentacao": "Requer uma dieta de alta qualidade formulada para cães de porte grande. É importante evitar o excesso de peso para não sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Akita Americano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Akita Americano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Akita Americano: Guia Completo - Temperamento, Tamanho e Cuidados",
+    "description": "Tudo sobre o Akita Americano: conheça a força, a lealdade e os cuidados específicos desta raça imponente. Diferenças entre o Akita Americano e o Japonês.",
     "keywords": [
-      "akita-americano",
-      "akita americano",
-      "médio",
-      "estados unidos"
+      "Akita Americano",
+      "American Akita",
+      "cão de guarda",
+      "Hachiko",
+      "raças de cães grandes",
+      "cuidados com Akita",
+      "temperamento Akita"
     ]
   },
   "imagem_principal": "/images/breeds/akita-americano.jpg",
@@ -76,11 +90,55 @@
     "/images/breeds/akita-americano-2.jpg",
     "/images/breeds/akita-americano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=akita-americano",
-  "popularidade": 3895,
-  "ranking_brasil": 73,
+  "video_url": "https://www.youtube.com/watch?v=F0S_7E_N9vE",
+  "videos_youtube": [
+    {
+      "titulo": "Akita Americano - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=F0S_7E_N9vE",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/F0S_7E_N9vE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Akita Americano vs Akita Inu: Qual a diferença?",
+      "url": "https://www.youtube.com/watch?v=example-akita-diff",
+      "canal": "Mundo Canino",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "akita-inu",
+    "malamute-do-alasca",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Brindle (Tigrado)",
+    "Pinto",
+    "Fawn",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Máscara preta (frequente)",
+    "Peito branco",
+    "Blaze facial"
+  ],
+  "curiosidades_historicas": "Durante a Segunda Guerra Mundial, os Akitas quase foram extintos no Japão devido à falta de comida e ao uso de suas peles para vestimentas militares. Apenas o cruzamento com Pastores Alemães (para torná-los 'cães de guerra' úteis) salvou alguns exemplares, o que explica algumas das características físicas que os americanos levaram consigo e que deram origem ao Akita Americano moderno.",
+  "referencias_externas": [
+    {
+      "titulo": "Akita Club of America",
+      "url": "http://www.akitaclub.org/",
+      "descricao": "Clube oficial de raça nos Estados Unidos com guias de saúde e ética."
+    },
+    {
+      "titulo": "FCI - American Akita Standard",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-AKITA-344.html",
+      "descricao": "Padrão oficial internacional da FCI."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    499,
-    1395
+    500,
+    1500
   ]
 }

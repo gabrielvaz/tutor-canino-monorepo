@@ -2,72 +2,86 @@
   "id": "akita-inu",
   "nome": "Akita Inu",
   "slug": "akita-inu",
-  "nome_en": "Akita",
+  "nome_en": "Akita Inu",
   "apelidos": [
-    "Akita",
-    "Inu"
+    "Akita Ken",
+    "Cão de Odate",
+    "Japones"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Japão",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "17.6 kg",
-    "peso_femea": "14.8 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "64 - 70 cm",
+    "altura_femea": "58 - 64 cm",
+    "peso_macho": "32 - 45 kg",
+    "peso_femea": "23 - 34 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1975
+    "ano_reconhecimento_fci": 1964
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Akita Inu é uma raça de porte médio originária de Japão. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Akita Inu originou-se em Japão, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Akita Inu é uma das raças mais veneradas do Japão, um cão de porte grande, constituição robusta e uma dignidade silenciosa que impõe respeito. Com suas orelhas triangulares e eretas, olhos pequenos e profundos, e uma cauda majestosa enrolada sobre o dorso, ele é o exemplo clássico do tipo Spitz japonês. O Akita Inu é conhecido por seu temperamento reservado, sendo muitas vezes comparado a um samurai por sua coragem inabalável e lealdade absoluta ao seu dono. Diferente de seu primo americano, o Akita Inu original tem uma aparência mais refinada e cores de pelagem restritas ao padrão tradicional japonês, sempre apresentando o 'Urajiro' (pelagem esbranquiçada nas laterais do focinho, bochechas, sob a mandíbula, pescoço, peito e cauda).",
+    "historia": "Originário da província de Akita, na ilha de Honshu, o Akita Inu era inicialmente usado para caçar grandes animais como javalis, veados e o urso negro japonês. Durante séculos, a posse de Akitas foi restrita à aristocracia japonesa. Em 1931, a raça foi declarada Monumento Nacional do Japão. A história de Hachiko, o Akita que esperou por seu dono falecido na estação de trem de Shibuya por quase 10 anos, transformou a raça em um símbolo mundial de lealdade. Após quase desaparecer durante a Segunda Guerra Mundial, a raça foi meticulosamente restaurada por criadores japoneses que buscaram eliminar influências de raças ocidentais para preservar o tipo primitivo puro.",
     "curiosidades": [
-      "Akita Inu possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Hachiko, o Akita mais famoso do mundo, tem uma estátua de bronze em sua homenagem na estação de Shibuya, em Tóquio.",
+      "No Japão, quando um bebê nasce, é comum a família receber uma estátua de um Akita para desejar saúde, felicidade e vida longa.",
+      "Diferente da maioria das raças, o Akita Inu não possui um 'cheiro de cachorro' característico, sendo um animal extremamente limpo.",
+      "A raça é considerada um tesouro nacional no Japão desde 1931.",
+      "Akitas são conhecidos por serem cães 'verticais', preferindo muitas vezes observar o mundo de um ponto elevado."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que valorizam lealdade extrema e silêncio",
+      "Pessoas que buscam um cão de guarda natural e imponente",
+      "Famílias que podem dedicar tempo para socialização e liderança",
+      "Quem vive em regiões de clima frio ou temperado",
+      "Proprietários que preferem um cão que não late sem necessidade"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem sem orientação profissional",
+      "Casas com muitos cães do mesmo sexo (pode haver dominância)",
+      "Pessoas que buscam um cão 'festeiro' com estranhos",
+      "Ambientes com calor tropical intenso sem cuidados especiais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Vogt-Koyanagi-Harada (VKH) - Síndrome Uveodermatológica",
+      "Adenite Sebácea",
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Entrópio (pálpebras viradas para dentro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso da saúde ocular e dermatológica. Exames de tireoide e articulações são essenciais."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Possui uma pelagem dupla muito densa que requer escovação semanal. Durante as trocas de pelo sazonais, a escovação deve ser diária para remover o subpelo morto. Eles se limpam constantemente, de forma similar aos felinos.",
+    "exercicios": "Necessitam de caminhadas diárias longas e estimulantes. Embora não sejam cães hiperativos, precisam gastar energia física e mental para não se tornarem frustrados.",
+    "treinamento": "O Akita Inu é extremamente inteligente, mas possui uma vontade própria forte. O treinamento deve ser baseado em respeito mútuo e reforço positivo. Eles não respondem bem a métodos punitivos, que podem danificar permanentemente o vínculo de lealdade.",
+    "alimentacao": "Dieta de alta qualidade, preferencialmente rica em peixes e ômega-3 para manter a saúde da pelagem e da pele sensível."
   },
   "seo": {
-    "title": "Akita Inu - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Akita Inu: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Akita Inu: O Tesouro Nacional do Japão - Guia de Raça e Cuidados",
+    "description": "Conheça o Akita Inu, a raça símbolo de lealdade eterna. Descubra sua história como monumento nacional japonês, temperamento único e cuidados essenciais.",
     "keywords": [
-      "akita-inu",
-      "akita inu",
-      "médio",
-      "japão"
+      "Akita Inu",
+      "Akita Japonês",
+      "Hachiko",
+      "cão leal",
+      "raças de cães japonesas",
+      "Monumento Nacional Japão",
+      "cuidados Akita Inu"
     ]
   },
   "imagem_principal": "/images/breeds/akita-inu.jpg",
@@ -76,11 +90,54 @@
     "/images/breeds/akita-inu-2.jpg",
     "/images/breeds/akita-inu-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=akita-inu",
-  "popularidade": 9108,
-  "ranking_brasil": 97,
+  "video_url": "https://www.youtube.com/watch?v=kY6518AitMc",
+  "videos_youtube": [
+    {
+      "titulo": "Akita Inu - O Cão Mais Leal do Mundo",
+      "url": "https://www.youtube.com/watch?v=kY6518AitMc",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/kY6518AitMc/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História Real de Hachiko",
+      "url": "https://www.youtube.com/watch?v=example-hachiko",
+      "canal": "Cultura Japonesa",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "shiba-inu",
+    "hokkaido-inu",
+    "shikoku-inu",
+    "akita-americano"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Sésamo",
+    "Brindle (Tigrado)",
+    "Branco"
+  ],
+  "marcacoes": [
+    "Urajiro (obrigatório)",
+    "Sem máscara preta"
+  ],
+  "curiosidades_historicas": "O governo japonês designou o Akita Inu como um Monumento Nacional em 1931, um dos sete cães nativos a receber tal honra. Durante a era Edo, possuir um Akita era um privilégio reservado apenas aos Shoguns e à elite samurai, e existia até um vocabulário especial para falar com esses cães.",
+  "referencias_externas": [
+    {
+      "titulo": "Akita Inu Hozonkai (AKIHO)",
+      "url": "https://www.akiho.org.jp/",
+      "descricao": "Associação de Preservação do Akita Inu no Japão."
+    },
+    {
+      "titulo": "JKC - Japan Kennel Club - Akita",
+      "url": "https://www.jkc.or.jp/modules/worldbreeds/index.php?content_id=5-1",
+      "descricao": "Padrão oficial da raça no país de origem."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 58,
   "custo_mensal_estimado": [
-    399,
-    567
+    450,
+    1100
   ]
 }

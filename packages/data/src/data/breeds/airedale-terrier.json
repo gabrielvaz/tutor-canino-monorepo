@@ -4,73 +4,85 @@
   "slug": "airedale-terrier",
   "nome_en": "Airedale Terrier",
   "apelidos": [
-    "Airedale",
-    "Terrier"
+    "Rei dos Terriers",
+    "Waterside Terrier",
+    "Bingley Terrier",
+    "Airedale"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "6.2 kg",
-    "peso_femea": "3 kg",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "58 - 61 cm",
+    "altura_femea": "56 - 59 cm",
+    "peso_macho": "23 - 29 kg",
+    "peso_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1941
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Airedale Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Airedale Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Airedale Terrier é carinhosamente conhecido como o 'Rei dos Terriers', sendo a maior de todas as raças de terrier. Ele combina a tenacidade e o espírito de um terrier com a força e a versatilidade de um cão de trabalho. Sua aparência é inconfundível: uma pelagem densa, dura e aramada de cor preto e castanho, uma barba proeminente e orelhas dobradas em forma de 'V'. É um cão de porte atlético, postura ereta e um olhar que transmite inteligência e confiança. O Airedale é famoso por seu senso de humor e por ser um cão extremamente capaz, sendo utilizado historicamente em diversas funções, desde caça e pastoreio até trabalho policial e militar.",
+    "historia": "A raça foi desenvolvida em meados do século XIX no vale do Rio Aire, em Yorkshire, Inglaterra. Criadores locais cruzaram o antigo Terrier de Trabalho Inglês (hoje extinto) com o Otterhound para criar um cão que pudesse caçar tanto em terra quanto na água. O resultado foi um cão versátil o suficiente para caçar ratos e lontras, além de servir como cão de guarda e pastor. Durante a Primeira Guerra Mundial, os Airedales serviram com distinção como mensageiros e cães de busca e salvamento no campo de batalha, ganhando fama mundial por sua bravura e lealdade sob fogo cruzado.",
     "curiosidades": [
-      "Airedale Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Airedale é um dos poucos terriers que não é apenas um cão de caça, mas também um cão de trabalho multifuncional.",
+      "Presidentes dos EUA, como Woodrow Wilson, Warren Harding e Theodore Roosevelt, tiveram Airedale Terriers.",
+      "Sua inteligência é lendária: diz-se que um Airedale pode fazer qualquer coisa que outro cão faça, e muitas vezes melhor.",
+      "Diferente da maioria dos cães, ele possui uma pelagem hipoalergênica que quase não cai, mas que requer técnicas específicas de manutenção.",
+      "Um Airedale chamado Jack foi condecorado postumamente com a Cruz Vitória por sua coragem como cão mensageiro na Grande Guerra."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que gostam de atividades ao ar livre",
+      "Pessoas que buscam um cão de guarda leal e protetor",
+      "Tutores que apreciam um cão com inteligência superior e 'mente própria'",
+      "Ambientes com espaço amplo ou casas com quintal",
+      "Pessoas com alergias leves devido ao baixo nível de queda de pelos"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que não podem prover o exercício vigoroso necessário",
+      "Pessoas que buscam um cão passivo e 100% dependente (ele é independente)",
+      "Ambientes onde o cão ficará confinado por longas horas sem estímulo mental",
+      "Tutores inexperientes que não estabeleçam liderança clara e gentil"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Torção Gástrica",
+      "Problemas Dermatológicos (especialmente dermatites se o pelo não for bem cuidado)",
+      "Cardiopatias"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups anuais focados em articulações e tireoide. Atenção constante à saúde da pele e ouvidos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem aramada requer escovação semanal. Para manter a textura correta e as cores vibrantes, o 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional duas a três vezes por ano. A barba deve ser limpa regularmente após as refeições.",
+    "exercicios": "Necessita de muito exercício. Longas caminhadas, corridas, natação e sessões de brincadeiras intensas são obrigatórias. O Airedale também se destaca em esportes caninos como Agility e Obediência.",
+    "treinamento": "São cães muito inteligentes, mas podem ser teimosos. O treinamento deve ser variado e desafiador. Eles aprendem rápido, mas se aborrecem com repetições excessivas. Reforço positivo e consistência são as chaves.",
+    "alimentacao": "Uma dieta rica em nutrientes para cães de porte grande e ativos. Dividir a alimentação em duas vezes ao dia ajuda a prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Airedale Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Airedale Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Airedale Terrier: O Rei dos Terriers - Guia Completo e Cuidados",
+    "description": "Descubra tudo sobre o Airedale Terrier, a maior e mais versátil raça de terrier. Conheça sua inteligência, história de bravura e como cuidar deste cão magnífico.",
     "keywords": [
-      "airedale-terrier",
-      "airedale terrier",
-      "pequeno",
-      "inglaterra"
+      "Airedale Terrier",
+      "Rei dos Terriers",
+      "cão de guarda",
+      "cão de guerra",
+      "cachorro inteligente",
+      "raças de cães grandes",
+      "terrier inglês"
     ]
   },
   "imagem_principal": "/images/breeds/airedale-terrier.jpg",
@@ -79,11 +91,52 @@
     "/images/breeds/airedale-terrier-2.jpg",
     "/images/breeds/airedale-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=airedale-terrier",
-  "popularidade": 2197,
-  "ranking_brasil": 55,
+  "video_url": "https://www.youtube.com/watch?v=FqS2Bv2O5_w",
+  "videos_youtube": [
+    {
+      "titulo": "Airedale Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=FqS2Bv2O5_w",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/FqS2Bv2O5_w/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Airedale Terrier",
+      "url": "https://www.youtube.com/watch?v=example-airedale",
+      "canal": "Canal do Dog",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "welsh-terrier",
+    "irish-terrier",
+    "otterhound"
+  ],
+  "cores_disponiveis": [
+    "Preto e Castanho (Tan)",
+    "Grisalho e Castanho"
+  ],
+  "marcacoes": [
+    "Barba característica",
+    "Pelo em forma de sela preta",
+    "Orelhas em V"
+  ],
+  "curiosidades_historicas": "Durante a Primeira Guerra Mundial, um Airedale chamado Jack correu 800 metros através de fogo de artilharia pesado para entregar uma mensagem vital que salvou um batalhão cercado. Ele chegou ao destino com a mandíbula quebrada e uma pata ferida, morrendo logo após cumprir sua missão. Sua bravura ajudou a cimentar a reputação da raça como um dos cães mais corajosos do mundo.",
+  "referencias_externas": [
+    {
+      "titulo": "Airedale Terrier Club of America",
+      "url": "https://www.airedale.org/",
+      "descricao": "Principal recurso para entusiastas e criadores da raça nos EUA."
+    },
+    {
+      "titulo": "The Kennel Club UK - Airedale Terrier",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/airedale-terrier/",
+      "descricao": "Informações oficiais sobre o padrão britânico da raça."
+    }
+  ],
+  "popularidade": 18500,
+  "ranking_brasil": 72,
   "custo_mensal_estimado": [
-    293,
-    1264
+    400,
+    950
   ]
 }

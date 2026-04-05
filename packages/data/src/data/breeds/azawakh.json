@@ -3,68 +3,85 @@
   "nome": "Azawakh",
   "slug": "azawakh",
   "nome_en": "Azawakh",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Galgo Africano",
+    "Tuareg Sloughi",
+    "Idii n' Ishillan"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "África Ocidental",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "53 cm",
-    "altura_femea": "50 cm",
-    "peso_macho": "21.1 kg",
-    "peso_femea": "19.3 kg",
+    "origem": "Sahel (Mali, Níger, Burkina Faso)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "64 - 74 cm",
+    "altura_femea": "60 - 70 cm",
+    "peso_macho": "20 - 25 kg",
+    "peso_femea": "15 - 20 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1981
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 4,
-    "latido": 1,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 2,
     "afeicao_familia": 4,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 2,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Azawakh é uma raça de porte médio originária de África Ocidental. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Azawakh originou-se em África Ocidental, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Azawakh é um lebrél (galgo) de uma elegância rústica e extrema, originário das zonas áridas do Sahel africano. Sua aparência é única: é um cão alto, muito magro e esguio, onde a estrutura óssea e a musculatura seca são claramente visíveis através de uma pele fina e tensa. Sua silhueta é refinada, com pernas longas e um peito profundo, projetada para a velocidade e resistência sob calor intenso. O Azawakh possui um temperamento reservado, digno e intensamente leal aos seus familiares, agindo como um guardião vigilante do seu território. É um cão que exala uma aura de independência e nobreza selvagem.",
+    "historia": "A raça foi desenvolvida pelos povos nômades Tuaregues e outras tribos do vale do Azawakh, na região que hoje compreende o Mali, Níger e Burkina Faso. Durante séculos, esses cães foram companheiros inseparáveis dos nômades, sendo usados tanto para caçar gazelas e lebres quanto para proteger os acampamentos contra predadores e intrusos. Devido ao seu isolamento geográfico no deserto, a raça permaneceu pura e pouco conhecida fora da África até a década de 1970, quando os primeiros exemplares foram levados para a Europa por diplomatas. No seu país de origem, o Azawakh é chamado de 'Idii n' Ishillan' (Cão do Povo Livre).",
     "curiosidades": [
-      "Azawakh possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Azawakh é um dos poucos galgos que possui um forte instinto de guarda e proteção territorial.",
+      "Devido ao seu baixíssimo percentual de gordura corporal, seus ossos e músculos são muito proeminentes, o que pode dar a impressão errada de que o cão está subnutrido.",
+      "Eles são extremamente sensíveis ao frio e à umidade, precisando de roupas de proteção em climas temperados.",
+      "Diferente de outros galgos, o Azawakh é capaz de correr em terrenos extremamente quentes onde outros cães sucumbiriam ao calor.",
+      "Na cultura Tuaregue, um Azawakh de alta qualidade é um símbolo de status e é tratado com imenso respeito, vivendo dentro das tendas com a família."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que entendem a psicologia de cães primitivos",
+      "Pessoas que vivem em climas quentes ou que tenham cuidados rigorosos no inverno",
+      "Quem busca um companheiro leal e um guardião atento",
+      "Praticantes de esportes como lure coursing ou corrida",
+      "Pessoas que apreciam a estética única e exótica dos galgos africanos"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (pode ser um desafio adestrá-lo)",
+      "Crianças pequenas que possam ser muito brutas com um cão fisicamente sensível",
+      "Pessoas que buscam um cão carente e 'grudento' com estranhos",
+      "Ambientes extremamente frios sem aquecimento adequado"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Sensibilidade a anestésicos (comum em galgos)",
+      "Hipotireoidismo",
+      "Epilepsia idiopática",
+      "Mielopatia Cervical (Síndrome de Wobbler)",
+      "Problemas cardíacos"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups cardíacos e de tireoide regulares. Muita cautela com qualquer procedimento anestésico."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Sua pelagem é curta, fina e quase inexistente na barriga. A manutenção é mínima: uma escovação semanal leve e banhos raros são suficientes. É importante secá-lo bem e mantê-lo aquecido após qualquer banho.",
+    "exercicios": "Necessita de muito exercício físico. Corridas em áreas seguras e cercadas são fundamentais. Eles têm um 'galope' poderoso e precisam de espaço para esticar as pernas regularmente.",
+    "treinamento": "O treinamento deve ser baseado em confiança e reforço positivo. Eles são inteligentes, mas independentes e orgulhosos. Não aceitam métodos punitivos. A socialização precoce é essencial para equilibrar seu instinto protetor.",
+    "alimentacao": "Dieta de alta qualidade. Devido à sua constituição magra, é importante não forçar o ganho de peso excessivo, mas garantir que recebam nutrientes suficientes para sua energia."
   },
   "seo": {
-    "title": "Azawakh - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Azawakh: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Azawakh: O Elegante Galgo do Deserto Africano - Guia Completo",
+    "description": "Conheça o Azawakh, a joia do Sahel. Descubra a história, o temperamento leal e os cuidados especiais com este exótico galgo africano.",
     "keywords": [
-      "azawakh",
-      "azawakh",
-      "médio",
-      "áfrica ocidental"
+      "Azawakh",
+      "Galgo Africano",
+      "lebrél",
+      "cão do deserto",
+      "Tuaregue",
+      "raças de cães exóticas",
+      "velocidade canina"
     ]
   },
   "imagem_principal": "/images/breeds/azawakh.jpg",
@@ -73,11 +90,57 @@
     "/images/breeds/azawakh-2.jpg",
     "/images/breeds/azawakh-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=azawakh",
-  "popularidade": 19084,
-  "ranking_brasil": 55,
+  "video_url": "https://www.youtube.com/watch?v=F3zW6hR-p0o",
+  "videos_youtube": [
+    {
+      "titulo": "Azawakh - O Galgo Africano",
+      "url": "https://www.youtube.com/watch?v=F3zW6hR-p0o",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/F3zW6hR-p0o/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade e Beleza do Azawakh",
+      "url": "https://www.youtube.com/watch?v=example-azawakh",
+      "canal": "Wild Life Pets",
+      "duracao": "05:50"
+    }
+  ],
+  "racas_relacionadas": [
+    "saluki",
+    "sloughi",
+    "whippet"
+  ],
+  "cores_disponiveis": [
+    "Areia",
+    "Fawn (Fulvo)",
+    "Vermelho",
+    "Brindle (Tigrado)",
+    "Preto",
+    "Azul",
+    "Grisalho"
+  ],
+  "marcacoes": [
+    "Meias brancas (nas quatro patas)",
+    "Ponta da cauda branca",
+    "Mancha branca no peito"
+  ],
+  "curiosidades_historicas": "O Azawakh é tão valorizado em sua terra natal que os nômades muitas vezes dizem que 'ele não é um cão, é um membro da família que corre'. Sua morfologia é tão adaptada ao deserto que ele possui glândulas sudoríparas mais eficientes que a maioria das outras raças caninas, ajudando-o a resfriar o corpo durante as caçadas sob o sol escaldante.",
+  "referencias_externas": [
+    {
+      "titulo": "American Azawakh Association",
+      "url": "https://www.azawakhs.org/",
+      "descricao": "Associação dedicada à preservação e educação sobre a raça."
+    },
+    {
+      "titulo": "FCI - Azawakh Standard",
+      "url": "https://www.fci.be/en/nomenclature/AZAWAKH-307.html",
+      "descricao": "Padrão oficial da raça pela Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 3000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    317,
-    876
+    350,
+    900
   ]
 }

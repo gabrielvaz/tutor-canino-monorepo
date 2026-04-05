@@ -4,70 +4,81 @@
   "slug": "beagle-harrier",
   "nome_en": "Beagle Harrier",
   "apelidos": [
-    "Beagle",
-    "Harrier"
+    "Grand Beagle"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "França",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "27.8 kg",
-    "peso_femea": "22.9 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "45 - 50 cm",
+    "altura_femea": "45 - 50 cm",
+    "peso_macho": "19 - 21 kg",
+    "peso_femea": "19 - 21 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1958
+    "ano_reconhecimento_fci": 1974
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Beagle Harrier é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Beagle Harrier originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Beagle Harrier é uma raça francesa harmoniosa que combina a agilidade e o faro do Beagle com a velocidade e elegância do Harrier. É um cão de porte médio, de construção sólida e atlética, com uma expressão inteligente e doce. Fisicamente, ele se assemelha a um Beagle 'esticado' ou um Harrier mais compacto. Sua pelagem é curta, densa e lisa, geralmente apresentando o padrão tricolor clássico dos sabujos. É um cão extremamente vibrante e amigável, dotado de um uivo melodioso e uma energia inesgotável para o trabalho e a brincadeira.",
+    "historia": "A raça foi criada na França no final do século XIX pelo Barão Gérard Grandin de l'Eprevier. Seu objetivo era produzir um cão de caça que fosse maior e mais rápido que o Beagle tradicional, mas que mantivesse seu faro excepcional, sendo capaz de caçar lebres e veados em terrenos variados. Através de cruzamentos selecionados entre Beagles ingleses e Harriers, o Barão conseguiu estabilizar o tipo que hoje conhecemos. Embora seja uma raça francesa, seus ancestrais são puramente ingleses. O Beagle Harrier ganhou reconhecimento oficial da FCI em 1974 e permanece um caçador de matilha muito respeitado na França.",
     "curiosidades": [
-      "Beagle Harrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Apesar do nome duplo, o Beagle Harrier é considerado uma raça pura e distinta há mais de um século.",
+      "Ele é visivelmente mais rápido e tem pernas mais longas que o Beagle comum, o que o torna ideal para seguir o caçador a cavalo.",
+      "Como a maioria dos sabujos de matilha, ele possui um 'instinto de grupo' muito forte e raramente gosta de ficar sozinho.",
+      "Seu olfato é tão persistente que ele pode ignorar chamados do tutor se estiver focado em um rastro de cheiro fresco.",
+      "Eles são conhecidos por terem uma 'voz' muito clara e distinta quando estão caçando."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que gostam de trilhas e corridas ao ar livre",
+      "Tutores que possuem outros cães (ele adora companhia canina)",
+      "Pessoas que vivem em casas com quintais amplos e muito bem cercados",
+      "Quem busca um cão de médio porte rústico e com temperamento equilibrado",
+      "Pessoas que apreciam o som e a natureza dos uivadores"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Moradores de apartamentos (devido ao uivo potente e alta necessidade de exercício)",
+      "Tutores sedentários que não podem prover pelo menos 1 a 2 horas de atividade diária",
+      "Casas com pequenos animais domésticos (instinto de perseguição muito forte)",
+      "Pessoas que buscam um cão que possa ser passeado sem guia em locais abertos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido)",
+      "Problemas oculares leves",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames ortopédicos preventivos e limpeza rigorosa das orelhas pendentes. Monitoramento da função tireoidiana em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Manutenção muito simples. Uma escovação semanal com luva ou escova macia é suficiente para manter a pelagem brilhante. As orelhas devem ser verificadas e limpas semanalmente. Banhos apenas quando estiver realmente sujo.",
+    "exercicios": "Esta raça exige muito exercício. Caminhadas longas não são suficientes; ele precisa correr e, se possível, participar de atividades que envolvam o uso do faro. É um atleta de resistência que raramente se cansa.",
+    "treinamento": "Inteligente, mas com a independência típica dos sabujos. O treinamento deve ser consistente, positivo e começar o mais cedo possível. O 'recall' (vir quando chamado) deve ser treinado exaustivamente, embora seu nariz sempre possa falar mais alto.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Evite porções grandes antes ou depois de exercícios intensos para reduzir o risco de problemas gástricos."
   },
   "seo": {
-    "title": "Beagle Harrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Beagle Harrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Beagle Harrier: O Sabujo Francês Veloz e Amigável - Guia Completo",
+    "description": "Descubra o Beagle Harrier, a combinação perfeita de faro e velocidade. Saiba tudo sobre seu temperamento de matilha, história e como cuidar desta raça atlética.",
     "keywords": [
-      "beagle-harrier",
-      "beagle harrier",
-      "médio",
-      "frança"
+      "Beagle Harrier",
+      "Grand Beagle",
+      "sabujo francês",
+      "cão de caça",
+      "raças de cães médias",
+      "cuidados com Beagle Harrier",
+      "temperamento sabujo"
     ]
   },
   "imagem_principal": "/images/breeds/beagle-harrier.jpg",
@@ -76,11 +87,53 @@
     "/images/breeds/beagle-harrier-2.jpg",
     "/images/breeds/beagle-harrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=beagle-harrier",
-  "popularidade": 27641,
-  "ranking_brasil": 121,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Beagle Harrier em Ação",
+      "url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+      "canal": "Chasse Passion",
+      "thumbnail": "https://img.youtube.com/vi/isAbNCZtoLo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Conheça o Beagle Harrier",
+      "url": "https://www.youtube.com/watch?v=example-bh",
+      "canal": "Mundo Canino",
+      "duracao": "06:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "beagle",
+    "harrier",
+    "foxhound-ingles"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Branco, Preto e Fogo)",
+    "Bicolor (Branco e Fogo)",
+    "Branco e Cinza"
+  ],
+  "marcacoes": [
+    "Manta preta",
+    "Manchas irregulares",
+    "Ponta da cauda branca"
+  ],
+  "curiosidades_historicas": "Apesar de ser uma raça estabelecida e reconhecida, o Beagle Harrier é raramente visto fora da França. Ele é um dos poucos cães criados especificamente para preencher uma lacuna de tamanho e velocidade entre duas raças inglesas famosas, tornando-se um patrimônio da cinofilia francesa.",
+  "referencias_externas": [
+    {
+      "titulo": "Club du Beagle, Beagle-Harrier et Harrier (França)",
+      "url": "http://www.beagle-beagleharrier-harrier.com/",
+      "descricao": "Clube oficial da raça na França."
+    },
+    {
+      "titulo": "FCI - Beagle Harrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/BEAGLE-HARRIER-290.html",
+      "descricao": "Padrão morfológico internacional oficial."
+    }
+  ],
+  "popularidade": 4000,
+  "ranking_brasil": 205,
   "custo_mensal_estimado": [
-    339,
-    1389
+    300,
+    700
   ]
 }

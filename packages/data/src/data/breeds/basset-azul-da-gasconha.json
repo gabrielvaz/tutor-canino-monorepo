@@ -4,70 +4,84 @@
   "slug": "basset-azul-da-gasconha",
   "nome_en": "Basset Bleu de Gascogne",
   "apelidos": [
-    "Basset",
-    "Gasconha"
+    "Basset Azul",
+    "Basset Bleu",
+    "Bleu de Gascogne"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "França",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "12.2 kg",
-    "peso_femea": "9.1 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "34 - 38 cm",
+    "altura_femea": "34 - 38 cm",
+    "peso_macho": "16 - 20 kg",
+    "peso_femea": "16 - 20 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1973
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 4,
+    "energia": 3,
+    "inteligencia": 3,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 3,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Basset Azul da Gasconha é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Basset Azul da Gasconha originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Basset Azul da Gasconha é uma raça francesa de beleza aristocrática e melancólica. Caracteriza-se por seu corpo longo e pernas curtas, típicas dos bassets, mas o que realmente o distingue é sua pelagem 'azul' — um efeito visual criado por manchas pretas sobre um fundo branco mosqueado. Sua expressão é nobre e gentil, com orelhas longas e finas que pendem graciosamente. Apesar de sua aparência tranquila, ele é um cão de caça robusto, dotado de um faro excepcional e uma voz profunda e melodiosa. Em casa, é um companheiro extremamente afetuoso e calmo, conhecido por sua paciência infinita com crianças.",
+    "historia": "A raça originou-se na região da Gasconha, no sudoeste da França, descendendo diretamente do Grand Bleu de Gascogne. No final do século XIX, caçadores franceses selecionaram os exemplares de pernas mais curtas (bassets) para criar um cão que pudesse acompanhar o caçador a pé, em vez de a cavalo. Isso permitia que pessoas que não possuíam cavalos pudessem desfrutar da caça de lebres e coelhos. A raça quase desapareceu no início do século XX, mas foi revivida com sucesso por criadores dedicados que preservaram suas características únicas de faro e cor.",
     "curiosidades": [
-      "Basset Azul da Gasconha possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A cor 'azul' é, na verdade, uma mescla muito densa de pelos pretos e brancos, dando um tom ardósia à pelagem.",
+      "Eles possuem um dos latidos mais musicais e profundos entre os sabujos, frequentemente chamado de 'voz de sino'.",
+      "Diferente do Basset Hound inglês, o Basset Azul da Gasconha é um pouco mais leve e ágil em campo.",
+      "Seu olfato é tão apurado que ele é capaz de seguir trilhas de odor com várias horas de existência em terrenos difíceis.",
+      "Eles são extremamente sociáveis e raramente demonstram qualquer agressividade com humanos ou outros cães."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças de todas as idades",
+      "Tutores que apreciam caminhadas longas e tranquilas",
+      "Pessoas que vivem em casas com quintais cercados",
+      "Donos que buscam um companheiro afetuoso e calmo dentro de casa",
+      "Quem não se importa com um cão 'falante' que utiliza sua voz para se comunicar"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que buscam obediência cega (ele é independente e segue o nariz)",
+      "Ambientes onde o barulho de latidos (uivos) possa incomodar vizinhos próximos",
+      "Tutores que não podem realizar limpezas frequentes nas orelhas longas",
+      "Ambientes onde o cão ficará sozinho por muitas horas (ele é muito carente de companhia)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Infeções de ouvido (Otites) devido às orelhas longas",
+      "Problemas de coluna (Discos intervertebrais)",
+      "Dilatação e Torção Gástrica",
+      "Displasia de Quadril (ocasional)",
+      "Problemas oculares leves"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Atenção rigorosa à higiene das orelhas e monitoramento de qualquer sinal de dor nas costas. Check-ups semestrais são recomendados para cães seniores."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta requer pouca manutenção, apenas uma escovação semanal. No entanto, as orelhas longas arrastam no chão e na comida, precisando de limpeza diária para evitar infecções. As unhas crescem rápido e devem ser cortadas regularmente.",
+    "exercicios": "Embora pareça preguiçoso em casa, ele precisa de caminhadas diárias para manter o tônus muscular e evitar a obesidade, que é perigosa para sua coluna. Ele adora sessões de faro onde pode usar seu nariz privilegiado.",
+    "treinamento": "O adestramento requer paciência. O Basset Azul é teimoso e facilmente distraído por cheiros. O uso de petiscos e reforço positivo é essencial. Ele não responde bem a correções severas.",
+    "alimentacao": "Dieta controlada para evitar o sobrepeso. É recomendado usar tigelas elevadas para evitar que as orelhas caiam dentro da comida e para reduzir o risco de torção gástrica."
   },
   "seo": {
-    "title": "Basset Azul da Gasconha - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Basset Azul da Gasconha: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Basset Azul da Gasconha: O Nobre Sabujo Francês - Guia Completo",
+    "description": "Descubra o Basset Azul da Gasconha, o aristocrata francês dos bassets. Conheça sua cor única, temperamento dócil e cuidados com suas longas orelhas.",
     "keywords": [
-      "basset-azul-da-gasconha",
-      "basset azul da gasconha",
-      "médio",
-      "frança"
+      "Basset Azul da Gasconha",
+      "Basset Bleu de Gascogne",
+      "sabujo francês",
+      "cão azul",
+      "raças de cães francesas",
+      "cuidados com Basset",
+      "cão farejador"
     ]
   },
   "imagem_principal": "/images/breeds/basset-azul-da-gasconha.jpg",
@@ -76,11 +90,51 @@
     "/images/breeds/basset-azul-da-gasconha-2.jpg",
     "/images/breeds/basset-azul-da-gasconha-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=basset-azul-da-gasconha",
-  "popularidade": 46389,
-  "ranking_brasil": 71,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Basset Bleu de Gascogne - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+      "canal": "Chasse Passion",
+      "thumbnail": "https://img.youtube.com/vi/isAbNCZtoLo/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Basset Azul em Campo",
+      "url": "https://www.youtube.com/watch?v=example-bleu",
+      "canal": "Natureza Pet",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "basset-hound",
+    "basset-fauve-de-bretagne",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Marmorizado de Azul (Preto e Branco Mosqueado)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) acima dos olhos",
+    "Bochechas castanhas",
+    "Parte interna das orelhas castanha"
+  ],
+  "curiosidades_historicas": "O Basset Azul é um dos quatro tipos de sabujos 'azuis' da França. Sua cor era muito apreciada pelos reis franceses, que acreditavam que esses cães tinham um 'faro real'. Durante a Revolução Francesa, muitas matilhas foram destruídas, mas o Basset Azul sobreviveu graças aos camponeses que precisavam de cães lentos para a caça de subsistência.",
+  "referencias_externas": [
+    {
+      "titulo": "Club du Bleu de Gascogne (França)",
+      "url": "http://www.club-bleu-gascogne.fr/",
+      "descricao": "Clube oficial francês dedicado às quatro raças Bleu de Gascogne."
+    },
+    {
+      "titulo": "The Kennel Club UK - Basset Bleu de Gascogne",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/hound/basset-bleu-de-gascogne/",
+      "descricao": "Guia do Kennel Club britânico sobre o padrão e saúde da raça."
+    }
+  ],
+  "popularidade": 2500,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    389,
-    1386
+    300,
+    700
   ]
 }
