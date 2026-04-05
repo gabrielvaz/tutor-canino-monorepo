@@ -5,69 +5,84 @@
   "nome_en": "Border Collie",
   "apelidos": [
     "Border",
-    "Collie"
+    "Cão mais inteligente do mundo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Reino Unido",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "23.4 kg",
-    "peso_femea": "18.7 kg",
+    "origem": "Grã-Bretanha (Fronteira Escócia-Inglaterra)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "48 - 56 cm",
+    "altura_femea": "46 - 53 cm",
+    "peso_macho": "14 - 20 kg",
+    "peso_femea": "12 - 19 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1903
+    "ano_reconhecimento_fci": 1977
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Border Collie é uma raça de porte médio originária de Reino Unido. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Border Collie originou-se em Reino Unido, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Border Collie é amplamente considerado a raça canina mais inteligente e versátil do mundo. É um cão de porte médio, atlético e de proporções harmoniosas, construído para a agilidade e resistência extrema. Sua característica mais hipnotizante é o seu 'olhar' (the eye) — uma forma intensa de encarar o gado que lhe permite controlar os animais apenas com a força da sua presença e postura agachada. Disponível em duas variedades de pelagem (moderadamente longa ou curta), o Border Collie é um trabalhador compulsivo que possui uma necessidade quase humana de ter um propósito e tarefas a cumprir.",
+    "historia": "A raça desenvolveu-se na região de fronteira (border) entre a Escócia e a Inglaterra, onde as condições climáticas e o terreno exigiam um cão pastor excepcional. O ancestral comum da maioria dos Border Collies modernos é um cão chamado 'Old Hemp', nascido em 1893, que se destacou por seu estilo de trabalho silencioso e eficiente. Ao contrário de outros collies que eram criados para exposição de beleza, o Border Collie foi selecionado exclusivamente por sua habilidade de trabalho por mais de um século, resultando em um cão dotado de uma capacidade cognitiva e física sem paralelos.",
     "curiosidades": [
-      "Border Collie possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Border Collie ocupa o 1º lugar no ranking de inteligência canina de Stanley Coren.",
+      "Eles são capazes de aprender um comando novo em menos de 5 repetições e obedecê-lo na primeira vez em 95% dos casos.",
+      "Chaser, uma Border Collie famosa, foi capaz de identificar e buscar mais de 1.000 brinquedos diferentes pelo nome.",
+      "O estilo de trabalho deles é único: eles se agacham e rastejam como predadores para mover o rebanho sem assustá-lo.",
+      "Se não tiverem ovelhas para pastorear, podem tentar pastorear crianças, carros, bicicletas ou até sombras."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores extremamente ativos que praticam esportes ou caminhadas longas",
+      "Pessoas interessadas em adestramento avançado e esportes caninos (Agility, Disc Dog)",
+      "Famílias que vivem em casas com grandes espaços cercados",
+      "Quem busca um companheiro leal, focado e sempre pronto para aprender",
+      "Proprietários que podem dedicar várias horas diárias ao estímulo mental do pet"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores sedentários ou que ficam muito tempo fora de casa",
+      "Pessoas que vivem em apartamentos pequenos sem rotina intensa de exercícios",
+      "Tutores de primeira viagem que não entendem a necessidade de liderança e ocupação",
+      "Ambientes sem estímulo, onde o cão pode se tornar neurótico e destrutivo por tédio"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Collie Eye Anomaly (CEA) - Anomalia do Olho do Collie",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Epilepsia idiopática",
+      "Sensibilidade ao gene MDR1 (reação a certos medicamentos)",
+      "Lipofuscinose Ceroide Neuronal (CL)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Testes genéticos para CEA e MDR1 são fundamentais. Check-ups ortopédicos regulares devido ao alto impacto de suas atividades físicas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem (especialmente a longa) requer escovação pelo menos duas vezes por semana para remover pelos mortos e evitar nós. Durante as trocas sazonais, a queda de pelo pode ser intensa. Banhos devem ser dados conforme a necessidade, garantindo sempre a secagem total do subpelo.",
+    "exercicios": "Esta é a raça com maior necessidade de exercício do mundo. Ele precisa de pelo menos 2 horas de atividade física vigorosa aliada a desafios mentais (jogos de inteligência, busca de objetos, treinos complexos). Sem isso, o Border Collie desenvolve distúrbios de comportamento.",
+    "treinamento": "O treinamento é um prazer, pois eles aprendem quase instantaneamente. No entanto, sua inteligência significa que eles também aprendem comportamentos 'ruins' com a mesma rapidez. O adestramento deve ser contínuo por toda a vida do animal para mantê-lo equilibrado.",
+    "alimentacao": "Requer uma dieta de alta energia e qualidade para sustentar seu metabolismo acelerado. É importante monitorar a ingestão calórica para manter o corpo atlético e sem gordura extra."
   },
   "seo": {
-    "title": "Border Collie - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Border Collie: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Border Collie: O Cão Mais Inteligente do Mundo - Guia de Raça",
+    "description": "Tudo sobre o Border Collie: descubra por que ele é o gênio do mundo canino. Conheça seu temperamento, necessidades intensas de exercício e como cuidar desta raça brilhante.",
     "keywords": [
-      "border-collie",
-      "border collie",
-      "médio",
-      "reino unido"
+      "Border Collie",
+      "cão mais inteligente",
+      "Agility",
+      "cão pastor",
+      "raças de cães médias",
+      "cuidados com Border Collie",
+      "treinamento de Border Collie",
+      "Old Hemp"
     ]
   },
   "imagem_principal": "/images/breeds/border-collie.jpg",
@@ -76,11 +91,58 @@
     "/images/breeds/border-collie-2.jpg",
     "/images/breeds/border-collie-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=border-collie",
-  "popularidade": 25621,
-  "ranking_brasil": 167,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Border Collie - O Gênio das Raças",
+      "url": "https://www.youtube.com/watch?v=example-border-collie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-border-collie/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho Incrível do Border Collie",
+      "url": "https://www.youtube.com/watch?v=example-border-work",
+      "canal": "Mundo Animal",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-australiano",
+    "collie",
+    "pastor-de-shetland",
+    "kelpie-australiano"
+  ],
+  "cores_disponiveis": [
+    "Preto e Branco",
+    "Marrom (Chocolate) e Branco",
+    "Azul e Branco",
+    "Red Merle",
+    "Blue Merle",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Blaze facial branco",
+    "Colar branco",
+    "Ponta da cauda branca",
+    "Marcações 'tan' permitidas no tricolor"
+  ],
+  "curiosidades_historicas": "A Rainha Vitória foi uma das primeiras entusiastas da raça quando ela ainda era considerada apenas um cão de trabalho rústico. Seu patrocínio ajudou a elevar o status do Border Collie de um simples ajudante de fazenda para um cão admirado pela alta sociedade, embora os pastores tenham lutado para que a raça nunca perdesse seu foco funcional.",
+  "referencias_externas": [
+    {
+      "titulo": "Border Collie Society of America",
+      "url": "https://www.bordercolliesociety.com/",
+      "descricao": "Clube oficial com foco em saúde, padrão e preservação da inteligência da raça."
+    },
+    {
+      "titulo": "ISDS - International Sheep Dog Society",
+      "url": "https://www.isds.org.uk/",
+      "descricao": "A autoridade máxima em cães de pastoreio e linhagens de trabalho do Border Collie."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    236,
-    596
+    300,
+    800
   ]
 }

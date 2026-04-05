@@ -3,68 +3,87 @@
   "nome": "Borzoi",
   "slug": "borzoi",
   "nome_en": "Borzoi",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Galgo Russo",
+    "Russian Wolfhound"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Rússia",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "25.4 kg",
-    "peso_femea": "21.5 kg",
+    "expectativa_vida": "9 - 14 anos",
+    "altura_macho": "75 - 85 cm",
+    "altura_femea": "68 - 78 cm",
+    "peso_macho": "34 - 48 kg",
+    "peso_femea": "27 - 39 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1905
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 1,
+    "inteligencia": 4,
     "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 5,
-    "bom_com_criancas": 1,
+    "latido": 1,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Borzoi é uma raça de porte médio originária de Rússia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Borzoi originou-se em Rússia, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Borzoi é o epítome da elegância e aristocracia canina. Um lebrél (galgo) de porte grande e construção refinada, ele é famoso por sua silhueta graciosa, cabeça longa e estreita e uma pelagem sedosa e ondulada que flui enquanto ele se move. Sua expressão é doce, quase indiferente, com olhos escuros e inteligentes que parecem observar o mundo de uma perspectiva superior. Apesar de seu tamanho imponente, o Borzoi é um cão surpreendentemente calmo e silencioso dentro de casa, muitas vezes comparado aos gatos por sua natureza reservada e pelo hábito de se enrolar em sofás macios. No entanto, em campo aberto, ele revela sua herança de velocista incansável e caçador determinado.",
+    "historia": "A raça foi desenvolvida pela nobreza russa ao longo de séculos para a caça de lobos, raposas e lebres nas vastas estepes da Rússia czarista. As caçadas imperiais eram eventos grandiosos, envolvendo centenas de cães e cavalos. O Borzoi foi criado para ser um cão de visão aguçada e velocidade explosiva, capaz de derrubar um lobo e segurá-lo até a chegada do caçador. Até 1917, a posse de Borzois era quase exclusiva da aristocracia russa, sendo comum o Czar presentear outros monarcas europeus com exemplares da raça (como fez com a Rainha Vitória). A Revolução Russa quase extinguiu a raça em sua terra natal, mas o Borzoi sobreviveu graças aos exemplares exportados para a Europa e Estados Unidos antes do conflito.",
     "curiosidades": [
-      "Borzoi possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Borzoi' deriva da palavra russa antiga 'borzyi', que significa 'veloz' ou 'rápido'.",
+      "Eles são capazes de atingir velocidades de até 55-60 km/h em curtas distâncias.",
+      "O Borzoi possui um campo de visão periférica de 270 graus, muito superior ao dos humanos, o que é essencial para um caçador visual.",
+      "Apesar de serem caçadores de lobos, eles são conhecidos por terem 'pés de seda', movendo-se silenciosamente pela casa.",
+      "A pelagem do Borzoi possui uma camada de oleosidade natural que repele a sujeira, mantendo o cão limpo com relativa facilidade."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que apreciam a estética elegante e o temperamento calmo de galgos",
+      "Pessoas que vivem em casas com quintais amplos e muito bem cercados",
+      "Quem busca um companheiro silencioso e discreto dentro de casa",
+      "Tutores experientes que entendem a natureza independente de cães de caça visual",
+      "Proprietários dispostos a dedicar tempo para escovação semanal e exercícios controlados"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que esperam obediência cega e execução de truques complexos",
+      "Casas com pequenos animais domésticos como gatos de rua ou coelhos (forte instinto de perseguição)",
+      "Ambientes onde o cão será passeado sem guia em locais não cercados",
+      "Tutores sedentários que não podem oferecer oportunidades de corrida segura",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável demais com estranhos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Sensibilidade a anestésicos (comum em lebréis)",
+      "Displasia de Quadril",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Problemas cardíacos (ocasionais)",
+      "Osteosarcoma"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar torção gástrica. Check-ups cardíacos e oftalmológicos regulares. Atenção extrema a protocolos anestésicos específicos para a raça."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem longa e sedosa requer escovação pelo menos duas a três vezes por semana para evitar nós, especialmente atrás das orelhas e nas franjas das pernas. Banhos devem ser dados conforme a necessidade. O pelo entre as almofadas das patas deve ser aparado para evitar escorregões.",
+    "exercicios": "Necessita de caminhadas diárias longas, mas o mais importante são sessões de corrida livre em áreas seguras e cercadas. Ele é um atleta de sprint, não de maratona. Brincadeiras que estimulem sua visão são muito bem-vindas.",
+    "treinamento": "O Borzoi é inteligente, mas independente e facilmente entediado. O treinamento deve ser curto, positivo e baseado em paciência. Ele não responde bem a repetições excessivas ou métodos severos. Socialização precoce é fundamental para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em várias pequenas refeições ao dia para prevenir a torção gástrica. Use tigelas elevadas e evite exercícios antes e depois de comer."
   },
   "seo": {
-    "title": "Borzoi - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Borzoi: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Borzoi: O Galgo Russo da Realeza - Guia Completo da Raça",
+    "description": "Conheça o Borzoi, o majestoso caçador de lobos da Rússia. Descubra seu temperamento calmo, sua incrível velocidade e os cuidados essenciais com este elegante galgo.",
     "keywords": [
-      "borzoi",
-      "borzoi",
-      "médio",
-      "rússia"
+      "Borzoi",
+      "Galgo Russo",
+      "Russian Wolfhound",
+      "cão veloz",
+      "lebrél",
+      "raças de cães grandes",
+      "cuidados com Borzoi",
+      "temperamento Borzoi"
     ]
   },
   "imagem_principal": "/images/breeds/borzoi.jpg",
@@ -73,11 +92,57 @@
     "/images/breeds/borzoi-2.jpg",
     "/images/breeds/borzoi-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=borzoi",
-  "popularidade": 19543,
-  "ranking_brasil": 188,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Borzoi - O Caçador de Lobos",
+      "url": "https://www.youtube.com/watch?v=example-borzoi",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-borzoi/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Elegância do Borzoi em Movimento",
+      "url": "https://www.youtube.com/watch?v=example-borzoi-run",
+      "canal": "Mundo Canino",
+      "duracao": "07:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "afghan-hound",
+    "galgo-ingles",
+    "saluki",
+    "irish-wolfhound"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Dourado",
+    "Cinza",
+    "Preto",
+    "Brindle (Tigrado)",
+    "Fulvo"
+  ],
+  "marcacoes": [
+    "Manchas irregulares",
+    "Manta colorida",
+    "Pode ser de qualquer cor ou combinação de cores"
+  ],
+  "curiosidades_historicas": "Durante a caçada russa tradicional, os Borzois eram levados aos pares ou trios. Eles deviam perseguir o lobo, flanqueá-lo e prendê-lo pelo pescoço sem matá-lo, permitindo que o caçador chegasse para amarrar o predador. Essa habilidade exigia não apenas velocidade, mas uma coragem e precisão técnica admiráveis.",
+  "referencias_externas": [
+    {
+      "titulo": "Borzoi Club of America",
+      "url": "https://www.borzoiclubofamerica.org/",
+      "descricao": "Recurso abrangente sobre saúde, ética e eventos da raça nos EUA."
+    },
+    {
+      "titulo": "The Kennel Club UK - Borzoi",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/hound/borzoi/",
+      "descricao": "Informações oficiais sobre o padrão e histórico da raça no Reino Unido."
+    }
+  ],
+  "popularidade": 12500,
+  "ranking_brasil": 118,
   "custo_mensal_estimado": [
-    376,
-    564
+    450,
+    1100
   ]
 }

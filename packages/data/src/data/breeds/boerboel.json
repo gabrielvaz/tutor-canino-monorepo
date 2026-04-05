@@ -3,69 +3,85 @@
   "nome": "Boerboel",
   "slug": "boerboel",
   "nome_en": "Boerboel",
-  "apelidos": [],
+  "apelidos": [
+    "Mastiff Sul-Africano",
+    "Cão de Fazenda Boer"
+  ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "África do Sul",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "57 cm",
-    "altura_femea": "51 cm",
-    "peso_macho": "32.6 kg",
-    "peso_femea": "27.2 kg",
-    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1949
+    "expectativa_vida": "9 - 11 anos",
+    "altura_macho": "64 - 70 cm",
+    "altura_femea": "59 - 65 cm",
+    "peso_macho": "65 - 90 kg",
+    "peso_femea": "50 - 70 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha (Reconhecido pela KUSA e AKC)",
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 4
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Boerboel é uma raça de porte grande originária de África do Sul. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Boerboel originou-se em África do Sul, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Boerboel é um molossóide de poder impressionante, agilidade surpreendente e uma presença intimidadora. Originário da África do Sul, ele foi construído para a sobrevivência e proteção em ambientes hostis. Seu corpo é massivo, musculoso e bem balanceado, com uma cabeça larga e mandíbulas potentes. Apesar de sua força física bruta, o Boerboel é conhecido por ser um cão extremamente inteligente, observador e profundamente apegado à sua família humana. Ele não é um cão de ataque aleatório, mas sim um protetor calculista que avalia situações com calma antes de agir, sendo famoso por sua lealdade inabalável e por ser um dos guardiões mais eficazes do reino canino.",
+    "historia": "A história do Boerboel está ligada aos colonos holandeses (Boers) que chegaram à África do Sul no século XVII. Eles levaram consigo cães do tipo Mastiff e Bulldog para proteger suas fazendas e famílias de predadores selvagens como leões, leopardos e hienas. Através de séculos de seleção natural rigorosa no clima severo sul-africano e cruzamentos com cães locais, o Boerboel evoluiu para ser um cão de trabalho rústico e multifuncional. A raça quase se perdeu durante a urbanização, mas foi resgatada na década de 1980 por entusiastas que buscaram preservar o tipo original de cão de fazenda. Hoje, ele é reconhecido mundialmente como um dos melhores cães de guarda familiar do mundo.",
     "curiosidades": [
-      "Boerboel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Boerboel' deriva das palavras africâneres 'Boer' (fazendeiro) e 'boel' (cão), significando literalmente 'cão do fazendeiro'.",
+      "Diferente de muitos mastiffs, o Boerboel é incrivelmente ágil e rápido, capaz de cobrir grandes distâncias e reagir com velocidade explosiva.",
+      "Eles possuem um 'senso de discernimento' apurado, sendo capazes de distinguir amigos de intrusos apenas observando a linguagem corporal do seu tutor.",
+      "O Boerboel é considerado a única raça de cão especificamente desenvolvida na África do Sul para guarda.",
+      "Apesar do tamanho, muitos Boerboels são extremamente gentis com crianças da família, protegendo-as com um cuidado maternal/paternal."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças grandes e dominantes",
+      "Casas com quintais amplos e muros altos e seguros",
+      "Pessoas que buscam o máximo em proteção e guarda residencial",
+      "Famílias que buscam um companheiro leal que participe da vida doméstica",
+      "Proprietários que vivem em climas quentes (ele é bem adaptado ao calor)"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores de primeira viagem (ele exige liderança firme e consistente)",
+      "Pessoas que vivem em apartamentos ou espaços confinados",
+      "Proprietários que não podem investir em socialização pesada desde filhote",
+      "Famílias que recebem muitos estranhos em casa sem controle (devido ao instinto de guarda)",
+      "Pessoas que buscam um cão para parques de cães públicos (pode ser territorial)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Ectrópio e Entrópio",
+      "Hiperplasia Vaginal (em fêmeas)",
+      "Problemas cardíacos (como estenose aórtica)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos semestrais são vitais. Exames cardíacos regulares. Devido ao peso massivo, é essencial manter o cão magro durante o crescimento para não danificar as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e densa é mínima, exigindo apenas uma escovação semanal. Banhos devem ser dados conforme a necessidade. É importante limpar as dobras faciais ocasionalmente para evitar irritações e verificar os ouvidos.",
+    "exercicios": "Necessita de exercícios moderados a intensos diariamente. Longas caminhadas e sessões de treinamento são fundamentais para sua saúde mental e física. Ele precisa de um 'trabalho' ou propósito para se sentir satisfeito.",
+    "treinamento": "O treinamento de obediência é OBRIGATÓRIO e deve começar o mais cedo possível. O Boerboel é inteligente e aprende rápido, mas testará os limites se perceber insegurança no tutor. A socialização com diferentes pessoas e animais desde os dois meses de vida é crítica.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães gigantes. Deve-se evitar exercícios pesados antes e depois das refeições devido ao alto risco de torção gástrica."
   },
   "seo": {
-    "title": "Boerboel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Boerboel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Boerboel: O Guardião Supremo Sul-Africano - Guia de Raça",
+    "description": "Tudo sobre o Boerboel: conheça a força, a lealdade e o instinto de guarda incomparável desta raça mastiff. Guia completo de cuidados e temperamento.",
     "keywords": [
-      "boerboel",
-      "boerboel",
-      "grande",
-      "áfrica do sul"
+      "Boerboel",
+      "Mastiff Sul-Africano",
+      "cão de guarda",
+      "raças de cães grandes",
+      "cuidados com Boerboel",
+      "temperamento Boerboel",
+      "melhor cão de guarda familiar"
     ]
   },
   "imagem_principal": "/images/breeds/boerboel.jpg",
@@ -74,11 +90,55 @@
     "/images/breeds/boerboel-2.jpg",
     "/images/breeds/boerboel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=boerboel",
-  "popularidade": 31514,
-  "ranking_brasil": 34,
+  "video_url": "https://www.youtube.com/watch?v=F0S_7E_N9vE",
+  "videos_youtube": [
+    {
+      "titulo": "Boerboel - O Mastiff da África do Sul",
+      "url": "https://www.youtube.com/watch?v=example-boerboel",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-boerboel/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência e Guarda do Boerboel",
+      "url": "https://www.youtube.com/watch?v=example-boerboel-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bullmastiff",
+    "mastiff-ingles",
+    "cane-corso",
+    "rhodesian-ridgeback"
+  ],
+  "cores_disponiveis": [
+    "Fawn (Fulvo)",
+    "Vermelho",
+    "Brindle (Tigrado)",
+    "Creme",
+    "Marrom"
+  ],
+  "marcacoes": [
+    "Máscara preta (desejável)",
+    "Pode ter pequenas manchas brancas no peito e patas"
+  ],
+  "curiosidades_historicas": "Na África do Sul, os Boerboels eram frequentemente os únicos protetores das mulheres e crianças enquanto os homens saíam para caçar ou lutar. Sua sobrevivência dependia de sua coragem contra leopardos e babuínos, o que moldou o temperamento destemido, mas controlado, que a raça mantém até hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "SABBS - South African Boerboel Breeders' Society",
+      "url": "https://sabbs.org/",
+      "descricao": "Associação mãe da raça na África do Sul e autoridade mundial no padrão."
+    },
+    {
+      "titulo": "American Kennel Club - Boerboel",
+      "url": "https://www.akc.org/dog-breeds/boerboel/",
+      "descricao": "Padrão e informações da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 85,
   "custo_mensal_estimado": [
-    242,
-    1012
+    500,
+    1300
   ]
 }

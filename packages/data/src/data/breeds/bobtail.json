@@ -3,68 +3,87 @@
   "nome": "Bobtail",
   "slug": "bobtail",
   "nome_en": "Old English Sheepdog",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Old English Sheepdog",
+    "Cão Pastor Inglês Antigo",
+    "Pastor Inglês"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "20.1 kg",
-    "peso_femea": "15.8 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "61 - 65 cm",
+    "altura_femea": "56 - 60 cm",
+    "peso_macho": "32 - 45 kg",
+    "peso_femea": "27 - 36 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1951
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Bobtail é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Bobtail originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Bobtail, oficialmente conhecido como Old English Sheepdog, é um cão que transpira simpatia e robustez. Famoso por sua pelagem extremamente abundante, desgrenhada e de textura áspera, ele possui uma silhueta que lembra a de um urso, com um andar gingado e característico. Seus olhos costumam ficar escondidos sob uma franja densa, e sua voz tem um timbre profundo e ressonante, muitas vezes comparado ao som de um sino quebrado. É um cão de porte grande, musculoso e muito ágil, apesar da aparência pesada. Seu temperamento é equilibrado, brincalhão e extremamente protetor com sua família, sendo um dos melhores 'cães-babá' do mundo canino.",
+    "historia": "Apesar do nome 'Old English', a raça não é tão antiga quanto se pensa, tendo surgido no oeste da Inglaterra no início do século XIX. Eles foram desenvolvidos por pastores e mercadores de gado para serem cães de condução (drovers), capazes de guiar grandes rebanhos de ovelhas e gado das fazendas para os mercados urbanos. Para identificar os cães de trabalho que eram isentos de impostos, seus tutores cortavam suas caudas rente à base, o que lhes rendeu o apelido de 'Bobtail' (cauda curta). A raça ganhou fama mundial nos anos 60 e 70, tornando-se um ícone da cultura pop ao aparecer em capas de discos, filmes da Disney e propagandas de tintas (como a Dulux).",
     "curiosidades": [
-      "Bobtail possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O apelido 'Bobtail' surgiu porque, historicamente, esses cães tinham suas caudas amputadas para marcar seu status de cão de trabalho isento de impostos.",
+      "Eles possuem um andar característico chamado 'pacing', onde as duas pernas do mesmo lado se movem simultaneamente, resultando em um balanço bear-like.",
+      "A pelagem do filhote é preta e branca, tornando-se cinza ou 'azul' apenas quando o cão atinge a maturidade.",
+      "Paul McCartney escreveu a música 'Martha My Dear' dos Beatles em homenagem à sua cadela Bobtail, Martha.",
+      "Eles são conhecidos por tentarem 'pastorear' crianças e até adultos, cutucando-os suavemente para que fiquem todos juntos no mesmo grupo."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso)",
+      "Tutores que vivem em casas com quintais e climas amenos",
+      "Pessoas que buscam um companheiro leal e muito afetuoso",
+      "Donos que dispõem de tempo para cuidados intensivos com a pelagem",
+      "Quem busca um cão de guarda dissuasivo e vigilante"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores que não podem dedicar várias horas semanais à escovação",
+      "Pessoas extremamente zelosas com a limpeza da casa (ele traz muita sujeira no pelo)",
+      "Ambientes com calor tropical intenso sem ar-condicionado",
+      "Tutores sedentários que não possam oferecer caminhadas diárias"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Catarata",
+      "Surdez congênita (em alguns exemplares brancos)",
+      "Hipotireoidismo",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Devido à densidade do pelo, check-ups de pele frequentes são necessários para detectar parasitas ou dermatites escondidas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção é altíssima. A escovação deve ser profunda e realizada pelo menos três a quatro vezes por semana para evitar que os pelos emaranhem e formem nós dolorosos na pele. Muitos tutores optam por manter o pelo mais curto em 'tosa bebê' para facilitar a vida doméstica. Olhos e ouvidos devem ser limpos com frequência para evitar infecções sob a pelagem densa.",
+    "exercicios": "Necessita de exercícios diários consistentes. Ele adora caminhadas longas e brincadeiras que simulem o pastoreio. É um cão ativo que precisa gastar energia para se manter calmo dentro de casa.",
+    "treinamento": "Inteligente, mas pode ser teimoso e independente. O treinamento deve ser baseado em reforço positivo, paciência e muita criatividade para manter seu interesse. A socialização precoce é VITAL para evitar que seu instinto protetor se torne timidez ou agressividade.",
+    "alimentacao": "Dieta de alta qualidade para cães de grande porte. É importante monitorar o peso, pois a obesidade é difícil de detectar sob tanto pelo e é prejudicial às articulações."
   },
   "seo": {
-    "title": "Bobtail - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Bobtail: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Bobtail (Old English Sheepdog): O Gigante Peludo - Guia Completo",
+    "description": "Descubra tudo sobre o Bobtail, o carismático Pastor Inglês Antigo. Conheça seu temperamento brincalhão, história como condutor de rebanhos e cuidados com o pelo.",
     "keywords": [
-      "bobtail",
-      "bobtail",
-      "médio",
-      "inglaterra"
+      "Bobtail",
+      "Old English Sheepdog",
+      "Pastor Inglês Antigo",
+      "cão peludo",
+      "raças de cães grandes",
+      "cão dos Beatles",
+      "cuidados com Bobtail",
+      "temperamento Sheepdog"
     ]
   },
   "imagem_principal": "/images/breeds/bobtail.jpg",
@@ -73,11 +92,54 @@
     "/images/breeds/bobtail-2.jpg",
     "/images/breeds/bobtail-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=bobtail",
-  "popularidade": 6367,
-  "ranking_brasil": 174,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Old English Sheepdog (Bobtail) - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bobtail",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bobtail/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Manutenção do Pelo do Bobtail",
+      "url": "https://www.youtube.com/watch?v=example-groom-bobtail",
+      "canal": "Estética Pet",
+      "duracao": "15:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "bearded-collie",
+    "pastor-de-brie",
+    "bobtail-japones"
+  ],
+  "cores_disponiveis": [
+    "Cinza e Branco",
+    "Grisalho e Branco",
+    "Azul e Branco",
+    "Merle e Branco"
+  ],
+  "marcacoes": [
+    "Cabeça e pescoço brancos",
+    "Manta escura no dorso",
+    "Pode apresentar olhos de cores diferentes (heterocromia)"
+  ],
+  "curiosidades_historicas": "A raça tornou-se tão associada à marca de tintas Dulux que em muitos países ela é conhecida apenas como 'o cão da Dulux'. No set de filmagem das propagandas, os cães Bobtail costumam ser tratados como verdadeiras celebridades, tendo até seus próprios camarins com ar-condicionado para proteger sua pelagem densa.",
+  "referencias_externas": [
+    {
+      "titulo": "Old English Sheepdog Club of America",
+      "url": "https://www.oesca.org/",
+      "descricao": "Recurso oficial para padrão e saúde da raça nos Estados Unidos."
+    },
+    {
+      "titulo": "The Old English Sheepdog Club UK",
+      "url": "http://www.theoldenglishsheepdogclub.co.uk/",
+      "descricao": "O clube de raça mais antigo do mundo para o Bobtail."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 142,
   "custo_mensal_estimado": [
-    220,
-    1375
+    400,
+    1100
   ]
 }

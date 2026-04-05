@@ -5,72 +5,82 @@
   "nome_en": "Border Terrier",
   "apelidos": [
     "Border",
-    "Terrier"
+    "Terrier de Fronteira"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "28 cm",
-    "altura_femea": "23 cm",
-    "peso_macho": "12.5 kg",
-    "peso_femea": "7.5 kg",
+    "origem": "Grã-Bretanha (Fronteira Escócia-Inglaterra)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "33 - 40 cm",
+    "altura_femea": "28 - 36 cm",
+    "peso_macho": "6 - 7 kg",
+    "peso_femea": "5 - 6.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1916
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 5,
-    "queda_pelo": 4,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Border Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Border Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Border Terrier é um pequeno notável, conhecido por sua aparência rústica e sua 'cabeça de lontra'. Diferente de muitos terriers que foram refinados para exposições de beleza, o Border manteve seu visual de cão de trabalho prático e eficiente. Ele possui uma pelagem dupla, com um subpelo curto e denso e um pelo de cobertura duro e aramado que o protege de intempéries e arbustos espinhosos. Embora seja um caçador incansável e corajoso, capaz de acompanhar cavalos em caçadas, em casa ele se transforma em um dos terriers mais afetuosos, sociáveis e equilibrados que existem, sendo famoso por seu temperamento menos briguento do que o de seus primos.",
+    "historia": "A raça surgiu nas colinas de Cheviot, na fronteira entre a Escócia e a Inglaterra. Lá, eles eram essenciais para os fazendeiros na proteção dos rebanhos contra raposas. O Border Terrier precisava ter pernas longas o suficiente para acompanhar os cavalos e os cães maiores (Foxhounds) durante a caçada, mas ser pequeno o bastante para entrar em tocas e expulsar as raposas. Eles eram criados pela funcionalidade pura, resultando em um cão de pele grossa e pelagem resistente. A raça foi oficialmente reconhecida pelo Kennel Club inglês apenas em 1920, mas sua linhagem é muito mais antiga e preservada com orgulho pelos entusiastas.",
     "curiosidades": [
-      "Border Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Sua cabeça tem um formato único chamado de 'otter head' (cabeça de lontra) devido ao focinho curto e crânio largo.",
+      "O Border Terrier possui uma pele excepcionalmente grossa e solta, o que historicamente o protegia de mordidas de raposas.",
+      "Diferente da maioria dos terriers, eles costumam se dar muito bem com outros cães, pois foram criados para trabalhar em matilhas.",
+      "Eles são excelentes saltadores e alpinistas, capazes de escalar cercas surpreendentemente altas para o seu tamanho.",
+      "Apesar do instinto de caça, o Border é conhecido por ser muito sensível aos sentimentos de seus tutores, sendo um excelente cão de companhia emocional."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias com crianças (ele é robusto e muito paciente)",
+      "Pessoas que vivem em apartamentos ou casas pequenas",
+      "Tutores que gostam de caminhadas e atividades ao ar livre",
+      "Quem busca um terrier com temperamento mais dócil e sociável",
+      "Proprietários que desejam um cão inteligente e fácil de treinar com reforço positivo"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Casas com pequenos animais domésticos como hamsters ou coelhos (instinto de caça muito forte)",
+      "Tutores sedentários (ele precisa de exercício diário para não se tornar destrutivo)",
+      "Pessoas que não toleram escavações (ele adora cavar, como todo bom terrier)",
+      "Proprietários que buscam um cão de 'aparência impecável' sem manutenção (ele precisa de stripping manual)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "SLEM (Spongiform Leucoencephalomyelopathy) - também conhecida como Shaking Puppy Syndrome",
+      "Luxação de Patela",
+      "Catarata Juvenil",
+      "Problemas cardíacos",
+      "Alergias sazonais"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "É fundamental adquirir filhotes de criadores que realizam o teste de DNA para SLEM. Check-ups ortopédicos e oftalmológicos regulares são indicados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem aramada repele a sujeira naturalmente. Escovação semanal é suficiente. Para manter a textura correta e as propriedades protetoras do pelo, o 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional duas vezes ao ano. Banhos devem ser raros para não amolecer a pelagem.",
+    "exercicios": "Precisa de exercícios diários substanciais. Ele adora caminhadas longas, jogos de busca e desafios mentais. Como é um cão muito inteligente, o enriquecimento ambiental é essencial para evitar o tédio.",
+    "treinamento": "O Border Terrier é inteligente e geralmente mais disposto a cooperar do que outros terriers. Ele responde maravilhosamente bem ao reforço positivo e petiscos. A socialização precoce é importante para garantir sua natureza amigável com estranhos e outros animais.",
+    "alimentacao": "Dieta balanceada para cães pequenos e ativos. Eles têm um apetite saudável, então o controle das porções é necessário para evitar o sobrepeso."
   },
   "seo": {
-    "title": "Border Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Border Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Border Terrier: O Pequeno com Cabeça de Lontra - Guia Completo",
+    "description": "Descubra o Border Terrier, o terrier mais afetuoso e rústico. Conheça sua história na fronteira inglesa, temperamento equilibrado e cuidados essenciais.",
     "keywords": [
-      "border-terrier",
-      "border terrier",
-      "pequeno",
-      "inglaterra"
+      "Border Terrier",
+      "Terrier de Fronteira",
+      "otter head dog",
+      "cão para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Border Terrier",
+      "temperamento Border Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/border-terrier.jpg",
@@ -79,11 +89,54 @@
     "/images/breeds/border-terrier-2.jpg",
     "/images/breeds/border-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=border-terrier",
-  "popularidade": 3531,
-  "ranking_brasil": 199,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Border Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-border-terrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-border-terrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Border Terrier",
+      "url": "https://www.youtube.com/watch?v=example-border-personality",
+      "canal": "Vida de Terrier",
+      "duracao": "08:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cairn-terrier",
+    "norfolk-terrier",
+    "jack-russell-terrier",
+    "parson-russell-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Trigo (Wheaten)",
+    "Grisalho e Tan (Grizzle and Tan)",
+    "Azul e Tan"
+  ],
+  "marcacoes": [
+    "Máscara escura permitida",
+    "Pele grossa e solta"
+  ],
+  "curiosidades_historicas": "O Border Terrier é um dos poucos terriers que não teve sua aparência radicalmente alterada pela moda das exposições caninas. O padrão da raça enfatiza que ele deve ser capaz de 'atravessar uma porteira de ovelhas de 15 cm', garantindo que ele permaneça o caçador ágil e estreito que sempre foi nas colinas inglesas.",
+  "referencias_externas": [
+    {
+      "titulo": "Border Terrier Club of America",
+      "url": "https://www.btcoa.org/",
+      "descricao": "Principal recurso para saúde, ética e padrão da raça nos EUA."
+    },
+    {
+      "titulo": "The Border Terrier Club UK",
+      "url": "http://www.theborderterrierclub.co.uk/",
+      "descricao": "O clube de raça original, fundado na Inglaterra."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 155,
   "custo_mensal_estimado": [
-    281,
-    1110
+    200,
+    550
   ]
 }
