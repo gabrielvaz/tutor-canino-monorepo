@@ -62,7 +62,7 @@ export default async function BreedPage({ params }: BreedPageProps) {
       {/* Hero Banner Section */}
       <section className="relative h-[50vh] md:h-[60vh] min-h-[400px] w-full overflow-hidden bg-gray-900">
         <Image
-          src={breed.imagem_principal || '/images/breeds/placeholder.jpg'}
+          src={breed.imagem_principal || '/images/breeds/placeholder.svg'}
           alt={breed.nome}
           fill
           className="object-cover opacity-80"

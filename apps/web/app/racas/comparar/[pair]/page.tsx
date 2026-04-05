@@ -99,7 +99,7 @@ export default async function ComparisonPage({ params }: ComparisonPageProps) {
           <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16">
             <div className="text-center group">
               <div className="relative w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white shadow-xl mb-6 mx-auto group-hover:scale-105 transition-transform duration-500">
-                <Image src={breed1.imagem_principal || '/images/breeds/placeholder.jpg'} alt={breed1.nome} fill className="object-cover" />
+                <Image src={breed1.imagem_principal || '/images/breeds/placeholder.svg'} alt={breed1.nome} fill className="object-cover" />
               </div>
               <h1 className="text-2xl md:text-3xl font-black text-gray-900">{breed1.nome}</h1>
               <span className="text-xs font-black text-primary uppercase tracking-widest">{breed1.categoria} Porte</span>
@@ -111,7 +111,7 @@ export default async function ComparisonPage({ params }: ComparisonPageProps) {
 
             <div className="text-center group">
               <div className="relative w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white shadow-xl mb-6 mx-auto group-hover:scale-105 transition-transform duration-500">
-                <Image src={breed2.imagem_principal || '/images/breeds/placeholder.jpg'} alt={breed2.nome} fill className="object-cover" />
+                <Image src={breed2.imagem_principal || '/images/breeds/placeholder.svg'} alt={breed2.nome} fill className="object-cover" />
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-gray-900">{breed2.nome}</h2>
               <span className="text-xs font-black text-secondary uppercase tracking-widest">{breed2.categoria} Porte</span>

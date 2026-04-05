@@ -20,7 +20,7 @@ export function BreedCard({ breed }: BreedCardProps) {
                        categoria;
 
   // Image validation fallback
-  const imagem = imagem_principal || '/images/breeds/placeholder.jpg';
+  const imagem = imagem_principal || '/images/breeds/placeholder.svg';
 
   // Content summary
   const descricao = sobre?.descricao || `${nome} - ${categoryLabel}`;

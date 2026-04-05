@@ -121,13 +121,12 @@ export default function Home() {
             <div className="relative">
               <div className="absolute -top-10 -left-10 w-40 h-40 bg-accent/20 rounded-full blur-3xl" />
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
-                <Image 
-                  src="/images/home-about.jpg" 
-                  alt="Tutor e seu cão" 
-                  width={600} 
+                <Image
+                  src="/images/breeds/placeholder.svg"
+                  alt="Tutor e seu cão"
+                  width={600}
                   height={600}
                   className="w-full h-auto"
-                  fallback-src="/images/breeds/placeholder.jpg"
                 />
               </div>
               <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl shadow-xl max-w-xs hidden sm:block border border-gray-100">

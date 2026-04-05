@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f3f4f6"/>
+  <circle cx="200" cy="150" r="40" fill="#d1d5db"/>
+  <rect x="180" y="180" width="40" height="50" rx="5" fill="#d1d5db"/>
+  <circle cx="185" cy="140" r="5" fill="#9ca3af"/>
+  <circle cx="215" cy="140" r="5" fill="#9ca3af"/>
+  <ellipse cx="200" cy="165" rx="12" ry="8" fill="#9ca3af"/>
+  <path d="M160 130 Q140 100 160 110" stroke="#d1d5db" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M240 130 Q260 100 240 110" stroke="#d1d5db" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">Foto em breve</text>
+</svg>

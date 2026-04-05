@@ -43,11 +43,11 @@ export function CompareSuggestions({ currentBreed }: CompareSuggestionsProps) {
             >
               <div className="flex items-center gap-4 mb-6">
                 <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white shadow-sm">
-                  <Image src={currentBreed.imagem_principal || '/images/breeds/placeholder.jpg'} alt={currentBreed.nome} fill className="object-cover" />
+                  <Image src={currentBreed.imagem_principal || '/images/breeds/placeholder.svg'} alt={currentBreed.nome} fill className="object-cover" />
                 </div>
                 <Sword size={20} className="text-primary animate-pulse" />
                 <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white shadow-sm">
-                  <Image src={comp.imagem_principal || '/images/breeds/placeholder.jpg'} alt={comp.nome} fill className="object-cover" />
+                  <Image src={comp.imagem_principal || '/images/breeds/placeholder.svg'} alt={comp.nome} fill className="object-cover" />
                 </div>
               </div>
               <h3 className="text-xl font-black text-gray-900 group-hover:text-primary transition-colors">
