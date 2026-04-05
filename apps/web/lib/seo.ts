@@ -76,6 +76,35 @@ export function generateComparisonSchema(breed1: Breed, breed2: Breed) {
   };
 }
 
+export function generateLocationSchema(location: any) {
+  const type = location.category === 'veterinarios' ? 'VeterinaryCare' : 'LocalBusiness';
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': type,
+    name: location.name,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: location.address,
+      addressLocality: location.city,
+      addressRegion: location.uf.toUpperCase(),
+      addressCountry: 'BR',
+    },
+    telephone: location.phone,
+    description: location.description,
+    aggregateRating: location.rating ? {
+      '@type': 'AggregateRating',
+      ratingValue: location.rating.score,
+      reviewCount: location.rating.count,
+    } : undefined,
+    geo: location.coordinates ? {
+      '@type': 'GeoCoordinates',
+      latitude: location.coordinates.lat,
+      longitude: location.coordinates.lng,
+    } : undefined,
+  };
+}
+
 export function generateOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
@@ -118,7 +147,7 @@ export function generateFAQSchema(breed: Breed) {
       name: `Qual é o temperamento do ${nome}?`,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: sobre?.descricao || `${nome} é uma raça com características únicas de temperamento e personalidade.`,
+        text: sobre?.descricao || `${nome} é uma raça com características únicas de temperamento e personality.`,
       },
     });
   }

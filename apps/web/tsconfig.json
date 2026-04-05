@@ -21,6 +21,7 @@
     "paths": {
       "@/*": ["./*"],
       "@tutorcanino/data": ["../../packages/data/src"],
+      "@tutorcanino/locations": ["../../packages/locations/src"],
       "@tutorcanino/ui": ["../../packages/ui/src"]
     }
   },

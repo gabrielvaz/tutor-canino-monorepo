@@ -1,0 +1,19 @@
+{
+  "id": "petz-paulista",
+  "name": "Petz Paulista",
+  "slug": "petz-paulista",
+  "category": "petshops",
+  "uf": "sp",
+  "city": "são-paulo",
+  "address": "Av. Paulista, 1234 - Bela Vista, São Paulo - SP",
+  "phone": "(11) 3234-5678",
+  "description": "Uma das maiores lojas Petz no coração de São Paulo.",
+  "rating": {
+    "score": 4.5,
+    "count": 1250
+  },
+  "coordinates": {
+    "lat": -23.5614,
+    "lng": -46.6559
+  }
+}

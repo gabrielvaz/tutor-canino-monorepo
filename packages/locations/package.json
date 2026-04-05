@@ -1,0 +1,21 @@
+{
+  "name": "@tutorcanino/locations",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./types": "./dist/types.js"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^4.1.9"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "tsup": "^8.0.0"
+  }
+}
