@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-manaus",
+  "name": "Exemplo de Parques em Manaus",
+  "slug": "parques-exemplo-manaus",
+  "category": "parques",
+  "uf": "am",
+  "city": "manaus",
+  "address": "Rua Principal, 100 - Centro, Manaus - AM",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Manaus. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.9087356066086585,
+    "count": 227
+  }
+}

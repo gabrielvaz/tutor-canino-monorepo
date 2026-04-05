@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-belem",
+  "name": "Exemplo de Creches em Belém",
+  "slug": "creches-exemplo-belem",
+  "category": "creches",
+  "uf": "pa",
+  "city": "belem",
+  "address": "Rua Principal, 100 - Centro, Belém - PA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Belém. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.949585314354236,
+    "count": 481
+  }
+}

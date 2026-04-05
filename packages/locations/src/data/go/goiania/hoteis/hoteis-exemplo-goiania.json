@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-goiania",
+  "name": "Exemplo de Hoteis em Goiânia",
+  "slug": "hoteis-exemplo-goiania",
+  "category": "hoteis",
+  "uf": "go",
+  "city": "goiania",
+  "address": "Rua Principal, 100 - Centro, Goiânia - GO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Goiânia. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.623586115284734,
+    "count": 476
+  }
+}

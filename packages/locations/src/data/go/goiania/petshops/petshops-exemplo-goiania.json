@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-goiania",
+  "name": "Exemplo de Petshops em Goiânia",
+  "slug": "petshops-exemplo-goiania",
+  "category": "petshops",
+  "uf": "go",
+  "city": "goiania",
+  "address": "Rua Principal, 100 - Centro, Goiânia - GO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Goiânia. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.787878248013946,
+    "count": 255
+  }
+}

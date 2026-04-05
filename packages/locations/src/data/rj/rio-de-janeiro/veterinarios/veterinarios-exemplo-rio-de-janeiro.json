@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-rio-de-janeiro",
+  "name": "Exemplo de Veterinarios em Rio de Janeiro",
+  "slug": "veterinarios-exemplo-rio-de-janeiro",
+  "category": "veterinarios",
+  "uf": "rj",
+  "city": "rio-de-janeiro",
+  "address": "Rua Principal, 100 - Centro, Rio de Janeiro - RJ",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Rio de Janeiro. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.535230370231991,
+    "count": 515
+  }
+}

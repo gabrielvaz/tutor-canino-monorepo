@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-brasilia",
+  "name": "Exemplo de Hoteis em Brasília",
+  "slug": "hoteis-exemplo-brasilia",
+  "category": "hoteis",
+  "uf": "df",
+  "city": "brasilia",
+  "address": "Rua Principal, 100 - Centro, Brasília - DF",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Brasília. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.59904420710094,
+    "count": 360
+  }
+}

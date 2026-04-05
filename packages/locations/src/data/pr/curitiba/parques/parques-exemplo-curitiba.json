@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-curitiba",
+  "name": "Exemplo de Parques em Curitiba",
+  "slug": "parques-exemplo-curitiba",
+  "category": "parques",
+  "uf": "pr",
+  "city": "curitiba",
+  "address": "Rua Principal, 100 - Centro, Curitiba - PR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Curitiba. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.829486983492608,
+    "count": 137
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-sao-luis",
+  "name": "Exemplo de Creches em São Luís",
+  "slug": "creches-exemplo-sao-luis",
+  "category": "creches",
+  "uf": "ma",
+  "city": "sao-luis",
+  "address": "Rua Principal, 100 - Centro, São Luís - MA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em São Luís. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.515618699569421,
+    "count": 235
+  }
+}

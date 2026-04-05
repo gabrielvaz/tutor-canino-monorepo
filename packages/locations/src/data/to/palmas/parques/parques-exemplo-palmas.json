@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-palmas",
+  "name": "Exemplo de Parques em Palmas",
+  "slug": "parques-exemplo-palmas",
+  "category": "parques",
+  "uf": "to",
+  "city": "palmas",
+  "address": "Rua Principal, 100 - Centro, Palmas - TO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Palmas. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.659701311102297,
+    "count": 240
+  }
+}

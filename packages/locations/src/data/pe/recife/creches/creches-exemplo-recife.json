@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-recife",
+  "name": "Exemplo de Creches em Recife",
+  "slug": "creches-exemplo-recife",
+  "category": "creches",
+  "uf": "pe",
+  "city": "recife",
+  "address": "Rua Principal, 100 - Centro, Recife - PE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Recife. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.7847642722351615,
+    "count": 189
+  }
+}

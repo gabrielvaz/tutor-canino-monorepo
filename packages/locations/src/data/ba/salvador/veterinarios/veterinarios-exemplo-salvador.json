@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-salvador",
+  "name": "Exemplo de Veterinarios em Salvador",
+  "slug": "veterinarios-exemplo-salvador",
+  "category": "veterinarios",
+  "uf": "ba",
+  "city": "salvador",
+  "address": "Rua Principal, 100 - Centro, Salvador - BA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Salvador. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.800334916656801,
+    "count": 234
+  }
+}

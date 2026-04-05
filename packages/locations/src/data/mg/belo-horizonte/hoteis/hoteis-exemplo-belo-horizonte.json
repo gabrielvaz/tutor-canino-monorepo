@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-belo-horizonte",
+  "name": "Exemplo de Hoteis em Belo Horizonte",
+  "slug": "hoteis-exemplo-belo-horizonte",
+  "category": "hoteis",
+  "uf": "mg",
+  "city": "belo-horizonte",
+  "address": "Rua Principal, 100 - Centro, Belo Horizonte - MG",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Belo Horizonte. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.562946701257047,
+    "count": 81
+  }
+}

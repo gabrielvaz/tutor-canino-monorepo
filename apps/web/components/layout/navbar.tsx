@@ -10,6 +10,7 @@ export function Navbar() {
 
   const navLinks = [
     { href: '/racas', label: 'Raças' },
+    { href: '/locais', label: 'Serviços' },
     { href: '/quiz', label: 'Quiz' },
   ];
 

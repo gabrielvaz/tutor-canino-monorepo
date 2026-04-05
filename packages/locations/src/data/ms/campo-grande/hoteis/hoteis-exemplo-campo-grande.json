@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-campo-grande",
+  "name": "Exemplo de Hoteis em Campo Grande",
+  "slug": "hoteis-exemplo-campo-grande",
+  "category": "hoteis",
+  "uf": "ms",
+  "city": "campo-grande",
+  "address": "Rua Principal, 100 - Centro, Campo Grande - MS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Campo Grande. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.776965843562043,
+    "count": 506
+  }
+}

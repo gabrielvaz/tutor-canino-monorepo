@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-vitoria",
+  "name": "Exemplo de Creches em Vitória",
+  "slug": "creches-exemplo-vitoria",
+  "category": "creches",
+  "uf": "es",
+  "city": "vitoria",
+  "address": "Rua Principal, 100 - Centro, Vitória - ES",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Vitória. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.985554978358023,
+    "count": 381
+  }
+}

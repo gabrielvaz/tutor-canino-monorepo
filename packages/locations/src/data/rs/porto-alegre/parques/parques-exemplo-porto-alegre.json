@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-porto-alegre",
+  "name": "Exemplo de Parques em Porto Alegre",
+  "slug": "parques-exemplo-porto-alegre",
+  "category": "parques",
+  "uf": "rs",
+  "city": "porto-alegre",
+  "address": "Rua Principal, 100 - Centro, Porto Alegre - RS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Porto Alegre. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.790587584628734,
+    "count": 422
+  }
+}

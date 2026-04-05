@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-cuiaba",
+  "name": "Exemplo de Creches em Cuiabá",
+  "slug": "creches-exemplo-cuiaba",
+  "category": "creches",
+  "uf": "mt",
+  "city": "cuiaba",
+  "address": "Rua Principal, 100 - Centro, Cuiabá - MT",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Cuiabá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.70710981048661,
+    "count": 304
+  }
+}

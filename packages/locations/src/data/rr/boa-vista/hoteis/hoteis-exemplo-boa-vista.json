@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-boa-vista",
+  "name": "Exemplo de Hoteis em Boa Vista",
+  "slug": "hoteis-exemplo-boa-vista",
+  "category": "hoteis",
+  "uf": "rr",
+  "city": "boa-vista",
+  "address": "Rua Principal, 100 - Centro, Boa Vista - RR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Boa Vista. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.544784743042699,
+    "count": 211
+  }
+}

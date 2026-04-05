@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-natal",
+  "name": "Exemplo de Hoteis em Natal",
+  "slug": "hoteis-exemplo-natal",
+  "category": "hoteis",
+  "uf": "rn",
+  "city": "natal",
+  "address": "Rua Principal, 100 - Centro, Natal - RN",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Natal. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.691483861735465,
+    "count": 168
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-florianopolis",
+  "name": "Exemplo de Hoteis em Florianópolis",
+  "slug": "hoteis-exemplo-florianopolis",
+  "category": "hoteis",
+  "uf": "sc",
+  "city": "florianopolis",
+  "address": "Rua Principal, 100 - Centro, Florianópolis - SC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Florianópolis. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.569786252533959,
+    "count": 410
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-boa-vista",
+  "name": "Exemplo de Petshops em Boa Vista",
+  "slug": "petshops-exemplo-boa-vista",
+  "category": "petshops",
+  "uf": "rr",
+  "city": "boa-vista",
+  "address": "Rua Principal, 100 - Centro, Boa Vista - RR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Boa Vista. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.760120232720127,
+    "count": 373
+  }
+}

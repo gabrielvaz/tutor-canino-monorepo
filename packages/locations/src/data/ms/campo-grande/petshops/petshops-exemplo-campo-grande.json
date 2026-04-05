@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-campo-grande",
+  "name": "Exemplo de Petshops em Campo Grande",
+  "slug": "petshops-exemplo-campo-grande",
+  "category": "petshops",
+  "uf": "ms",
+  "city": "campo-grande",
+  "address": "Rua Principal, 100 - Centro, Campo Grande - MS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Campo Grande. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.7403061109749345,
+    "count": 526
+  }
+}

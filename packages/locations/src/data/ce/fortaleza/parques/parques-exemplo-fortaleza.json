@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-fortaleza",
+  "name": "Exemplo de Parques em Fortaleza",
+  "slug": "parques-exemplo-fortaleza",
+  "category": "parques",
+  "uf": "ce",
+  "city": "fortaleza",
+  "address": "Rua Principal, 100 - Centro, Fortaleza - CE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Fortaleza. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.609456869450906,
+    "count": 113
+  }
+}

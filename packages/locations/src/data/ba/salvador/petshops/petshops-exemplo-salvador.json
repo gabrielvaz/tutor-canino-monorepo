@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-salvador",
+  "name": "Exemplo de Petshops em Salvador",
+  "slug": "petshops-exemplo-salvador",
+  "category": "petshops",
+  "uf": "ba",
+  "city": "salvador",
+  "address": "Rua Principal, 100 - Centro, Salvador - BA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Salvador. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.97482380114232,
+    "count": 390
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-curitiba",
+  "name": "Exemplo de Veterinarios em Curitiba",
+  "slug": "veterinarios-exemplo-curitiba",
+  "category": "veterinarios",
+  "uf": "pr",
+  "city": "curitiba",
+  "address": "Rua Principal, 100 - Centro, Curitiba - PR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Curitiba. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.991357874439405,
+    "count": 152
+  }
+}

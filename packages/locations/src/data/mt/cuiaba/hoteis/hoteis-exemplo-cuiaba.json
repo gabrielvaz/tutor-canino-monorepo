@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-cuiaba",
+  "name": "Exemplo de Hoteis em Cuiabá",
+  "slug": "hoteis-exemplo-cuiaba",
+  "category": "hoteis",
+  "uf": "mt",
+  "city": "cuiaba",
+  "address": "Rua Principal, 100 - Centro, Cuiabá - MT",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Cuiabá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.972357100292844,
+    "count": 98
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-maceio",
+  "name": "Exemplo de Veterinarios em Maceió",
+  "slug": "veterinarios-exemplo-maceio",
+  "category": "veterinarios",
+  "uf": "al",
+  "city": "maceio",
+  "address": "Rua Principal, 100 - Centro, Maceió - AL",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Maceió. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.743109093036795,
+    "count": 311
+  }
+}

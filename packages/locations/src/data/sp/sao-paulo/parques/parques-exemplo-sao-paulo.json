@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-sao-paulo",
+  "name": "Exemplo de Parques em São Paulo",
+  "slug": "parques-exemplo-sao-paulo",
+  "category": "parques",
+  "uf": "sp",
+  "city": "sao-paulo",
+  "address": "Rua Principal, 100 - Centro, São Paulo - SP",
+  "phone": "(11) 0000-0000",
+  "description": "Um dos melhores locais de parques em São Paulo. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.651034283150125,
+    "count": 181
+  }
+}

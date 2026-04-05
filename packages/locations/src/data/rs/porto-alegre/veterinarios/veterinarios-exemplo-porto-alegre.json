@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-porto-alegre",
+  "name": "Exemplo de Veterinarios em Porto Alegre",
+  "slug": "veterinarios-exemplo-porto-alegre",
+  "category": "veterinarios",
+  "uf": "rs",
+  "city": "porto-alegre",
+  "address": "Rua Principal, 100 - Centro, Porto Alegre - RS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Porto Alegre. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.879524912749959,
+    "count": 442
+  }
+}

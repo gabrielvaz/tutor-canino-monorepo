@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-vitoria",
+  "name": "Exemplo de Parques em Vitória",
+  "slug": "parques-exemplo-vitoria",
+  "category": "parques",
+  "uf": "es",
+  "city": "vitoria",
+  "address": "Rua Principal, 100 - Centro, Vitória - ES",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Vitória. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.792336443458273,
+    "count": 320
+  }
+}

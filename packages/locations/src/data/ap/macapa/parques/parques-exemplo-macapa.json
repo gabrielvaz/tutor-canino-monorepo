@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-macapa",
+  "name": "Exemplo de Parques em Macapá",
+  "slug": "parques-exemplo-macapa",
+  "category": "parques",
+  "uf": "ap",
+  "city": "macapa",
+  "address": "Rua Principal, 100 - Centro, Macapá - AP",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Macapá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.646730745546403,
+    "count": 453
+  }
+}

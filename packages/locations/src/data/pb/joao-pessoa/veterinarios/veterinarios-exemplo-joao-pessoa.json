@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-joao-pessoa",
+  "name": "Exemplo de Veterinarios em João Pessoa",
+  "slug": "veterinarios-exemplo-joao-pessoa",
+  "category": "veterinarios",
+  "uf": "pb",
+  "city": "joao-pessoa",
+  "address": "Rua Principal, 100 - Centro, João Pessoa - PB",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em João Pessoa. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.66780690046429,
+    "count": 61
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-florianopolis",
+  "name": "Exemplo de Veterinarios em Florianópolis",
+  "slug": "veterinarios-exemplo-florianopolis",
+  "category": "veterinarios",
+  "uf": "sc",
+  "city": "florianopolis",
+  "address": "Rua Principal, 100 - Centro, Florianópolis - SC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Florianópolis. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.500619060992391,
+    "count": 401
+  }
+}

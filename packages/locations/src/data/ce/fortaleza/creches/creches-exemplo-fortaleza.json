@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-fortaleza",
+  "name": "Exemplo de Creches em Fortaleza",
+  "slug": "creches-exemplo-fortaleza",
+  "category": "creches",
+  "uf": "ce",
+  "city": "fortaleza",
+  "address": "Rua Principal, 100 - Centro, Fortaleza - CE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Fortaleza. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.600540105649946,
+    "count": 308
+  }
+}

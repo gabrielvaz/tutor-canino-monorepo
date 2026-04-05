@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-belem",
+  "name": "Exemplo de Parques em Belém",
+  "slug": "parques-exemplo-belem",
+  "category": "parques",
+  "uf": "pa",
+  "city": "belem",
+  "address": "Rua Principal, 100 - Centro, Belém - PA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Belém. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.8686519700232225,
+    "count": 188
+  }
+}

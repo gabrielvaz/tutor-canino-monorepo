@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-palmas",
+  "name": "Exemplo de Creches em Palmas",
+  "slug": "creches-exemplo-palmas",
+  "category": "creches",
+  "uf": "to",
+  "city": "palmas",
+  "address": "Rua Principal, 100 - Centro, Palmas - TO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Palmas. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.536276690391125,
+    "count": 72
+  }
+}

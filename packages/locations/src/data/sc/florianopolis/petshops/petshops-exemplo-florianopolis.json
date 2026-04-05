@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-florianopolis",
+  "name": "Exemplo de Petshops em Florianópolis",
+  "slug": "petshops-exemplo-florianopolis",
+  "category": "petshops",
+  "uf": "sc",
+  "city": "florianopolis",
+  "address": "Rua Principal, 100 - Centro, Florianópolis - SC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Florianópolis. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.613734515237498,
+    "count": 121
+  }
+}

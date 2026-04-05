@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-teresina",
+  "name": "Exemplo de Parques em Teresina",
+  "slug": "parques-exemplo-teresina",
+  "category": "parques",
+  "uf": "pi",
+  "city": "teresina",
+  "address": "Rua Principal, 100 - Centro, Teresina - PI",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Teresina. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.5383606485716435,
+    "count": 319
+  }
+}

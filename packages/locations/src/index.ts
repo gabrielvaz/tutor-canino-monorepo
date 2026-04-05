@@ -1,43 +1,35 @@
-import fs from 'fs';
-import path from 'path';
-import type { Location, LocationCategory } from './types/location';
+import type { Location } from './types/location';
 
-const LOCATIONS_DIR = path.join(__dirname, 'data');
+// Static import of locations data
+import brasilData from './data/brazil.json';
+
+let cachedLocations: Location[] | null = null;
 
 export function getAllLocations(): Location[] {
-  const locations: Location[] = [];
-  
-  const scanDir = (dir: string) => {
-    const files = fs.readdirSync(dir);
-    for (const file of files) {
-      const fullPath = path.join(dir, file);
-      if (fs.statSync(fullPath).isDirectory()) {
-        scanDir(fullPath);
-      } else if (file.endsWith('.json')) {
-        const content = fs.readFileSync(fullPath, 'utf-8');
-        locations.push(JSON.parse(content));
-      }
-    }
-  };
-
-  if (fs.existsSync(LOCATIONS_DIR)) {
-    scanDir(LOCATIONS_DIR);
+  if (cachedLocations) {
+    return cachedLocations;
   }
-  
-  return locations;
+  cachedLocations = brasilData as Location[];
+  return cachedLocations;
 }
 
-export function getLocationsByCity(uf: string, city: string, category?: LocationCategory): Location[] {
-  const all = getAllLocations();
-  return all.filter(l => 
-    l.uf.toLowerCase() === uf.toLowerCase() && 
-    l.city.toLowerCase() === city.toLowerCase() &&
-    (!category || l.category === category)
+export function getLocationsByUF(uf: string): Location[] {
+  return getAllLocations().filter(l => l.uf.toLowerCase() === uf.toLowerCase());
+}
+
+export function getLocationsByCity(uf: string, city: string): Location[] {
+  return getAllLocations().filter(l =>
+    l.uf.toLowerCase() === uf.toLowerCase() &&
+    l.city.toLowerCase() === city.toLowerCase()
   );
 }
 
 export function getLocationBySlug(slug: string): Location | undefined {
   return getAllLocations().find(l => l.slug === slug);
+}
+
+export function getLocationCategories(): string[] {
+  return getAllLocations().map(l => l.category).filter(Boolean);
 }
 
 export * from './types/location';

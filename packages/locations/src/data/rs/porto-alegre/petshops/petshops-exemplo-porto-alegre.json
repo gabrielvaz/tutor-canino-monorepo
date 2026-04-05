@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-porto-alegre",
+  "name": "Exemplo de Petshops em Porto Alegre",
+  "slug": "petshops-exemplo-porto-alegre",
+  "category": "petshops",
+  "uf": "rs",
+  "city": "porto-alegre",
+  "address": "Rua Principal, 100 - Centro, Porto Alegre - RS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Porto Alegre. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.877709445111376,
+    "count": 275
+  }
+}

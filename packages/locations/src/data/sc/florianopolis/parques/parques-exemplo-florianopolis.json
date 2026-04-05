@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-florianopolis",
+  "name": "Exemplo de Parques em Florianópolis",
+  "slug": "parques-exemplo-florianopolis",
+  "category": "parques",
+  "uf": "sc",
+  "city": "florianopolis",
+  "address": "Rua Principal, 100 - Centro, Florianópolis - SC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Florianópolis. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.875718614819569,
+    "count": 363
+  }
+}

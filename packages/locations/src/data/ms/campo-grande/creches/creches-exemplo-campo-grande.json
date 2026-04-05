@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-campo-grande",
+  "name": "Exemplo de Creches em Campo Grande",
+  "slug": "creches-exemplo-campo-grande",
+  "category": "creches",
+  "uf": "ms",
+  "city": "campo-grande",
+  "address": "Rua Principal, 100 - Centro, Campo Grande - MS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Campo Grande. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.570392666600705,
+    "count": 241
+  }
+}

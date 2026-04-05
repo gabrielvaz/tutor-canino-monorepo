@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-cuiaba",
+  "name": "Exemplo de Parques em Cuiabá",
+  "slug": "parques-exemplo-cuiaba",
+  "category": "parques",
+  "uf": "mt",
+  "city": "cuiaba",
+  "address": "Rua Principal, 100 - Centro, Cuiabá - MT",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Cuiabá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.836212531914374,
+    "count": 207
+  }
+}

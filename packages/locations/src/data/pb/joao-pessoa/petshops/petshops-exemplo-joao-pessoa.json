@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-joao-pessoa",
+  "name": "Exemplo de Petshops em João Pessoa",
+  "slug": "petshops-exemplo-joao-pessoa",
+  "category": "petshops",
+  "uf": "pb",
+  "city": "joao-pessoa",
+  "address": "Rua Principal, 100 - Centro, João Pessoa - PB",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em João Pessoa. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.684718766436186,
+    "count": 344
+  }
+}

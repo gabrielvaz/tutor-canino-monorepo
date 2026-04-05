@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-florianopolis",
+  "name": "Exemplo de Creches em Florianópolis",
+  "slug": "creches-exemplo-florianopolis",
+  "category": "creches",
+  "uf": "sc",
+  "city": "florianopolis",
+  "address": "Rua Principal, 100 - Centro, Florianópolis - SC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Florianópolis. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.5664824597361156,
+    "count": 69
+  }
+}

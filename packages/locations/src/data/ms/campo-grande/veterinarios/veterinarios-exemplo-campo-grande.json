@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-campo-grande",
+  "name": "Exemplo de Veterinarios em Campo Grande",
+  "slug": "veterinarios-exemplo-campo-grande",
+  "category": "veterinarios",
+  "uf": "ms",
+  "city": "campo-grande",
+  "address": "Rua Principal, 100 - Centro, Campo Grande - MS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Campo Grande. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.634378361564975,
+    "count": 347
+  }
+}

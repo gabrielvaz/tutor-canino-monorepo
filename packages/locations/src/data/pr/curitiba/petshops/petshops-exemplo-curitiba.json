@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-curitiba",
+  "name": "Exemplo de Petshops em Curitiba",
+  "slug": "petshops-exemplo-curitiba",
+  "category": "petshops",
+  "uf": "pr",
+  "city": "curitiba",
+  "address": "Rua Principal, 100 - Centro, Curitiba - PR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Curitiba. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.539090223600697,
+    "count": 485
+  }
+}

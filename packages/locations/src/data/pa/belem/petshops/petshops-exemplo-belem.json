@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-belem",
+  "name": "Exemplo de Petshops em Belém",
+  "slug": "petshops-exemplo-belem",
+  "category": "petshops",
+  "uf": "pa",
+  "city": "belem",
+  "address": "Rua Principal, 100 - Centro, Belém - PA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Belém. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.5831149810672045,
+    "count": 74
+  }
+}

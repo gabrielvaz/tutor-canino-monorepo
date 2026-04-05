@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-sao-paulo",
+  "name": "Exemplo de Petshops em São Paulo",
+  "slug": "petshops-exemplo-sao-paulo",
+  "category": "petshops",
+  "uf": "sp",
+  "city": "sao-paulo",
+  "address": "Rua Principal, 100 - Centro, São Paulo - SP",
+  "phone": "(11) 0000-0000",
+  "description": "Um dos melhores locais de petshops em São Paulo. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.824806736393273,
+    "count": 472
+  }
+}

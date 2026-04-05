@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-rio-branco",
+  "name": "Exemplo de Hoteis em Rio Branco",
+  "slug": "hoteis-exemplo-rio-branco",
+  "category": "hoteis",
+  "uf": "ac",
+  "city": "rio-branco",
+  "address": "Rua Principal, 100 - Centro, Rio Branco - AC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Rio Branco. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.782759536525202,
+    "count": 348
+  }
+}

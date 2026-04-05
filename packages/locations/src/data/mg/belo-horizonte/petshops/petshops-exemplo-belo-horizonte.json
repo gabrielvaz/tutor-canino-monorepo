@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-belo-horizonte",
+  "name": "Exemplo de Petshops em Belo Horizonte",
+  "slug": "petshops-exemplo-belo-horizonte",
+  "category": "petshops",
+  "uf": "mg",
+  "city": "belo-horizonte",
+  "address": "Rua Principal, 100 - Centro, Belo Horizonte - MG",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Belo Horizonte. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.697182940898726,
+    "count": 164
+  }
+}

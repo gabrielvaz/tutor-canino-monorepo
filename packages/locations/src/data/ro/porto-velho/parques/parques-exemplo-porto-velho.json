@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-porto-velho",
+  "name": "Exemplo de Parques em Porto Velho",
+  "slug": "parques-exemplo-porto-velho",
+  "category": "parques",
+  "uf": "ro",
+  "city": "porto-velho",
+  "address": "Rua Principal, 100 - Centro, Porto Velho - RO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Porto Velho. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.773776865541236,
+    "count": 232
+  }
+}

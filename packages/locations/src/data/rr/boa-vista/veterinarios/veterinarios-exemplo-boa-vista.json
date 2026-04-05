@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-boa-vista",
+  "name": "Exemplo de Veterinarios em Boa Vista",
+  "slug": "veterinarios-exemplo-boa-vista",
+  "category": "veterinarios",
+  "uf": "rr",
+  "city": "boa-vista",
+  "address": "Rua Principal, 100 - Centro, Boa Vista - RR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Boa Vista. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.70581884897346,
+    "count": 124
+  }
+}

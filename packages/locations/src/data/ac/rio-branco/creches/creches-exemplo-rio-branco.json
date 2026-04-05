@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-rio-branco",
+  "name": "Exemplo de Creches em Rio Branco",
+  "slug": "creches-exemplo-rio-branco",
+  "category": "creches",
+  "uf": "ac",
+  "city": "rio-branco",
+  "address": "Rua Principal, 100 - Centro, Rio Branco - AC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Rio Branco. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.744296502223576,
+    "count": 174
+  }
+}

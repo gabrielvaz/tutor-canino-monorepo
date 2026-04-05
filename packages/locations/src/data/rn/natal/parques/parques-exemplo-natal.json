@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-natal",
+  "name": "Exemplo de Parques em Natal",
+  "slug": "parques-exemplo-natal",
+  "category": "parques",
+  "uf": "rn",
+  "city": "natal",
+  "address": "Rua Principal, 100 - Centro, Natal - RN",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Natal. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.879166341557699,
+    "count": 521
+  }
+}

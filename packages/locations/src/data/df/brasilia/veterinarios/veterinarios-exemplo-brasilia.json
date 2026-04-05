@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-brasilia",
+  "name": "Exemplo de Veterinarios em Brasília",
+  "slug": "veterinarios-exemplo-brasilia",
+  "category": "veterinarios",
+  "uf": "df",
+  "city": "brasilia",
+  "address": "Rua Principal, 100 - Centro, Brasília - DF",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Brasília. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.532224320098095,
+    "count": 368
+  }
+}
