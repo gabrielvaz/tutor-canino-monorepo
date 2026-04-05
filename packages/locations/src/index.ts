@@ -40,4 +40,6 @@ export function getLocationBySlug(slug: string): Location | undefined {
   return getAllLocations().find(l => l.slug === slug);
 }
 
-export * from './types/location';
+// Re-export types from location module
+export type { Location, LocationCategory, CityHub } from './types/location';
+export { LocationSchema, LocationCategorySchema } from './types/location';
