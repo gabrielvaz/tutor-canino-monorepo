@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getLocationBySlug } from '@tutorcanino/locations';
+import { StructuredData } from '@/components/seo/structured-data';
+import { generateLocationSchema } from '@/lib/seo';
 import { MapPin, Phone, Star, Clock, Globe, ChevronRight } from 'lucide-react';
 
 interface LocationDetailPageProps {
@@ -32,8 +34,11 @@ export default async function LocationDetailPage({ params }: LocationDetailPageP
 
   if (!location) notFound();
 
+  const locationSchema = generateLocationSchema(location);
+
   return (
     <div className="min-h-screen bg-gray-50/50 pb-20">
+      <StructuredData data={locationSchema} />
       {/* Header / Breadcrumb */}
       <section className="bg-white border-b border-gray-100 py-8">
         <div className="container mx-auto px-4">

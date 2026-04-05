@@ -139,7 +139,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  // 8. UTILITY PAGES - Conversion-focused
+  // 9. LOCATION HUB PAGES - Local SEO
+  const capitals = [
+    { uf: 'ac', city: 'rio-branco' }, { uf: 'al', city: 'maceio' }, { uf: 'ap', city: 'macapa' },
+    { uf: 'am', city: 'manaus' }, { uf: 'ba', city: 'salvador' }, { uf: 'ce', city: 'fortaleza' },
+    { uf: 'df', city: 'brasilia' }, { uf: 'es', city: 'vitoria' }, { uf: 'go', city: 'goiania' },
+    { uf: 'ma', city: 'sao-luis' }, { uf: 'mt', city: 'cuiaba' }, { uf: 'ms', city: 'campo-grande' },
+    { uf: 'mg', city: 'belo-horizonte' }, { uf: 'pa', city: 'belem' }, { uf: 'pb', city: 'joao-pessoa' },
+    { uf: 'pr', city: 'curitiba' }, { uf: 'pe', city: 'recife' }, { uf: 'pi', city: 'teresina' },
+    { uf: 'rj', city: 'rio-de-janeiro' }, { uf: 'rn', city: 'natal' }, { uf: 'rs', city: 'porto-alegre' },
+    { uf: 'ro', city: 'porto-velho' }, { uf: 'rr', city: 'boa-vista' }, { uf: 'sc', city: 'florianopolis' },
+    { uf: 'sp', city: 'sao-paulo' }, { uf: 'se', city: 'aracaju' }, { uf: 'to', city: 'palmas' }
+  ];
+  const locCategories = ['petshops', 'veterinarios', 'creches', 'hoteis', 'parques'];
+
+  const locationHubPages: MetadataRoute.Sitemap = capitals.flatMap(cap => 
+    locCategories.map(cat => ({
+      url: `${baseUrl}/${cat}/${cap.uf}/${cap.city}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    }))
+  );
+
+  // 10. UTILITY PAGES - Conversion-focused
   const utilityPages: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/quiz/resultado`,
