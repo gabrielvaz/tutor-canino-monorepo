@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 import { getBreedBySlug, getAllBreeds } from '@tutorcanino/data';
 import { BreedDetail } from '@/components/breeds/breed-detail';
@@ -9,6 +8,7 @@ import { CompareSuggestions } from '@/components/breeds/compare-suggestions';
 import { BreedVideos } from '@/components/breeds/breed-videos';
 import { BreedColors } from '@/components/breeds/breed-colors';
 import { BreedHistory } from '@/components/breeds/breed-history';
+import { BreedImage } from '@/components/breeds/breed-image';
 import { Badge } from '@tutorcanino/ui';
 import { StructuredData } from '@/components/seo/structured-data';
 import { generateBreedSchema, generateFAQSchema } from '@/lib/seo';
@@ -73,8 +73,8 @@ export default async function BreedPage({ params }: BreedPageProps) {
       
       {/* Hero Banner Section */}
       <section className="relative h-[50vh] md:h-[60vh] min-h-[400px] w-full overflow-hidden bg-gray-900">
-        <Image
-          src={breed.imagem_principal || '/images/breeds/placeholder.svg'}
+        <BreedImage
+          src={breed.imagem_principal}
           alt={breed.nome}
           fill
           className="object-cover opacity-80"

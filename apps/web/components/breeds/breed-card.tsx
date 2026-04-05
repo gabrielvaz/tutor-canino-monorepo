@@ -1,10 +1,10 @@
 'use client';
 
 import Link from 'next/link';
-import Image from 'next/image';
 import { Badge, Card } from '@tutorcanino/ui';
 import type { Breed } from '@tutorcanino/data';
 import { PawPrint, Heart } from 'lucide-react';
+import { BreedImage } from './breed-image';
 
 interface BreedCardProps {
   breed: Breed;
@@ -14,13 +14,10 @@ export function BreedCard({ breed }: BreedCardProps) {
   // Use fields from the new professional schema
   const { nome, slug, categoria, imagem_principal, sobre, popularidade, caracteristicas } = breed;
 
-  const categoryLabel = categoria === 'Pequeno' ? 'Pequeno Porte' : 
-                       categoria === 'Médio' ? 'Médio Porte' : 
-                       categoria === 'Grande' ? 'Grande Porte' : 
+  const categoryLabel = categoria === 'Pequeno' ? 'Pequeno Porte' :
+                       categoria === 'Médio' ? 'Médio Porte' :
+                       categoria === 'Grande' ? 'Grande Porte' :
                        categoria;
-
-  // Image validation fallback
-  const imagem = imagem_principal || '/images/breeds/placeholder.svg';
 
   // Content summary
   const descricao = sobre?.descricao || `${nome} - ${categoryLabel}`;
@@ -40,12 +37,11 @@ export function BreedCard({ breed }: BreedCardProps) {
     <Link href={`/racas/${slug}`} className="group block h-full">
       <Card className="h-full overflow-hidden border-gray-200 hover:border-primary/40 hover:shadow-xl transition-all duration-300 rounded-3xl">
         <div className="relative aspect-[4/3] bg-gray-100 overflow-hidden">
-          <Image
-            src={imagem}
+          <BreedImage
+            src={imagem_principal}
             alt={nome}
             fill
             className="object-cover group-hover:scale-105 transition-transform duration-700"
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
           <div className="absolute top-3 left-3">
             <Badge className="bg-white/90 backdrop-blur-sm text-gray-900 border-none shadow-sm font-bold text-xs py-1 px-2.5 rounded-full">
