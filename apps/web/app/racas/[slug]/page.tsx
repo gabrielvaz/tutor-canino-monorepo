@@ -4,8 +4,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getBreedBySlug, getAllBreeds } from '@tutorcanino/data';
 import { BreedDetail } from '@/components/breeds/breed-detail';
-import { RelatedBreeds } from '@/components/breeds/related-breeds';
+import { RelatedBreedsEnhanced } from '@/components/breeds/related-breeds-enhanced';
 import { CompareSuggestions } from '@/components/breeds/compare-suggestions';
+import { BreedVideos } from '@/components/breeds/breed-videos';
+import { BreedColors } from '@/components/breeds/breed-colors';
+import { BreedHistory } from '@/components/breeds/breed-history';
 import { Badge } from '@tutorcanino/ui';
 import { StructuredData } from '@/components/seo/structured-data';
 import { generateBreedSchema, generateFAQSchema } from '@/lib/seo';
@@ -144,8 +147,30 @@ export default async function BreedPage({ params }: BreedPageProps) {
         </div>
       </div>
 
-      {/* Related Breeds */}
-      <RelatedBreeds currentBreed={breed} />
+      {/* New Multimedia Sections */}
+      {breed.videos_youtube && breed.videos_youtube.length > 0 && (
+        <div className="container mx-auto px-4 mb-20">
+          <BreedVideos videos={breed.videos_youtube} breedName={breed.nome} />
+        </div>
+      )}
+
+      {(breed.cores_disponiveis || breed.marcacoes) && (
+        <div className="container mx-auto px-4 mb-20">
+          <BreedColors colors={breed.cores_disponive} marks={breed.marcacoes} />
+        </div>
+      )}
+
+      {breed.curiosidades_historicas && (
+        <div className="container mx-auto px-4 mb-20">
+          <BreedHistory
+            history={breed.curiosidades_historicas}
+            references={breed.referencias_externas}
+          />
+        </div>
+      )}
+
+      {/* Related Breeds - Enhanced */}
+      <RelatedBreedsEnhanced currentBreed={breed} />
 
       {/* Compare Suggestions */}
       <CompareSuggestions currentBreed={breed} />

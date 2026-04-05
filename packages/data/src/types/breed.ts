@@ -67,6 +67,25 @@ export const BreedSchema = z.object({
   galeria: z.array(z.string()).optional(),
   video_url: z.string().optional(),
 
+  // Conteúdo Multimídia (dos backups)
+  videos_youtube: z.array(z.object({
+    titulo: z.string(),
+    url: z.string(),
+    canal: z.string().optional(),
+    thumbnail: z.string().optional(),
+    duracao: z.string().optional(),
+  })).optional(),
+
+  racas_relacionadas: z.array(z.string()).optional(),
+  cores_disponiveis: z.array(z.string()).optional(),
+  marcacoes: z.array(z.string()).optional(),
+  curiosidades_historicas: z.string().optional(),
+  referencias_externas: z.array(z.object({
+    titulo: z.string(),
+    url: z.string(),
+    descricao: z.string().optional(),
+  })).optional(),
+
   // Metadados
   popularidade: z.number().optional(),
   ranking_brasil: z.number().optional(),

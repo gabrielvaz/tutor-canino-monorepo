@@ -79,6 +79,52 @@
     "/images/breeds/golden-retriever-3.jpg"
   ],
   "video_url": "https://youtube.com/watch?v=golden-retriever",
+  "videos_youtube": [
+    {
+      "titulo": "Golden Retriever - Tudo sobre a raça",
+      "url": "https://www.youtube.com/watch?v=example-golden",
+      "canal": "Pet Brasil",
+      "thumbnail": "https://img.youtube.com/vi/example-golden/hqdefault.jpg"
+    },
+    {
+      "titulo": "Golden Retriever: Características e Temperamento",
+      "url": "https://www.youtube.com/watch?v=example-golden-temp",
+      "canal": "Mundo Pet",
+      "duracao": "12:34"
+    },
+    {
+      "titulo": "Como adestrar seu Golden Retriever",
+      "url": "https://www.youtube.com/watch?v=example-golden-train",
+      "canal": "Turbo Treino"
+    }
+  ],
+  "racas_relacionadas": [
+    "labrador-retriever",
+    "pastor-alemao",
+    "border-collie"
+  ],
+  "cores_disponiveis": [
+    "Dourado",
+    "Creme",
+    "Escuro"
+  ],
+  "marcacoes": [
+    "Mancha branca no peito",
+    "Dourado uniforme"
+  ],
+  "curiosidades_historicas": "O Golden Retriever foi desenvolvido na Escócia em meados do século XIX pelo Lord Tweedmouth, e ganhou popularidade rapidamente por ser um excelente cão de caça e retriever de água, mesmo em condições climáticas adversas. É uma das raças mais populares do mundo.",
+  "referencias_externas": [
+    {
+      "titulo": "American Kennel Club - Golden Retriever",
+      "url": "https://www.akc.org/dog-breeds/golden-retriever/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos"
+    },
+    {
+      "titulo": "CBKC - Golden Retriever",
+      "url": "https://www.cbkc.org.br/breeds/golden-retriever",
+      "descricao": "Padrão oficial da raça no Brasil"
+    }
+  ],
   "popularidade": 33125,
   "ranking_brasil": 125,
   "custo_mensal_estimado": [
