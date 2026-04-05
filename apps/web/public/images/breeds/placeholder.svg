@@ -1,11 +1,14 @@
-<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <rect width="400" height="300" fill="#f3f4f6"/>
-  <circle cx="200" cy="150" r="40" fill="#d1d5db"/>
-  <rect x="180" y="180" width="40" height="50" rx="5" fill="#d1d5db"/>
-  <circle cx="185" cy="140" r="5" fill="#9ca3af"/>
-  <circle cx="215" cy="140" r="5" fill="#9ca3af"/>
-  <ellipse cx="200" cy="165" rx="12" ry="8" fill="#9ca3af"/>
-  <path d="M160 130 Q140 100 160 110" stroke="#d1d5db" stroke-width="8" fill="none" stroke-linecap="round"/>
-  <path d="M240 130 Q260 100 240 110" stroke="#d1d5db" stroke-width="8" fill="none" stroke-linecap="round"/>
-  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">Foto em breve</text>
+  <g fill="#d1d5db" transform="translate(100, 50) scale(0.8)">
+    <!-- Simple dog silhouette -->
+    <path d="M180 180 L180 150 Q180 140 175 135 L165 125 Q160 120 155 120 L140 120 Q130 120 125 130 L120 140 Q115 150 110 150 L90 150 Q80 150 75 145 L70 140 Q65 135 60 135 L50 135 Q40 135 40 145 L40 160 Q40 170 45 175 L55 185 Q60 190 65 190 L85 190 L85 210 Q85 220 90 225 L100 235 L100 250 Q100 255 105 255 L115 255 Q120 255 120 250 L120 235 L200 235 L200 250 Q200 255 205 255 L215 255 Q220 255 220 250 L220 235 L230 225 Q235 220 235 210 L235 190 L255 190 Q260 190 265 185 L275 175 Q280 170 280 160 L280 145 Q280 135 270 135 L260 135 Q255 135 250 140 L245 145 Q240 150 230 150 L210 150 Q205 150 200 140 L195 130 Q190 120 180 120 L165 120 Q160 120 155 125 L145 135 Q140 140 140 150 L140 180 Z"/>
+    <!-- Ears -->
+    <path d="M140 120 L135 100 Q133 90 138 85 L145 80 Q150 85 148 95 L145 115 Z"/>
+    <path d="M200 120 L205 100 Q207 90 202 85 L195 80 Q190 85 192 95 L195 115 Z"/>
+    <!-- Tail -->
+    <path d="M280 150 L290 140 Q295 135 295 145 L290 160 Q285 170 280 165 Z"/>
+    <!-- Eye -->
+    <circle cx="115" cy="140" r="3" fill="#9ca3af"/>
+  </g>
 </svg>
