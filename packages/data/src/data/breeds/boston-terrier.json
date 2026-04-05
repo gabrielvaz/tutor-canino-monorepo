@@ -4,76 +4,85 @@
   "slug": "boston-terrier",
   "nome_en": "Boston Terrier",
   "apelidos": [
-    "Boston",
-    "Terrier"
+    "Cavalheiro Americano",
+    "American Gentleman",
+    "Boston"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "30 cm",
-    "altura_femea": "25 cm",
-    "peso_macho": "10.8 kg",
-    "peso_femea": "8 kg",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "38 - 43 cm",
+    "altura_femea": "38 - 43 cm",
+    "peso_macho": "6.8 - 11.3 kg",
+    "peso_femea": "6.8 - 11.3 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
     "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 4,
-    "latido": 3,
-    "afeicao_familia": 3,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Boston Terrier é uma raça de porte pequeno originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Boston Terrier originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Boston Terrier é carinhosamente conhecido como o 'Cavalheiro Americano', não apenas por sua pelagem que lembra um smoking, mas por sua natureza gentil e boas maneiras. É um cão de porte pequeno a médio, compacto e bem constituído, com uma cabeça quadrada característica, orelhas eretas e olhos grandes e redondos que brilham com inteligência e humor. Sua cauda é naturalmente curta e seu focinho é achatado (braquicefálico). O Boston Terrier é o companheiro urbano perfeito: elegante, adaptável, afetuoso e dotado de uma sensibilidade aguçada aos sentimentos de seus tutores.",
+    "historia": "Diferente de muitas raças antigas, o Boston Terrier tem uma origem bem documentada. Ele surgiu em Boston, Massachusetts, por volta de 1870. Seu ancestral original foi um cão chamado 'Judge', um cruzamento de Bulldog Inglês com o extinto White English Terrier. Inicialmente, a raça era maior e mais robusta, usada para combates, mas os criadores rapidamente focaram em miniaturizar o cão e suavizar seu temperamento para torná-lo um animal de companhia. Em 1893, o Boston Terrier tornou-se a primeira raça desenvolvida nos EUA a ser oficialmente reconhecida pelo American Kennel Club (AKC).",
     "curiosidades": [
-      "Boston Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Boston Terrier é a mascote oficial da Universidade de Boston desde 1922.",
+      "Eles são uma das poucas raças que são verdadeiramente 'Made in USA'.",
+      "O apelido 'Cavalheiro Americano' foi dado devido à sua marcação de smoking e seu temperamento dócil.",
+      "Diferente dos bulldogs, o Boston Terrier é muito ágil e pode ser um excelente competidor de Agility.",
+      "Eles possuem uma ampla gama de expressões faciais, sendo considerados um dos cães mais 'comunicativos' através do olhar."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é extremamente paciente e brincalhão)",
+      "Pessoas que vivem em apartamentos e grandes centros urbanos",
+      "Tutores de primeira viagem que buscam um cão equilibrado",
+      "Proprietários que desejam um companheiro para todas as horas",
+      "Quem busca um cão que late pouco e se adapta bem a diferentes rotinas"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que vivem em locais com calor extremo sem refrigeração (devido ao focinho curto)",
+      "Pessoas que se incomodam com ruídos respiratórios como roncos e flatulência",
+      "Pessoas que planejam deixar o cão sozinho no quintal (ele é um cão estritamente de interior)",
+      "Ambientes com piscinas sem supervisão (como muitos cães atarracados, não são exímios nadadores)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Problemas oculares (Catarata, Úlceras de Córnea, Olho Seco)",
+      "Luxação de Patela",
+      "Alergias de pele",
+      "Surdez congênita (em alguns exemplares)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups oftalmológicos regulares são cruciais. Monitoramento da respiração em dias quentes ou durante exercícios intensos. Limpeza das dobras faciais para evitar dermatites."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é mínima. Uma escovação semanal com luva de borracha é suficiente para remover os poucos pelos mortos. Banhos ocasionais mantêm o cão limpo. É importante manter os olhos limpos e protegidos de traumas devido à sua proeminência.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias e sessões de brincadeira dentro de casa ou em quintais seguros são suficientes. Ele adora jogos de busca e interagir com seus humanos.",
+    "treinamento": "Muito inteligente e ansioso para agradar, o Boston Terrier aprende rápido. Eles são sensíveis ao tom de voz, então o reforço positivo e elogios funcionam muito melhor do que correções severas.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. Deve-se ter cuidado com a obesidade, que pode agravar problemas respiratórios e articulares. Tendem a ter muitos gases, então uma dieta de fácil digestão é recomendada."
   },
   "seo": {
-    "title": "Boston Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Boston Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Boston Terrier: O Cavalheiro Americano - Guia Completo e Cuidados",
+    "description": "Tudo sobre o Boston Terrier: conheça o temperamento dócil, a pelagem de smoking e os cuidados com a saúde deste charmoso cão americano.",
     "keywords": [
-      "boston-terrier",
-      "boston terrier",
-      "pequeno",
-      "estados unidos"
+      "Boston Terrier",
+      "Cavalheiro Americano",
+      "American Gentleman",
+      "cão de smoking",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Boston Terrier",
+      "temperamento Boston Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/boston-terrier.jpg",
@@ -82,11 +91,53 @@
     "/images/breeds/boston-terrier-2.jpg",
     "/images/breeds/boston-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=boston-terrier",
-  "popularidade": 32005,
-  "ranking_brasil": 102,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Boston Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-boston",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-boston/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Boston Terrier",
+      "url": "https://www.youtube.com/watch?v=example-boston-life",
+      "canal": "Tutor Canino",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bulldog-frances",
+    "pug",
+    "bulldog-ingles"
+  ],
+  "cores_disponiveis": [
+    "Preto e Branco",
+    "Brindle (Tigrado) e Branco",
+    "Seal (Foca) e Branco"
+  ],
+  "marcacoes": [
+    "Marcação de Smoking (peito e pescoço brancos)",
+    "Blaze facial branco",
+    "Focinho branco"
+  ],
+  "curiosidades_historicas": "No início, a raça era chamada de 'American Bull Terrier', mas os entusiastas da raça Bull Terrier protestaram. O nome foi então mudado para 'Boston Terrier' em homenagem à cidade onde foi criada. Em 1979, o Boston Terrier tornou-se oficialmente o cão do estado de Massachusetts.",
+  "referencias_externas": [
+    {
+      "titulo": "Boston Terrier Club of America",
+      "url": "https://www.bostonterrierclubofamerica.org/",
+      "descricao": "Clube oficial com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "AKC - Boston Terrier Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/boston-terrier/",
+      "descricao": "Padrão oficial e história da raça no seu país de origem."
+    }
+  ],
+  "popularidade": 35000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    343,
-    1354
+    300,
+    750
   ]
 }
