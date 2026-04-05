@@ -39,3 +39,4 @@ Em desenvolvimento... 🚧
 ## 📄 Licença
 
 MIT
+# Cache bust 1775412750
