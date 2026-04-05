@@ -1,7 +1,7 @@
 [build]
   command = "pnpm run build"
-  publish = ".next"
-  functions = ".next/server/app"
+  publish = "apps/web/.next"
+  functions = "apps/web/.next/server/app"
 
 [build.environment]
   NODE_VERSION = "22.22.2"
