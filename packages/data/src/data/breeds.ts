@@ -432,7 +432,11 @@ export function getAllBreeds(): Breed[] {
 }
 
 export function getBreedBySlug(slug: string): Breed | null {
-  return allBreeds.find(breed => breed.slug === slug) || null;
+  const breed = allBreeds.find(breed => breed.slug === slug);
+  if (slug === 'golden-retriever' && breed?.videos_youtube) {
+    console.log('[MULTIMEDIA] Golden Retriever has', breed.videos_youtube.length, 'videos');
+  }
+  return breed || null;
 }
 
 export function getBreedById(id: string): Breed | null {
