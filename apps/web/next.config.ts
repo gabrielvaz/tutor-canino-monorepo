@@ -21,13 +21,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  // Otimização para Vercel
-  typescript: {
-    ignoreBuildErrors: false,
-  },
-  eslint: {
-    ignoreDuringBuilds: false,
-  },
 };
 
 export default nextConfig;

@@ -1,3 +1,5 @@
+'use client';
+
 import { BreedCard } from './breed-card';
 import type { Breed } from '@tutorcanino/data';
 
