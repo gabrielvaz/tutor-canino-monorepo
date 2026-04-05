@@ -26,6 +26,23 @@ export interface BreedContent {
   sources: string[];
 }
 
+export interface ComparisonVerdict {
+  breed1: string;
+  breed2: string;
+  summary: string;
+  comparisons: {
+    temperament: string;
+    maintenance: string;
+    suitability: string;
+  };
+  winnerBadges: {
+    apartment?: string;
+    family?: string;
+    activeOwner?: string;
+    firstTimeOwner?: string;
+  };
+}
+
 export interface FAQItem {
   question: string;
   answer: string;
@@ -38,9 +55,14 @@ export interface BreedGenerationOptions {
   maxLength?: number;
 }
 
+export interface ComparisonGenerationOptions {
+  locale?: 'pt-BR' | 'en';
+}
+
 export interface GenerationResult {
   success: boolean;
   content?: BreedContent;
+  verdict?: ComparisonVerdict;
   error?: string;
   tokensUsed?: number;
 }

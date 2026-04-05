@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { getBreedBySlug, getAllBreeds } from '@tutorcanino/data';
 import { BreedDetail } from '@/components/breeds/breed-detail';
 import { RelatedBreeds } from '@/components/breeds/related-breeds';
+import { CompareSuggestions } from '@/components/breeds/compare-suggestions';
 import { Badge } from '@tutorcanino/ui';
 import { StructuredData } from '@/components/seo/structured-data';
 import { generateBreedSchema } from '@/lib/seo';
@@ -83,7 +84,7 @@ export default async function BreedPage({ params }: BreedPageProps) {
         </div>
 
         <div className="absolute bottom-0 left-0 w-full p-8 md:p-16 pb-20 md:pb-24">
-          <div className="container mx-auto flex flex-col md:flex-row md:items-end justify-between gap-8">
+          <div className="container mx-auto flex flex-col md:flex-row md:items-end justify-between gap-8 animate-fade-in-up">
             <div className="max-w-3xl">
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary text-white text-xs font-black uppercase tracking-widest mb-4 shadow-lg shadow-primary/20">
                 <PawPrint size={14} />
@@ -128,7 +129,7 @@ export default async function BreedPage({ params }: BreedPageProps) {
       </section>
 
       {/* Main Content */}
-      <div className="container mx-auto px-4 -mt-16 relative z-10 mb-20">
+      <div className="container mx-auto px-4 -mt-16 relative z-10 mb-20 animate-reveal delay-200">
         <div className="bg-white rounded-[3rem] shadow-2xl shadow-gray-200/50 p-8 md:p-16 border border-gray-100">
           <BreedDetail breed={breed} />
         </div>
@@ -136,6 +137,9 @@ export default async function BreedPage({ params }: BreedPageProps) {
 
       {/* Related Breeds */}
       <RelatedBreeds currentBreed={breed} />
+
+      {/* Compare Suggestions */}
+      <CompareSuggestions currentBreed={breed} />
     </div>
   );
 }

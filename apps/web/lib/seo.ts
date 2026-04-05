@@ -53,6 +53,29 @@ export function generateBreedSchema(breed: Breed) {
   };
 }
 
+export function generateComparisonSchema(breed1: Breed, breed2: Breed) {
+  const baseUrl = 'https://tutorcanino.com';
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Comparação: ${breed1.nome} vs ${breed2.nome}`,
+    description: `Diferenças técnicas e de temperamento entre ${breed1.nome} e ${breed2.nome}.`,
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        item: generateBreedSchema(breed1)
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        item: generateBreedSchema(breed2)
+      }
+    ]
+  };
+}
+
 export function generateOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
