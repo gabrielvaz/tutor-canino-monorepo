@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-sao-luis",
+  "name": "Exemplo de Veterinarios em São Luís",
+  "slug": "veterinarios-exemplo-sao-luis",
+  "category": "veterinarios",
+  "uf": "ma",
+  "city": "sao-luis",
+  "address": "Rua Principal, 100 - Centro, São Luís - MA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em São Luís. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.949450372777033,
+    "count": 382
+  }
+}

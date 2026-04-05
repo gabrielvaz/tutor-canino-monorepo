@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-natal",
+  "name": "Exemplo de Petshops em Natal",
+  "slug": "petshops-exemplo-natal",
+  "category": "petshops",
+  "uf": "rn",
+  "city": "natal",
+  "address": "Rua Principal, 100 - Centro, Natal - RN",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Natal. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.691842687248379,
+    "count": 169
+  }
+}

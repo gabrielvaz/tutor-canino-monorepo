@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-belem",
+  "name": "Exemplo de Hoteis em Belém",
+  "slug": "hoteis-exemplo-belem",
+  "category": "hoteis",
+  "uf": "pa",
+  "city": "belem",
+  "address": "Rua Principal, 100 - Centro, Belém - PA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Belém. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.603004160856635,
+    "count": 149
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-palmas",
+  "name": "Exemplo de Hoteis em Palmas",
+  "slug": "hoteis-exemplo-palmas",
+  "category": "hoteis",
+  "uf": "to",
+  "city": "palmas",
+  "address": "Rua Principal, 100 - Centro, Palmas - TO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Palmas. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.622195729882625,
+    "count": 71
+  }
+}

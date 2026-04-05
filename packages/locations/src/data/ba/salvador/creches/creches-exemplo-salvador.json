@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-salvador",
+  "name": "Exemplo de Creches em Salvador",
+  "slug": "creches-exemplo-salvador",
+  "category": "creches",
+  "uf": "ba",
+  "city": "salvador",
+  "address": "Rua Principal, 100 - Centro, Salvador - BA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Salvador. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.880511881258489,
+    "count": 102
+  }
+}

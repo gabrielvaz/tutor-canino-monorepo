@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-brasilia",
+  "name": "Exemplo de Creches em Brasília",
+  "slug": "creches-exemplo-brasilia",
+  "category": "creches",
+  "uf": "df",
+  "city": "brasilia",
+  "address": "Rua Principal, 100 - Centro, Brasília - DF",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Brasília. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.572998611769789,
+    "count": 99
+  }
+}

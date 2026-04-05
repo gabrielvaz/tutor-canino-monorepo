@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-belem",
+  "name": "Exemplo de Veterinarios em Belém",
+  "slug": "veterinarios-exemplo-belem",
+  "category": "veterinarios",
+  "uf": "pa",
+  "city": "belem",
+  "address": "Rua Principal, 100 - Centro, Belém - PA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Belém. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.807072444779356,
+    "count": 344
+  }
+}

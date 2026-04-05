@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-macapa",
+  "name": "Exemplo de Petshops em Macapá",
+  "slug": "petshops-exemplo-macapa",
+  "category": "petshops",
+  "uf": "ap",
+  "city": "macapa",
+  "address": "Rua Principal, 100 - Centro, Macapá - AP",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Macapá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.998168487191321,
+    "count": 270
+  }
+}

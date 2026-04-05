@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-teresina",
+  "name": "Exemplo de Creches em Teresina",
+  "slug": "creches-exemplo-teresina",
+  "category": "creches",
+  "uf": "pi",
+  "city": "teresina",
+  "address": "Rua Principal, 100 - Centro, Teresina - PI",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Teresina. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.963309476319051,
+    "count": 134
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-aracaju",
+  "name": "Exemplo de Veterinarios em Aracaju",
+  "slug": "veterinarios-exemplo-aracaju",
+  "category": "veterinarios",
+  "uf": "se",
+  "city": "aracaju",
+  "address": "Rua Principal, 100 - Centro, Aracaju - SE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Aracaju. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.706987989481351,
+    "count": 358
+  }
+}

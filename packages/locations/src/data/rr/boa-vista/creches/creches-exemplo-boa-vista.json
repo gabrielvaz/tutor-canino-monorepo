@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-boa-vista",
+  "name": "Exemplo de Creches em Boa Vista",
+  "slug": "creches-exemplo-boa-vista",
+  "category": "creches",
+  "uf": "rr",
+  "city": "boa-vista",
+  "address": "Rua Principal, 100 - Centro, Boa Vista - RR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Boa Vista. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.663288183296001,
+    "count": 73
+  }
+}

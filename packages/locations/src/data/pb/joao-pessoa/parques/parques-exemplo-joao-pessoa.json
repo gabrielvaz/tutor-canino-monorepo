@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-joao-pessoa",
+  "name": "Exemplo de Parques em João Pessoa",
+  "slug": "parques-exemplo-joao-pessoa",
+  "category": "parques",
+  "uf": "pb",
+  "city": "joao-pessoa",
+  "address": "Rua Principal, 100 - Centro, João Pessoa - PB",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em João Pessoa. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.89167052368975,
+    "count": 431
+  }
+}

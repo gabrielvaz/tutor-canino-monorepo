@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-fortaleza",
+  "name": "Exemplo de Hoteis em Fortaleza",
+  "slug": "hoteis-exemplo-fortaleza",
+  "category": "hoteis",
+  "uf": "ce",
+  "city": "fortaleza",
+  "address": "Rua Principal, 100 - Centro, Fortaleza - CE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Fortaleza. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.937350476389544,
+    "count": 263
+  }
+}

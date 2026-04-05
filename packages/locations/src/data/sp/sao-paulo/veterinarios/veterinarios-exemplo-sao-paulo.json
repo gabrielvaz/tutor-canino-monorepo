@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-sao-paulo",
+  "name": "Exemplo de Veterinarios em São Paulo",
+  "slug": "veterinarios-exemplo-sao-paulo",
+  "category": "veterinarios",
+  "uf": "sp",
+  "city": "sao-paulo",
+  "address": "Rua Principal, 100 - Centro, São Paulo - SP",
+  "phone": "(11) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em São Paulo. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.858317720045437,
+    "count": 241
+  }
+}

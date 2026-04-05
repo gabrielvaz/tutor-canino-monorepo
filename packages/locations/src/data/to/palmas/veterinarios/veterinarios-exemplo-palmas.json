@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-palmas",
+  "name": "Exemplo de Veterinarios em Palmas",
+  "slug": "veterinarios-exemplo-palmas",
+  "category": "veterinarios",
+  "uf": "to",
+  "city": "palmas",
+  "address": "Rua Principal, 100 - Centro, Palmas - TO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Palmas. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.863987351393177,
+    "count": 280
+  }
+}

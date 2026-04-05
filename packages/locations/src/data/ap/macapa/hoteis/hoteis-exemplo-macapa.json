@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-macapa",
+  "name": "Exemplo de Hoteis em Macapá",
+  "slug": "hoteis-exemplo-macapa",
+  "category": "hoteis",
+  "uf": "ap",
+  "city": "macapa",
+  "address": "Rua Principal, 100 - Centro, Macapá - AP",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Macapá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.65687758245797,
+    "count": 272
+  }
+}

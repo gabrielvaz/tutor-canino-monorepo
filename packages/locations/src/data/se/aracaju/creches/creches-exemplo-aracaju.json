@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-aracaju",
+  "name": "Exemplo de Creches em Aracaju",
+  "slug": "creches-exemplo-aracaju",
+  "category": "creches",
+  "uf": "se",
+  "city": "aracaju",
+  "address": "Rua Principal, 100 - Centro, Aracaju - SE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Aracaju. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.503262517435631,
+    "count": 160
+  }
+}

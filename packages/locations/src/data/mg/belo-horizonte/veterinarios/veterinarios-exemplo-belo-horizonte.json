@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-belo-horizonte",
+  "name": "Exemplo de Veterinarios em Belo Horizonte",
+  "slug": "veterinarios-exemplo-belo-horizonte",
+  "category": "veterinarios",
+  "uf": "mg",
+  "city": "belo-horizonte",
+  "address": "Rua Principal, 100 - Centro, Belo Horizonte - MG",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Belo Horizonte. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.74030662451295,
+    "count": 403
+  }
+}

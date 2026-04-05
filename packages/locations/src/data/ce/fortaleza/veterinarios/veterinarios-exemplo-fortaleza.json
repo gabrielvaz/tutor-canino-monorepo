@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-fortaleza",
+  "name": "Exemplo de Veterinarios em Fortaleza",
+  "slug": "veterinarios-exemplo-fortaleza",
+  "category": "veterinarios",
+  "uf": "ce",
+  "city": "fortaleza",
+  "address": "Rua Principal, 100 - Centro, Fortaleza - CE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Fortaleza. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.820995317440509,
+    "count": 312
+  }
+}

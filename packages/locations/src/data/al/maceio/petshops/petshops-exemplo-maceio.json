@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-maceio",
+  "name": "Exemplo de Petshops em Maceió",
+  "slug": "petshops-exemplo-maceio",
+  "category": "petshops",
+  "uf": "al",
+  "city": "maceio",
+  "address": "Rua Principal, 100 - Centro, Maceió - AL",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Maceió. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.753624037502714,
+    "count": 171
+  }
+}

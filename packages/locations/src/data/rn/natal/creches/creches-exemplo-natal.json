@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-natal",
+  "name": "Exemplo de Creches em Natal",
+  "slug": "creches-exemplo-natal",
+  "category": "creches",
+  "uf": "rn",
+  "city": "natal",
+  "address": "Rua Principal, 100 - Centro, Natal - RN",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Natal. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.527178473101997,
+    "count": 277
+  }
+}

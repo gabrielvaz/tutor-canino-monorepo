@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-porto-alegre",
+  "name": "Exemplo de Creches em Porto Alegre",
+  "slug": "creches-exemplo-porto-alegre",
+  "category": "creches",
+  "uf": "rs",
+  "city": "porto-alegre",
+  "address": "Rua Principal, 100 - Centro, Porto Alegre - RS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Porto Alegre. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.500630917743072,
+    "count": 513
+  }
+}

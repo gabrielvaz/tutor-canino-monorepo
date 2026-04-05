@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-recife",
+  "name": "Exemplo de Parques em Recife",
+  "slug": "parques-exemplo-recife",
+  "category": "parques",
+  "uf": "pe",
+  "city": "recife",
+  "address": "Rua Principal, 100 - Centro, Recife - PE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Recife. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.770653511971564,
+    "count": 272
+  }
+}

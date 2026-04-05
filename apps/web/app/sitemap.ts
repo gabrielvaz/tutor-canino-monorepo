@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllBreeds, getPopularBreeds, getBreedsByCategory } from '@tutorcanino/data';
+import { getAllLocations } from '@tutorcanino/locations';
 
 const baseUrl = 'https://tutorcanino.com.br';
 
@@ -7,6 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const breeds = getAllBreeds();
   const popularBreeds = getPopularBreeds(20); // Top 20 for comparisons
   const categories = ['Pequeno', 'Médio', 'Grande', 'Gigante'] as const;
+  const locations = getAllLocations();
 
   // 1. MAIN PAGES - Highest priority
   const mainPages: MetadataRoute.Sitemap = [
@@ -162,7 +164,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  // 10. UTILITY PAGES - Conversion-focused
+  // 10. INDIVIDUAL LOCATION PAGES - Deep Local SEO
+  const individualLocationPages: MetadataRoute.Sitemap = locations.map(loc => ({
+    url: `${baseUrl}/${loc.category}/${loc.uf}/${loc.city}/${loc.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.6,
+  }));
+
+  // 11. UTILITY PAGES - Conversion-focused
   const utilityPages: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/quiz/resultado`,
@@ -187,6 +197,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...faqPages,
     ...glossaryPages,
     ...locationHubPages,
+    ...individualLocationPages,
     ...utilityPages,
   ];
 }

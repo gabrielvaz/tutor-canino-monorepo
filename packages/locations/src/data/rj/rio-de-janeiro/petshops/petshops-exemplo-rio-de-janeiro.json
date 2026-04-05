@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-rio-de-janeiro",
+  "name": "Exemplo de Petshops em Rio de Janeiro",
+  "slug": "petshops-exemplo-rio-de-janeiro",
+  "category": "petshops",
+  "uf": "rj",
+  "city": "rio-de-janeiro",
+  "address": "Rua Principal, 100 - Centro, Rio de Janeiro - RJ",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Rio de Janeiro. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.867018290232703,
+    "count": 140
+  }
+}

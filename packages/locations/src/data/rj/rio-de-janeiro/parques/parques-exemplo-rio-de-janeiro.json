@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-rio-de-janeiro",
+  "name": "Exemplo de Parques em Rio de Janeiro",
+  "slug": "parques-exemplo-rio-de-janeiro",
+  "category": "parques",
+  "uf": "rj",
+  "city": "rio-de-janeiro",
+  "address": "Rua Principal, 100 - Centro, Rio de Janeiro - RJ",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Rio de Janeiro. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.6787977977576,
+    "count": 69
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-porto-alegre",
+  "name": "Exemplo de Hoteis em Porto Alegre",
+  "slug": "hoteis-exemplo-porto-alegre",
+  "category": "hoteis",
+  "uf": "rs",
+  "city": "porto-alegre",
+  "address": "Rua Principal, 100 - Centro, Porto Alegre - RS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Porto Alegre. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.896167466337994,
+    "count": 523
+  }
+}

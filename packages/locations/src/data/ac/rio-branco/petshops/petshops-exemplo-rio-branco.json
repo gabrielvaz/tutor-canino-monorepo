@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-rio-branco",
+  "name": "Exemplo de Petshops em Rio Branco",
+  "slug": "petshops-exemplo-rio-branco",
+  "category": "petshops",
+  "uf": "ac",
+  "city": "rio-branco",
+  "address": "Rua Principal, 100 - Centro, Rio Branco - AC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Rio Branco. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.586317665027256,
+    "count": 102
+  }
+}

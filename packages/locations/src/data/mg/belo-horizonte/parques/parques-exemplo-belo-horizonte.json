@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-belo-horizonte",
+  "name": "Exemplo de Parques em Belo Horizonte",
+  "slug": "parques-exemplo-belo-horizonte",
+  "category": "parques",
+  "uf": "mg",
+  "city": "belo-horizonte",
+  "address": "Rua Principal, 100 - Centro, Belo Horizonte - MG",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Belo Horizonte. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.933506482325326,
+    "count": 69
+  }
+}

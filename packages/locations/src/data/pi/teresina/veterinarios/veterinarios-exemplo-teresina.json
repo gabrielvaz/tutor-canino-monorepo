@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-teresina",
+  "name": "Exemplo de Veterinarios em Teresina",
+  "slug": "veterinarios-exemplo-teresina",
+  "category": "veterinarios",
+  "uf": "pi",
+  "city": "teresina",
+  "address": "Rua Principal, 100 - Centro, Teresina - PI",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Teresina. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.724871494939318,
+    "count": 406
+  }
+}

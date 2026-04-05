@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-curitiba",
+  "name": "Exemplo de Creches em Curitiba",
+  "slug": "creches-exemplo-curitiba",
+  "category": "creches",
+  "uf": "pr",
+  "city": "curitiba",
+  "address": "Rua Principal, 100 - Centro, Curitiba - PR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Curitiba. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.676642273886618,
+    "count": 437
+  }
+}

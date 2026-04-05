@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-sao-luis",
+  "name": "Exemplo de Hoteis em São Luís",
+  "slug": "hoteis-exemplo-sao-luis",
+  "category": "hoteis",
+  "uf": "ma",
+  "city": "sao-luis",
+  "address": "Rua Principal, 100 - Centro, São Luís - MA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em São Luís. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.532983915934144,
+    "count": 118
+  }
+}

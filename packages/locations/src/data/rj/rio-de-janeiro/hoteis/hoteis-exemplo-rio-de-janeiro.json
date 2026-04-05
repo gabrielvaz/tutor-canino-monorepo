@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-rio-de-janeiro",
+  "name": "Exemplo de Hoteis em Rio de Janeiro",
+  "slug": "hoteis-exemplo-rio-de-janeiro",
+  "category": "hoteis",
+  "uf": "rj",
+  "city": "rio-de-janeiro",
+  "address": "Rua Principal, 100 - Centro, Rio de Janeiro - RJ",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Rio de Janeiro. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.889452107954095,
+    "count": 474
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-maceio",
+  "name": "Exemplo de Parques em Maceió",
+  "slug": "parques-exemplo-maceio",
+  "category": "parques",
+  "uf": "al",
+  "city": "maceio",
+  "address": "Rua Principal, 100 - Centro, Maceió - AL",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Maceió. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.868609015104824,
+    "count": 88
+  }
+}

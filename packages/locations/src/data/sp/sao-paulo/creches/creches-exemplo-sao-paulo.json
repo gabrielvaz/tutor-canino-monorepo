@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-sao-paulo",
+  "name": "Exemplo de Creches em São Paulo",
+  "slug": "creches-exemplo-sao-paulo",
+  "category": "creches",
+  "uf": "sp",
+  "city": "sao-paulo",
+  "address": "Rua Principal, 100 - Centro, São Paulo - SP",
+  "phone": "(11) 0000-0000",
+  "description": "Um dos melhores locais de creches em São Paulo. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.84112533741643,
+    "count": 164
+  }
+}

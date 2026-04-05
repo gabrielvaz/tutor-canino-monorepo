@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-manaus",
+  "name": "Exemplo de Veterinarios em Manaus",
+  "slug": "veterinarios-exemplo-manaus",
+  "category": "veterinarios",
+  "uf": "am",
+  "city": "manaus",
+  "address": "Rua Principal, 100 - Centro, Manaus - AM",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Manaus. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.872487825224439,
+    "count": 252
+  }
+}

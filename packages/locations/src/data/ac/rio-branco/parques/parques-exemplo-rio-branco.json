@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-rio-branco",
+  "name": "Exemplo de Parques em Rio Branco",
+  "slug": "parques-exemplo-rio-branco",
+  "category": "parques",
+  "uf": "ac",
+  "city": "rio-branco",
+  "address": "Rua Principal, 100 - Centro, Rio Branco - AC",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Rio Branco. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.671472810182512,
+    "count": 340
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-macapa",
+  "name": "Exemplo de Creches em Macapá",
+  "slug": "creches-exemplo-macapa",
+  "category": "creches",
+  "uf": "ap",
+  "city": "macapa",
+  "address": "Rua Principal, 100 - Centro, Macapá - AP",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Macapá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.511799530093418,
+    "count": 175
+  }
+}

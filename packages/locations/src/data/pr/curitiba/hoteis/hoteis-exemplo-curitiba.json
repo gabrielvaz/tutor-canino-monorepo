@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-curitiba",
+  "name": "Exemplo de Hoteis em Curitiba",
+  "slug": "hoteis-exemplo-curitiba",
+  "category": "hoteis",
+  "uf": "pr",
+  "city": "curitiba",
+  "address": "Rua Principal, 100 - Centro, Curitiba - PR",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Curitiba. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.64810787690559,
+    "count": 381
+  }
+}

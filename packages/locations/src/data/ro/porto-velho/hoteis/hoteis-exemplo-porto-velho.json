@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-porto-velho",
+  "name": "Exemplo de Hoteis em Porto Velho",
+  "slug": "hoteis-exemplo-porto-velho",
+  "category": "hoteis",
+  "uf": "ro",
+  "city": "porto-velho",
+  "address": "Rua Principal, 100 - Centro, Porto Velho - RO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Porto Velho. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.635138034343644,
+    "count": 212
+  }
+}

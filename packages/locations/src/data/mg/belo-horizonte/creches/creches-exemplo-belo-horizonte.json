@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-belo-horizonte",
+  "name": "Exemplo de Creches em Belo Horizonte",
+  "slug": "creches-exemplo-belo-horizonte",
+  "category": "creches",
+  "uf": "mg",
+  "city": "belo-horizonte",
+  "address": "Rua Principal, 100 - Centro, Belo Horizonte - MG",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Belo Horizonte. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.7926655625356185,
+    "count": 461
+  }
+}

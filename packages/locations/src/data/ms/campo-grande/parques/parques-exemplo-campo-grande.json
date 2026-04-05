@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-campo-grande",
+  "name": "Exemplo de Parques em Campo Grande",
+  "slug": "parques-exemplo-campo-grande",
+  "category": "parques",
+  "uf": "ms",
+  "city": "campo-grande",
+  "address": "Rua Principal, 100 - Centro, Campo Grande - MS",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Campo Grande. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.9696285474142545,
+    "count": 235
+  }
+}

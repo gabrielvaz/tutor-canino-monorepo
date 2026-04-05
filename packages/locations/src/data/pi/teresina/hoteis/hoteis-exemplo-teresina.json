@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-teresina",
+  "name": "Exemplo de Hoteis em Teresina",
+  "slug": "hoteis-exemplo-teresina",
+  "category": "hoteis",
+  "uf": "pi",
+  "city": "teresina",
+  "address": "Rua Principal, 100 - Centro, Teresina - PI",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Teresina. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.6295188973538925,
+    "count": 399
+  }
+}

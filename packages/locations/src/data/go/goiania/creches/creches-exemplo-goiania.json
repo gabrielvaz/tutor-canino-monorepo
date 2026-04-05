@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-goiania",
+  "name": "Exemplo de Creches em Goiânia",
+  "slug": "creches-exemplo-goiania",
+  "category": "creches",
+  "uf": "go",
+  "city": "goiania",
+  "address": "Rua Principal, 100 - Centro, Goiânia - GO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Goiânia. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.638814815205556,
+    "count": 321
+  }
+}

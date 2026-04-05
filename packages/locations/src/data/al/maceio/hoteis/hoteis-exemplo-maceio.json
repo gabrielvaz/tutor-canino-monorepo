@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-maceio",
+  "name": "Exemplo de Hoteis em Maceió",
+  "slug": "hoteis-exemplo-maceio",
+  "category": "hoteis",
+  "uf": "al",
+  "city": "maceio",
+  "address": "Rua Principal, 100 - Centro, Maceió - AL",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Maceió. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.736978450760725,
+    "count": 466
+  }
+}

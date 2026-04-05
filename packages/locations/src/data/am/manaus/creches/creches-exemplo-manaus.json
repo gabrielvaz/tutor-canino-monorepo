@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-manaus",
+  "name": "Exemplo de Creches em Manaus",
+  "slug": "creches-exemplo-manaus",
+  "category": "creches",
+  "uf": "am",
+  "city": "manaus",
+  "address": "Rua Principal, 100 - Centro, Manaus - AM",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Manaus. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.574705302713346,
+    "count": 437
+  }
+}

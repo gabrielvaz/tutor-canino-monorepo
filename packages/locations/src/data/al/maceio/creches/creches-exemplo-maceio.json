@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-maceio",
+  "name": "Exemplo de Creches em Maceió",
+  "slug": "creches-exemplo-maceio",
+  "category": "creches",
+  "uf": "al",
+  "city": "maceio",
+  "address": "Rua Principal, 100 - Centro, Maceió - AL",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em Maceió. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.963127737720666,
+    "count": 150
+  }
+}

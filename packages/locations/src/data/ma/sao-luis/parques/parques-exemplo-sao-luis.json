@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-sao-luis",
+  "name": "Exemplo de Parques em São Luís",
+  "slug": "parques-exemplo-sao-luis",
+  "category": "parques",
+  "uf": "ma",
+  "city": "sao-luis",
+  "address": "Rua Principal, 100 - Centro, São Luís - MA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em São Luís. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.502443623607346,
+    "count": 300
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-aracaju",
+  "name": "Exemplo de Hoteis em Aracaju",
+  "slug": "hoteis-exemplo-aracaju",
+  "category": "hoteis",
+  "uf": "se",
+  "city": "aracaju",
+  "address": "Rua Principal, 100 - Centro, Aracaju - SE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Aracaju. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.901044648649391,
+    "count": 413
+  }
+}

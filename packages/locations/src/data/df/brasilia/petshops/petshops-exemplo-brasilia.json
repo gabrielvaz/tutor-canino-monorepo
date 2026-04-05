@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-brasilia",
+  "name": "Exemplo de Petshops em Brasília",
+  "slug": "petshops-exemplo-brasilia",
+  "category": "petshops",
+  "uf": "df",
+  "city": "brasilia",
+  "address": "Rua Principal, 100 - Centro, Brasília - DF",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Brasília. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.528135245377269,
+    "count": 297
+  }
+}

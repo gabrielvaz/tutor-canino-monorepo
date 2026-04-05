@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-salvador",
+  "name": "Exemplo de Parques em Salvador",
+  "slug": "parques-exemplo-salvador",
+  "category": "parques",
+  "uf": "ba",
+  "city": "salvador",
+  "address": "Rua Principal, 100 - Centro, Salvador - BA",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Salvador. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.7647185925641,
+    "count": 172
+  }
+}

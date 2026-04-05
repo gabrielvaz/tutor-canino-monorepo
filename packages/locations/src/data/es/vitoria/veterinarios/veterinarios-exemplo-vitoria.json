@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-vitoria",
+  "name": "Exemplo de Veterinarios em Vitória",
+  "slug": "veterinarios-exemplo-vitoria",
+  "category": "veterinarios",
+  "uf": "es",
+  "city": "vitoria",
+  "address": "Rua Principal, 100 - Centro, Vitória - ES",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Vitória. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.654755662988576,
+    "count": 284
+  }
+}

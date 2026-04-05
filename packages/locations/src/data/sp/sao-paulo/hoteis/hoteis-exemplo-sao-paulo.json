@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-sao-paulo",
+  "name": "Exemplo de Hoteis em São Paulo",
+  "slug": "hoteis-exemplo-sao-paulo",
+  "category": "hoteis",
+  "uf": "sp",
+  "city": "sao-paulo",
+  "address": "Rua Principal, 100 - Centro, São Paulo - SP",
+  "phone": "(11) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em São Paulo. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.547389599594574,
+    "count": 361
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "parques-exemplo-brasilia",
+  "name": "Exemplo de Parques em Brasília",
+  "slug": "parques-exemplo-brasilia",
+  "category": "parques",
+  "uf": "df",
+  "city": "brasilia",
+  "address": "Rua Principal, 100 - Centro, Brasília - DF",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de parques em Brasília. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.824793519983278,
+    "count": 538
+  }
+}

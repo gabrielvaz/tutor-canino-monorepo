@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-recife",
+  "name": "Exemplo de Petshops em Recife",
+  "slug": "petshops-exemplo-recife",
+  "category": "petshops",
+  "uf": "pe",
+  "city": "recife",
+  "address": "Rua Principal, 100 - Centro, Recife - PE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Recife. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.522721860524584,
+    "count": 442
+  }
+}

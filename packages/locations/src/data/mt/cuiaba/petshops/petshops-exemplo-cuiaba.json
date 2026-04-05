@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-cuiaba",
+  "name": "Exemplo de Petshops em Cuiabá",
+  "slug": "petshops-exemplo-cuiaba",
+  "category": "petshops",
+  "uf": "mt",
+  "city": "cuiaba",
+  "address": "Rua Principal, 100 - Centro, Cuiabá - MT",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Cuiabá. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.591594975429788,
+    "count": 417
+  }
+}

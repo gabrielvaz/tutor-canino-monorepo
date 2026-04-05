@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-fortaleza",
+  "name": "Exemplo de Petshops em Fortaleza",
+  "slug": "petshops-exemplo-fortaleza",
+  "category": "petshops",
+  "uf": "ce",
+  "city": "fortaleza",
+  "address": "Rua Principal, 100 - Centro, Fortaleza - CE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Fortaleza. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.98877896444538,
+    "count": 347
+  }
+}

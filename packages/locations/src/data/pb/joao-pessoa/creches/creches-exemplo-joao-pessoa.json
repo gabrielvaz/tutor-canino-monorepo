@@ -1,0 +1,15 @@
+{
+  "id": "creches-exemplo-joao-pessoa",
+  "name": "Exemplo de Creches em João Pessoa",
+  "slug": "creches-exemplo-joao-pessoa",
+  "category": "creches",
+  "uf": "pb",
+  "city": "joao-pessoa",
+  "address": "Rua Principal, 100 - Centro, João Pessoa - PB",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de creches em João Pessoa. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.718941040388447,
+    "count": 158
+  }
+}

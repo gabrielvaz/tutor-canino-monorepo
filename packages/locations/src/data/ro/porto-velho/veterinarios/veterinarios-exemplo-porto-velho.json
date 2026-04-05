@@ -1,0 +1,15 @@
+{
+  "id": "veterinarios-exemplo-porto-velho",
+  "name": "Exemplo de Veterinarios em Porto Velho",
+  "slug": "veterinarios-exemplo-porto-velho",
+  "category": "veterinarios",
+  "uf": "ro",
+  "city": "porto-velho",
+  "address": "Rua Principal, 100 - Centro, Porto Velho - RO",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de veterinarios em Porto Velho. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.95539447006051,
+    "count": 462
+  }
+}

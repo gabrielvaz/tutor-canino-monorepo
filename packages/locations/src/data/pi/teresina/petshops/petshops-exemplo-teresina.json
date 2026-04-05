@@ -1,0 +1,15 @@
+{
+  "id": "petshops-exemplo-teresina",
+  "name": "Exemplo de Petshops em Teresina",
+  "slug": "petshops-exemplo-teresina",
+  "category": "petshops",
+  "uf": "pi",
+  "city": "teresina",
+  "address": "Rua Principal, 100 - Centro, Teresina - PI",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de petshops em Teresina. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.792556252081854,
+    "count": 179
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hoteis-exemplo-recife",
+  "name": "Exemplo de Hoteis em Recife",
+  "slug": "hoteis-exemplo-recife",
+  "category": "hoteis",
+  "uf": "pe",
+  "city": "recife",
+  "address": "Rua Principal, 100 - Centro, Recife - PE",
+  "phone": "(00) 0000-0000",
+  "description": "Um dos melhores locais de hoteis em Recife. Atendimento especializado para seu cachorro.",
+  "rating": {
+    "score": 4.774414739281688,
+    "count": 253
+  }
+}
