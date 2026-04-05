@@ -141,7 +141,7 @@ export function generateFAQSchema(breed: Breed) {
   const faqs = [];
 
   // FAQ 1: Temperamento
-  if (caracteristicas?.nivel_energia || caracteristicas.afeicao_familia) {
+  if (caracteristicas?.energia || caracteristicas?.afeicao_familia) {
     faqs.push({
       '@type': 'Question',
       name: `Qual é o temperamento do ${nome}?`,
@@ -153,8 +153,8 @@ export function generateFAQSchema(breed: Breed) {
   }
 
   // FAQ 2: Tamanho
-  if (ficha_tecnica?.porte || breed.categoria) {
-    const tamanho = ficha_tecnica?.porte || breed.categoria;
+  if (breed.categoria) {
+    const tamanho = breed.categoria;
     faqs.push({
       '@type': 'Question',
       name: `Qual é o porte do ${nome}?`,
@@ -178,25 +178,26 @@ export function generateFAQSchema(breed: Breed) {
   }
 
   // FAQ 4: Cuidados
-  if (sobre?.cuidados || sobre?.exercicio) {
+  if (breed.cuidados?.higiene || breed.cuidados?.exercicios) {
     faqs.push({
       '@type': 'Question',
       name: `Quais cuidados o ${nome} precisa?`,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: sobre.cuidados || sobre.exercicio || 'Requer cuidados regulares como escovação, banho e exercícios adequados ao seu nível de energia.',
+        text: breed.cuidados?.higiene || breed.cuidados?.exercicios || 'Requer cuidados regulares como escovação, banho e exercícios adequados ao seu nível de energia.',
       },
     });
   }
 
   // FAQ 5: Adaptação a apartamento
-  if (caracteristicas?.adaptabilidade) {
+  if (caracteristicas?.necessidade_exercicio) {
+    const nivelExercicio = caracteristicas.necessidade_exercicio;
     faqs.push({
       '@type': 'Question',
       name: `O ${nome} pode viver em apartamento?`,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: caracteristicas.adaptabilidade >= 4
+        text: nivelExercicio <= 3
           ? `Sim, o ${nome} se adapta bem a vida em apartamento, desde que receba exercícios adequados.`
           : `O ${nome} prefere casas com espaço, mas pode se adaptar a apartamento com exercícios suficientes.`,
       },
@@ -204,13 +205,13 @@ export function generateFAQSchema(breed: Breed) {
   }
 
   // FAQ 6: Saúde
-  if (sobre?.saude) {
+  if (breed.saude?.doencas_comuns && breed.saude.doencas_comuns.length > 0) {
     faqs.push({
       '@type': 'Question',
       name: `Quais são os problemas de saúde comuns do ${nome}?`,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: sobre.saude,
+        text: breed.saude.doencas_comuns.join(', '),
       },
     });
   }

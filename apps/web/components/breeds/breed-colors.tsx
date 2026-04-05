@@ -1,4 +1,4 @@
-import type { Breed } from '@tutorcanano/data';
+import type { Breed } from '@tutorcanino/data';
 import { Palette, Sparkles } from 'lucide-react';
 
 interface BreedColorsProps {

@@ -156,7 +156,7 @@ export default async function BreedPage({ params }: BreedPageProps) {
 
       {(breed.cores_disponiveis || breed.marcacoes) && (
         <div className="container mx-auto px-4 mb-20">
-          <BreedColors colors={breed.cores_disponive} marks={breed.marcacoes} />
+          <BreedColors colors={breed.cores_disponiveis} marks={breed.marcacoes} />
         </div>
       )}
 

@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ChevronRight, BookOpen } from 'lucide-react';
 
+const baseUrl = 'https://tutorcanino.com.br';
+
 interface GlossaryPageProps {
   params: Promise<{ term: string }>;
 }

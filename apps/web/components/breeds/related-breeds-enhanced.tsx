@@ -1,4 +1,4 @@
-import { getBreedBySlug, type Breed } from '@tutorcanino/data';
+import { getBreedBySlug, getBreedByCategory, type Breed } from '@tutorcanino/data';
 import { BreedCard } from './breed-card';
 import { PawPrint } from 'lucide-react';
 
@@ -10,15 +10,15 @@ interface RelatedBreedsProps {
  * Enhanced RelatedBreeds that uses racas_relacionadas from the schema
  * Falls back to category-based selection if not specified
  */
-export function RelatedBreeds({ currentBreed }: RelatedBreedsProps) {
-  let relatedBreeds: Breed[];
+export function RelatedBreedsEnhanced({ currentBreed }: RelatedBreedsProps) {
+  let relatedBreeds: Breed[] = [];
 
   // Use racas_relacionadas if available
   if (currentBreed.racas_relacionadas && currentBreed.racas_relacionadas.length > 0) {
     // Fetch the explicitly related breeds
     relatedBreeds = currentBreed.racas_relacionadas
       .map((slug) => getBreedBySlug(slug))
-      .filter((breed): breed !== null) as Breed[];
+      .filter((breed): breed is Breed => breed !== null);
   }
 
   // Fallback: use category-based logic if no related breeds specified or too few
