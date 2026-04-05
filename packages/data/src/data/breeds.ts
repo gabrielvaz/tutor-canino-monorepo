@@ -425,14 +425,7 @@ const allBreeds: Breed[] = [
   whippet,
   xoloitzcuintle,
   yorkshireTerrier,
-].map(breed => {
-  const result = BreedSchema.safeParse(breed);
-  if (result.success) {
-    return result.data;
-  }
-  console.warn(`Invalid breed data:`, breed);
-  return breed as Breed;
-});
+].map(breed => breed as Breed);
 
 export function getAllBreeds(): Breed[] {
   return allBreeds;
