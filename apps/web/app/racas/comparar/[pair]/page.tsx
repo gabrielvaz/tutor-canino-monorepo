@@ -47,9 +47,18 @@ export async function generateMetadata({ params }: ComparisonPageProps): Promise
 
   if (!b1 || !b2) return { title: 'Comparação não encontrada' };
 
+  const baseUrl = 'https://tutorcanino.com.br';
+  const url = `${baseUrl}/racas/comparar/${pair}`;
+
   return {
     title: `${b1.nome} vs ${b2.nome}: Qual escolher? | TutorCanino`,
     description: `Compare ${b1.nome} e ${b2.nome} lado a lado. Veja diferenças de temperamento, porte, saúde e saiba qual é a ideal para você.`,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      url: url,
+    },
   };
 }
 

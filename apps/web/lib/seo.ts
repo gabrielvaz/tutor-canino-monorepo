@@ -2,7 +2,7 @@ import type { Breed } from '@tutorcanino/data';
 
 export function generateBreedSchema(breed: Breed) {
   const { nome, slug, sobre, imagem_principal, ficha_tecnica, caracteristicas } = breed;
-  const baseUrl = 'https://tutorcanino.com';
+  const baseUrl = 'https://tutorcanino.com.br';
 
   return {
     '@context': 'https://schema.org',
@@ -54,7 +54,7 @@ export function generateBreedSchema(breed: Breed) {
 }
 
 export function generateComparisonSchema(breed1: Breed, breed2: Breed) {
-  const baseUrl = 'https://tutorcanino.com';
+  const baseUrl = 'https://tutorcanino.com.br';
   
   return {
     '@context': 'https://schema.org',
@@ -81,8 +81,8 @@ export function generateOrganizationSchema() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'TutorCanino',
-    url: 'https://tutorcanino.com',
-    logo: 'https://tutorcanino.com/logo.png',
+    url: 'https://tutorcanino.com.br',
+    logo: 'https://tutorcanino.com.br/logo.svg',
     sameAs: [
       'https://instagram.com/tutorcanino',
       'https://facebook.com/tutorcanino',
@@ -95,11 +95,100 @@ export function generateWebsiteSchema() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'TutorCanino',
-    url: 'https://tutorcanino.com',
+    url: 'https://tutorcanino.com.br',
     potentialAction: {
       '@type': 'SearchAction',
-      target: 'https://tutorcanino.com/racas?q={search_term_string}',
+      target: 'https://tutorcanino.com.br/racas?q={search_term_string}',
       'query-input': 'required name=search_term_string',
     },
+  };
+}
+
+export function generateFAQSchema(breed: Breed) {
+  const { nome, ficha_tecnica, caracteristicas, sobre } = breed;
+  const baseUrl = 'https://tutorcanino.com.br';
+
+  // Generate dynamic FAQs based on breed data
+  const faqs = [];
+
+  // FAQ 1: Temperamento
+  if (caracteristicas?.nivel_energia || caracteristicas.afeicao_familia) {
+    faqs.push({
+      '@type': 'Question',
+      name: `Qual é o temperamento do ${nome}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: sobre?.descricao || `${nome} é uma raça com características únicas de temperamento e personalidade.`,
+      },
+    });
+  }
+
+  // FAQ 2: Tamanho
+  if (ficha_tecnica?.porte || breed.categoria) {
+    const tamanho = ficha_tecnica?.porte || breed.categoria;
+    faqs.push({
+      '@type': 'Question',
+      name: `Qual é o porte do ${nome}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `O ${nome} é considerado de ${tamanho === 'Pequeno' ? 'pequeno' : tamanho === 'Médio' ? 'médio' : tamanho === 'Grande' ? 'grande' : 'gigante'} porte.`,
+      },
+    });
+  }
+
+  // FAQ 3: Expectativa de vida
+  if (ficha_tecnica?.expectativa_vida) {
+    faqs.push({
+      '@type': 'Question',
+      name: `Quanto tempo vive um ${nome}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `A expectativa de vida do ${nome} é de aproximadamente ${ficha_tecnica.expectativa_vida}.`,
+      },
+    });
+  }
+
+  // FAQ 4: Cuidados
+  if (sobre?.cuidados || sobre?.exercicio) {
+    faqs.push({
+      '@type': 'Question',
+      name: `Quais cuidados o ${nome} precisa?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: sobre.cuidados || sobre.exercicio || 'Requer cuidados regulares como escovação, banho e exercícios adequados ao seu nível de energia.',
+      },
+    });
+  }
+
+  // FAQ 5: Adaptação a apartamento
+  if (caracteristicas?.adaptabilidade) {
+    faqs.push({
+      '@type': 'Question',
+      name: `O ${nome} pode viver em apartamento?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: caracteristicas.adaptabilidade >= 4
+          ? `Sim, o ${nome} se adapta bem a vida em apartamento, desde que receba exercícios adequados.`
+          : `O ${nome} prefere casas com espaço, mas pode se adaptar a apartamento com exercícios suficientes.`,
+      },
+    });
+  }
+
+  // FAQ 6: Saúde
+  if (sobre?.saude) {
+    faqs.push({
+      '@type': 'Question',
+      name: `Quais são os problemas de saúde comuns do ${nome}?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: sobre.saude,
+      },
+    });
+  }
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs,
   };
 }

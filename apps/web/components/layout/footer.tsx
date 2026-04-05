@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { PawPrint, Mail, Phone, MapPin, Globe } from 'lucide-react';
+import { PawPrint, Globe } from 'lucide-react';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -76,22 +76,6 @@ export function Footer() {
               </ul>
             </div>
           ))}
-        </div>
-
-        {/* Contact and Newsletter Preview (Simplified) */}
-        <div className="border-t border-gray-800 pt-12 mb-8 grid grid-cols-1 md:grid-cols-3 gap-8 text-sm">
-          <div className="flex items-center gap-3 text-gray-400">
-            <Mail size={18} className="text-primary" />
-            <span>contato@tutorcanino.com.br</span>
-          </div>
-          <div className="flex items-center gap-3 text-gray-400">
-            <MapPin size={18} className="text-primary" />
-            <span>São Paulo, SP - Brasil</span>
-          </div>
-          <div className="flex items-center gap-3 text-gray-400">
-            <Phone size={18} className="text-primary" />
-            <span>(11) 9999-9999</span>
-          </div>
         </div>
 
         {/* Disclaimer and Copyright */}

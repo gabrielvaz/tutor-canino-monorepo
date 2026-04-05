@@ -7,6 +7,12 @@ import { PawPrint, ChevronRight, Sword, Zap, Search } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Comparar Raças de Cães - Qual escolher? | TutorCanino',
   description: 'Compare o temperamento, porte e cuidados de mais de 200 raças de cães. Encontre a raça ideal comparando-as lado a lado.',
+  alternates: {
+    canonical: 'https://tutorcanino.com.br/racas/comparar',
+  },
+  openGraph: {
+    url: 'https://tutorcanino.com.br/racas/comparar',
+  },
 };
 
 export default function CompararHubPage() {

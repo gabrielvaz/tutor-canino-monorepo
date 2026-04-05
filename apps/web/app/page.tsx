@@ -5,6 +5,21 @@ import { BreedGrid } from '@/components/breeds/breed-grid';
 import { PawPrint, Search, Heart, Shield, Star, Zap, GraduationCap } from 'lucide-react';
 import { StructuredData } from '@/components/seo/structured-data';
 import { generateOrganizationSchema, generateWebsiteSchema } from '@/lib/seo';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'TutorCanino - Encontre a Raça de Cachorro Ideal para Você',
+  description: 'Descubra qual raça de cachorro combina com seu estilo de vida. Guia completo com mais de 200 raças, informações sobre temperamento, cuidados, saúde e muito mais.',
+  alternates: {
+    canonical: 'https://tutorcanino.com.br',
+  },
+  openGraph: {
+    title: 'TutorCanino - Encontre a Raça de Cachorro Ideal para Você',
+    description: 'Descubra qual raça de cachorro combina com seu estilo de vida.',
+    url: 'https://tutorcanino.com.br',
+    type: 'website',
+  },
+};
 
 export default function Home() {
   const popularBreeds = getPopularBreeds(8);

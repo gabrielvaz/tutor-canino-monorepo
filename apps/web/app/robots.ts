@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://tutorcanino.com/sitemap.xml',
+    sitemap: 'https://tutorcanino.com.br/sitemap.xml',
   };
 }

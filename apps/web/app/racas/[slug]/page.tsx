@@ -8,7 +8,7 @@ import { RelatedBreeds } from '@/components/breeds/related-breeds';
 import { CompareSuggestions } from '@/components/breeds/compare-suggestions';
 import { Badge } from '@tutorcanino/ui';
 import { StructuredData } from '@/components/seo/structured-data';
-import { generateBreedSchema } from '@/lib/seo';
+import { generateBreedSchema, generateFAQSchema } from '@/lib/seo';
 import { ChevronRight, Globe, Hourglass, Weight, PawPrint } from 'lucide-react';
 
 interface BreedPageProps {
@@ -32,14 +32,21 @@ export async function generateMetadata({ params }: BreedPageProps): Promise<Meta
     };
   }
 
+  const baseUrl = 'https://tutorcanino.com.br';
+  const url = `${baseUrl}/racas/${slug}`;
+
   return {
     title: breed.seo?.title || `${breed.nome} - Tudo sobre a raça | TutorCanino`,
     description: breed.seo?.description || `Saiba tudo sobre o ${breed.nome}: temperamento, saúde, cuidados e características da raça.`,
     keywords: breed.seo?.keywords,
+    alternates: {
+      canonical: url,
+    },
     openGraph: {
       title: breed.nome,
       description: breed.seo?.description,
       images: breed.imagem_principal ? [breed.imagem_principal] : [],
+      url: url,
     },
   };
 }
@@ -53,11 +60,13 @@ export default async function BreedPage({ params }: BreedPageProps) {
   }
 
   const breedSchema = generateBreedSchema(breed);
+  const faqSchema = generateFAQSchema(breed);
   const { ficha_tecnica } = breed;
 
   return (
     <div className="min-h-screen bg-gray-50/50 pb-20">
       <StructuredData data={breedSchema} />
+      <StructuredData data={faqSchema} />
       
       {/* Hero Banner Section */}
       <section className="relative h-[50vh] md:h-[60vh] min-h-[400px] w-full overflow-hidden bg-gray-900">

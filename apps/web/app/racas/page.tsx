@@ -7,10 +7,14 @@ export const metadata: Metadata = {
   title: 'Raças de Cães - Guia Completo | TutorCanino',
   description: 'Descubra mais de 100 raças de cães com informações completas sobre características, temperamento, cuidados e saúde. Encontre o cão ideal para você.',
   keywords: ['raças de cães', 'cães', 'racas caninas', 'guia de raças'],
+  alternates: {
+    canonical: 'https://tutorcanino.com.br/racas',
+  },
   openGraph: {
     title: 'Raças de Cães - Guia Completo | TutorCanino',
     description: 'Descubra mais de 100 raças de cães com informações completas.',
     type: 'website',
+    url: 'https://tutorcanino.com.br/racas',
   },
 };
 
