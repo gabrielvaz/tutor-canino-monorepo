@@ -186,6 +186,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...categoryComparisons,
     ...faqPages,
     ...glossaryPages,
+    ...locationHubPages,
     ...utilityPages,
   ];
 }

@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ChevronRight, HelpCircle } from 'lucide-react';
 
+const baseUrl = 'https://tutorcanino.com.br';
+
 interface FAQPageProps {
   params: Promise<{ slug: string }>;
 }
