@@ -22,7 +22,7 @@ export default function RacasPage() {
       {/* Hero Section */}
       <section className="bg-white border-b border-gray-100 py-16 md:py-24">
         <div className="container mx-auto px-4">
-          <div className="max-w-3xl">
+          <div className="max-w-3xl animate-fade-in-up">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-bold mb-6">
               <PawPrint size={16} />
               <span>Exploração Completa</span>
@@ -36,7 +36,7 @@ export default function RacasPage() {
           </div>
 
           <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6">
-            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4">
+            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 opacity-0 animate-reveal delay-100">
               <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center text-primary">
                 <LayoutGrid size={24} />
               </div>
@@ -46,7 +46,7 @@ export default function RacasPage() {
               </div>
             </div>
             
-            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4">
+            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 opacity-0 animate-reveal delay-200">
               <div className="w-12 h-12 rounded-xl bg-secondary/10 flex items-center justify-center text-secondary">
                 <ShieldCheck size={24} />
               </div>
@@ -56,7 +56,7 @@ export default function RacasPage() {
               </div>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4">
+            <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex items-center gap-4 opacity-0 animate-reveal delay-300">
               <div className="w-12 h-12 rounded-xl bg-accent/20 flex items-center justify-center text-accent-dark">
                 <Zap size={24} />
               </div>

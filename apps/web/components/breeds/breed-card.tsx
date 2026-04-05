@@ -37,14 +37,14 @@ export function BreedCard({ breed }: BreedCardProps) {
   const paws = Math.min(5, Math.max(1, Math.floor((popularidade || 0) / 2000) + 1));
 
   return (
-    <Link href={`/racas/${slug}`} className="group block h-full">
-      <Card className="h-full overflow-hidden border-gray-200 hover:border-primary/40 hover:shadow-xl transition-all duration-300 rounded-3xl">
+    <Link href={`/racas/${slug}`} className="group block h-full active:scale-[0.98] transition-transform animate-reveal">
+      <Card className="h-full overflow-hidden border-gray-200 hover:border-primary/40 hover:shadow-xl transition-all duration-500 rounded-3xl">
         <div className="relative aspect-[4/3] bg-gray-100 overflow-hidden">
           <Image
             src={imagem}
             alt={nome}
             fill
-            className="object-cover group-hover:scale-105 transition-transform duration-700"
+            className="object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
           <div className="absolute top-3 left-3">
