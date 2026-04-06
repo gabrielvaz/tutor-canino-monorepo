@@ -3,68 +3,87 @@
   "nome": "Poitevin",
   "slug": "poitevin",
   "nome_en": "Poitevin",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Haut-Poitou",
+    "Sabujo do Poitou"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "19.9 kg",
-    "peso_femea": "16 kg",
+    "origem": "França (Província de Poitou)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "62 - 72 cm",
+    "altura_femea": "60 - 70 cm",
+    "peso_macho": "30 - 35 kg",
+    "peso_femea": "25 - 30 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
     "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 1,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 5,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Poitevin é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Poitevin originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Poitevin é considerado a mais distinta e elegante de todas as raças de sabujos franceses, um atleta de elite que combina a força do hound com a leveza do galgo. De porte grande e constituição extraordinariamente esguia, musculosa e de pernas longas, ele possui uma silhueta que exala velocidade e resistência. Sua pelagem é curta, fina e brilhante, invariavelmente tricolor. Com orelhas pendentes de inserção baixa e um olhar gentil mas focado, o Poitevin é um trabalhador incansável em campo e um animal de temperamento dócil, mas independente, que exige um estilo de vida focado em grandes espaços e atividade física intensa.",
+    "historia": "A raça foi criada em 1692 pelo Marquês de François de Larrye na província de Poitou, França. Ele buscou desenvolver o caçador de veados e lobos perfeito, cruzando cães de rastro locais com o Greyhound (pela velocidade) e o Foxhound Inglês. O Poitevin tornou-se a joia da caça maior francesa por séculos. A raça quase foi extinta pela epidemia de raiva em 1842 e novamente após a Segunda Guerra Mundial, sendo reconstruída com a ajuda de infusões cuidadosas de sangue de Foxhound Inglês para manter a sua vitalidade e faro aguçado sem perder a elegância francesa original.",
     "curiosidades": [
-      "Poitevin possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Poitevin é famoso por possuir o 'galope mais leve' de todos os sabujos, movendo-se com uma facilidade que parece não tocar o solo.",
+      "Eles possuem o que os caçadores chamam de 'vozes de sino' ou 'fanfarra', uivos melódicos que permitem ao caçador identificar a posição do cão a quilômetros de distância.",
+      "Diferente da maioria dos hounds, o Poitevin mantém uma silhueta muito similar à de um galgo (Greyhound), refletindo sua herança de velocidade extrema.",
+      "Eles são predominantemente cães de matilha, sentindo-se muito infelizes se mantidos como cães únicos sem a companhia de outros de sua espécie.",
+      "O Poitevin é capaz de manter um galope constante por dezenas de quilômetros sob o sol, demonstrando uma resistência cardiovascular extraordinária."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que vivem em áreas rurais extensas ou fazendas",
+      "Pessoas que possuem outros cães de rastro (ele prospera em matilhas)",
+      "Atletas de maratona ou ciclistas que buscam um parceiro de resistência extrema ao ar livre",
+      "Proprietários interessados na preservação de raças históricas de trabalho francesas",
+      "Quem busca um cão de grande porte elegante, silencioso dentro de casa mas muito ativo fora"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas (devido ao uivo potente e necessidade extrema de espaço)",
+      "Tutores sedentários que não possam oferecer pelo menos 2 horas de exercícios vigorosos diários",
+      "Proprietários que buscam obediência cega (ele é independente e focado em seguir o rastro)",
+      "Famílias que desejam um cão para ficar apenas no quintal (ele precisa de propósito social)",
+      "Pessoas sensíveis a cães que usam o latido e uivo como forma primária de comunicação"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente)",
+      "Dilatação e Torção Gástrica (Bloat) - risco moderado",
+      "Lesões musculares e ligamentares (devido à alta performance)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Limpeza semanal profunda das orelhas pendentes. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou após atividades em campo. As orelhas pendentes exigem inspeção frequente para evitar umidade. Unhas devem ser mantidas curtas para não comprometer sua agilidade atlética.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 2 horas de atividade física intensa. Caminhadas simples no quarteirão não satisfazem o Poitevin; ele precisa correr livremente em áreas seguras ou praticar atividades de faro. O tédio mental é o maior inimigo desta raça inteligente.",
+    "treinamento": "O adestramento exige paciência e persistência. Eles são inteligentes mas motivados por instintos ancestrais de caça. Use reforço positivo e petiscos. O comando de 'recall' (vir quando chamado) é extremamente difícil de garantir se houver um cheiro interessante por perto. A socialização precoce com outros animais domésticos é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas de grande porte. É vital dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica, comum em raças de peito profundo e alta atividade física."
   },
   "seo": {
-    "title": "Poitevin - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Poitevin: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Poitevin: O Guia Completo do Atleta Supremo dos Sabujos Franceses",
+    "description": "Descubra o Poitevin: conheça sua elegância de galgo, seu faro de sabujo e sua história na nobreza francesa. Dicas vitais de exercícios para esta raça incansável.",
     "keywords": [
-      "poitevin",
-      "poitevin",
-      "médio",
-      "frança"
+      "Poitevin",
+      "Haut-Poitou",
+      "sabujo francês",
+      "cão de matilha",
+      "cão farejador",
+      "raças de cães grandes",
+      "cuidados com Poitevin",
+      "temperamento Poitevin",
+      "cão de caça maior"
     ]
   },
   "imagem_principal": "/images/breeds/poitevin.jpg",
@@ -73,11 +92,55 @@
     "/images/breeds/poitevin-2.jpg",
     "/images/breeds/poitevin-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=poitevin",
-  "popularidade": 8375,
-  "ranking_brasil": 20,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Poitevin Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-poitevin",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-poitevin/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Matilha de Poitevin em Campo",
+      "url": "https://www.youtube.com/watch?v=example-poitevin-pack",
+      "canal": "Chasse France",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "foxhound-ingles",
+    "grand-anglo-francais-tricolore",
+    "greyhound",
+    "beagle-harrier",
+    "poitevin"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Preto, Branco e Fogo)",
+    "Bicolor (Branco e Fogo)",
+    "Preto e Branco"
+  ],
+  "marcacoes": [
+    "Manta preta no dorso (clássico)",
+    "Marcações fogo simétricas na face",
+    "Ponta da cauda branca (comum)"
+  ],
+  "curiosidades_historicas": "O Poitevin é considerado o sabujo que deu origem a quase todas as raças de 'Grand Anglo-Français' modernas. Sua genética de velocidade e elegância foi tão valorizada que o Marquês de Larrye chegou a trocar cavalos de raça pura por exemplares de Poitevin de alta qualidade.",
+  "referencias_externas": [
+    {
+      "titulo": "Club du Chien Poitevin (França)",
+      "url": "https://www.chienpoitevin.com/",
+      "descricao": "Clube oficial de raça na França dedicado à preservação e padrão histórico."
+    },
+    {
+      "titulo": "FCI - Poitevin Standard",
+      "url": "https://www.fci.be/en/nomenclature/POITEVIN-24.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 250,
   "custo_mensal_estimado": [
-    291,
-    859
+    400,
+    950
   ]
 }

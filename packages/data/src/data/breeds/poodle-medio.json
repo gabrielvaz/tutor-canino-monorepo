@@ -2,73 +2,90 @@
   "id": "poodle-medio",
   "nome": "Poodle Médio",
   "slug": "poodle-medio",
-  "nome_en": "Medium Poodle",
+  "nome_en": "Moyen Poodle",
   "apelidos": [
-    "Poodle",
-    "Médio"
+    "Caniche Médio",
+    "Poodle Moyen",
+    "Poodle Francês"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "43 cm",
-    "peso_macho": "12 kg",
-    "peso_femea": "6.1 kg",
+    "origem": "França / Alemanha",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "35 - 45 cm",
+    "altura_femea": "35 - 45 cm",
+    "peso_macho": "10 - 15 kg",
+    "peso_femea": "8 - 12 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1989
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 4,
-    "afeicao_familia": 2,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Poodle Médio é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Poodle Médio originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Poodle Médio, também conhecido internacionalmente como 'Moyen', é a variedade de tamanho intermediário da família Poodle, combinando a elegância do Padrão com a praticidade do Miniatura. De porte médio e constituição harmoniosa e atlética, ele possui a famosa pelagem encaracolada e densa que não cai, sendo a raça hipoalergênica por excelência. Sua expressão é de uma inteligência brilhante e alerta, refletindo o 2º lugar no ranking de inteligência canina. O Poodle Médio é um cão extraordinariamente versátil, dotado de uma alegria contagiante e uma capacidade de aprendizado que o torna capaz de se destacar em qualquer tarefa, desde truques complexos até esportes de agilidade competitivos.",
+    "historia": "Embora a França seja creditada como o país de origem e o Poodle seja seu cão nacional, a raça descende de antigos cães d'água da Alemanha (Pudel). O Poodle Médio foi selecionado para ser o tamanho ideal para o trabalho em interiores e para a companhia da burguesia europeia, sem perder a robustez física necessária para caminhadas e natação. Durante séculos, foram os favoritos de artistas de circo devido à sua agilidade e inteligência fora do comum. A raça evoluiu de um rústico caçador de aves aquáticas para o mais refinado e amado animal de companhia do mundo, mantendo sua funcionalidade intacta sob a pelagem luxuosa.",
     "curiosidades": [
-      "Poodle Médio possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Poodle Médio é frequentemente chamado de 'Moyen' (termo francês para médio) para diferenciá-lo nos mercados americano e britânico, onde este tamanho específico não é uma categoria oficial de exposição separada como na FCI.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem cresce continuamente como o cabelo humano e não cai, exigindo tosa regular.",
+      "A inteligência da raça é tão alta que eles são conhecidos por 'manipularem' seus tutores através de comportamentos aprendidos apenas por observação.",
+      "O Poodle é uma das poucas raças que possui membranas interdigitais completas, o que os torna nadadores de elite por natureza.",
+      "As tosas clássicas de Poodle (como a Continental) tinham uma função prática original: proteger as articulações e o peito do frio na água, enquanto o corpo tosado reduzia o arrasto na natação."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos ou casas com espaço moderado",
+      "Pessoas com alergias a pelos de cães (ele é a melhor opção)",
+      "Famílias com crianças (ele é extremamente paciente e adora brincar)",
+      "Tutores que buscam um cão brilhante para adestramento e truques",
+      "Quem deseja um companheiro leal que participe de todas as atividades sociais"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas que não podem dedicar tempo e dinheiro à manutenção regular da pelagem (tosa profissional obrigatória)",
+      "Tutores que buscam um cão passivo para ficar sozinho o dia todo (ele sofre com a solidão)",
+      "Ambientes onde o cão não receba estímulo mental diário (ele se tornará entediado e latidor)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável, embora vigilante)",
+      "Pessoas que se incomodam com um cão que exige interação social constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Doença de Addison (problema hormonal)",
+      "Displasia de Quadril (baixa incidência para o tamanho)",
+      "Hipotireoidismo",
+      "Problemas dentários (tártaro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde hormonal e ocular. Higiene bucal diária é essencial. Testes genéticos para PRA são recomendados antes da criação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação pelo menos três vezes por semana para evitar nós dolorosos. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas. Banhos devem ser mensais com bons condicionadores para manter a elasticidade dos cachos. As orelhas pendentes devem ser limpas e os pelos internos removidos para evitar otites. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas, sessões de natação e, principalmente, desafios mentais são obrigatórios. O Poodle Médio adora aprender comandos novos e participar de jogos de busca complexos.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo. O Poodle vive para aprender e deseja agradar acima de tudo. Use apenas reforço positivo, variedade e desafios crescentes. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Poodle pode ser seletivo com a comida, mas o controle das porções é vital para evitar o sobrepeso que prejudica as articulações."
   },
   "seo": {
-    "title": "Poodle Médio - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Poodle Médio: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Poodle Médio (Moyen): O Inteligente e Elegante Companheiro - Guia de Raça",
+    "description": "Descubra o Poodle Médio: conheça sua inteligência superior, sua pelagem hipoalergênica e as dicas vitais de cuidados e treinamento para este versátil cão francês.",
     "keywords": [
-      "poodle-medio",
-      "poodle médio",
-      "médio",
-      "frança"
+      "Poodle Médio",
+      "Moyen Poodle",
+      "Caniche Médio",
+      "cão inteligente",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães médias",
+      "cuidados com Poodle",
+      "temperamento Poodle Médio"
     ]
   },
   "imagem_principal": "/images/breeds/poodle-medio.jpg",
@@ -77,11 +94,58 @@
     "/images/breeds/poodle-medio-2.jpg",
     "/images/breeds/poodle-medio-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=poodle-medio",
-  "popularidade": 40663,
-  "ranking_brasil": 131,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Poodle Médio - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-moyenpoodle",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-moyenpoodle/hqdefault.jpg"
+    },
+    {
+      "titulo": "As Diferenças entre os Tamanhos de Poodle",
+      "url": "https://www.youtube.com/watch?v=example-poodle-sizes",
+      "canal": "Mundo Canino",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-padrao",
+    "poodle-miniatura",
+    "poodle-toy",
+    "lagotto-romagnolo",
+    "bichon-frise"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Cinza (Silver)",
+    "Marrom (Chocolate)",
+    "Abricó (Apricot)",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (padrão FCI)",
+    "Particolor (aceito em algumas confederações)",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Poodle Médio foi imortalizado na literatura por autores como Thomas Mann e Arthur Schopenhauer, que admiravam a inteligência 'filosófica' da raça, considerando-os cães que pareciam entender a complexidade da alma humana melhor do que qualquer outra espécie.",
+  "referencias_externas": [
+    {
+      "titulo": "Poodle Club of America",
+      "url": "https://poodleclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Poodle Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/POODLE-172.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de tamanho de Poodle."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    327,
-    953
+    300,
+    800
   ]
 }

@@ -4,75 +4,88 @@
   "slug": "poodle-miniatura",
   "nome_en": "Miniature Poodle",
   "apelidos": [
-    "Poodle",
-    "Miniatura"
+    "Caniche Mini",
+    "Poodle Anão",
+    "Mini"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "24 cm",
-    "peso_macho": "2.5 kg",
-    "peso_femea": "-2.7 kg",
+    "origem": "França / Alemanha",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "28 - 35 cm",
+    "altura_femea": "28 - 35 cm",
+    "peso_macho": "6 - 8 kg",
+    "peso_femea": "5 - 7 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1957
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
+    "energia": 4,
+    "inteligencia": 5,
     "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Poodle Miniatura é uma raça de porte toy originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Poodle Miniatura originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Poodle Miniatura é o epítome da inteligência e do charme em um formato compacto. De porte pequeno e constituição elegante e proporcional, ele mantém todas as qualidades de seus parentes maiores em um tamanho ideal para a vida urbana. Famoso por sua pelagem encaracolada que não cai, ele é um dos cães hipoalergênicos mais populares do mundo. Com uma expressão de vivacidade e prontidão, o Miniatura é um cão extraordinariamente astuto, ocupando o 2º lugar no ranking de inteligência canina. É um companheiro vibrante, alegre e profundamente devotado à sua família, destacando-se por sua capacidade de aprender truques complexos e por sua sensibilidade às emoções dos tutores.",
+    "historia": "Embora o Poodle Padrão tenha sido originalmente um cão de caça na Alemanha, a variedade Miniatura foi desenvolvida na França para ser o cão de companhia ideal da burguesia e aristocracia. Eles foram selecionados para manter a inteligência e o vigor da raça original, mas em um tamanho mais manejável para viver dentro de mansões e apartamentos. Durante os séculos XVIII e XIX, tornaram-se os favoritos de artistas e intelectuais europeus. A raça evoluiu para ser o cão de luxo por excelência, mas sem nunca perder sua agilidade e instinto de trabalho, o que os tornou também grandes estrelas em apresentações de circo e competições de obediência.",
     "curiosidades": [
-      "Poodle Miniatura possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente do Poodle Toy, o Miniatura possui uma ossatura um pouco mais robusta, sendo uma excelente opção para famílias com crianças que saibam respeitar o cão.",
+      "Eles são considerados cães 'humanizados' devido à sua habilidade de observar e mimetizar comportamentos de seus tutores para conseguir atenção.",
+      "O Poodle Miniatura é um dos competidores mais premiados em campeonatos de Agility em todo o mundo, superando raças muito maiores em precisão e velocidade.",
+      "A pelagem da raça é tecnicamente lã, crescendo continuamente e exigindo tosa regular para não causar desconforto ao animal.",
+      "Eles possuem um latido de alerta muito aguçado, sendo excelentes vigias que avisam sobre qualquer movimentação estranha na porta de casa."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos",
+      "Pessoas com alergias a pelos de cães (ele quase não solta pelo)",
+      "Tutores que buscam um cão brilhante para adestramento e truques",
+      "Famílias com crianças que buscam um parceiro de brincadeiras inteligente",
+      "Quem deseja um companheiro leal que participe de todas as atividades sociais"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas que não podem dedicar tempo à escovação e manutenção da pelagem (tosa profissional obrigatória)",
+      "Tutores que buscam um cão passivo e silencioso (ele pode ser um pouco latidor se não estimulado)",
+      "Famílias que ficam fora de casa o dia todo (sofre severamente com a solidão)",
+      "Ambientes onde o cão não receba estímulo mental diário (ele se tornará entediado e destrutivo)",
+      "Proprietários que buscam um cão de baixa manutenção estética"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Patela (muito comum)",
+      "Problemas oculares (PRA e Catarata)",
+      "Doença de Legg-Calve-Perthes",
+      "Colapso de Traqueia",
+      "Hipotireoidismo",
+      "Problemas dentários (tártaro)",
+      "Doença de Cushing"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde ocular e articular. Higiene bucal diária é essencial. Uso de peitoral em vez de coleira de pescoço para proteger a traqueia."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação pelo menos três vezes por semana para evitar nós dolorosos. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas. Banhos devem ser mensais com produtos hidratantes. As orelhas pendentes devem ser limpas e os pelos internos removidos para evitar otites. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e, crucialmente, sessões de brincadeira que desafiem sua inteligência são ideais. Ele adora jogos de busca, aprender truques novos e interagir com brinquedos de enriquecimento ambiental.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo. O Poodle Miniatura vive para aprender e deseja agradar. Use apenas reforço positivo, variedade e desafios constantes. A socialização precoce é fundamental para evitar que sua vigilância natural se torne timidez ou reatividade.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é essencial para evitar o sobrepeso, o que prejudica as articulações finas e a coluna."
   },
   "seo": {
-    "title": "Poodle Miniatura - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Poodle Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Poodle Miniatura: O Inteligente e Versátil Cão de Companhia - Guia de Raça",
+    "description": "Descubra o Poodle Miniatura: conheça sua inteligência brilhante, sua pelagem hipoalergênica e as dicas vitais de cuidados e treinamento para este fiel companheiro urbano.",
     "keywords": [
-      "poodle-miniatura",
-      "poodle miniatura",
-      "toy",
-      "frança"
+      "Poodle Miniatura",
+      "Caniche Mini",
+      "cão inteligente pequeno",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Poodle",
+      "temperamento Poodle Miniatura"
     ]
   },
   "imagem_principal": "/images/breeds/poodle-miniatura.jpg",
@@ -81,11 +94,58 @@
     "/images/breeds/poodle-miniatura-2.jpg",
     "/images/breeds/poodle-miniatura-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=poodle-miniatura",
-  "popularidade": 19062,
-  "ranking_brasil": 42,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Miniature Poodle - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-minipoodle",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-minipoodle/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Adestrar um Poodle Miniatura",
+      "url": "https://www.youtube.com/watch?v=example-minipoodle-train",
+      "canal": "Mundo Canino",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-toy",
+    "poodle-medio",
+    "bichon-frise",
+    "maltes",
+    "papillon"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Cinza (Silver)",
+    "Marrom (Chocolate)",
+    "Abricó (Apricot)",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (padrão FCI)",
+    "Particolor (aceito em algumas confederações)",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "Na França do século XIX, o Poodle Miniatura tornou-se o acessório de moda definitivo, sendo comum as damas da sociedade levarem seus cães para os jardins das Tulherias com tosas que imitavam os penteados das suas donas, solidificando o papel da raça como o cão de luxo mais icônico da história francesa.",
+  "referencias_externas": [
+    {
+      "titulo": "Poodle Club of America",
+      "url": "https://poodleclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Poodle Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/POODLE-172.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de tamanho de Poodle."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 10,
   "custo_mensal_estimado": [
-    378,
-    790
+    300,
+    750
   ]
 }

@@ -4,76 +4,87 @@
   "slug": "poodle-toy",
   "nome_en": "Toy Poodle",
   "apelidos": [
-    "Poodle",
-    "Toy"
+    "Caniche Toy",
+    "Toy",
+    "Poodle Micro (informal)"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "23 cm",
-    "altura_femea": "19 cm",
-    "peso_macho": "4.3 kg",
-    "peso_femea": "0.7 kg",
+    "origem": "França / Alemanha",
+    "expectativa_vida": "14 - 18 anos",
+    "altura_macho": "24 - 28 cm",
+    "altura_femea": "24 - 28 cm",
+    "peso_macho": "2.5 - 4 kg",
+    "peso_femea": "2 - 3.5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1985
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Poodle Toy é uma raça de porte toy originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Poodle Toy originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Poodle Toy é a menor das quatro variedades oficiais de Poodle, um prodígio de inteligência e charme em um pacote minúsculo. De constituição elegante, leve e proporcional, ele mantém toda a dignidade e vivacidade de seus parentes maiores. Famoso por sua pelagem encaracolada que não cai, ele é um dos cães hipoalergênicos mais desejados para a vida em apartamentos. Com uma expressão de astúcia e prontidão, o Poodle Toy ocupa o 2º lugar no ranking de inteligência canina, sendo capaz de aprender truques complexos com uma facilidade surpreendente. É um companheiro intensamente afetuoso, alegre e dotado de uma adaptabilidade que o torna o centro das atenções em qualquer ambiente.",
+    "historia": "Enquanto o Poodle Padrão trabalhava como caçador na Alemanha, a variedade Toy foi desenvolvida na França no século XVIII para ser o cão de colo definitivo da realeza. Eles foram selecionados através da miniaturização dos exemplares menores de Poodle Miniatura, mantendo a inteligência superior da raça original. O Poodle Toy tornou-se o favorito da corte de Luís XVI e Maria Antonieta, sendo muitas vezes usado como um 'acessório' de luxo e entretenimento. No século XX, a raça ganhou o mundo, transformando-se de um símbolo aristocrático em um dos animais de estimação mais populares e versáteis das grandes metrópoles globais.",
     "curiosidades": [
-      "Poodle Toy possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Poodle Toy é conhecido por sua longevidade excepcional, sendo comum exemplares ultrapassarem os 17 ou 18 anos de idade com saúde.",
+      "Eles são considerados cães 'hipoalergênicos' porque sua pelagem, tecnicamente lã, cresce continuamente e não cai, retendo os alérgenos na pele até a tosa.",
+      "A inteligência do Poodle Toy é tamanha que eles são capazes de entender o significado de centenas de palavras e gestos humanos.",
+      "Diferente do que muitos pensam, o Poodle Toy é um cão muito ágil e atlético, adorando participar de sessões de Agility para cães pequenos.",
+      "O termo 'Poodle Micro' ou 'Teacup' não é reconhecido por nenhuma confederação cinológica oficial, sendo apenas termos comerciais para exemplares excessivamente pequenos que muitas vezes possuem problemas de saúde."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas com alergias a pelos de cães",
+      "Tutores que buscam um companheiro constante que possa ser transportado facilmente",
+      "Donos interessados em adestramento, truques e estímulo mental",
+      "Idosos que buscam uma companhia afetuosa e inteligente de baixo impacto físico"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito pequenas e barulhentas (ele é fisicamente frágil e pode se tornar reativo se for tratado como brinquedo)",
+      "Tutores que não podem dedicar tempo diário à escovação e manutenção da pelagem (tosa profissional obrigatória)",
+      "Pessoas que se incomodam com latidos de alerta frequentes",
+      "Famílias que ficam fora de casa o dia todo (ele sofre severamente com a solidão e ansiedade)",
+      "Proprietários que desejam um cão de baixa manutenção estética"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Luxação de Patela (muito comum)",
+      "Colapso de Traqueia",
+      "Problemas oculares (PRA e Catarata)",
+      "Hipoglicemia (em filhotes muito pequenos)",
+      "Problemas dentários graves (tártaro e perda precoce de dentes)",
+      "Doença de Legg-Calve-Perthes"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde bucal, articular e ocular. Higiene bucal diária é MANDATÓRIA. Uso de peitoral em vez de coleira de pescoço para proteger a traqueia sensível."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação diária ou pelo menos três vezes por semana para evitar nós dolorosos. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas. Banhos devem ser mensais ou quinzenais com bons hidratantes. É vital limpar as manchas de lágrimas ao redor dos olhos diariamente. As orelhas pendentes devem ser mantidas limpas e secas.",
+    "exercicios": "Necessita de exercícios leves a moderados. Caminhadas diárias agradáveis e, crucialmente, sessões de brincadeira e treinamento que desafiem sua inteligência. O Poodle Toy se entedia facilmente e precisa de estímulo cognitivo constante.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo. O Poodle Toy vive para aprender e deseja agradar. Use apenas reforço positivo, paciência e evite a repetição monótona. A socialização precoce é VITAL para evitar que ele se torne excessivamente protetor ou tímido.",
+    "alimentacao": "Dieta de alta qualidade específica para raças mini. O controle das porções é fundamental, pois o excesso de peso sobrecarrega as articulações finas e prejudica a respiração típica de cães toy."
   },
   "seo": {
-    "title": "Poodle Toy - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Poodle Toy: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Poodle Toy: O Guia Completo do Pequeno Gênio Hipoalergênico",
+    "description": "Descubra tudo sobre o Poodle Toy: conheça sua inteligência superior, sua história na realeza e as dicas vitais de cuidados com a pelagem e saúde desta raça amada.",
     "keywords": [
-      "poodle-toy",
-      "poodle toy",
-      "toy",
-      "frança"
+      "Poodle Toy",
+      "Caniche Toy",
+      "cão inteligente pequeno",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Poodle",
+      "temperamento Poodle Toy"
     ]
   },
   "imagem_principal": "/images/breeds/poodle-toy.jpg",
@@ -82,11 +93,58 @@
     "/images/breeds/poodle-toy-2.jpg",
     "/images/breeds/poodle-toy-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=poodle-toy",
-  "popularidade": 21776,
-  "ranking_brasil": 97,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Toy Poodle - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-toypoodle",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-toypoodle/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar do seu Poodle Toy",
+      "url": "https://www.youtube.com/watch?v=example-toy-care",
+      "canal": "Vida de Cão Mini",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-miniatura",
+    "poodle-medio",
+    "maltes",
+    "yorkshire-terrier",
+    "chihuahua"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Cinza (Silver)",
+    "Marrom (Chocolate)",
+    "Abricó (Apricot)",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (padrão FCI)",
+    "Particolor (aceito em algumas confederações)",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Poodle Toy tornou-se o cão de companhia favorito da Rainha Vitória, que foi responsável por popularizar a raça no Reino Unido e influenciar o desenvolvimento de novas cores e estilos de tosa, transformando o cão em um ícone global da cultura vitoriana.",
+  "referencias_externas": [
+    {
+      "titulo": "Poodle Club of America",
+      "url": "https://poodleclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Poodle Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/POODLE-172.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de tamanho de Poodle."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 7,
   "custo_mensal_estimado": [
-    320,
-    1245
+    250,
+    650
   ]
 }

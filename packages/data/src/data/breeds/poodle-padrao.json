@@ -4,76 +4,88 @@
   "slug": "poodle-padrao",
   "nome_en": "Standard Poodle",
   "apelidos": [
-    "Poodle",
-    "Padrão"
+    "Poodle Gigante",
+    "Caniche Padrão",
+    "Poodle Grande"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "9.2 kg",
-    "peso_femea": "3.8 kg",
+    "origem": "França / Alemanha",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "45 - 62 cm",
+    "altura_femea": "45 - 60 cm",
+    "peso_macho": "20 - 32 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1980
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Poodle Padrão é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Poodle Padrão originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Poodle Padrão é a variedade original e mais imponente da família Poodle, um cão de porte grande que combina uma elegância escultural com a robustez de um atleta de elite. Famoso por sua pelagem encaracolada e densa que não cai, ele é o padrão ouro entre as raças hipoalergênicas. Sua expressão transborda uma inteligência brilhante e dignidade, ocupando o 2º lugar no ranking mundial de inteligência canina. Diferente do estigma de 'cão de luxo', o Poodle Padrão é um trabalhador incansável, dotado de uma agilidade fenomenal e um temperamento alegre e equilibrado, sendo um companheiro de família extraordinário e um dos cães de serviço mais capazes do mundo.",
+    "historia": "Apesar de ser o cão nacional da França, o Poodle Padrão tem origens alemãs, onde era conhecido como 'Pudel' (cão que chapinha na água). Por séculos, foi o retriever de aves aquáticas favorito dos caçadores europeus devido à sua inteligência e pelagem impermeável. As tosas artísticas modernas surgiram de uma necessidade prática: os caçadores deixavam o pelo no peito e articulações para proteger o cão do frio nas águas geladas, enquanto o resto do corpo era tosado para facilitar o nado. No século XVII, a raça tornou-se a favorita da realeza francesa, evoluindo de um rústico caçador para o aristocrata refinado que conhecemos hoje.",
     "curiosidades": [
-      "Poodle Padrão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Poodle Padrão é frequentemente usado em programas de busca e salvamento e como cão-guia devido à sua altura, força e inteligência superior.",
+      "Eles são considerados uma das raças mais saudáveis e longevas entre os cães de grande porte, muitas vezes ultrapassando os 15 anos de idade.",
+      "O termo 'Poodle' vem do alemão 'pudeln', que significa 'pular na água', refletindo sua herança de exímio nadador.",
+      "Diferente das variedades menores, o Poodle Padrão possui um temperamento mais calmo e 'pensativo', sendo menos propenso a latidos excessivos.",
+      "Eles possuem membranas interdigitais (peles entre os dedos) muito desenvolvidas, o que lhes confere uma potência de nado similar à de um retriever de grande porte."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é extremamente paciente, dócil e adora brincar)",
+      "Tutores que buscam um cão de grande porte inteligente e altamente treinável",
+      "Pessoas com alergias a pelos de cães que não abrem mão de um cão grande",
+      "Quem vive em casas com quintais espaçosos ou próximo a áreas de lazer e natação",
+      "Donos interessados em esportes caninos competitivos ou adestramento avançado"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas que não podem dedicar tempo e recursos à manutenção regular da pelagem (tosa profissional obrigatória)",
+      "Tutores sedentários que não possam oferecer exercícios diários vigorosos",
+      "Ambientes onde o cão ficará isolado por longos períodos (sofre severamente com a solidão)",
+      "Donos que buscam um cão passivo que não exija estímulo mental constante (ele se tornará entediado e destrutivo)",
+      "Proprietários extremamente zelosos com a limpeza absoluta (embora não solte pelo, ele traz detritos da rua nas franjas)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Displasia de Quadril",
+      "Doença de Addison (Hipoadrenocorticismo - comum na raça)",
+      "Adenite Sebácea (doença de pele hereditária)",
+      "Problemas oculares (PRA e Catarata)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups hormonais e ortopédicos anuais são essenciais. Testes genéticos para Adenite Sebácea e PRA. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação profunda pelo menos três vezes por semana para evitar nós dolorosos. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas para manter a higiene e a estética. Banhos devem ser mensais com secagem minuciosa. É vital limpar as orelhas pendentes e remover os pelos internos do conduto auditivo para prevenir otites. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade física e mental. Caminhadas longas, natação e sessões de treinamento complexas são fundamentais. O Poodle Padrão é um atleta nato que precisa gastar sua imensa energia física e cognitiva.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo. O Poodle vive para aprender e deseja agradar acima de tudo. Use reforço positivo, variedade e desafios constantes. Eles se destacam em Agility, Obediência e truques de alta complexidade.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. O controle do peso é vital para preservar as articulações desta raça atlética."
   },
   "seo": {
-    "title": "Poodle Padrão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Poodle Padrão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Poodle Padrão (Gigante): O Inteligente e Nobre Atleta Francês - Guia de Raça",
+    "description": "Descubra o Poodle Padrão: conheça sua inteligência brilhante, sua história como caçador e as dicas vitais de cuidados com a pelagem e saúde desta raça magnífica.",
     "keywords": [
-      "poodle-padrao",
-      "poodle padrão",
-      "pequeno",
-      "frança"
+      "Poodle Padrão",
+      "Poodle Gigante",
+      "Caniche Padrão",
+      "cão inteligente",
+      "cão hipoalergênico",
+      "raças de cães grandes",
+      "cuidados com Poodle",
+      "temperamento Poodle Padrão",
+      "cão de serviço"
     ]
   },
   "imagem_principal": "/images/breeds/poodle-padrao.jpg",
@@ -82,11 +94,58 @@
     "/images/breeds/poodle-padrao-2.jpg",
     "/images/breeds/poodle-padrao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=poodle-padrao",
-  "popularidade": 36407,
-  "ranking_brasil": 175,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Standard Poodle - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-standardpoodle",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-standardpoodle/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Poodle Padrão",
+      "url": "https://www.youtube.com/watch?v=example-poodle-intel",
+      "canal": "Mundo Canino",
+      "duracao": "13:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "labrador-retriever",
+    "irish-water-spaniel",
+    "poodle-medio",
+    "portuguese-water-dog",
+    "bichon-frise"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Cinza (Silver)",
+    "Marrom (Chocolate)",
+    "Abricó (Apricot)",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (padrão FCI)",
+    "Particolor (aceito em algumas confederações)",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Poodle Padrão foi imortalizado na corte de Luís XVI da França, onde o rei tinha um exemplar chamado 'Filou' que recebia honras quase reais. A raça tornou-se tão associada à sofisticação francesa que o termo 'Caniche' passou a ser usado como sinônimo de elegância e astúcia na cultura popular do país.",
+  "referencias_externas": [
+    {
+      "titulo": "Poodle Club of America",
+      "url": "https://poodleclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Poodle Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/POODLE-172.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de tamanho de Poodle."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 12,
   "custo_mensal_estimado": [
-    379,
-    1497
+    400,
+    1200
   ]
 }

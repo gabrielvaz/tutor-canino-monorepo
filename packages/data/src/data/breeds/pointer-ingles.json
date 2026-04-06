@@ -5,69 +5,85 @@
   "nome_en": "English Pointer",
   "apelidos": [
     "Pointer",
-    "Inglês"
+    "Cão de Aponte Inglês"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "27.5 kg",
-    "peso_femea": "24 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "63 - 71 cm",
+    "altura_femea": "61 - 66 cm",
+    "peso_macho": "25 - 34 kg",
+    "peso_femea": "20 - 29 kg",
     "grupo_fci": "Grupo 7 - Cães Apontadores",
-    "ano_reconhecimento_fci": 1942
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
+    "energia": 5,
+    "inteligencia": 5,
     "queda_pelo": 2,
-    "latido": 1,
-    "afeicao_familia": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Pointer Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pointer Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 7. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pointer Inglês, simplesmente conhecido como Pointer, é considerado o 'rei do aponte', um cão de porte grande que personifica a elegância atlética e o foco absoluto. De constituição seca, musculosa e aerodinâmica, ele possui uma silhueta harmoniosa caracterizada por um focinho ligeiramente côncavo (concavo-convexo) e uma postura sempre alerta. Sua pelagem é curta, fina e brilhante, geralmente branca com grandes manchas de cores variadas. É um atleta de elite, dotado de uma resistência física extraordinária e uma inteligência prática aguçada, sendo famoso por sua 'pose de estátua' ao detectar uma presa e por ser um companheiro de família extremamente afetuoso e gentil dentro de casa.",
+    "historia": "As origens da raça remontam à Inglaterra do século XVII, sendo descendente de antigos cães de aponte espanhóis, italianos e franceses levados para o Reino Unido. Durante séculos, o Pointer foi o parceiro inseparável dos caçadores britânicos que usavam redes e, mais tarde, armas de fogo. Sua única função era encontrar e apontar a caça, muitas vezes trabalhando em conjunto com Greyhounds que faziam a perseguição ou Setters que faziam a busca. O Pointer Inglês foi uma das primeiras raças a ser padronizada no mundo e sua genética foi usada para melhorar quase todas as outras raças de aponte modernas.",
     "curiosidades": [
-      "Pointer Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Pointer' deriva da sua habilidade instintiva de 'apontar' a direção da presa com o corpo, mantendo-se imóvel como uma estátua.",
+      "Eles possuem o que os caçadores chamam de 'nariz de vento', detectando odores suspensos no ar a distâncias surpreendentes enquanto correm em alta velocidade.",
+      "O Pointer Inglês é famoso por sua cauda em forma de 'chicote', que ele carrega de forma reta e rígida quando está apontando.",
+      "Apesar da aparência séria em trabalho, o Pointer é conhecido por ser um 'cão de colo gigante' em casa, adorando se aninhar nos seus tutores.",
+      "Eles possuem um campo de visão periférica excelente e uma agilidade que lhes permite mudar de direção instantaneamente durante um galope intenso."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam esportes, corridas e trilhas longas",
+      "Tutores que apreciam um cão com inteligência superior e temperamento equilibrado",
+      "Quem vive em casas com grandes quintais gramados e seguros",
+      "Proprietários interessados em esportes caninos de agilidade ou trabalho de campo",
+      "Pessoas que buscam um companheiro leal que quase não late"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que moram em apartamentos pequenos sem rotina intensa de exercícios",
+      "Pessoas que ficam fora de casa o dia todo (ele sofre com a solidão e falta de estímulo)",
+      "Ambientes onde o cão será passeado sem guia (seu instinto de busca visual e olfativa é incontrolável)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável com todos)",
+      "Tutores que não toleram intensidade física (o Pointer corre e pula com muito entusiasmo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Entrópio)",
+      "Cardiopatias (ocasionais)",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Monitoramento rigoroso do peso para não sobrecarregar as articulações atléticas. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou após atividades intensas em campo. As orelhas pendentes devem ser verificadas semanalmente. Unhas devem ser mantidas bem curtas para não comprometer a postura veloz.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1,5 a 2 horas de atividade física vigorosa. Caminhadas simples não bastam; o Pointer precisa correr livremente em áreas seguras ou participar de trilhas longas. O tédio mental deve ser combatido com jogos de busca e treinamento de obediência.",
+    "treinamento": "Muito inteligente e geralmente ansioso para aprender, o Pointer responde maravilhosamente bem ao reforço positivo. Ele pode ser um pouco teimoso ou distraído por cheiros, exigindo consistência e paciência. A socialização precoce é fundamental para garantir que ele seja sociável com outros animais.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de grande porte. É essencial fracionar as refeições e garantir o repouso absoluto após comer para prevenir a torção gástrica comum em cães de peito profundo."
   },
   "seo": {
-    "title": "Pointer Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pointer Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pointer Inglês: O Majestoso Rei do Aponte - Guia Completo da Raça",
+    "description": "Descubra o Pointer Inglês: conheça sua inteligência brilhante, sua história na caça britânica e as dicas vitais de exercícios para este atleta incansável e leal.",
     "keywords": [
-      "pointer-ingles",
-      "pointer inglês",
-      "médio",
-      "inglaterra"
+      "Pointer Inglês",
+      "English Pointer",
+      "cão de aponte",
+      "cão inteligente",
+      "cão de caça inglês",
+      "raças de cães grandes",
+      "cuidados com Pointer",
+      "temperamento Pointer"
     ]
   },
   "imagem_principal": "/images/breeds/pointer-ingles.jpg",
@@ -76,11 +92,57 @@
     "/images/breeds/pointer-ingles-2.jpg",
     "/images/breeds/pointer-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pointer-ingles",
-  "popularidade": 13011,
-  "ranking_brasil": 89,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Pointer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-englishpointer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-englishpointer/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Pose de Aponte do Pointer Inglês",
+      "url": "https://www.youtube.com/watch?v=example-pointer-pose",
+      "canal": "Natureza Viva",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-alemao-de-pelo-curto",
+    "setter-ingles",
+    "braco-italiano",
+    "dalmata",
+    "vizsla"
+  ],
+  "cores_disponiveis": [
+    "Branco e Fígado (Liver)",
+    "Branco e Limão",
+    "Branco e Laranja",
+    "Branco e Preto",
+    "Sólido (raro)"
+  ],
+  "marcacoes": [
+    "Padrão particolor clássico",
+    "Manchas irregulares no corpo",
+    "Pode ser salpicado (ticked)"
+  ],
+  "curiosidades_historicas": "O Pointer Inglês foi a raça escolhida para ilustrar o primeiro logotipo oficial do American Kennel Club (AKC) em 1884, solidificando seu status como o protótipo do cão de esporte ideal e uma das raças mais influentes da história da cinofilia mundial.",
+  "referencias_externas": [
+    {
+      "titulo": "American Pointer Club",
+      "url": "https://americanpointerclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - English Pointer Standard",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-POINTER-1.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    283,
-    907
+    400,
+    900
   ]
 }

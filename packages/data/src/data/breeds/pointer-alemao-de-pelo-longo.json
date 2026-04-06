@@ -4,70 +4,88 @@
   "slug": "pointer-alemao-de-pelo-longo",
   "nome_en": "German Longhaired Pointer",
   "apelidos": [
-    "Pointer",
-    "Longo"
+    "Langhaar",
+    "GLP",
+    "Braco Alemão de Pelo Longo"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "28.2 kg",
-    "peso_femea": "22.9 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "60 - 70 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "27 - 30 kg",
+    "peso_femea": "25 - 28 kg",
     "grupo_fci": "Grupo 7 - Cães Apontadores",
-    "ano_reconhecimento_fci": 1965
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 4,
+    "energia": 4,
+    "inteligencia": 5,
     "queda_pelo": 3,
-    "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 4,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pointer Alemão de Pelo Longo é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pointer Alemão de Pelo Longo originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 7. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pointer Alemão de Pelo Longo, ou Langhaar, é a variedade mais elegante e de temperamento mais dócil da família dos bracos alemães. De porte grande e constituição atlética e aristocrática, ele possui uma pelagem longa, sedosa e levemente ondulada, com franjas abundantes nas orelhas, pernas e cauda. Sua cabeça é refinada com uma expressão de doçura inteligente e calma. Diferente dos seus primos de pelo curto ou duro, o Langhaar é frequentemente descrito como tendo um temperamento mais próximo ao de um setter ou spaniel, sendo um caçador versátil e um companheiro de família extremamente afetuoso e tranquilo dentro de casa.",
+    "historia": "A raça desenvolveu-se na Alemanha no século XIX, descendendo de antigos cães de aponte de tipo spaniel e sabujo. Enquanto os outros bracos alemães incorporaram sangue de Pointer Inglês para velocidade, o Langhaar manteve uma linhagem mais rústica e focada na polivalência: apontar, buscar em água e rastrear. Ele foi um dos cinco primeiros bracos a serem padronizados na Alemanha em 1879. Embora seja menos numeroso mundialmente que a variedade de pelo curto, o Langhaar é imensamente valorizado na Europa central por sua beleza estonteante e eficiência silenciosa no trabalho.",
     "curiosidades": [
-      "Pointer Alemão de Pelo Longo possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Langhaar' significa literalmente 'Pelo Longo' em alemão.",
+      "Eles são considerados excelentes nadadores, possuindo uma pelagem que, embora longa, possui um subpelo denso que os isola termicamente em águas frias.",
+      "Diferente de muitos cães de caça alemães, o Langhaar é conhecido por ser 'naturalmente silencioso' em campo, o que o torna ideal para a caça furtiva.",
+      "A raça possui um amadurecimento mental um pouco mais rápido do que a variedade de pelo curto, tornando-se cães calmos e confiáveis mais cedo.",
+      "Eles são famosos por sua 'doçura de spaniel', sendo cães que buscam contato físico constante e carinho de seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e dócil)",
+      "Tutores que buscam um cão de caça ou esporte com temperamento mais calmo",
+      "Pessoas que apreciam cuidar da estética canina e escovação de pelagem longa",
+      "Quem vive em casas com quintais espaçosos onde o cão possa se exercitar",
+      "Proprietários que desejam um companheiro leal, inteligente e muito apegado"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer pelo menos uma caminhada longa diária",
+      "Pessoas que não têm paciência para a manutenção regular da pelagem que atrai detritos",
+      "Ambientes urbanos barulhentos sem rotina intensa de atividades em áreas verdes",
+      "Famílias que ficam fora de casa o dia todo (ele é muito focado em seus humanos)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável com todos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido às orelhas longas e franjadas)",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Torção Gástrica (risco moderado)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Limpeza e secagem semanal profunda das orelhas pendentes. Monitoramento do peso para preservar as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas franjas e axilas. Banhos devem ser mensais com bons condicionadores. É vital limpar as orelhas após natação ou passeios na chuva. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas, sessões de treinamento e, se possível, a oportunidade de nadar ou usar o faro em trilhas. O Langhaar não é tão frenético quanto o Malinois, mas precisa de gasto de energia física e mental para ser feliz.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o treinamento é muito prazeroso e fluido. Eles respondem maravilhosamente bem ao reforço positivo e carinho. A socialização precoce é importante para garantir que ele seja um adulto confiante e sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de grande porte. É recomendado fracionar a alimentação em duas vezes ao dia para prevenir a torção gástrica. Atenção ao peso ideal."
   },
   "seo": {
-    "title": "Pointer Alemão de Pelo Longo - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pointer Alemão de Pelo Longo: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pointer Alemão de Pelo Longo (Langhaar): O Elegante e Doce Atleta - Guia de Raça",
+    "description": "Descubra o Pointer Alemão de Pelo Longo (Langhaar): conheça sua inteligência brilhante, sua pelagem luxuosa e as dicas vitais de cuidados e exercícios para esta raça leal.",
     "keywords": [
-      "pointer-alemao-de-pelo-longo",
-      "pointer alemão de pelo longo",
-      "médio",
-      "alemanha"
+      "Pointer Alemão de Pelo Longo",
+      "Langhaar",
+      "GLP",
+      "Braco Alemão de Pelo Longo",
+      "cão inteligente",
+      "cão de caça elegante",
+      "raças de cães grandes",
+      "cuidados com Langhaar",
+      "temperamento Langhaar"
     ]
   },
   "imagem_principal": "/images/breeds/pointer-alemao-de-pelo-longo.jpg",
@@ -76,11 +94,55 @@
     "/images/breeds/pointer-alemao-de-pelo-longo-2.jpg",
     "/images/breeds/pointer-alemao-de-pelo-longo-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pointer-alemao-de-pelo-longo",
-  "popularidade": 29225,
-  "ranking_brasil": 180,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "German Longhaired Pointer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-langhaar",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-langhaar/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Beleza do Langhaar no Trabalho",
+      "url": "https://www.youtube.com/watch?v=example-langhaar-work",
+      "canal": "Hunting Dogs Europe",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-alemao-de-pelo-curto",
+    "setter-ingles",
+    "braco-frances",
+    "braco-italiano",
+    "epagneul-breton"
+  ],
+  "cores_disponiveis": [
+    "Marrom Sólido",
+    "Marrom e Branco Ruão (Roan)",
+    "Marrom e Branco Manchado"
+  ],
+  "marcacoes": [
+    "Cabeça geralmente marrom sólida",
+    "Franjas abundantes nas pernas e cauda",
+    "Pode ter marcas de fogo (tan) raras"
+  ],
+  "curiosidades_historicas": "O Langhaar foi por muito tempo apelidado de 'Spaniel Alemão' devido à sua semelhança física com os grandes spaniels de campo franceses. No entanto, sua seleção como cão de aponte (pointer) separou-o definitivamente da linhagem dos spaniels levantadores de caça no final do século XIX.",
+  "referencias_externas": [
+    {
+      "titulo": "Deutsch-Langhaar-Verband (Alemanha)",
+      "url": "https://www.deutsch-langhaar-verband.de/",
+      "descricao": "Associação oficial de criadores e preservação da raça na Alemanha."
+    },
+    {
+      "titulo": "FCI - German Long-haired Pointing Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-LONG-HAIRED-POINTING-DOG-117.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    447,
-    774
+    400,
+    950
   ]
 }

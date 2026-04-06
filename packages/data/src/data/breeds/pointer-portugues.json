@@ -4,70 +4,86 @@
   "slug": "pointer-portugues",
   "nome_en": "Portuguese Pointer",
   "apelidos": [
-    "Pointer",
-    "Português"
+    "Perdigueiro Português",
+    "Perdigueiro"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Portugal",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "14.8 kg",
-    "peso_femea": "12.9 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "52 - 56 cm",
+    "altura_femea": "48 - 52 cm",
+    "peso_macho": "20 - 27 kg",
+    "peso_femea": "16 - 22 kg",
     "grupo_fci": "Grupo 7 - Cães Apontadores",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
+    "inteligencia": 5,
     "queda_pelo": 2,
-    "latido": 1,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pointer Português é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pointer Português originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 7. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pointer Português, ou Perdigueiro Português, é uma das raças mais nobres e antigas da Península Ibérica, um cão de aponte de beleza rústica e inteligência vivaz. De porte médio e constituição harmoniosa e robusta, ele possui uma silhueta que denota agilidade e resistência. Sua pelagem é curta, grossa e áspera ao tato, geralmente em tons de camurça ou amarelo. Sua cabeça é quadrada com uma expressão de doçura inteligente e olhos grandes e expressivos. O Perdigueiro é famoso por ser um trabalhador extremamente dedicado e um companheiro de família excepcionalmente afetuoso, sendo capaz de criar laços de lealdade profunda com seus tutores.",
+    "historia": "A raça tem raízes que remontam ao século XII em Portugal, sendo descendente direta dos antigos cães de aponte peninsulares usados para a caça de perdizes (daí o nome Perdigueiro). Foi o cão favorito da realeza e nobreza portuguesa por séculos, sendo criado inicialmente nos canis reais. No século XVIII, a raça tornou-se popular entre as classes populares, provando ser um caçador versátil e econômico. Acredita-se que o Perdigueiro Português tenha contribuído significativamente para o desenvolvimento do Pointer Inglês moderno. O padrão oficial foi estabelecido em 1932, preservando a identidade deste valioso patrimônio cinológico nacional.",
     "curiosidades": [
-      "Pointer Português possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Perdigueiro Português é um dos raros cães de caça que possui o que os especialistas chamam de 'expressão humana', devido à forma e posição de seus olhos.",
+      "Eles são conhecidos por terem um faro 'metódico', preferindo investigar o terreno com precisão em vez de correr em alta velocidade como o Pointer Inglês.",
+      "A raça possui uma adaptabilidade climática extraordinária, sendo capaz de trabalhar sob o sol intenso do Alentejo ou o frio das serras do norte de Portugal.",
+      "Diferente de muitos bracos, o Perdigueiro é um cão de guarda de alerta muito vigilante, avisando sobre qualquer aproximação estranha ao seu território.",
+      "Eles são famosos por serem cães 'emocionais', sentindo-se profundamente afetados se forem ignorados ou tratados com rispidez por seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e dócil)",
+      "Tutores que buscam um cão de médio porte inteligente e muito afetuoso",
+      "Pessoas que vivem em casas com quintais onde o cão possa exercitar-se",
+      "Donos interessados em atividades de faro, busca e salvamento ou esportes caninos",
+      "Quem deseja um companheiro leal que participe ativamente da rotina da casa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental e físico diário",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de exercícios externos",
+      "Pessoas que ficam fora de casa o dia todo (ele sofre com a solidão)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável, embora vigilante)",
+      "Tutores que não queiram um cão que exija contato físico e atenção constantes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Alergias sazonais",
+      "Calos de apoio",
+      "Otites (ocasionais)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são recomendados. Monitoramento da saúde bucal. É uma raça rústica e geralmente muito saudável e longeva."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. É importante verificar as orelhas pendentes regularmente para evitar umidade. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários consistentes. Caminhadas vigorosas, jogos de busca e, principalmente, estímulos mentais como jogos de faro ou treinos de obediência são ideais. O Perdigueiro adora estar ao ar livre e explorar novos cheiros.",
+    "treinamento": "Muito inteligente e extremamente ansioso para agradar, o treinamento é muito prazeroso. Ele aprende comandos novos com rapidez. Use reforço positivo, paciência e tons de voz motivadores. A socialização precoce é fundamental para garantir sua natureza confiante.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é vital para evitar o sobrepeso, o que prejudica as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Pointer Português - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pointer Português: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pointer Português (Perdigueiro): O Nobre e Doce Caçador de Portugal - Guia de Raça",
+    "description": "Descubra o Pointer Português: conheça sua inteligência brilhante, sua história real e as dicas vitais de cuidados com a saúde e temperamento deste fiel companheiro.",
     "keywords": [
-      "pointer-portugues",
-      "pointer português",
-      "médio",
-      "portugal"
+      "Pointer Português",
+      "Perdigueiro Português",
+      "cão de aponte",
+      "cão inteligente",
+      "raças de cães portuguesas",
+      "raças de cães médias",
+      "cuidados com Perdigueiro",
+      "temperamento Pointer Português"
     ]
   },
   "imagem_principal": "/images/breeds/pointer-portugues.jpg",
@@ -76,11 +92,55 @@
     "/images/breeds/pointer-portugues-2.jpg",
     "/images/breeds/pointer-portugues-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pointer-portugues",
-  "popularidade": 19616,
-  "ranking_brasil": 40,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Perdigueiro Português - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-perdigueiro",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-perdigueiro/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Pointer Português em Campo",
+      "url": "https://www.youtube.com/watch?v=example-perdigueiro-work",
+      "canal": "Portugal Rural",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-ingles",
+    "braco-italiano",
+    "braco-frances",
+    "vizsla",
+    "epagneul-breton"
+  ],
+  "cores_disponiveis": [
+    "Amarelo camurça",
+    "Amarelo em vários tons",
+    "Fawn"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (preferível)",
+    "Pode ter manchas brancas no peito, pés e face",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Pointer Português era tão valorizado pela coroa portuguesa que o Rei D. Carlos I, um exímio caçador e naturalista, dedicou parte de seus estudos à preservação da raça, considerando-a o cão de aponte mais inteligente e equilibrado da Europa do século XIX.",
+  "referencias_externas": [
+    {
+      "titulo": "APP - Associação do Perdigueiro Português",
+      "url": "https://www.perdigueiroportugues.pt/",
+      "descricao": "Associação oficial de criadores e preservação da raça em Portugal."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Perdigueiro",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/perdigueiro-portugues/",
+      "descricao": "Padrão oficial da raça em Portugal."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    355,
-    1433
+    300,
+    800
   ]
 }
