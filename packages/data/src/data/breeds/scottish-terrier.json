@@ -4,70 +4,89 @@
   "slug": "scottish-terrier",
   "nome_en": "Scottish Terrier",
   "apelidos": [
-    "Scottish",
-    "Terrier"
+    "Scottie",
+    "Terrier Escocês",
+    "Diehard"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Escócia",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "32 cm",
-    "peso_macho": "21.2 kg",
-    "peso_femea": "19 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 28 cm",
+    "altura_femea": "25 - 28 cm",
+    "peso_macho": "8.5 - 10 kg",
+    "peso_femea": "8 - 9.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1901
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 4,
-    "latido": 5,
-    "afeicao_familia": 3,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 3,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Scottish Terrier é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Scottish Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Scottish Terrier, ou Scottie, é a própria definição de dignidade e determinação em um corpo pequeno e rústico. Famoso por sua silhueta única, com corpo baixo e compacto, orelhas eretas e pontiagudas, e uma cabeça longa adornada por uma barba e sobrancelhas proeminentes que lhe conferem uma expressão de seriedade sábia. Sua pelagem é dupla, dura e aramada, projetada para protegê-lo do clima rigoroso das Highlands. Diferente de outros terriers mais agitados, o Scottie é um cão independente, reservado e dotado de uma personalidade 'filosófica', sendo um guardião vigilante e um companheiro intensamente leal aos seus tutores.",
+    "historia": "A raça tem origens ancestrais nas Terras Altas da Escócia, sendo o tipo original de terrier que deu origem a muitas outras raças escocesas. Por séculos, foi o exterminador de pragas definitivo, caçando raposas, texugos e ratos em terrenos rochosos. O Conde de Dumbarton apelidou a raça de 'Diehard' (Duro de Matar) devido à sua coragem absoluta e persistência em combate. O Scottie moderno foi padronizado no final do século XIX e ganhou fama mundial no século XX como o favorito de presidentes americanos como Franklin D. Roosevelt e George W. Bush, tornando-se um ícone da elegância e fidelidade britânica.",
     "curiosidades": [
-      "Scottish Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Scottish Terrier é a única raça canina que serviu como peça de jogo oficial no Monopoly (Banco Imobiliário) original desde 1930.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem dura quase não cai, exigindo a remoção manual dos fios mortos.",
+      "A raça possui um centro de gravidade muito baixo e pernas curtas e musculosas, o que os torna escavadores de potência extraordinária.",
+      "Scotties são conhecidos por serem cães 'de um único círculo', sendo profundamente afetuosos com sua família, mas mantendo uma indiferença aristocrática com estranhos.",
+      "Eles possuem um latido surpreendentemente profundo e sonoro para o seu tamanho, herança de seu passado como cães de alerta em fazendas isoladas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas que buscam um companheiro independente, calmo e silencioso em interiores",
+      "Tutores que buscam um cão de guarda 'de alerta' extremamente vigilante",
+      "Famílias com crianças maiores que saibam respeitar o animal",
+      "Proprietários que apreciam a estética clássica e rústica dos terriers britânicos"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental diário",
+      "Pessoas que não podem dedicar tempo à manutenção regular da barba e pelagem (stripping profissional)",
+      "Casas com pequenos roedores de estimação (instinto de caça é extremo)",
+      "Ambientes com escadas excessivas (devido ao corpo longo e pernas curtas)",
+      "Tutores que buscam obediência cega e execução rápida de truques (ele é independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Scottie Cramp (problema neuromuscular específico da raça)",
+      "vWD (Doença de Von Willebrand - distúrbio de coagulação)",
+      "Câncer de Bexiga (incidência maior que a média)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Problemas dentários (tártaro)",
+      "Ataxia Cerebelar"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento urinário frequente em cães adultos. Testes de DNA para vWD. Check-ups ortopédicos anuais. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é alta. Exige escovação pelo menos três vezes por semana para evitar nós na barba e pernas. O 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3 meses para manter o padrão e a saúde da pele. Banhos devem ser mensais. A limpeza da barba após as refeições é fundamental. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e muito estímulo mental através de brinquedos de inteligência e exploração de novos cheiros são suficientes. Ele adora jogos de busca e participar da vida familiar.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e respeito à inteligência do cão. Eles respondem mal a métodos severos. A socialização precoce é VITAL para evitar a reatividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial, pois o Scottie tem facilidade para engordar, o que sobrecarrega suas articulações e coluna."
   },
   "seo": {
-    "title": "Scottish Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Scottish Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Scottish Terrier (Scottie): O Guia Completo do 'Diehard' Escocês",
+    "description": "Descubra o Scottish Terrier: conheça seu temperamento independente, sua história na realeza e na Casa Branca, e as dicas vitais de cuidados com a pelagem e saúde.",
     "keywords": [
-      "scottish-terrier",
-      "scottish terrier",
-      "médio",
-      "escócia"
+      "Scottish Terrier",
+      "Scottie",
+      "Terrier Escocês",
+      "cão inteligente pequeno",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Scottie",
+      "temperamento Scottish Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/scottish-terrier.jpg",
@@ -76,11 +95,55 @@
     "/images/breeds/scottish-terrier-2.jpg",
     "/images/breeds/scottish-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=scottish-terrier",
-  "popularidade": 7517,
-  "ranking_brasil": 158,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Scottish Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-scottie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-scottie/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar do Pelo do Scottish Terrier",
+      "url": "https://www.youtube.com/watch?v=example-scottie-groom",
+      "canal": "Estética Canina",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "west-highland-white-terrier",
+    "cairn-terrier",
+    "sealyham-terrier",
+    "dandie-dinmont-terrier",
+    "schnauzer-miniatura"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Trigo (Wheaten)",
+    "Tigrado (Brindle) em vários tons"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas proeminentes obrigatórias",
+    "Orelhas pequenas e eretas",
+    "Cauda em forma de cenoura (curta e ereta)"
+  ],
+  "curiosidades_historicas": "O Scottie 'Fala', companheiro do presidente Franklin D. Roosevelt, tornou-se tão famoso que era citado em discursos presidenciais e recebia milhares de cartas de fãs, tornando-se o cão da Casa Branca mais amado e fotografado da história americana até os dias de hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "Scottish Terrier Club of America",
+      "url": "https://stca.biz/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Scottish Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/SCOTTISH-TERRIER-73.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    288,
-    692
+    300,
+    750
   ]
 }

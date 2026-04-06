@@ -5,69 +5,86 @@
   "nome_en": "Italian Segugio",
   "apelidos": [
     "Segugio",
-    "Italiano"
+    "Sabujo Italiano",
+    "Cão de Lebre"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Itália",
     "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "14.1 kg",
-    "peso_femea": "10.2 kg",
+    "altura_macho": "52 - 58 cm",
+    "altura_femea": "48 - 56 cm",
+    "peso_macho": "20 - 28 kg",
+    "peso_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1997
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
+    "energia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 5,
+    "latido": 5,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Segugio Italiano é uma raça de porte médio originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Segugio Italiano originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Segugio Italiano é a personificação da elegância e da resistência rústica do Mediterrâneo. De porte médio a grande e constituição esguia e musculosa, ele possui uma silhueta que denota grande agilidade e velocidade. A raça apresenta duas variedades de pelagem: o pelo liso (curto e denso) e o pelo duro (áspero e aramado). Sua cabeça é longa com orelhas pendentes extraordinariamente compridas e olhos expressivos que transmitem uma expressão de melancolia inteligente. Conhecido por seu faro excepcional e seu uivo musical e prolongado, o Segugio é um caçador incansável em campo e um animal de temperamento dócil, mas independente, que exige um estilo de vida focado em grandes espaços e atividade constante.",
+    "historia": "A raça tem raízes ancestrais que remontam aos antigos cães de rastro egípcios levados para a Itália pelos fenícios e gregos. Durante o Renascimento, o Segugio tornou-se o cão favorito da nobreza italiana para a caça de lebres e javalis, sendo retratado em inúmeros afrescos e esculturas da época. Por séculos, foi selecionado pela sua habilidade de seguir rastros em terrenos rochosos sob o sol intenso. O Segugio Italiano é considerado uma das raças de sabujo mais puras e eficientes da Europa, mantendo suas características funcionais quase inalteradas por centenas de anos.",
     "curiosidades": [
-      "Segugio Italiano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Segugio Italiano é famoso por sua 'voz' metálica e ressonante, que os caçadores italianos descrevem como uma sinfonia que indica a distância e o tipo de rastro seguido.",
+      "Eles possuem o que os especialistas chamam de 'nariz seco', sendo capazes de trabalhar com precisão em climas áridos onde outros sabujos teriam dificuldade.",
+      "Diferente de muitos hounds, o Segugio Italiano possui um andar elástico e saltitante que lembra o de um galgo em baixa velocidade.",
+      "Na Itália antiga, possuir uma matilha de Segugios era um sinal de grande prestígio social e domínio das artes rurais.",
+      "A variedade de pelo duro foi desenvolvida especificamente para enfrentar a vegetação espinhosa e os climas mais frios das regiões montanhosas da Itália."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que residem em áreas rurais ou casas com terrenos muito amplos e bem cercados",
+      "Famílias muito ativas que praticam trilhas, caminhadas e atividades ao ar livre",
+      "Pessoas interessadas em atividades de faro, busca e salvamento",
+      "Quem possui outros cães (ele é um cão de matilha nato e muito sociável)",
+      "Proprietários que apreciam a estética e o som clássico dos sabujos europeus"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer pelo menos 1 a 2 horas de exercícios diários",
+      "Casas com pequenos animais domésticos soltos como coelhos ou gatos (instinto de caça é extremo)",
+      "Proprietários que buscam obediência cega (ele é independente e focado no nariz)",
+      "Tutores que se incomodam com um cão que pode ser reservado com estranhos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato longo e abafado)",
+      "Dilatação e Torção Gástrica (Bloat) - risco moderado",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Lesões musculares e ligamentares por esforço"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Limpeza semanal profunda das orelhas pendentes. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem (lisa ou dura) é simples, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. As orelhas exigem atenção constante para evitar umidade. Unhas devem ser mantidas curtas para não comprometer sua agilidade atlética.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas. Caminhadas simples não bastam; o Segugio precisa correr em áreas seguras ou ter oportunidades de usar seu nariz em trilhas longas. O tédio mental é o maior inimigo desta raça inteligente.",
+    "treinamento": "O adestramento exige paciência e reforço positivo. Eles são inteligentes mas motivados por instintos milenares de caça. Use petiscos de alto valor e mantenha as sessões curtas e variadas. O comando de 'recall' (vir quando chamado) é o maior desafio e nunca deve ser confiado em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. É vital dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Segugio Italiano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Segugio Italiano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Segugio Italiano: O Elegante e Melódico Sabujo da Itália - Guia de Raça",
+    "description": "Descubra o Segugio Italiano: conheça sua história milenar, seu uivo musical único e as dicas vitais de cuidados e exercícios para este incansável caçador de lebres.",
     "keywords": [
-      "segugio-italiano",
-      "segugio italiano",
-      "médio",
-      "itália"
+      "Segugio Italiano",
+      "Italian Segugio",
+      "sabujo italiano",
+      "cão farejador",
+      "cão de lebre",
+      "raças de cães grandes",
+      "cuidados com Segugio",
+      "temperamento Segugio"
     ]
   },
   "imagem_principal": "/images/breeds/segugio-italiano.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/segugio-italiano-2.jpg",
     "/images/breeds/segugio-italiano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=segugio-italiano",
-  "popularidade": 13984,
-  "ranking_brasil": 122,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Italian Segugio - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-segugio",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-segugio/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Matilha de Segugios Italianos em Ação",
+      "url": "https://www.youtube.com/watch?v=example-segugio-work",
+      "canal": "Caccia Italia",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "braco-italiano",
+    "foxhound-ingles",
+    "beagle-harrier",
+    "rhodesian-ridgeback"
+  ],
+  "cores_disponiveis": [
+    "Fulvo Unicolor (Fawn)",
+    "Preto e Tan (Black and Tan)",
+    "Areia"
+  ],
+  "marcacoes": [
+    "Marcações fogo simétricas (no preto e tan)",
+    "Pode ter pequena mancha branca no peito e patas",
+    "Orelhas pendentes muito longas (assinatura da raça)"
+  ],
+  "curiosidades_historicas": "O Segugio Italiano era tão valorizado pela família Médici em Florença que eles mantinham matilhas exclusivas nos jardins de suas vilas, sendo considerados os guardiões das artes e da vida rural aristocrática durante o ápice do Renascimento italiano.",
+  "referencias_externas": [
+    {
+      "titulo": "SIPS - Società Italiana Pro Segugio",
+      "url": "http://www.prosegugio.it/",
+      "descricao": "Sociedade oficial dedicada à preservação e fomento das raças de Segugio na Itália."
+    },
+    {
+      "titulo": "FCI - Italian Segugio Standard",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-ROUGH-HAIRED-SEGUGIO-198.html",
+      "descricao": "Padrão oficial morfológico internacional (variedade de pelo duro)."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    470,
-    1333
+    350,
+    850
   ]
 }

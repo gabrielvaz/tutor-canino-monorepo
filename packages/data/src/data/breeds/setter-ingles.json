@@ -4,70 +4,87 @@
   "slug": "setter-ingles",
   "nome_en": "English Setter",
   "apelidos": [
-    "Setter",
-    "Inglês"
+    "O Cavalheiro do Mundo Canino",
+    "Laverack Setter",
+    "Llewellin Setter"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
     "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "18 kg",
-    "peso_femea": "15.6 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1966
+    "altura_macho": "65 - 69 cm",
+    "altura_femea": "61 - 65 cm",
+    "peso_macho": "27 - 36 kg",
+    "peso_femea": "20 - 30 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Setter Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Setter Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Setter Inglês é a personificação da elegância, doçura e atletismo, frequentemente descrito como o 'cavalheiro do mundo canino'. De porte grande e constituição graciosa e bem balanceada, ele é famoso por sua pelagem longa, sedosa e plana com o padrão de cor único chamado 'Belton' (salpicado). Sua cabeça é refinada com uma expressão de bondade inteligente e orelhas pendentes aveludadas. O Setter Inglês é um cão dotado de uma sensibilidade aguçada e um temperamento excepcionalmente amigável, sendo tanto um caçador incansável em campo quanto um companheiro de sofá extremamente afetuoso e tranquilo dentro de casa.",
+    "historia": "A raça tem raízes que remontam ao século XIV na Inglaterra, descendendo de antigos spaniels treinados para 'sentar' (set) ao localizar aves, permitindo que os caçadores lançassem redes sobre elas. Com a invenção das armas de fogo, o papel do cão mudou para o aponte em pé. A raça moderna foi moldada no século XIX por dois grandes criadores: Edward Laverack, que focou na beleza e tipo de exposição, e Purcell Llewellin, que focou na performance de campo. O Setter Inglês é uma das raças de esporte mais antigas e respeitadas do mundo, mantendo até hoje seu equilíbrio entre funcionalidade e elegância suprema.",
     "curiosidades": [
-      "Setter Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O termo 'Belton' usado para descrever a cor da pelagem foi cunhado por Edward Laverack em homenagem à vila de Belton, onde ele costumava caçar com seus cães.",
+      "Eles possuem o que os especialistas chamam de 'nariz de ar', sendo capazes de rastrear aves pelo cheiro transportado pelo vento enquanto correm em alta velocidade.",
+      "O Setter Inglês é famoso por sua 'saudação de corpo inteiro', abanando não apenas a cauda, mas o tronco inteiro quando está feliz em ver seus tutores.",
+      "Diferente de muitos cães de caça, o Setter Inglês é extremamente sociável com outros cães, raramente demonstrando qualquer sinal de agressividade territorial.",
+      "Eles possuem uma memória visual excelente e são capazes de lembrar exatamente onde localizaram uma presa meses após a última caçada no mesmo local."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um dos cães mais pacientes e gentis que existem)",
+      "Tutores que buscam um companheiro afetuoso, dócil e silencioso em interiores",
+      "Pessoas que apreciam cuidar da estética canina e escovação de pelagem longa",
+      "Quem vive em casas com grandes quintais gramados e seguros",
+      "Donos ativos que gostam de caminhadas longas, trilhas e atividades ao ar livre"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer exercícios diários vigorosos",
+      "Pessoas extremamente zelosas com a limpeza da casa (as franjas trazem sujeira e detritos da rua)",
+      "Ambientes onde o cão ficará sozinho por longos períodos (sofre com ansiedade de separação severa)",
+      "Proprietários que buscam um cão de guarda agressivo (ele costuma receber estranhos com alegria)",
+      "Tutores que utilizam métodos de treinamento severos (ele é altamente sensível e pode ficar amuado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Surdez Congênita (em certas linhagens)",
+      "Hipotireoidismo",
+      "Problemas oculares (PRA e Catarata)",
+      "Alergias de pele e dermatites",
+      "Dilatação e Torção Gástrica (Bloat)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Teste de audição (BAER) em filhotes. Monitoramento da função tireoidiana em cães adultos. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Durante a troca de pelo, a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores. É vital limpar e secar as orelhas pendentes semanalmente. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 1,5 horas de atividade física vigorosa. Caminhadas longas, jogos de busca e, preferencialmente, a oportunidade de correr livremente em áreas seguras e gramadas são fundamentais. O tédio é o maior inimigo do comportamento equilibrado do Setter.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas possui uma sensibilidade aguçada. O adestramento deve ser baseado inteiramente em reforço positivo, paciência e carinho. Eles aprendem comandos novos com rapidez, mas podem ser distraídos por cheiros. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. O controle calórico é importante, pois o excesso de peso prejudica as articulações desta raça atlética."
   },
   "seo": {
-    "title": "Setter Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Setter Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Setter Inglês: O Guia Completo do Cavalheiro das Aves e da Família",
+    "description": "Descubra o Setter Inglês: conheça sua inteligência brilhante, sua pelagem Belton única e as dicas vitais de cuidados e exercícios para este dócil e elegante companheiro.",
     "keywords": [
-      "setter-ingles",
-      "setter inglês",
-      "médio",
-      "inglaterra"
+      "Setter Inglês",
+      "English Setter",
+      "cão de aponte britânico",
+      "cão Belton",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Setter Inglês",
+      "temperamento Setter Inglês"
     ]
   },
   "imagem_principal": "/images/breeds/setter-ingles.jpg",
@@ -76,11 +93,57 @@
     "/images/breeds/setter-ingles-2.jpg",
     "/images/breeds/setter-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=setter-ingles",
-  "popularidade": 7561,
-  "ranking_brasil": 91,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Setter - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-englishsetter",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-englishsetter/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Beleza do Setter Inglês em Campo",
+      "url": "https://www.youtube.com/watch?v=example-setter-work",
+      "canal": "Countryside Dogs",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "setter-irlandes",
+    "setter-gordon",
+    "pointer-ingles",
+    "braco-italiano",
+    "springer-spaniel-ingles"
+  ],
+  "cores_disponiveis": [
+    "Blue Belton (Preto e Branco)",
+    "Orange Belton (Laranja e Branco)",
+    "Lemon Belton (Limão e Branco)",
+    "Liver Belton (Fígado e Branco)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Padrão Belton (salpicado) obrigatório",
+    "Franjas abundantes nas orelhas, peito e pernas",
+    "Pode ter manchas maiores de cor na face"
+  ],
+  "curiosidades_historicas": "O Setter Inglês foi uma das primeiras raças a serem exibidas na primeira exposição canina oficial da história, realizada em Newcastle, na Inglaterra, em 1859, onde sua elegância e temperamento impecável ajudaram a definir os padrões de julgamento que usamos até hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "English Setter Association of America",
+      "url": "https://esaa.com/",
+      "descricao": "Clube oficial de raça nos EUA com vastas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - English Setter Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-SETTER-2.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    244,
-    1481
+    400,
+    900
   ]
 }

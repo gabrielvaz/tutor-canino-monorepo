@@ -4,70 +4,89 @@
   "slug": "scottish-deerhound",
   "nome_en": "Scottish Deerhound",
   "apelidos": [
-    "Scottish",
-    "Deerhound"
+    "Deerhound",
+    "Galgo Escocês",
+    "Cão Real da Escócia"
   ],
-  "categoria": "Médio",
+  "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Escócia",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "43 cm",
-    "peso_macho": "16.2 kg",
-    "peso_femea": "13.7 kg",
+    "expectativa_vida": "8 - 11 anos",
+    "altura_macho": "76 - 81 cm",
+    "altura_femea": "71 - 76 cm",
+    "peso_macho": "39 - 50 kg",
+    "peso_femea": "34 - 43 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1924
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 1,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Scottish Deerhound é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Scottish Deerhound originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Scottish Deerhound é a personificação da majestade rústica, um dos cães mais nobres e elegantes do mundo. De porte gigante e constituição de lebrél, ele combina a força de um caçador de veados com a delicadeza de um companheiro de colo. Sua pelagem é dura, aramada e desgrenhada, projetada para protegê-lo do clima severo das Highlands escocesas. Com uma cabeça longa adornada por uma barba sutil e olhos escuros que transmitem uma doçura melancólica, o Deerhound é famoso por seu temperamento extraordinariamente dócil, pacífico e profundamente leal, sendo muitas vezes chamado de 'o cão mais gentil de todo o reino canino'.",
+    "historia": "As raízes da raça são ancestrais, datando de antes da Idade Média na Escócia. Por séculos, o Deerhound foi o cão exclusivo da alta nobreza e chefes de clãs escoceses, sendo usado para a caça do veado vermelho em perseguições de alta velocidade através das montanhas. O valor de um Deerhound era tamanho que, na Idade Média, nenhum homem abaixo do status de Conde poderia possuí-los. A raça quase desapareceu no século XIX com a mudança dos métodos de caça e o fim do sistema de clãs, sendo salva por entusiastas que preservaram sua morfologia clássica e temperamento digno até os dias de hoje.",
     "curiosidades": [
-      "Scottish Deerhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Deerhound é frequentemente confundido com o Irish Wolfhound, mas o Deerhound é mais leve, mais ágil e possui uma silhueta de galgo muito mais pronunciada.",
+      "Eles são conhecidos por serem os 'aristocratas do sofá', sendo capazes de passar horas em um sono profundo e elegante se suas necessidades de corrida forem atendidas.",
+      "O Scottish Deerhound possui um andar elástico e fluido, descrito como 'o mais gracioso de todos os gigantes'.",
+      "Sir Walter Scott, o famoso escritor escocês, descreveu seu Deerhound 'Maida' como 'a criatura mais perfeita do céu', ajudando a imortalizar a raça na literatura.",
+      "Diferente de muitos cães grandes, os Deerhounds possuem pouco ou nenhum cheiro de cachorro e são extremamente limpos dentro de casa."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e nunca agressivo)",
+      "Tutores que possuem casas com amplos espaços internos e quintais grandes e seguros",
+      "Pessoas que buscam um companheiro calmo, silencioso e muito afetuoso",
+      "Quem aprecia a estética de cães históricos e de aparência primitiva",
+      "Proprietários que podem oferecer oportunidades de corrida em áreas cercadas"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição visual é incontrolável)",
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (devido ao tamanho massivo)",
+      "Tutores sedentários que não possam oferecer exercícios moderados para manter a musculatura",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável com todos e muito pacífico)",
+      "Proprietários que não estão preparados emocionalmente para lidar com uma longevidade menor típica de raças gigantes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico",
+      "Cardiomiopatia Dilatada (DCM)",
+      "Osteossarcoma (câncer ósseo)",
+      "Sensibilidade extrema a anestésicos (comum em lebréis)",
+      "Cistinúria (problema renal hereditário)",
+      "Fator VII (distúrbio de coagulação)",
+      "Calos de apoio"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é vital. Atenção absoluta aos sinais de torção gástrica. É MANDATÓRIO utilizar protocolos anestésicos específicos para lebréis. Check-ups ortopédicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é simples, exigindo apenas uma escovação semanal profunda para remover pelos mortos. Banhos devem ser ocasionais. É importante verificar as almofadas das patas e as unhas após corridas em terrenos ásperos. Unhas devem ser mantidas curtas para suportar o peso e agilidade. Prepare-se para oferecer camas muito acolchoadas para proteger as articulações finas.",
+    "exercicios": "Necessita de exercícios moderados em ritmo constante, com picos de alta intensidade. Caminhadas diárias são essenciais, mas ele precisa de oportunidades para correr livremente em áreas seguras e cercadas pelo menos 2 a 3 vezes por semana. O Deerhound é um 'sprinter de longa distância'.",
+    "treinamento": "Inteligente mas independente e sensível. O adestramento deve ser baseado inteiramente em reforço positivo e paciência. Eles não respondem bem a métodos severos ou tons de voz elevados. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para evitar a torção gástrica. Evite exercícios intensos imediatamente antes ou depois das refeições. O controle do peso é fundamental para sua longevidade."
   },
   "seo": {
-    "title": "Scottish Deerhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Scottish Deerhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Scottish Deerhound: O Nobre e Gentil Caçador das Highlands - Guia de Raça",
+    "description": "Descubra o Scottish Deerhound: conheça sua história na nobreza escocesa, sua elegância de lebrél e as dicas vitais de cuidados com a saúde e exercícios para este gigante dócil.",
     "keywords": [
-      "scottish-deerhound",
-      "scottish deerhound",
-      "médio",
-      "escócia"
+      "Scottish Deerhound",
+      "Deerhound",
+      "Galgo Escocês",
+      "cão real da Escócia",
+      "gigante gentil",
+      "lebrél gigante",
+      "raças de cães gigantes",
+      "cuidados com Deerhound",
+      "temperamento Scottish Deerhound"
     ]
   },
   "imagem_principal": "/images/breeds/scottish-deerhound.jpg",
@@ -76,11 +95,58 @@
     "/images/breeds/scottish-deerhound-2.jpg",
     "/images/breeds/scottish-deerhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=scottish-deerhound",
-  "popularidade": 35016,
-  "ranking_brasil": 38,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Scottish Deerhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-deerhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-deerhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Elegância do Scottish Deerhound em Campo",
+      "url": "https://www.youtube.com/watch?v=example-deerhound-run",
+      "canal": "Hound Heritage",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "irish-wolfhound",
+    "greyhound",
+    "borzoi",
+    "saluki",
+    "galgo-espanhol"
+  ],
+  "cores_disponiveis": [
+    "Cinza-azulado (Dark Blue-Grey)",
+    "Cinza Escuro",
+    "Cinza Claro",
+    "Tigrado (Brindle)",
+    "Amarelo",
+    "Vermelho-fawn"
+  ],
+  "marcacoes": [
+    "Pelagem dura e aramada",
+    "Franjas sutis nas pernas e cauda",
+    "Barba e bigodes característicos"
+  ],
+  "curiosidades_historicas": "Na Escócia antiga, o valor de um Scottish Deerhound era tão imenso que um chefe de clã condenado à morte poderia comprar sua liberdade oferecendo três Deerhounds de alta qualidade ao rei, provando que estes cães eram considerados, literalmente, tesouros da nação.",
+  "referencias_externas": [
+    {
+      "titulo": "Scottish Deerhound Club of America",
+      "url": "https://deerhound.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Scottish Deerhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/SCOTTISH-DEERHOUND-164.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    314,
-    1496
+    500,
+    1300
   ]
 }

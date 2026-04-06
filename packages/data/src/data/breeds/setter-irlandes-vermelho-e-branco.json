@@ -4,70 +4,88 @@
   "slug": "setter-irlandes-vermelho-e-branco",
   "nome_en": "Irish Red and White Setter",
   "apelidos": [
-    "Setter",
-    "Branco"
+    "Red and White",
+    "IRWS",
+    "Setter Ruivo e Branco"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Irlanda",
     "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "26.2 kg",
-    "peso_femea": "23.6 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1934
+    "altura_macho": "62 - 66 cm",
+    "altura_femea": "57 - 61 cm",
+    "peso_macho": "23 - 32 kg",
+    "peso_femea": "17 - 25 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1989
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 4,
-    "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 2,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Setter Irlandês Vermelho e Branco é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Setter Irlandês Vermelho e Branco originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Setter Irlandês Vermelho e Branco é a forma original e ancestral dos setters da Irlanda, um cão de porte grande que combina a elegância aristocrática com a resistência de um trabalhador rústico. De constituição atlética, musculosa e poderosa, ele é visivelmente mais robusto do que seu primo inteiramente ruivo. Sua pelagem é longa, sedosa e plana, com a cor branca predominante adornada por manchas sólidas de um vermelho vibrante. Com uma expressão de inteligência alerta e doçura, o 'Red and White' é um atleta de elite dotado de uma energia inesgotável e um temperamento extremamente amigável, sendo um companheiro de família leal que adora a vida ao ar livre.",
+    "historia": "Até o século XVIII, quase todos os setters na Irlanda eram vermelhos e brancos; o Setter Irlandês Ruivo sólido só ganhou popularidade e reconhecimento posterior. O Red and White foi desenvolvido para caçar perdizes e outras aves em terrenos montanhosos e úmidos, onde a cor branca facilitava a localização do cão à distância. No final do século XIX, a raça quase foi extinta devido à obsessão dos criadores pela variedade inteiramente ruiva. Foi salva na década de 1920 pelo Reverendo Noble Huston e pela Sra. Maureen Cuddy, que dedicaram suas vidas a preservar o tipo original de trabalho. A raça foi formalmente reconhecida pela FCI em 1989 como uma raça distinta e histórica.",
     "curiosidades": [
-      "Setter Irlandês Vermelho e Branco possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Setter Irlandês Vermelho e Branco é considerado o ancestral direto do Setter Irlandês Ruivo, representando a linhagem mais antiga e funcional da raça.",
+      "Eles possuem o que os caçadores chamam de 'nariz metódico', sendo mais focados e persistentes no rastreamento em terrenos difíceis do que a variedade ruiva.",
+      "Diferente de muitos cães de esporte, o Red and White é conhecido por ser extremamente gentil com crianças pequenas, tendo uma consciência corporal admirável.",
+      "A raça é considerada uma 'Raça Nativa Vulnerável' no Reino Unido e Irlanda, com esforços internacionais contínuos para garantir sua diversidade genética.",
+      "Eles são famosos por sua 'saudação irlandesa', um entusiasmo físico transbordante quando seus tutores chegam em casa, muitas vezes pulando e 'abraçando' as pessoas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam trilhas, corridas e vida no campo",
+      "Tutores interessados em adestramento, jogos de faro e esportes caninos intensos",
+      "Quem vive em casas com grandes quintais gramados e seguros",
+      "Proprietários que buscam um cão de médio a grande porte muito afetuoso e dócil",
+      "Donos que apreciam a história e a raridade de raças ancestrais de trabalho"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que moram em apartamentos pequenos (ele se tornará hiperativo e destrutivo)",
+      "Famílias que ficam fora de casa o dia todo (ele sofre severamente com a solidão e tédio)",
+      "Pessoas extremamente zelosas com a limpeza da casa (as franjas trazem muita sujeira da rua)",
+      "Tutores que utilizam métodos de treinamento severos (ele é sensível e precisa de reforço positivo)",
+      "Proprietários que não podem dedicar tempo diário à escovação e manutenção da pelagem sedosa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina)",
+      "CLAD (Deficiência de Adesão Leucocitária Canina - doença imunológica genética)",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes genéticos para CLAD e PRA são OBRIGATÓRIOS para reprodutores. Check-ups ortopédicos anuais. Limpeza e secagem semanal profunda das orelhas pendentes. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e franjas das pernas. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores para manter o brilho das manchas vermelhas. É vital limpar as orelhas regularmente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas de atividade física intensa. Caminhadas longas, sessões de corrida, natação e jogos de busca são fundamentais. O Red and White é um atleta que precisa gastar energia para ser um companheiro calmo em casa.",
+    "treinamento": "Muito inteligente e ansioso para agradar, mas com uma dose de independência típica de cães de campo. O adestramento deve ser baseado em reforço positivo, paciência e variedade. Ele aprende comandos novos com rapidez, mas se distrai facilmente com cheiros. A socialização precoce é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães grandes ativos. É vital dividir a alimentação em pelo menos duas refeições por dia para reduzir o risco de torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Setter Irlandês Vermelho e Branco - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Setter Irlandês Vermelho e Branco: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Setter Irlandês Vermelho e Branco: O Ancestral Heróico - Guia de Raça",
+    "description": "Descubra o Setter Irlandês Vermelho e Branco: conheça sua história de resgate, seu temperamento dócil e as dicas vitais de cuidados e exercícios para esta raça rara.",
     "keywords": [
-      "setter-irlandes-vermelho-e-branco",
-      "setter irlandês vermelho e branco",
-      "médio",
-      "irlanda"
+      "Setter Irlandês Vermelho e Branco",
+      "Irish Red and White Setter",
+      "IRWS",
+      "cão de aponte irlandês",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Setter Irlandês",
+      "temperamento Red and White",
+      "CLAD em cães"
     ]
   },
   "imagem_principal": "/images/breeds/setter-irlandes-vermelho-e-branco.jpg",
@@ -76,11 +94,53 @@
     "/images/breeds/setter-irlandes-vermelho-e-branco-2.jpg",
     "/images/breeds/setter-irlandes-vermelho-e-branco-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=setter-irlandes-vermelho-e-branco",
-  "popularidade": 50800,
-  "ranking_brasil": 188,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Irish Red and White Setter - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-irws",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-irws/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre o Setter Ruivo e o Vermelho e Branco",
+      "url": "https://www.youtube.com/watch?v=example-setter-compare",
+      "canal": "Mundo Canino",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "setter-irlandes",
+    "setter-ingles",
+    "setter-gordon",
+    "braco-italiano",
+    "pointer-ingles"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas sólidas Vermelho-ruivo"
+  ],
+  "marcacoes": [
+    "Manchas vermelhas bem definidas (clássico)",
+    "Pequenas marcas salpicadas (flecking) permitidas apenas nas pernas e face",
+    "Franjas abundantes nas orelhas e cauda"
+  ],
+  "curiosidades_historicas": "Durante a Grande Fome na Irlanda na década de 1840, o Red and White quase desapareceu, pois as famílias nobres que mantinham os canis não podiam mais sustentar as matilhas. A sobrevivência da raça deve-se à família Rossmore e alguns clérigos rurais que preservaram os últimos exemplares por puro amor à linhagem ancestral.",
+  "referencias_externas": [
+    {
+      "titulo": "Irish Red and White Setter Association of America",
+      "url": "https://irwsa.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Irish Red and White Setter Standard",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-RED-AND-WHITE-SETTER-330.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    453,
-    1068
+    400,
+    950
   ]
 }

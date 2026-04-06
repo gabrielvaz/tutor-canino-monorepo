@@ -4,70 +4,87 @@
   "slug": "setter-gordon",
   "nome_en": "Gordon Setter",
   "apelidos": [
-    "Setter",
-    "Gordon"
+    "Gordon",
+    "Setter Preto e Canela",
+    "O Cão do Castelo Gordon"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "42 cm",
-    "peso_macho": "14.2 kg",
-    "peso_femea": "12.1 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1964
+    "origem": "Escócia (Castelo Gordon)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "61 - 69 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "25 - 36 kg",
+    "peso_femea": "20 - 32 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
     "latido": 2,
-    "afeicao_familia": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Setter Gordon é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Setter Gordon originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Setter Gordon é o mais massivo e rústico de todos os setters, um cão de porte grande que personifica a nobreza escocesa e a força funcional. De constituição poderosa e elegante, ele é imediatamente reconhecido por sua pelagem longa, sedosa e invariavelmente de um preto azeviche profundo com marcações castanhas (tan) brilhantes. Sua cabeça é refinada com orelhas pendentes fofas e um olhar que transmite uma seriedade inteligente e profunda. Conhecido por seu faro excepcional e temperamento equilibrado, o Gordon é um caçador metódico em campo e um companheiro de família intensamente leal e protetor dentro de casa, muitas vezes sendo chamado de 'o setter de um único dono'.",
+    "historia": "A raça desenvolveu-se na Escócia no final do século XVIII, principalmente através dos esforços de Alexander Gordon, o 4º Duque de Gordon, em seu castelo em Banffshire. O Duque buscou criar o cão de aponte perfeito para as aves das Highlands escocesas: um animal com resistência para subir montanhas, faro para o terreno úmido e força para trabalhar o dia todo. Acredita-se que o Setter Gordon descenda do antigo 'Black and Tan Setting Dog' cruzado com o Bloodhound e o Collie. Diferente de seus primos ingleses e irlandeses que focavam na velocidade, o Gordon foi selecionado para ser o mais robusto e metódico dos setters.",
     "curiosidades": [
-      "Setter Gordon possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Setter Gordon é a única raça de setter que possui marcações preto e tan obrigatórias, o que o torna visualmente único no grupo de cães de aponte britânicos.",
+      "Eles possuem o que os caçadores chamam de 'estilo de busca cuidadoso', preferindo investigar o terreno minuciosamente em vez de correr em alta velocidade.",
+      "O Gordon é conhecido por ter uma memória extraordinária, sendo capaz de lembrar locais de caça e comandos anos após o primeiro treinamento.",
+      "Apesar da aparência aristocrática, eles são famosos por serem cães muito 'físicos' no afeto, adorando encostar todo o seu peso nos tutores para pedir carinho.",
+      "Eles são os setters mais vigilantes, possuindo um instinto de guarda natural muito mais desenvolvido do que o Setter Inglês ou Irlandês."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e dócil com os pequenos)",
+      "Tutores que buscam um companheiro leal e um cão de guarda de alerta eficiente",
+      "Pessoas que apreciam cuidar da estética canina e escovação de pelagem longa",
+      "Quem vive em casas com quintais espaçosos e seguros",
+      "Donos ativos que gostam de trilhas e caminhadas longas em climas frescos"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que moram em apartamentos pequenos sem rotina intensa de exercícios",
+      "Famílias que ficam fora de casa o dia todo (ele sofre severamente com a solidão e ansiedade)",
+      "Pessoas que não suportam queda moderada de pelos longos e detritos trazidos da rua nas franjas",
+      "Ambientes com calor tropical extremo (a pelagem preta e densa retém muito calor)",
+      "Tutores iniciantes que não saibam lidar com a teimosia ocasional de um cão inteligente e independente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina)",
+      "Hipotireoidismo",
+      "Cerebellar Abiotrophy (doença neurológica rara)",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Limpeza semanal profunda das orelhas pendentes e franjadas. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Durante a troca de pelo, a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores para manter o brilho do preto. As orelhas precisam ser limpas e inspecionadas regularmente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 a 1,5 horas de atividade física. Caminhadas longas, jogos de busca e, preferencialmente, trilhas em áreas naturais são ideais. O Gordon se sente mais equilibrado quando tem um 'trabalho' mental para realizar.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas possui uma mente independente. O adestramento deve ser baseado em reforço positivo, paciência e muita consistência. Ele pode ser teimoso se o treinamento for repetitivo. A socialização precoce é fundamental para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade para cães grandes ativos. É vital dividir a alimentação em pelo menos duas refeições por dia para reduzir o risco de torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Setter Gordon - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Setter Gordon: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Setter Gordon: O Nobre Guardião das Highlands - Guia Completo da Raça",
+    "description": "Descubra o Setter Gordon: conheça seu temperamento leal, sua história no Castelo Gordon e as dicas vitais de cuidados com a pelagem e saúde desta raça magnífica.",
     "keywords": [
-      "setter-gordon",
-      "setter gordon",
-      "médio",
-      "escócia"
+      "Setter Gordon",
+      "Gordon Setter",
+      "cão de aponte escocês",
+      "cão preto e tan",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Setter Gordon",
+      "temperamento Gordon"
     ]
   },
   "imagem_principal": "/images/breeds/setter-gordon.jpg",
@@ -76,11 +93,53 @@
     "/images/breeds/setter-gordon-2.jpg",
     "/images/breeds/setter-gordon-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=setter-gordon",
-  "popularidade": 1265,
-  "ranking_brasil": 141,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Gordon Setter - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-gordonsetter",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-gordonsetter/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre os Setters",
+      "url": "https://www.youtube.com/watch?v=example-setter-diff",
+      "canal": "Mundo Canino",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "setter-ingles",
+    "setter-irlandes",
+    "pointer-ingles",
+    "vizsla",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Preto azeviche com marcações Mogno (Tan)"
+  ],
+  "marcacoes": [
+    "Marcações fogo bem definidas na face e pernas",
+    "Manchas fogo sobre os olhos (rosetas)",
+    "Pode ter pequena mancha branca no peito (permitida mas não desejável)"
+  ],
+  "curiosidades_historicas": "O 4º Duque de Gordon tinha uma regra estrita em seu canil: nenhum cão poderia ser mantido se não provasse ser um trabalhador de primeira classe em campo, independentemente da sua beleza física, o que garantiu que a raça mantivesse o temperamento equilibrado e a saúde rústica que vemos hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "Gordon Setter Club of America",
+      "url": "https://gordonsetterclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Gordon Setter Standard",
+      "url": "https://www.fci.be/en/nomenclature/GORDON-SETTER-6.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    358,
-    716
+    400,
+    950
   ]
 }

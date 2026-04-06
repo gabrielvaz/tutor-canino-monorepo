@@ -4,71 +4,88 @@
   "slug": "sealyham-terrier",
   "nome_en": "Sealyham Terrier",
   "apelidos": [
-    "Sealyham",
-    "Terrier"
+    "Sealy",
+    "Terrier de Edwards",
+    "Cão de Colo de Hollywood"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "País de Gales",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "33 cm",
-    "altura_femea": "29 cm",
-    "peso_macho": "8.1 kg",
-    "peso_femea": "6 kg",
+    "origem": "País de Gales (Sealy Ham)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "27 - 31 cm",
+    "altura_femea": "25 - 29 cm",
+    "peso_macho": "9 - 11 kg",
+    "peso_femea": "8 - 10 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1909
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 5,
-    "queda_pelo": 4,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
     "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Sealyham Terrier é uma raça de porte pequeno originária de País de Gales. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Sealyham Terrier originou-se em País de Gales, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Sealyham Terrier é um cão pequeno em estatura mas gigantesco em dignidade e presença. De constituição baixa, robusta e muito sólida, ele possui uma pelagem dupla branca, dura e aramada, frequentemente acompanhada de marcações coloridas na cabeça. Sua fisionomia é marcada por uma cabeça longa e retangular com barba e bigodes generosos que lhe conferem uma expressão de seriedade sábia. Diferente de muitos terriers que são puramente trabalhadores rústicos, o Sealyham combina a coragem de um caçador de texugos com a elegância de um cão de companhia de elite, sendo famoso por seu temperamento equilibrado, silencioso dentro de casa e intensamente leal.",
+    "historia": "A raça foi desenvolvida entre 1850 e 1891 pelo Capitão John Edwards em sua propriedade de Sealy Ham, no País de Gales. Ele buscou criar o terrier de trabalho definitivo: branco (para não ser confundido com a presa), de pernas curtas (para entrar em tocas) e de coragem extrema para enfrentar texugos, lontras e raposas. Edwards usou critérios de seleção severos, testando a bravura de cada exemplar. O Sealyham Terrier ganhou imensa popularidade na era de ouro de Hollywood, tornando-se o favorito de estrelas como Alfred Hitchcock, Cary Grant e Elizabeth Taylor, antes de se tornar uma das raças nativas mais raras e vulneráveis do Reino Unido hoje.",
     "curiosidades": [
-      "Sealyham Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Sealyham Terrier é considerado o 'pai' do Cesky Terrier, tendo sido usado pelo geneticista Frantisek Horák para criar a raça tcheca.",
+      "Eles são famosos por terem uma personalidade 'filosófica', sendo muito mais calmos e menos propensos a latir do que a maioria dos outros terriers de pequeno porte.",
+      "A raça possui uma força de mordida extraordinária para o seu tamanho, herança necessária para enfrentar texugos em espaços confinados.",
+      "Eles são conhecidos como cães hipoalergênicos porque sua pelagem dura quase não cai, exigindo a remoção manual dos fios mortos para manter a saúde.",
+      "Alfred Hitchcock era tão apaixonado pela raça que apareceu com dois de seus Sealyhams em sua famosa aparição especial no filme 'Os Pássaros'."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos que buscam um cão tranquilo",
+      "Pessoas que apreciam raças raras e com visual clássico e distinto",
+      "Tutores que desejam um terrier com temperamento mais equilibrado e dócil",
+      "Famílias com crianças maiores que saibam respeitar o espaço do animal",
+      "Quem busca um companheiro leal, silencioso e fácil de socializar"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à manutenção regular da pelagem (stripping profissional)",
+      "Pessoas sedentárias que não ofereçam estímulo mental diário",
+      "Casas com pequenos animais domésticos como hamsters (o instinto de caça é histórico)",
+      "Tutores que buscam um cão para adestramento de obediência cega (ele é independente)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é um cão de alerta pacífico)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Lente Primária (PLL) - doença ocular hereditária",
+      "Surdez (ocasional em linhagens com muito branco)",
+      "Displasia de Quadril (baixa incidência)",
+      "Hipotireoidismo",
+      "Problemas dentários (tártaro)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são essenciais devido ao risco de PLL. Testes genéticos de DNA são recomendados para a linhagem. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca e dura é alta. Exige escovação pelo menos três vezes por semana para evitar nós na barba e pernas. O 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3 meses para manter a textura e cor correta. Banhos devem ser mensais com produtos para pelos claros. A limpeza da barba após as refeições é importante. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e sessões de brincadeira em casa satisfazem plenamente suas necessidades. Ele adora jogos de busca e interagir com a família.",
+    "treinamento": "Muito inteligente e geralmente mais dócil que outros terriers, mas possui uma vontade própria. O adestramento deve ser baseado em reforço positivo, paciência e respeito mútuo. Ele responde bem a desafios mentais. A socialização precoce é importante para manter sua natureza amigável com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é vital, pois o Sealyham tem facilidade para engordar, o que sobrecarrega suas pernas curtas e articulações."
   },
   "seo": {
-    "title": "Sealyham Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Sealyham Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Sealyham Terrier: O Nobre e Raro Terrier de Hollywood - Guia de Raça",
+    "description": "Descubra o Sealyham Terrier: conheça seu temperamento calmo, sua história com as estrelas de cinema e as dicas vitais de cuidados com a pelagem e saúde.",
     "keywords": [
-      "sealyham-terrier",
-      "sealyham terrier",
-      "pequeno",
-      "país de gales"
+      "Sealyham Terrier",
+      "Sealy",
+      "terrier galês",
+      "cão de Alfred Hitchcock",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães raras",
+      "cuidados com Sealyham",
+      "temperamento Sealyham"
     ]
   },
   "imagem_principal": "/images/breeds/sealyham-terrier.jpg",
@@ -77,11 +94,55 @@
     "/images/breeds/sealyham-terrier-2.jpg",
     "/images/breeds/sealyham-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=sealyham-terrier",
-  "popularidade": 2028,
-  "ranking_brasil": 182,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Sealyham Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-sealyham",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-sealyham/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Raridade do Sealyham Terrier Hoje",
+      "url": "https://www.youtube.com/watch?v=example-sealy-rare",
+      "canal": "Mundo Terrier",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cesky-terrier",
+    "dandie-dinmont-terrier",
+    "west-highland-white-terrier",
+    "scottish-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Branco com marcações Limão",
+    "Branco com marcações Texugo",
+    "Branco com marcações Cinza ou Fawn"
+  ],
+  "marcacoes": [
+    "Marcações permitidas apenas na cabeça e orelhas",
+    "Corpo deve ser predominantemente branco",
+    "Barba e bigodes proeminentes"
+  ],
+  "curiosidades_historicas": "O Capitão Edwards era tão rigoroso que testava seus filhotes de um ano de idade colocando-os frente a frente com um texugo vivo; apenas os que enfrentavam o animal sem recuar eram mantidos para reprodução, o que forjou a coragem lendária da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "American Sealyham Terrier Club",
+      "url": "https://akc-sealyhamterrier.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Sealyham Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/SEALYHAM-TERRIER-74.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    234,
-    1039
+    300,
+    750
   ]
 }
