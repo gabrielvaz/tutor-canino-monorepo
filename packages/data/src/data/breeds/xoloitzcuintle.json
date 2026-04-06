@@ -2,69 +2,94 @@
   "id": "xoloitzcuintle",
   "nome": "Xoloitzcuintle",
   "slug": "xoloitzcuintle",
-  "nome_en": "Xoloitzcuintle",
-  "apelidos": [],
+  "nome_en": "Xoloitzcuintli",
+  "apelidos": [
+    "Xolo",
+    "Cão Pelado Mexicano",
+    "Cão Asteca"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "México",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "23.7 kg",
-    "peso_femea": "20.2 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 60 cm (três tamanhos)",
+    "altura_femea": "25 - 60 cm (três tamanhos)",
+    "peso_macho": "4 - 25 kg",
+    "peso_femea": "4 - 25 kg",
+    "tamanhos": {
+      "miniatura": "25 - 35 cm / 4 - 7 kg",
+      "intermediario": "36 - 45 cm / 7 - 14 kg",
+      "padrao": "46 - 60 cm / 14 - 25 kg"
+    },
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1936
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 5,
-    "queda_pelo": 5,
-    "latido": 4,
-    "afeicao_familia": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Xoloitzcuintle é uma raça de porte médio originária de México. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Xoloitzcuintle originou-se em México, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Xoloitzcuintle, carinhosamente conhecido como Xolo, é uma das raças mais sagradas, ancestrais e visualmente fascinantes do mundo. Famoso por sua pele nua, macia e elástica, ele é a personificação da elegância primitiva do México. De silhueta harmoniosa e constituição atlética, possui orelhas grandes que lembram as de um morcego e olhos expressivos que transmitem uma inteligência sábia. A raça apresenta duas variedades (pelada e com pelo) e três tamanhos oficiais. O Xolo é um cão dotado de uma dignidade silenciosa, sendo um guardião vigilante e um companheiro de família intensamente leal que irradia um calor corporal reconfortante.",
+    "historia": "Com raízes que remontam a mais de 3.500 anos, o Xoloitzcuintle era o cão sagrado dos astecas, toltecas e maias. Seu nome deriva de 'Xolotl' (o deus asteca da morte e dos relâmpagos) e 'Itzcuintli' (cão). Acreditava-se que o Xolo guiava as almas dos mortos através do submundo para o Mictlán. Eles eram considerados seres divinos com poderes curativos e protetores. Após a conquista espanhola, a raça quase foi extinta, sobrevivendo em comunidades indígenas isoladas no sul do México. Em 1956, foi redescoberto e oficializado como o Cão Nacional do México, tornando-se hoje um ícone da cultura e identidade mexicana.",
     "curiosidades": [
-      "Xoloitzcuintle possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Xoloitzcuintle é considerado um dos cães mais saudáveis e resistentes do mundo, tendo sido moldado exclusivamente pela seleção natural por milênios.",
+      "Devido à falta de pelos, o calor corporal do Xolo é sentido diretamente pela pele humana, sendo usado na antiguidade para aliviar sintomas de asma, artrite e insônia.",
+      "Na variedade pelada, é genético que o cão tenha uma dentição incompleta (falta de pré-molares), o que não afeta sua saúde ou capacidade de comer.",
+      "O filme da Disney/Pixar 'Viva - A Vida é uma Festa' (Coco) imortalizou o Xoloitzcuintle através do personagem 'Dante', retratando fielmente sua função mística na cultura mexicana.",
+      "Eles são famosos por serem cães extremamente limpos e 'anti-odor', não possuindo quase nenhum cheiro característico de cachorro."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Pessoas com alergias severas a pelos de cães",
+      "Famílias que buscam um companheiro calmo, silencioso e muito limpo",
+      "Tutores que apreciam raças históricas, primitivas e raras",
+      "Quem busca um cão de guarda de alerta extremamente vigilante e inteligente",
+      "Moradores de apartamentos (especialmente os tamanhos miniatura e intermediário)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes com climas de frio extremo sem proteção constante",
+      "Tutores que buscam um cão para atividades rústicas de mata fechada (sua pele é sensível a traumas)",
+      "Pessoas que não podem dedicar tempo aos cuidados diários com a proteção da pele",
+      "Proprietários que desejam um cão para ficar exclusivamente no quintal (ele é estritamente um cão de interior)",
+      "Tutores que buscam obediência cega e execução imediata de truques (ele é independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Problemas dentários (comum a falta de alguns dentes vinculada ao gene da calvície)",
+      "Sensibilidade a queimaduras solares e câncer de pele (se não protegido)",
+      "Alergias de pele e ressecamento cutâneo",
+      "Luxação de Patela (nos tamanhos menores)",
+      "Sensibilidade extrema a anestésicos"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento dermatológico semestral. Higiene bucal rigorosa. Uso obrigatório de protetor solar e hidratantes hipoalergênicos. Atenção a protocolos anestésicos para raças primitivas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pele é o ponto crucial. Exige banhos semanais com sabonetes neutros e hidratação diária com loções específicas. A exposição ao sol deve ser controlada com protetor solar adequado. Não precisa de escovação (exceto na variedade coated). Escovação dental diária é essencial. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias nos horários de pouco sol e sessões de brincadeira em casa satisfazem plenamente suas necessidades. O Xolo é um cão ágil que adora correr em áreas limpas e seguras. O estímulo mental através de desafios cognitivos é muito importante.",
+    "treinamento": "Inteligente, sensível e independente. O adestramento deve ser baseado em reforço positivo, paciência e tons de voz calmos. Ele é desconfiado com estranhos por natureza, então a socialização precoce é MANDATÓRIA para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é fundamental para manter sua silhueta elegante, evitando o sobrepeso que prejudica as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Xoloitzcuintle - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Xoloitzcuintle: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Xoloitzcuintle (Cão Pelado Mexicano): O Guia Completo da Raça Sagrada",
+    "description": "Descubra o Xoloitzcuintle: conheça sua história milenar com os astecas, seu temperamento leal e as dicas vitais de cuidados com a pele e saúde deste cão hipoalergênico.",
     "keywords": [
-      "xoloitzcuintle",
-      "xoloitzcuintle",
-      "médio",
-      "méxico"
+      "Xoloitzcuintle",
+      "Xolo",
+      "Cão Pelado Mexicano",
+      "cão asteca",
+      "cão hipoalergênico",
+      "cão de Viva a vida é uma festa",
+      "raças de cães mexicanas",
+      "cuidados com cão sem pelo",
+      "temperamento Xolo"
     ]
   },
   "imagem_principal": "/images/breeds/xoloitzcuintle.jpg",
@@ -73,11 +98,58 @@
     "/images/breeds/xoloitzcuintle-2.jpg",
     "/images/breeds/xoloitzcuintle-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=xoloitzcuintle",
-  "popularidade": 15190,
-  "ranking_brasil": 125,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Xoloitzcuintli - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-xolo",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-xolo/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História Mística do Xoloitzcuintle",
+      "url": "https://www.youtube.com/watch?v=example-xolo-history",
+      "canal": "Cultura México",
+      "duracao": "13:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "chinese-crested",
+    "perro-sin-pelo-del-peru",
+    "basenji",
+    "pharaoh-hound"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Cinza Elefante",
+    "Ardósia",
+    "Cobre",
+    "Bronze",
+    "Manchado (Red and Pink)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Pode ter manchas rosadas",
+    "Pele bem pigmentada é valorizada",
+    "Orelhas grandes e eretas (obrigatórias)"
+  ],
+  "curiosidades_historicas": "Os famosos artistas mexicanos Frida Kahlo e Diego Rivera foram grandes entusiastas do Xoloitzcuintle, possuindo vários exemplares e incluindo-os em suas obras de arte para simbolizar o retorno às raízes pré-hispânicas do México e a valorização da identidade nacional.",
+  "referencias_externas": [
+    {
+      "titulo": "Xoloitzcuintli Club of America",
+      "url": "https://xoloitzcuintliclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Xoloitzcuintle Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/XOLOITZCUINTLE-234.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    437,
-    723
+    300,
+    800
   ]
 }

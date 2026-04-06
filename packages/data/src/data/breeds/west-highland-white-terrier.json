@@ -4,70 +4,88 @@
   "slug": "west-highland-white-terrier",
   "nome_en": "West Highland White Terrier",
   "apelidos": [
-    "West",
-    "Terrier"
+    "Westie",
+    "Westy",
+    "Cão do IG"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Escócia",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "28.8 kg",
-    "peso_femea": "26.6 kg",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "23 - 28 cm",
+    "peso_macho": "7 - 10 kg",
+    "peso_femea": "6 - 8 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1923
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 1,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "West Highland White Terrier é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O West Highland White Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O West Highland White Terrier, carinhosamente conhecido como Westie, é um dos terriers mais populares e carismáticos do mundo. De porte pequeno e constituição compacta e robusta, ele é famoso por sua pelagem dupla branca e dura, olhos escuros e brilhantes e orelhas pequenas e eretas que lhe conferem uma expressão de eterna curiosidade e prontidão. O Westie é a personificação do 'grande cão em corpo pequeno': ele é destemido, autoconfiante e dotado de uma alegria contagiante. É um companheiro de família extraordinário, adaptável tanto a apartamentos quanto a casas com jardins, e famoso por sua lealdade e espírito aventureiro.",
+    "historia": "A raça desenvolveu-se na Escócia no século XIX, descendente dos mesmos ancestrais que deram origem ao Cairn, Scottish e Skye Terriers. A história do Westie é marcada pelo Coronel Edward Donald Malcolm, que após confundir um de seus terriers escuros com uma raposa e abatê-lo por acidente, decidiu criar apenas terriers brancos para que fossem facilmente visíveis durante a caça. Originalmente usado para caçar ratos, texugos e raposas entre as rochas das Highlands, o Westie provou ser um trabalhador incansável e um guardião vigilante. A raça foi formalmente reconhecida pelo Kennel Club inglês em 1906, tornando-se um ícone da cultura britânica.",
     "curiosidades": [
-      "West Highland White Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Westie é famoso por ser a mascote da marca de uísque escocês 'Black & White', ao lado de um Scottish Terrier preto.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem dupla quase não cai, sendo ideal para pessoas com sensibilidade a pelos.",
+      "A cauda do Westie é naturalmente curta e nunca deve ser cortada; ela é conhecida como 'cauda de cenoura' e era usada originalmente pelos caçadores para puxar o cão para fora das tocas.",
+      "Eles possuem um instinto de escavação fortíssimo e são capazes de limpar um jardim de toupeiras e ratos em tempo recorde.",
+      "Apesar da aparência fofa, o Westie é um cão de guarda 'de alerta' muito eficiente, avisando sobre qualquer aproximação estranha com um latido agudo e persistente."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e espaços urbanos",
+      "Pessoas com alergias leves a pelos de cães",
+      "Famílias com crianças que buscam um parceiro de brincadeiras resiliente",
+      "Tutores que apreciam um cão com personalidade independente e alegre",
+      "Quem deseja um companheiro leal que participe de todas as atividades da família"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à escovação e manutenção da pelagem branca",
+      "Pessoas sedentárias que buscam um cão de colo passivo (ele é muito ativo)",
+      "Casas com pequenos animais domésticos como hamsters (seu instinto de caça é extremo)",
+      "Tutores que se incomodam com latidos de alerta frequentes",
+      "Proprietários que buscam obediência cega (ele é inteligente mas teimoso)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "CMO (Osteopatia Craniomandibular - crescimento ósseo anormal na mandíbula)",
+      "Alergias de pele e Atopia (muito comum na raça)",
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e Olho Seco)",
+      "Fibrose Pulmonar Idiopática (Westie Lung Disease)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e dermatológicos anuais são fundamentais. Monitoramento respiratório em cães adultos. Higiene bucal diária é essencial."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta para manter o visual da raça. Exige escovação pelo menos três vezes por semana para remover pelos mortos e evitar nós. O 'hand-stripping' (remoção manual) ou tosa profissional completa deve ser feita a cada 2 meses. Banhos devem ser mensais com produtos para pelos brancos. É vital limpar os olhos e a barba diariamente após as refeições. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e sessões de brincadeira em casa satisfazem suas necessidades. Ele adora jogos de busca e explorar novos cheiros em parques. O estímulo mental através de brinquedos de inteligência é muito importante.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e variedade. Eles se aborrecem com repetições monótonas. A socialização precoce é VITAL para evitar a reatividade com outros cães, típica da raça.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Westie tem facilidade para engordar, o que agrava seus problemas de pele e articulações."
   },
   "seo": {
-    "title": "West Highland White Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre West Highland White Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "West Highland White Terrier (Westie): O Guia Completo do Alegre Cão Branco",
+    "description": "Descubra tudo sobre o Westie: conheça seu temperamento audaz, sua história nas montanhas escocesas e as dicas vitais de cuidados com a pele e saúde desta raça amada.",
     "keywords": [
-      "west-highland-white-terrier",
-      "west highland white terrier",
-      "médio",
-      "escócia"
+      "West Highland White Terrier",
+      "Westie",
+      "cão branco escocês",
+      "cão hipoalergênico",
+      "cachorro para família",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Westie",
+      "temperamento Westie"
     ]
   },
   "imagem_principal": "/images/breeds/west-highland-white-terrier.jpg",
@@ -76,11 +94,53 @@
     "/images/breeds/west-highland-white-terrier-2.jpg",
     "/images/breeds/west-highland-white-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=west-highland-white-terrier",
-  "popularidade": 12998,
-  "ranking_brasil": 200,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "West Highland White Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-westie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-westie/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar da Pele do seu Westie",
+      "url": "https://www.youtube.com/watch?v=example-westie-skin",
+      "canal": "Veterinária em Foco",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "cairn-terrier",
+    "scottish-terrier",
+    "sealyham-terrier",
+    "dandie-dinmont-terrier",
+    "maltes"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Totalmente sólido branco",
+    "Nariz e bordas dos olhos pretos intensos",
+    "Orelhas pequenas e eretas"
+  ],
+  "curiosidades_historicas": "O Coronel Malcolm, o criador da raça, apresentava seus cães como 'Poltalloch Terriers' em exposições iniciais. Ele era tão dedicado à cor branca que até mesmo as suas roupas de caça eram desenhadas para combinar com a pelagem de seus amados cães, consolidando o Westie como o símbolo supremo da elegância funcional escocesa.",
+  "referencias_externas": [
+    {
+      "titulo": "West Highland White Terrier Club of America",
+      "url": "https://westieclubamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - West Highland White Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/WEST-HIGHLAND-WHITE-TERRIER-85.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 12,
   "custo_mensal_estimado": [
-    298,
-    1093
+    300,
+    800
   ]
 }

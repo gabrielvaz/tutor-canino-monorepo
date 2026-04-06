@@ -3,68 +3,88 @@
   "nome": "Whippet",
   "slug": "whippet",
   "nome_en": "Whippet",
-  "apelidos": [],
+  "apelidos": [
+    "Cavalinho de Corrida",
+    "Snap Dog",
+    "Preguiçoso de 55km/h"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "29.7 kg",
-    "peso_femea": "26 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "47 - 51 cm",
+    "altura_femea": "44 - 47 cm",
+    "peso_macho": "10 - 14 kg",
+    "peso_femea": "7 - 12 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1902
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 4,
     "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 4,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Whippet é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Whippet originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Whippet é a personificação da elegância aerodinâmica e da doçura doméstica. De porte médio e constituição extremamente esguia, seca e graciosa, ele possui uma silhueta em forma de arco que exala velocidade e agilidade. Sua pelagem é curta, fina e macia, apresentando-se em uma infinidade de cores e padrões. Conhecido mundialmente como um dos cães mais rápidos do mundo para o seu tamanho, o Whippet é paradoxalmente um dos cães mais calmos e silenciosos dentro de casa, sendo frequentemente chamado de 'cão de sofá' devido à sua capacidade de dormir por horas se suas necessidades de corrida curta forem atendidas.",
+    "historia": "A raça desenvolveu-se no norte da Inglaterra no século XIX, descendendo de cruzamentos entre o Greyhound, o Italian Greyhound e diversos terriers de pernas longas. Originalmente, era o 'cão de corrida do homem pobre', pois os mineradores e operários não tinham recursos para manter os grandes Greyhounds da nobreza. O Whippet era usado tanto para corridas em pistas improvisadas quanto para caçar coelhos (snap dog). A raça foi reconhecida formalmente pelo Kennel Club inglês em 1891 e rapidamente ganhou o mundo como um companheiro doméstico refinado, adaptável e extremamente afetuoso.",
     "curiosidades": [
-      "Whippet possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Whippet é capaz de atingir velocidades de até 55 km/h, sendo o animal terrestre mais rápido do mundo em sua categoria de peso.",
+      "Eles são famosos por serem cães 'anti-odor', possuindo uma pele muito limpa e uma pelagem que quase não tem o cheiro característico de cachorro.",
+      "Devido à falta de gordura corporal e pele fina, os Whippets são extremamente sensíveis ao frio e quase sempre precisam de roupas em climas amenos.",
+      "Eles possuem o que os especialistas chamam de 'passo elástico', movendo-se com uma leveza que parece que não tocam o solo ao caminhar.",
+      "Diferente de outros cães de velocidade, o Whippet é extremamente sociável e se dá maravilhosamente bem com crianças e outros cães, raramente demonstrando qualquer sinal de agressividade."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e casas urbanas (ele é silencioso e discreto)",
+      "Pessoas que buscam um companheiro calmo, gentil e muito afetuoso",
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso)",
+      "Tutores que podem oferecer caminhadas diárias e acesso a áreas cercadas para corridas curtas",
+      "Quem busca um cão limpo e de baixa manutenção de higiene"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição visual é inato)",
+      "Pessoas que não toleram cães subindo em sofás e camas (é o lugar favorito deles)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável com todos)",
+      "Casas com pequenos animais domésticos como coelhos ou hamsters (perigo de predação visual)",
+      "Tutores que buscam obediência cega e execução imediata de truques (ele é independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Cardiomiopatia e Arritmias (problemas cardíacos genéticos)",
+      "Osteosarcoma (câncer ósseo - incidência controlada)",
+      "Sensibilidade extrema a anestésicos (devido ao baixo percentual de gordura)",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Lesões cutâneas (devido à pele fina)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é vital. É MANDATÓRIO utilizar protocolos anestésicos específicos para lebréis. Check-ups dermatológicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal leve para remover pelos mortos. Banhos devem ser ocasionais. É importante verificar a pele fina em busca de escoriações após brincadeiras ou corridas. As unhas devem ser mantidas curtas e os dentes escovados com frequência. Oferecer camas macias e acolchoadas é essencial para evitar calos nas articulações finas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 40 minutos são suficientes, aliadas a 2 ou 3 oportunidades por semana de correr livremente em um local seguro e totalmente cercado. O Whippet é um 'sprinter', preferindo explosões curtas de energia do que maratonas longas.",
+    "treinamento": "O treinamento deve ser baseado em suavidade, paciência e reforço positivo. Eles são cães sensíveis e respondem mal a métodos bruscos ou tons de voz elevados. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é fundamental para manter sua silhueta elegante e atlética, evitando o sobrepeso que prejudica as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Whippet - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Whippet: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Whippet: O Guia Completo do Atleta Gentil e Preguiçoso de Sofá",
+    "description": "Descubra o Whippet: conheça sua velocidade incrível, seu temperamento doce e as dicas vitais de cuidados com a saúde e pele fina deste elegante lebrél inglês.",
     "keywords": [
-      "whippet",
-      "whippet",
-      "médio",
-      "inglaterra"
+      "Whippet",
+      "cão veloz",
+      "lebrél",
+      "cachorro para apartamento",
+      "cão de sofá",
+      "raças de cães médias",
+      "cuidados com Whippet",
+      "temperamento Whippet"
     ]
   },
   "imagem_principal": "/images/breeds/whippet.jpg",
@@ -73,11 +93,59 @@
     "/images/breeds/whippet-2.jpg",
     "/images/breeds/whippet-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=whippet",
-  "popularidade": 45104,
-  "ranking_brasil": 43,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Whippet - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-whippet",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-whippet/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Realidade de ter um Whippet",
+      "url": "https://www.youtube.com/watch?v=example-whippet-life",
+      "canal": "Mundo Canino",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "greyhound",
+    "italian-greyhound",
+    "galgo-espanhol",
+    "borzoi",
+    "saluki"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações são permitidas",
+    "Tigrado (Brindle)",
+    "Cinza (Azul)",
+    "Branco",
+    "Fawn",
+    "Preto"
+  ],
+  "marcacoes": [
+    "Padrão particolor comum",
+    "Totalmente sólido",
+    "Marcações irregulares",
+    "Padrão de sela"
+  ],
+  "curiosidades_historicas": "O Whippet era tão valorizado pela classe trabalhadora inglesa que, durante os períodos de greve ou escassez de carvão, os mineradores preferiam passar fome a deixar seus cães sem alimento, pois o Whippet era tanto a fonte de entretenimento nas corridas quanto o provedor de carne de coelho para a mesa da família.",
+  "referencias_externas": [
+    {
+      "titulo": "American Whippet Club",
+      "url": "https://americanwhippetclub.net/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Whippet Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/WHIPPET-162.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    350,
-    933
+    300,
+    800
   ]
 }
