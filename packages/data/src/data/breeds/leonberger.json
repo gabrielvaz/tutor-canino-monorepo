@@ -3,67 +3,89 @@
   "nome": "Leonberger",
   "slug": "leonberger",
   "nome_en": "Leonberger",
-  "apelidos": [],
-  "categoria": "Grande",
+  "apelidos": [
+    "Leo",
+    "Gigante Gentil",
+    "Leão de Estimação"
+  ],
+  "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "69 cm",
-    "altura_femea": "66 cm",
-    "peso_macho": "40.6 kg",
-    "peso_femea": "39.5 kg",
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "72 - 80 cm",
+    "altura_femea": "65 - 75 cm",
+    "peso_macho": "54 - 75 kg",
+    "peso_femea": "41 - 59 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1952
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Leonberger é uma raça de porte grande originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Leonberger originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Leonberger é um gigante majestoso que parece ter saído diretamente de um conto de fadas, criado especificamente para lembrar um leão. De porte gigante e constituição poderosa mas proporcional, ele possui uma pelagem dupla profusa, resistente à água e uma 'juba' característica ao redor do pescoço, especialmente nos machos. Sua cabeça é adornada por uma máscara preta marcante e olhos amendoados que transmitem uma expressão de doçura inteligente e autoconfiança. Apesar de sua força massiva, o Leonberger é famoso por ser um dos gigantes mais equilibrados, pacientes e afetuosos, integrando-se à família como um protetor silencioso e um companheiro de sofá extremamente carinhoso.",
+    "historia": "A raça foi criada deliberadamente em meados do século XIX por Heinrich Essig, o conselheiro municipal da cidade de Leonberg, na Alemanha. Ele buscou criar um cão que personificasse o leão do brasão de armas da cidade. Para isso, cruzou estrategicamente o Terra Nova (Newfoundland), o São Bernardo e o Grande Pirineus. O resultado foi um cão que unia a força e habilidade aquática do Terra Nova, a majestade do São Bernardo e a vigilância do Pirineus. O Leonberger tornou-se rapidamente o favorito da realeza europeia, incluindo a Imperatriz Sissi da Áustria e o Czar da Rússia, evoluindo de um símbolo de status para um versátil cão de fazenda e resgate.",
     "curiosidades": [
-      "Leonberger possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Os machos de Leonberger possuem uma juba de pelos muito mais densa e proeminente do que as fêmeas, reforçando sua semelhança com o leão.",
+      "Eles possuem membranas interdigitais muito desenvolvidas e são nadadores extraordinários, sendo frequentemente usados para salvamento aquático na Europa.",
+      "Diferente de muitos gigantes, o Leonberger é conhecido por sua voz 'melódica', raramente latindo de forma agressiva, mas usando uivos baixos para se comunicar.",
+      "A máscara preta na face é uma característica obrigatória da raça e deve estender-se até acima dos olhos.",
+      "Eles são famosos por sua sensibilidade emocional, sendo capazes de detectar mudanças sutis no humor da família e agir de forma consoladora."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é considerado um dos melhores 'cães-babá' gigantes)",
+      "Tutores que vivem em casas com amplos espaços internos e quintais grandes",
+      "Pessoas que buscam um companheiro calmo, dócil e extremamente afetuoso",
+      "Quem reside em climas frios ou temperados (ele adora o frio e a neve)",
+      "Donos que desejam um cão de guarda dissuasivo mas pacífico com amigos"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos pequenos ou casas com muitas escadas",
+      "Tutores sedentários que não possam oferecer pelo menos caminhadas diárias e natação",
+      "Pessoas extremamente zelosas com a limpeza (ele solta muito pelo e pode babar um pouco)",
+      "Tutores que não estão preparados emocionalmente para lidar com uma longevidade menor",
+      "Proprietários que não podem arcar com os altos custos de manutenção e alimentação de um gigante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Displasia de Quadril e Cotovelo",
+      "Osteossarcoma (câncer ósseo)",
+      "LPN (Polineuropatia do Leonberger - doença neurológica hereditária)",
+      "Problemas oculares (Catarata e Entrópio)",
+      "Hipotireoidismo",
+      "Problemas cardíacos"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Testes genéticos para LPN1 e LPN2 são MANDATÓRIOS. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é muito alta. Escovação pelo menos três vezes por semana é obrigatória para evitar nós e gerenciar a queda abundante. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais, exigindo um espaço grande para secagem total do subpelo impermeável. As unhas devem ser mantidas curtas para suportar o peso massivo.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em horários frescos e, se possível, sessões de natação são ideais. O Leonberger não é um cão para corridas de alta velocidade, mas sim para resistência e exploração calma ao ar livre.",
+    "treinamento": "Muito inteligente e sensível, o Leonberger aprende rápido mas exige suavidade. Ele responde maravilhosamente bem ao reforço positivo e carinho. A socialização precoce é fundamental para garantir que sua força imensa seja controlada e que ele se torne um adulto confiante e equilibrado.",
+    "alimentacao": "Dieta de altíssima qualidade específica para raças gigantes. É essencial oferecer refeições fracionadas e garantir o repouso absoluto após comer para prevenir a torção gástrica. O controle rigoroso do peso é vital para preservar as articulações."
   },
   "seo": {
-    "title": "Leonberger - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Leonberger: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Leonberger: O Majestoso Leão de Estimação Alemão - Guia de Raça",
+    "description": "Descubra o Leonberger: conheça sua história na realeza, seu temperamento gentil e as dicas vitais de cuidados com a saúde e pelagem deste gigante dócil.",
     "keywords": [
-      "leonberger",
-      "leonberger",
-      "grande",
-      "alemanha"
+      "Leonberger",
+      "Leo cão",
+      "cão leão alemão",
+      "gigante gentil",
+      "cão de salvamento aquático",
+      "raças de cães gigantes",
+      "cuidados com Leonberger",
+      "temperamento Leonberger"
     ]
   },
   "imagem_principal": "/images/breeds/leonberger.jpg",
@@ -72,11 +94,56 @@
     "/images/breeds/leonberger-2.jpg",
     "/images/breeds/leonberger-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=leonberger",
-  "popularidade": 15275,
-  "ranking_brasil": 71,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Leonberger - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-leonberger",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-leonberger/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Leonberger",
+      "url": "https://www.youtube.com/watch?v=example-leonberger-life",
+      "canal": "Mundo Gigante",
+      "duracao": "13:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "newfoundland",
+    "sao-bernardo",
+    "grande-pireneus",
+    "landseer",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Amarelo Leão",
+    "Vermelho",
+    "Vermelho-acastanhado",
+    "Areia"
+  ],
+  "marcacoes": [
+    "Máscara preta (obrigatória)",
+    "Pontas dos pelos pretas permitidas",
+    "Pequena mancha branca no peito permitida"
+  ],
+  "curiosidades_historicas": "Heinrich Essig era um mestre do marketing; ele presenteava monarcas e celebridades com Leonbergers para aumentar o prestígio da raça. Isso transformou o cão de Leonberg no acessório de luxo mais cobiçado da Europa vitoriana, sendo considerado um 'diplomata canino' entre as cortes imperiais.",
+  "referencias_externas": [
+    {
+      "titulo": "Leonberger Club of America",
+      "url": "https://www.leonbergerclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com vastas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Leonberger Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/LEONBERGER-145.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    340,
-    1193
+    500,
+    1500
   ]
 }

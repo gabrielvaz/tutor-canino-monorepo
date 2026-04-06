@@ -4,72 +4,87 @@
   "slug": "mastiff-dos-pirineus",
   "nome_en": "Pyrenean Mastiff",
   "apelidos": [
-    "Mastiff",
-    "Pirineus"
+    "Mostín",
+    "Gigante de Aragão",
+    "Mastín del Pirineo"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
-    "origem": "Espanha",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "67 cm",
-    "altura_femea": "64 cm",
-    "peso_macho": "72.3 kg",
-    "peso_femea": "69.3 kg",
+    "origem": "Espanha (Aragão)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "77 - 81 cm",
+    "altura_femea": "72 - 75 cm",
+    "peso_macho": "70 - 90 kg",
+    "peso_femea": "55 - 70 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1901
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 2,
     "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 5,
+    "queda_pelo": 4,
+    "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Mastiff dos Pirineus é uma raça de porte gigante originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Mastiff dos Pirineus originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Mastiff dos Pirineus é um colosso de nobreza e poder, um dos maiores cães do mundo canino. De porte gigante e constituição maciça, ele exala uma aura de força tranquila e majestade rústica. Sua pelagem é densa, grossa e moderadamente longa, predominantemente branca com uma 'máscara' escura e manchas de cores bem definidas (cinza, dourado ou marrom). Sua cabeça é imponente, com olhos amendoados que transmitem uma expressão de sabedoria e calma benevolente. Apesar de seu tamanho esmagador, o Mastiff dos Pirineus é famoso por ser um 'gigante dócil', dotado de uma paciência infinita com crianças e uma lealdade inabalável aos seus tutores, sendo um guardião vigilante que prefere dissuadir pelo tamanho antes de agir.",
+    "historia": "A raça originou-se no Reino de Aragão, nos Pirineus espanhóis, onde por milênios foi o guardião supremo dos rebanhos durante a transumância (migração sazonal do gado). Sua tarefa era proteger as ovelhas contra ataques de lobos e ursos, o que exigia um cão de coragem absoluta e força física superior. Com o desaparecimento dos grandes predadores na região e a Guerra Civil Espanhola, a raça quase se extinguiu na década de 1940. Foi graças ao esforço de um grupo de entusiastas liderado por Rafael Malo Alcrudo que a raça foi resgatada e preservada, mantendo seu tipo original de mastim de montanha rústico e poderoso.",
     "curiosidades": [
-      "Mastiff dos Pirineus possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Mastiff dos Pirineus é visivelmente maior e mais pesado que o seu primo francês, o Cão de Montanha dos Pirineus (Grande Pirineus).",
+      "Historicamente, esses cães usavam coleiras de ferro com espinhos (carlancas) para proteger o pescoço contra mordidas fatais de lobos durante os combates.",
+      "Eles possuem um senso de território muito apurado, sendo capazes de patrulhar vastas áreas sem nunca se afastarem do que devem proteger.",
+      "Apesar da força massiva, são conhecidos por terem um 'discernimento social' extraordinário, sendo muito gentis com pessoas que o tutor recebe bem.",
+      "Eles são famosos por amadurecerem muito lentamente, agindo como filhotes gigantes e desajeitados até os 3 ou 4 anos de idade."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças gigantes e de guarda",
+      "Propriedades rurais, fazendas ou casas com grandes extensões de terra",
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Pessoas que vivem em climas frios ou temperados (ele adora a neve e o frio)",
+      "Quem busca um companheiro calmo, silencioso e profundamente leal"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao tamanho e necessidade de espaço)",
+      "Tutores sedentários que não possam oferecer caminhadas diárias em ritmo constante",
+      "Pessoas que não toleram babas e muita queda de pelos (especialmente durante as trocas de estação)",
+      "Proprietários que não podem arcar com os altos custos de alimentação e cuidados veterinários de um gigante",
+      "Tutores que buscam obediência cega (ele é independente e pensa por si mesmo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Dilatação e Torção Gástrica (Bloat) - risco altíssimo",
+      "Displasia de Quadril e Cotovelo",
+      "Osteossarcoma (câncer ósseo)",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Cardiopatias",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento acelerado do filhote. Higiene rigorosa dos ouvidos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Escovação pelo menos três vezes por semana é obrigatória para evitar nós e gerenciar a queda abundante. Banhos devem ser mensais, exigindo um espaço adequado. É essencial limpar as dobras faciais e manter as unhas curtas para suportar o peso gigante. Prepare-se para limpar babas de móveis e paredes.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Caminhadas longas em ritmo calmo são ideais para manter o tônus muscular. Evite exercícios de alto impacto, especialmente em filhotes, para não danificar as articulações e ossos em desenvolvimento rápido.",
+    "treinamento": "O adestramento deve ser baseado em reforço positivo, paciência e liderança calma. O Mastiff dos Pirineus é inteligente mas independente. A socialização precoce é fundamental para garantir que ele seja confiante em diferentes situações urbanas e sociável com outros animais.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL oferecer refeições fracionadas (3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Mastiff dos Pirineus - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Mastiff dos Pirineus: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Mastiff dos Pirineus: O Majestoso Guardião de Aragão - Guia de Raça",
+    "description": "Descubra o Mastiff dos Pirineus: conheça sua força lendária, seu temperamento dócil e os cuidados essenciais com este gigante nobre da Espanha. Guia completo.",
     "keywords": [
-      "mastiff-dos-pirineus",
-      "mastiff dos pirineus",
-      "gigante",
-      "espanha"
+      "Mastiff dos Pirineus",
+      "Mostín",
+      "cão de guarda gigante",
+      "gigante gentil",
+      "cão de montanha espanhol",
+      "raças de cães gigantes",
+      "cuidados com Mastiff dos Pirineus",
+      "temperamento Mastiff"
     ]
   },
   "imagem_principal": "/images/breeds/mastiff-dos-pirineus.jpg",
@@ -78,11 +93,56 @@
     "/images/breeds/mastiff-dos-pirineus-2.jpg",
     "/images/breeds/mastiff-dos-pirineus-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=mastiff-dos-pirineus",
-  "popularidade": 34200,
-  "ranking_brasil": 145,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pyrenean Mastiff - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pyreneanmastiff",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pyreneanmastiff/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Nobreza do Mastiff dos Pirineus",
+      "url": "https://www.youtube.com/watch?v=example-mostin",
+      "canal": "Mundo Gigante",
+      "duracao": "12:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "grande-pireneus",
+    "mastiff-espanhol",
+    "sao-bernardo",
+    "leonberger",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Cinza",
+    "Branco com manchas Douradas",
+    "Branco com manchas Marrons",
+    "Branco com manchas Pretas"
+  ],
+  "marcacoes": [
+    "Máscara escura obrigatória",
+    "Manchas nas orelhas e corpo",
+    "Branco deve ser a cor de fundo"
+  ],
+  "curiosidades_historicas": "Historicamente, o Mastiff dos Pirineus era tão essencial para os pastores de Aragão que eles recebiam uma ração de comida igual à de um homem adulto, refletindo o status de parceiro de trabalho vital e não apenas de animal de estimação.",
+  "referencias_externas": [
+    {
+      "titulo": "Club del Mastín del Pirineo de España",
+      "url": "http://www.cmpe.es/",
+      "descricao": "O clube de origem da raça na Espanha dedicado à sua preservação."
+    },
+    {
+      "titulo": "FCI - Pyrenean Mastiff Standard",
+      "url": "https://www.fci.be/en/nomenclature/PYRENEAN-MASTIFF-91.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    481,
-    898
+    600,
+    1800
   ]
 }

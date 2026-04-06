@@ -5,69 +5,87 @@
   "nome_en": "Pomeranian",
   "apelidos": [
     "Lulu",
-    "Pomerânia"
+    "Pomerânia",
+    "Spitz Alemão Anão",
+    "Pom"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Alemanha",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "22.4 kg",
-    "peso_femea": "20.9 kg",
+    "origem": "Alemanha / Polônia (Pomerânia)",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "18 - 24 cm",
+    "altura_femea": "18 - 24 cm",
+    "peso_macho": "1.8 - 3.5 kg",
+    "peso_femea": "1.8 - 3.5 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1981
+    "ano_reconhecimento_fci": 1957
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
     "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Lulu da Pomerânia é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Lulu da Pomerânia originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lulu da Pomerânia, oficialmente conhecido como Spitz Alemão Anão, é a personificação do glamour e da vivacidade em um pacote minúsculo. Famoso por sua pelagem dupla extraordinariamente farta e armada que lhe confere a aparência de uma 'bolinha de pelos', ele possui um olhar inteligente e uma expressão de 'raposa' muito astuta. Sua cauda é ricamente franjada e carregada orgulhosamente sobre o dorso. Apesar de seu tamanho diminuto, o Lulu possui a personalidade de um cão de guarda gigante: é alerta, corajoso e dotado de uma autoconfiança inabalável, sendo um dos cães de companhia mais inteligentes e treináveis que existem.",
+    "historia": "A raça descende dos grandes cães de trenó do Ártico e é a menor variedade do Spitz Alemão. Seu nome deriva da região da Pomerânia (entre a Alemanha e a Polônia), onde os cães originais foram miniaturizados. A raça ganhou fama mundial quando a Rainha Vitória da Inglaterra, durante uma visita à Itália em 1888, apaixonou-se por um exemplar pequeno e começou a criá-los, reduzindo ainda mais o tamanho da raça através de uma seleção rigorosa. O Lulu da Pomerânia evoluiu de um rústico cão de pastoreio e tração de 15 kg para o elegante e amado animal de luxo que conhecemos hoje.",
     "curiosidades": [
-      "Lulu da Pomerânia possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Lulu da Pomerânia ocupa a 23ª posição no ranking de inteligência de Stanley Coren, sendo considerado um dos cães toy mais brilhantes.",
+      "Eles possuem o que é chamado de 'dupla camada de pelo': um subpelo curto e denso que 'arma' o pelo de cobertura longo e reto.",
+      "Dois Lulus da Pomerânia sobreviveram ao naufrágio do Titanic em 1912, sendo levados em botes salva-vidas por suas donas.",
+      "A raça é famosa por sua tendência a 'falar', emitindo uivos baixos e resmungos para chamar a atenção de seus tutores.",
+      "Apesar da aparência de 'puffball', eles são atletas ágeis e se destacam surpreendentemente em competições de Agility e Obediência para cães pequenos."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas que buscam um companheiro alerta e muito vigilante",
+      "Tutores que apreciam cuidar da estética canina e escovação frequente",
+      "Idosos que buscam companhia afetuosa e inteligente de baixo impacto físico",
+      "Pessoas que desejam um cão pequeno com personalidade forte e independente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito pequenas e barulhentas (ele é fisicamente frágil e não tolera desrespeito)",
+      "Tutores que se incomodam com latidos frequentes (ele late para alertar sobre tudo)",
+      "Pessoas que não podem dedicar tempo diário à manutenção da pelagem",
+      "Ambientes com calor extremo sem refrigeração adequada (ele sofre com altas temperaturas)",
+      "Tutores que buscam um cão passivo e 100% submisso (ele tem mente própria)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Colapso de Traqueia (comum em raças pequenas)",
+      "Alopecia X (perda de pelo de causa desconhecida)",
+      "Problemas dentários (acúmulo de tártaro)",
+      "Problemas oculares (Catarata e Atrofia Progressiva da Retina)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e dentários anuais são fundamentais. Higiene bucal diária é essencial. Uso de peitoral em vez de coleira de pescoço para proteger a traqueia sensível."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação profunda pelo menos três vezes por semana (diária na troca de pelo) para evitar nós e manter o pelo armado. Banhos devem ser mensais com secagem TOTAL do subpelo. O pelo ao redor das patas e ânus deve ser aparado. A escovação dental diária é MANDATÓRIA devido à propensão a doenças periodontais precoces.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e muito estímulo mental através de brinquedos de inteligência e aprendizado de truques são ideais. Ele é um cão curioso que adora explorar novos ambientes.",
+    "treinamento": "Muito inteligente e fácil de treinar, mas pode ser teimoso. O adestramento deve ser baseado em reforço positivo, paciência e consistência. A socialização precoce é VITAL para evitar que ele se torne excessivamente latidor ou agressivo com outros cães.",
+    "alimentacao": "Dieta de alta qualidade específica para raças mini. O controle das porções é fundamental, pois qualquer excesso de peso sobrecarrega suas articulações finas e prejudica a respiração."
   },
   "seo": {
-    "title": "Lulu da Pomerânia - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Lulu da Pomerânia: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lulu da Pomerânia (Spitz Alemão Anão): Guia Completo da Raça",
+    "description": "Descubra o Lulu da Pomerânia: conheça seu temperamento audaz, sua história na realeza e as dicas essenciais de cuidados com o pelo e saúde desta bolinha de pelos.",
     "keywords": [
-      "lulu-da-pomerania",
-      "lulu da pomerânia",
-      "médio",
-      "alemanha"
+      "Lulu da Pomerânia",
+      "Spitz Alemão Anão",
+      "Pomeranian",
+      "cachorro para apartamento",
+      "cão bolinha de pelo",
+      "raças de cães pequenas",
+      "cuidados com Lulu da Pomerânia",
+      "temperamento Spitz Anão"
     ]
   },
   "imagem_principal": "/images/breeds/lulu-da-pomerania.jpg",
@@ -76,11 +94,59 @@
     "/images/breeds/lulu-da-pomerania-2.jpg",
     "/images/breeds/lulu-da-pomerania-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lulu-da-pomerania",
-  "popularidade": 17380,
-  "ranking_brasil": 95,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pomeranian - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pomeranian",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pomeranian/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar do Pelo do Lulu da Pomerânia",
+      "url": "https://www.youtube.com/watch?v=example-lulu-groom",
+      "canal": "Estética Canina",
+      "duracao": "14:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "spitz-alemao",
+    "keeshond",
+    "samoieda",
+    "papillon",
+    "chihuahua"
+  ],
+  "cores_disponiveis": [
+    "Laranja",
+    "Preto",
+    "Branco",
+    "Creme",
+    "Sable",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Padrão particolor",
+    "Marcações fogo (tan) raras",
+    "Padrão Merle (não aceito em algumas confederações)"
+  ],
+  "curiosidades_historicas": "Grandes gênios da história como Isaac Newton, Michelangelo e Mozart possuíam Lulus da Pomerânia e eram frequentemente inspirados por sua companhia. Michelangelo, inclusive, teria pintado o teto da Capela Sistina enquanto seu amado Lulu descansava sobre almofadas de seda ao seu lado.",
+  "referencias_externas": [
+    {
+      "titulo": "American Pomeranian Club",
+      "url": "https://americanpomeranianclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - German Spitz Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SPITZ-97.html",
+      "descricao": "Padrão oficial que engloba todas as variedades do Spitz Alemão."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 4,
   "custo_mensal_estimado": [
-    496,
-    744
+    300,
+    800
   ]
 }

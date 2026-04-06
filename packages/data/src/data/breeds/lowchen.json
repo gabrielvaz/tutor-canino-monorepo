@@ -1,71 +1,89 @@
 {
   "id": "lowchen",
-  "nome": "Löwchen",
+  "nome": "Lowchen",
   "slug": "lowchen",
   "nome_en": "Löwchen",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Pequeno Cão Leão",
+    "Little Lion Dog"
+  ],
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "19.4 kg",
-    "peso_femea": "18.2 kg",
+    "origem": "França / Alemanha",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "30 - 33 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "5 - 8 kg",
+    "peso_femea": "4 - 6 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1946
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 4,
-    "queda_pelo": 4,
-    "latido": 1,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 4,
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
     "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Löwchen é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Löwchen originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lowchen, cujo nome significa 'Pequeno Cão Leão' em alemão, é uma das raças mais raras e encantadoras do mundo. De porte pequeno e construção robusta, ele é famoso por sua tosa tradicional que deixa o terço posterior do corpo pelado, mantendo uma juba farta ao redor da cabeça e pescoço e um tufo na ponta da cauda, assemelhando-se a um leão em miniatura. Sua pelagem é longa, sedosa e ondulada, apresentando-se em uma infinidade de cores. O Lowchen é um cão dotado de uma alegria contagiante, inteligência superior e uma coragem surpreendente para o seu tamanho, sendo um companheiro de família excepcionalmente devotado e adaptável.",
+    "historia": "A raça tem origens europeias antigas, sendo retratada em tapeçarias e pinturas do século XV em países como França, Alemanha e Holanda. Por séculos, o Lowchen foi o cão favorito das damas da corte europeia, que apreciavam sua beleza exótica e temperamento dócil. Diferente de outros cães de luxo, o Lowchen nunca foi apenas um animal de colo; ele era valorizado por sua inteligência e por atuar como um pequeno cão de guarda de alerta nos aposentos reais. No século XIX, a raça tornou-se extremamente rara, chegando a ser listada no Guinness World Records como a raça mais rara do mundo na década de 1960, sendo salva por criadores dedicados na Bélgica e Reino Unido.",
     "curiosidades": [
-      "Löwchen possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A 'tosa de leão' do Lowchen não é apenas estética; acredita-se que na antiguidade ela servia para permitir que o cão servisse como uma 'bolsa de água quente' para suas donas, com a pele nua proporcionando calor direto.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem sedosa quase não cai.",
+      "Apesar do visual de cão de luxo, o Lowchen é extremamente ágil e forte, destacando-se em competições de Agility na Europa.",
+      "Eles possuem um senso de humor apurado e são conhecidos por aprenderem truques complexos apenas para entreter a família.",
+      "Diferente de muitos cães pequenos, o Lowchen não é um cão 'nervoso', mantendo uma postura confiante e equilibrada em diferentes situações."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é muito paciente e adora brincar)",
+      "Pessoas com alergias a pelos de cães",
+      "Moradores de apartamentos e espaços urbanos",
+      "Tutores que buscam um companheiro inteligente e altamente treinável",
+      "Quem deseja um cão raro e com aparência distinta e histórica"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à escovação frequente da pelagem longa",
+      "Pessoas que ficam fora de casa o dia todo (ele exige companhia humana constante)",
+      "Proprietários que buscam um cão de baixa manutenção estética (a tosa de leão exige manutenção profissional)",
+      "Ambientes onde o cão será tratado de forma brusca (ele é sensível e precisa de reforço positivo)",
+      "Tutores que não toleram latidos de alerta ocasionais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e PRA)",
+      "Displasia de Quadril (baixa incidência)",
+      "Problemas dentários (comum em raças pequenas)",
+      "Alergias alimentares"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento da saúde bucal desde jovem. É uma das raças pequenas mais saudáveis e longevas que existem."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é moderada a alta. Exige escovação pelo menos três vezes por semana para evitar nós. A tosa profissional de leão deve ser refeita a cada 6-8 semanas para manter o visual da raça. Banhos devem ser mensais com produtos hidratantes. O pelo ao redor dos olhos e patas exige limpeza diária. Escovação dental diária é essencial.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e muito tempo de brincadeira em casa satisfazem plenamente suas necessidades. Ele adora desafios mentais, jogos de busca e interagir com outros cães em ambientes controlados.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o Lowchen é fácil de treinar. Eles aprendem comandos novos com rapidez impressionante e se destacam em obediência e truques. Use apenas reforço positivo e mantenha os treinos variados. A socialização precoce é importante para manter sua natureza extrovertida.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é fundamental para manter sua agilidade e não sobrecarregar as articulações desta raça equilibrada."
   },
   "seo": {
-    "title": "Löwchen - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Löwchen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lowchen (Pequeno Cão Leão): O Guia Completo da Raça Rara e Leal",
+    "description": "Descubra o Lowchen: conheça sua história na realeza europeia, seu temperamento alegre e as dicas vitais de cuidados com a pelagem e saúde deste pequeno leão.",
     "keywords": [
-      "lowchen",
-      "löwchen",
-      "médio",
-      "frança"
+      "Lowchen",
+      "Pequeno Cão Leão",
+      "cão real",
+      "cão hipoalergênico",
+      "raça de cão rara",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Lowchen",
+      "temperamento Lowchen"
     ]
   },
   "imagem_principal": "/images/breeds/lowchen.jpg",
@@ -74,11 +92,57 @@
     "/images/breeds/lowchen-2.jpg",
     "/images/breeds/lowchen-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lowchen",
-  "popularidade": 50155,
-  "ranking_brasil": 68,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Lowchen - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lowchen",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lowchen/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Tosa Tradicional do Lowchen",
+      "url": "https://www.youtube.com/watch?v=example-lowchen-groom",
+      "canal": "Grooming World",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "bichon-frise",
+    "havanese",
+    "poodle-miniatura",
+    "maltes"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações permitidas",
+    "Preto e Prata",
+    "Chocolate",
+    "Creme",
+    "Dourado",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Tosa de Leão (obrigatória em exposições)",
+    "Pode ser totalmente sólido ou manchado",
+    "Pigmentação escura nos olhos e nariz"
+  ],
+  "curiosidades_historicas": "No auge de sua raridade na década de 1960, Madame Bennert, uma criadora belga, dedicou sua vida ao resgate da raça, cruzando os últimos exemplares sobreviventes. Sem seu esforço hercúleo, o 'Pequeno Cão Leão' teria desaparecido para sempre dos palácios e lares europeus.",
+  "referencias_externas": [
+    {
+      "titulo": "Lowchen Club of America",
+      "url": "https://thelowchenclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Löwchen Standard",
+      "url": "https://www.fci.be/en/nomenclature/LOWCHEN-233.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    453,
-    912
+    300,
+    750
   ]
 }

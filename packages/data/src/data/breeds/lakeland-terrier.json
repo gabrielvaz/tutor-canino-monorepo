@@ -5,71 +5,86 @@
   "nome_en": "Lakeland Terrier",
   "apelidos": [
     "Lakeland",
-    "Terrier"
+    "Patterdale Terrier (antigamente)",
+    "Fell Terrier"
   ],
-  "categoria": "Pequeno",
+  "category": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "28 cm",
-    "altura_femea": "24 cm",
-    "peso_macho": "5.8 kg",
-    "peso_femea": "-0.1 kg",
+    "origem": "Inglaterra (Lake District)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "35 - 37 cm",
+    "altura_femea": "33 - 35 cm",
+    "peso_macho": "7 - 8 kg",
+    "peso_femea": "6.5 - 7.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1906
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 5,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Lakeland Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Lakeland Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lakeland Terrier é um pequeno guerreiro das montanhas, um cão de porte pequeno a médio que transborda autoconfiança e vivacidade. Originário da acidentada região dos lagos na Inglaterra, ele foi construído para ser estreito o suficiente para entrar em fendas de rochas, mas forte o bastante para enfrentar presas ferozes. Caracteriza-se por sua pelagem dupla, dura e aramada, e uma cabeça retangular com barba e bigodes que realçam sua expressão de inteligência astuta. Com um olhar que parece estar sempre planejando a próxima aventura, o Lakeland é um companheiro leal, destemido e dotado de um senso de humor vibrante.",
+    "historia": "A raça desenvolveu-se no Lake District, no norte da Inglaterra, no século XIX. Diferente de outros terriers criados para caçar ratos ou raposas em planícies, o Lakeland foi selecionado para proteger os rebanhos de ovelhas contra as raposas que viviam nas montanhas rochosas (fells). Esses cães precisavam de uma resistência física inigualável para subir e descer picos íngremes durante todo o dia sob chuva e vento. Acredita-se que descenda de cruzamentos entre o Bedlington, o Border Terrier e o antigo English Black and Tan Terrier. Foi oficialmente reconhecido pelo Kennel Club inglês em 1921, tornando-se desde então um dos terriers de exposição mais bem-sucedidos.",
     "curiosidades": [
-      "Lakeland Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Lakeland Terrier é famoso por ser um 'artista da fuga', capaz de escalar cercas ou apertar-se em buracos incrivelmente pequenos para explorar o que há do outro lado.",
+      "Eles possuem um andar muito leve e ágil, descrito como se estivessem 'flutuando' sobre o terreno acidentado.",
+      "Diferente de muitos terriers, o Lakeland é conhecido por ter uma memória visual excelente, sendo capaz de lembrar caminhos em trilhas após apenas uma visita.",
+      "A raça é considerada hipoalergênica porque seu pelo não cai; ele precisa ser removido manualmente para permitir o crescimento de novos fios saudáveis.",
+      "O Lakeland Terrier detém o recorde de ser um dos menores terriers a ter uma 'mordida de tesoura' extremamente potente, capaz de segurar presas muito maiores que ele."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que gostam de trilhas, caminhadas e jogos de busca",
+      "Tutores que apreciam cães com personalidade forte e independente",
+      "Pessoas com alergias a pelos de cães que buscam um terrier rústico",
+      "Quem vive em casas com quintais muito seguros e bem cercados",
+      "Proprietários interessados em esportes caninos como Agility ou Earthdog"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão passivo",
+      "Pessoas que não podem dedicar tempo e dinheiro para a manutenção da pelagem (hand-stripping)",
+      "Casas com pequenos animais domésticos como hamsters ou coelhos (instinto de caça é extremo)",
+      "Moradores de apartamentos com vizinhos sensíveis a latidos de alerta frequentes",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Lente Primária (PLL) - doença ocular hereditária",
+      "Catarata",
+      "Doença de Legg-Calve-Perthes (necrose da cabeça do fêmur)",
+      "Luxação de Patela",
+      "Distiquíase (cílios em posição anormal)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis. Check-ups ortopédicos. Testes genéticos para PLL são recomendados antes da criação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação semanal profunda para evitar nós na barba e pernas. Para manter a textura rústica e as cores vibrantes, o 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3 ou 4 meses. Banhos devem ser mensais. A limpeza da barba após as refeições é importante. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de muito exercício físico e mental. O Lakeland é uma 'pequena turbina' que precisa de caminhadas vigorosas e, acima de tudo, jogos que desafiem sua inteligência e instintos de busca. Sem gasto de energia, ele pode se tornar excessivamente cavador e barulhento.",
+    "treinamento": "Extremamente inteligente e aprende truques com rapidez. No entanto, possui a teimosia típica dos terriers e se aborrece com repetições monótonas. Use reforço positivo, paciência e mantenha os treinos curtos e variados. A socialização precoce com outros cães é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Lakeland Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Lakeland Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lakeland Terrier: O Valente Caçador das Montanhas - Guia de Raça",
+    "description": "Descubra o Lakeland Terrier: conheça seu temperamento audaz, sua história no Lake District e as dicas essenciais de cuidados com a pelagem e adestramento.",
     "keywords": [
-      "lakeland-terrier",
-      "lakeland terrier",
-      "pequeno",
-      "inglaterra"
+      "Lakeland Terrier",
+      "Terrier das Montanhas",
+      "cão hipoalergênico",
+      "cão caçador de raposas",
+      "raças de cães pequenas",
+      "cuidados com Lakeland Terrier",
+      "temperamento Lakeland",
+      "stripping canino"
     ]
   },
   "imagem_principal": "/images/breeds/lakeland-terrier.jpg",
@@ -78,11 +93,57 @@
     "/images/breeds/lakeland-terrier-2.jpg",
     "/images/breeds/lakeland-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lakeland-terrier",
-  "popularidade": 15721,
-  "ranking_brasil": 42,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Lakeland Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lakeland",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lakeland/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Lakeland Terrier",
+      "url": "https://www.youtube.com/watch?v=example-lakeland-action",
+      "canal": "Mundo Terrier",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "welsh-terrier",
+    "airedale-terrier",
+    "wire-fox-terrier",
+    "irish-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Trigo (Wheaten)",
+    "Azul e Tan",
+    "Preto e Tan",
+    "Fígado (Marrom)",
+    "Grisalho (Grizzle)"
+  ],
+  "marcacoes": [
+    "Marcação de sela (saddle) comum",
+    "Barba e sobrancelhas características",
+    "Orelhas pequenas em forma de V"
+  ],
+  "curiosidades_historicas": "O Lakeland Terrier era o cão favorito dos pastores do norte da Inglaterra para enfrentar a 'Raposa do Fell', uma variedade maior e mais agressiva de raposa que vivia nas montanhas. O valor de um Lakeland era medido por sua disposição de entrar em fendas profundas no granito das montanhas para expulsar o predador, muitas vezes trabalhando sozinho por horas no escuro.",
+  "referencias_externas": [
+    {
+      "titulo": "United States Lakeland Terrier Club",
+      "url": "https://uslakelandterrierclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Lakeland Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/LAKELAND-TERRIER-70.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    465,
-    925
+    300,
+    700
   ]
 }

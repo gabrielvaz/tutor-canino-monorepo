@@ -4,70 +4,85 @@
   "slug": "magyar-agar",
   "nome_en": "Hungarian Greyhound",
   "apelidos": [
-    "Magyar",
-    "Agar"
+    "Galgo Húngaro",
+    "Agar Húngaro"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Hungria",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "16.6 kg",
-    "peso_femea": "13.7 kg",
+    "origem": "Hungria / Transilvânia",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "65 - 70 cm",
+    "altura_femea": "62 - 67 cm",
+    "peso_macho": "25 - 31 kg",
+    "peso_femea": "22 - 26 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1996
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Magyar Agar é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Magyar Agar originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Magyar Agar, ou Galgo Húngaro, é um lebrél de porte grande que personifica a resistência e a força funcional. Diferente do Greyhound inglês, que é um velocista de explosão, o Magyar Agar foi construído para ser um corredor de longa distância, capaz de perseguir presas por quilômetros através das estepes húngaras. Ele possui uma ossatura visivelmente mais forte e uma musculatura mais seca e robusta. Sua pelagem é curta, densa e lisa, tornando-se consideravelmente mais espessa no inverno. É um cão dotado de um temperamento calmo, silencioso e extremamente fiel aos seus tutores, sendo conhecido por sua coragem e por ser um dos lebréis mais fáceis de conviver no ambiente doméstico.",
+    "historia": "A raça acompanhou os povos Magiares em sua chegada à bacia dos Cárpatos no século IX. Por mais de um milênio, o Magyar Agar foi o companheiro essencial de nobres e camponeses húngaros para a caça de lebres e raposas em campo aberto. Eles foram selecionados pela capacidade de correr por longos períodos em terrenos difíceis. No século XIX, houve alguma introdução de sangue de Greyhound para aumentar a velocidade em pista, mas os criadores húngaros rapidamente voltaram a focar na resistência e robustez originais. A raça sobreviveu às guerras mundiais como um cão de trabalho rústico e foi formalmente padronizada na década de 1960.",
     "curiosidades": [
-      "Magyar Agar possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Magyar Agar é considerado um 'maratonista' entre os galgos, sendo capaz de manter uma velocidade alta por distâncias que exauririam a maioria das outras raças de velocidade.",
+      "Eles possuem um andar elástico e rítmico que denota sua eficiência física e economia de energia.",
+      "Diferente de muitos lebréis que são puramente caçadores visuais, o Magyar Agar possui um faro surpreendentemente bom, que utiliza para complementar a visão durante a caça.",
+      "Eles são famosos por serem cães extremamente silenciosos em casa, raramente latindo a menos que haja um motivo de alerta real.",
+      "Apesar da aparência austera, o Magyar Agar é conhecido por ser um dos galgos mais afetuosos e 'grudentos' com seus familiares."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias que buscam um companheiro calmo, silencioso e discreto dentro de casa",
+      "Pessoas que vivem em casas com quintais amplos e cercados (ele precisa de espaço para se esticar)",
+      "Tutores que gostam de caminhadas longas, corridas ou ciclismo",
+      "Quem busca um cão de grande porte elegante mas rústico e fácil de manter",
+      "Proprietários interessados em esportes de corrida de longa distância ou lure coursing"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que buscam obediência cega e execução imediata de truques (ele é independente)",
+      "Ambientes onde o cão será passeado sem guia em áreas abertas (o instinto de perseguição é inato)",
+      "Casas com pequenos animais domésticos como coelhos ou gatos de rua (devido ao forte instinto de caça)",
+      "Proprietários que não podem oferecer pelo menos uma caminhada longa diária",
+      "Pessoas que buscam um cão de guarda agressivo (ele é um cão de alerta, mas pacífico)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril (baixa incidência para o tamanho)",
+      "Sensibilidade extrema a anestésicos (comum em lebréis)",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Lesões musculares por esforço"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar torção gástrica. Check-ups ortopédicos anuais. É fundamental informar ao veterinário sobre a sensibilidade a protocolos anestésicos padrão para lebréis."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal leve para remover pelos mortos. Banhos devem ser ocasionais. É importante verificar as almofadas das patas após corridas em terrenos ásperos. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados a intensos de longa duração. Caminhadas diárias de pelo menos 45 a 60 minutos são essenciais. O Magyar Agar se sente mais satisfeito quando pode trotar por longas distâncias em ritmo constante. Uma vez exercitado, ele é o 'rei da calmaria' em interiores.",
+    "treinamento": "O treinamento deve ser baseado em confiança, consistência e reforço positivo. Eles são inteligentes mas independentes e não veem sentido em repetições inúteis. A socialização precoce é importante para evitar que sua cautela natural se torne timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia. Use tigelas elevadas para reduzir o risco de torção gástrica e garanta o repouso absoluto após as refeições."
   },
   "seo": {
-    "title": "Magyar Agar - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Magyar Agar: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Magyar Agar (Galgo Húngaro): O Maratonista das Estepes - Guia de Raça",
+    "description": "Conheça o Magyar Agar: descubra a força, resistência e temperamento dócil do galgo húngaro. Guia completo de cuidados, história e saúde.",
     "keywords": [
-      "magyar-agar",
-      "magyar agar",
-      "médio",
-      "hungria"
+      "Magyar Agar",
+      "Galgo Húngaro",
+      "lebrél húngaro",
+      "cão de corrida de longa distância",
+      "raças de cães grandes",
+      "cuidados com Magyar Agar",
+      "temperamento Galgo Húngaro"
     ]
   },
   "imagem_principal": "/images/breeds/magyar-agar.jpg",
@@ -76,11 +91,58 @@
     "/images/breeds/magyar-agar-2.jpg",
     "/images/breeds/magyar-agar-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=magyar-agar",
-  "popularidade": 8805,
-  "ranking_brasil": 140,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Magyar Agar - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-magyaragar",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-magyaragar/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Resistência do Galgo Húngaro",
+      "url": "https://www.youtube.com/watch?v=example-magyar-run",
+      "canal": "Hound Life",
+      "duracao": "08:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "greyhound",
+    "borzoi",
+    "saluki",
+    "galgo-espanhol",
+    "whippet"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações permitidas",
+    "Tigrado (Brindle)",
+    "Preto",
+    "Cinza",
+    "Fawn (Fulvo)",
+    "Branco"
+  ],
+  "marcacoes": [
+    "Manchas brancas comuns",
+    "Pode ser totalmente sólido",
+    "Padrão particolor frequente"
+  ],
+  "curiosidades_historicas": "Na Hungria medieval, o Magyar Agar era o único cão autorizado a acompanhar os cavaleiros durante as longas expedições de patrulha das fronteiras, pois eram os únicos animais capazes de acompanhar o trote dos cavalos húngaros durante todo o dia sem precisar de descanso extra.",
+  "referencias_externas": [
+    {
+      "titulo": "MEOE - Magyar Ebtenyésztők Országos Egyesülete (Hungria)",
+      "url": "https://www.kennelclub.hu/",
+      "descricao": "Clube de canicultura nacional da Hungria e autoridade na raça."
+    },
+    {
+      "titulo": "FCI - Hungarian Greyhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-GREYHOUND-240.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    472,
-    777
+    350,
+    850
   ]
 }

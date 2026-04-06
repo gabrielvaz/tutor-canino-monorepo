@@ -5,72 +5,86 @@
   "nome_en": "Manchester Terrier",
   "apelidos": [
     "Manchester",
-    "Terrier"
+    "Gentleman's Terrier",
+    "Black and Tan Terrier"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "11.9 kg",
-    "peso_femea": "9.7 kg",
+    "origem": "Inglaterra (Manchester)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "39 - 41 cm",
+    "altura_femea": "38 - 40 cm",
+    "peso_macho": "7 - 10 kg",
+    "peso_femea": "5.4 - 8 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1913
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 2,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Manchester Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Manchester Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Manchester Terrier é um cão de porte médio, de beleza atlética e extremamente refinada, frequentemente descrito como o 'terrier do cavalheiro'. De constituição esguia e poderosa, ele possui uma pelagem curta, densa e lisa de um preto azeviche profundo com marcações mogno (tan) perfeitamente definidas. Sua cabeça é longa e afilada, com orelhas pequenas e olhos escuros que brilham com uma inteligência astuta. Diferente de muitos terriers rústicos, o Manchester exala uma aura de elegância e velocidade, sendo um dos cães mais ágeis e alertas do mundo canino. É um companheiro leal, afetuoso e dotado de uma sensibilidade aguçada aos seus tutores.",
+    "historia": "A raça surgiu no norte da Inglaterra, em Manchester, no século XIX, durante a Revolução Industrial. Ela foi desenvolvida para ser o exterminador de ratos definitivo nas fábricas e estábulos, além de participar do antigo esporte de 'rat-killing' em arenas. O Manchester Terrier é o resultado do cruzamento do antigo 'Black and Tan Terrier' com o Greyhound (pela velocidade e elegância). Por décadas, foi um dos cães mais populares da classe trabalhadora e da burguesia inglesa. A raça foi formalmente padronizada e dividida em duas variedades de tamanho (Standard e Toy) no final do século XIX, mantendo sua integridade funcional e estética até os dias de hoje.",
     "curiosidades": [
-      "Manchester Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Manchester Terrier é considerado uma das raças mais antigas de terriers ingleses, servindo de base para o desenvolvimento de várias outras raças.",
+      "As marcações mogno (tan) nas bochechas e acima dos olhos são chamadas de 'rosettes' e são marcas registradas obrigatórias da raça.",
+      "Eles são famosos por serem cães extremamente limpos e quase não possuírem o 'odor de cachorro' característico.",
+      "Diferente de muitos terriers que são 'briguentos', o Manchester é conhecido por ter um temperamento mais discerninte e controlado.",
+      "Um Manchester Terrier chamado 'Billy' tornou-se uma lenda em 1823 ao matar 100 ratos em apenas seis minutos e treze segundos em uma arena em Londres."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que apreciam cães com personalidade forte e inteligente",
+      "Moradores de apartamentos e casas urbanas (ele é muito limpo e discreto)",
+      "Tutores interessados em adestramento, truques e esportes de agilidade",
+      "Quem busca um companheiro leal que participe de todas as atividades da família",
+      "Proprietários que desejam um cão de médio porte rústico mas com aparência refinada"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão passivo para ficar no sofá",
+      "Casas com pequenos animais domésticos como hamsters ou coelhos (instinto de caça de roedores é extremo)",
+      "Pessoas que ficam fora de casa o dia todo (ele é muito dependente de companhia humana)",
+      "Ambientes com climas extremamente frios sem o uso de roupas de proteção (ele possui pele fina e pouco pelo)",
+      "Tutores de primeira viagem que não saibam estabelecer uma liderança firme e carinhosa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Doença de Von Willebrand (vWD) - distúrbio de coagulação comum na raça",
+      "Problemas oculares (Glaucoma e Atrofia Progressiva da Retina)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Alergias de pele",
+      "Mielopatia Degenerativa (rara)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes de DNA para vWD são MANDATÓRIOS antes de qualquer cirurgia. Check-ups oftalmológicos e ortopédicos anuais são recomendados. Higiene bucal regular."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. As orelhas devem ser verificadas semanalmente. Unhas devem ser mantidas curtas para não comprometer a agilidade. Escovação dental diária é importante.",
+    "exercicios": "Necessita de muito exercício físico e mental diário. Caminhadas rápidas, corridas e, principalmente, jogos que estimulem sua inteligência são fundamentais. Ele adora desafios de busca e interagir com brinquedos de inteligência. Sem gasto de energia, ele pode se tornar ansioso e vocal.",
+    "treinamento": "Extremamente inteligente e aprende com rapidez impressionante. No entanto, possui a independência dos terriers e pode ser teimoso se o treinamento for chato. Use reforço positivo, paciência e mantenha os treinos variados e recompensadores. A socialização precoce com outros cães é essencial.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é fundamental para manter o corpo musculoso e atlético, evitando o sobrepeso que prejudica as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Manchester Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Manchester Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Manchester Terrier: O Elegante Caçador do Cavalheiro - Guia de Raça",
+    "description": "Descubra o Manchester Terrier: conheça seu temperamento inteligente, sua história na Revolução Industrial e os cuidados essenciais com este ágil e fiel terrier inglês.",
     "keywords": [
-      "manchester-terrier",
-      "manchester terrier",
-      "pequeno",
-      "inglaterra"
+      "Manchester Terrier",
+      "Gentleman's Terrier",
+      "cão caçador de ratos",
+      "terrier inglês",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Manchester Terrier",
+      "temperamento Manchester"
     ]
   },
   "imagem_principal": "/images/breeds/manchester-terrier.jpg",
@@ -79,11 +93,52 @@
     "/images/breeds/manchester-terrier-2.jpg",
     "/images/breeds/manchester-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=manchester-terrier",
-  "popularidade": 41056,
-  "ranking_brasil": 92,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Manchester Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-manchester",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-manchester/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Manchester Terrier",
+      "url": "https://www.youtube.com/watch?v=example-manchester-intel",
+      "canal": "Mundo Terrier",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pinscher-alemao",
+    "dobermann",
+    "rat-terrier",
+    "fox-terrier-pelo-liso"
+  ],
+  "cores_disponiveis": [
+    "Preto azeviche com marcações Mogno (Jet Black & Tan)"
+  ],
+  "marcacoes": [
+    "Rosetas mogno nas bochechas e olhos",
+    "Marcações tan nas pernas e pés (padrão 'pencil')",
+    "Marcação de 'polegar' no carpo dianteiro"
+  ],
+  "curiosidades_historicas": "O Manchester Terrier foi o cão que inspirou a criação de muitas raças de guarda maiores, como o Dobermann, que buscou no Manchester a agilidade e a coragem inata dos terriers ingleses para complementar o seu temperamento protetor, provando o valor genético desta linhagem histórica.",
+  "referencias_externas": [
+    {
+      "titulo": "American Manchester Terrier Club",
+      "url": "https://www.americanmanchesterterrierclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Manchester Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/MANCHESTER-TERRIER-71.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    400,
-    1019
+    300,
+    750
   ]
 }

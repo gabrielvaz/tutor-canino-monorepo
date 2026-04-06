@@ -5,70 +5,86 @@
   "nome_en": "Lhasa Apso",
   "apelidos": [
     "Lhasa",
-    "Apso"
+    "Sentinela do Tibete",
+    "Cão Leão Tibetano"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Tibete",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "28.9 kg",
-    "peso_femea": "25.4 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 28 cm",
+    "altura_femea": "23 - 26 cm",
+    "peso_macho": "6 - 8 kg",
+    "peso_femea": "5 - 7 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1991
+    "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
     "energia": 2,
-    "inteligencia": 3,
-    "queda_pelo": 4,
-    "latido": 2,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Lhasa Apso é uma raça de porte médio originária de Tibete. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Lhasa Apso originou-se em Tibete, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lhasa Apso é um pequeno gigante no mundo canino, um cão de companhia dotado de uma dignidade e um instinto de guarda surpreendentes. Originário das montanhas do Tibete, ele possui uma pelagem longa, pesada e reta que flui até o chão, projetada originalmente para protegê-lo do frio extremo. Sua cabeça é adornada por uma queda de pelos sobre os olhos e uma barba farta, conferindo-lhe uma aparência de 'leão em miniatura'. Diferente de muitas raças pequenas, o Lhasa não é um cão carente; ele é independente, astuto e extremamente vigilante, sendo famoso por seu 'ouvido de ouro' capaz de detectar sons que escapam a outros cães.",
+    "historia": "A raça tem raízes sagradas que remontam a mais de 800 anos. Em sua terra natal, o Tibete, o Lhasa Apso era conhecido como 'Abso Seng Kye' (Cão Sentinela Rugidor de Leão). Eles viviam exclusivamente dentro dos mosteiros e palácios, servindo como guardiões de alerta que avisavam os monges sobre a aproximação de estranhos. Acreditava-se que os Lhasas carregavam as almas dos lamas falecidos que ainda não haviam alcançado o nirvana. Eles eram considerados amuletos de boa sorte e raramente eram vendidos, sendo presenteados apenas pelo Dalai Lama como uma honra suprema. A raça chegou ao ocidente no início do século XX e tornou-se imensamente popular no Brasil.",
     "curiosidades": [
-      "Lhasa Apso possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Lhasa Apso é frequentemente confundido com o Shih Tzu, mas o Lhasa possui o focinho ligeiramente mais longo e um temperamento mais independente e reservado.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem, semelhante ao cabelo humano, cai muito pouco.",
+      "A raça possui uma longevidade extraordinária, sendo comum exemplares viverem até os 18 ou 20 anos com bons cuidados.",
+      "No Tibete, eles eram treinados para latir de forma específica para alertar sobre diferentes tipos de intrusos.",
+      "Apesar de ser um cão de colo, o Lhasa Apso vê a si mesmo como um grande guardião e levará seu trabalho de proteção do lar muito a sério."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos",
+      "Pessoas que buscam um cão de guarda de alerta eficiente em formato pequeno",
+      "Famílias que desejam um companheiro leal mas que respeita a própria independência",
+      "Tutores que apreciam cuidar da estética e escovação regular da pelagem",
+      "Quem busca um cão de vida longa e resistente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores iniciantes que não saibam estabelecer limites (ele pode ser teimoso e dominante)",
+      "Pessoas que não têm paciência para a manutenção rigorosa da pelagem longa",
+      "Famílias com crianças muito pequenas e brutas (ele exige ser tratado com respeito)",
+      "Proprietários que buscam obediência cega e execução rápida de truques",
+      "Tutores que se incomodam com latidos de alerta frequentes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina e Úlceras de Córnea)",
+      "Displasia Renal (doença hereditária grave)",
+      "Hipotireoidismo",
+      "Alergias de pele",
+      "Cálculos na bexiga"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups renais regulares são cruciais para a raça. Exames oftalmológicos anuais. Limpeza frequente dos dentes para evitar perda precoce."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Se mantido longo, exige escovação diária para evitar nós dolorosos. Muitos tutores brasileiros optam pela 'tosa bebê' para facilitar a vida doméstica. Banhos devem ser semanais ou quinzenais com bons hidratantes. O pelo ao redor dos olhos e patas deve ser aparado. A limpeza dos olhos é diária. Escovação dental é fundamental.",
+    "exercicios": "Necessita de pouco exercício físico formal. Caminhadas diárias agradáveis e tempo para explorar a casa são suficientes. No entanto, o estímulo mental através de desafios sensoriais é importante para manter sua mente astuta satisfeita.",
+    "treinamento": "O adestramento pode ser um desafio. O Lhasa Apso é inteligente mas decide se quer obedecer. Use reforço positivo, paciência e nunca force o cão. A socialização precoce é MANDATÓRIA para evitar que seu instinto protetor se torne desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial para evitar o sobrepeso que prejudica as articulações desta raça pequena e sólida."
   },
   "seo": {
-    "title": "Lhasa Apso - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Lhasa Apso: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lhasa Apso: O Sagrado Guardião de Templos do Tibete - Guia de Raça",
+    "description": "Descubra o Lhasa Apso: conheça seu temperamento independente, sua história nos mosteiros tibetanos e as dicas essenciais de cuidados com a pelagem e saúde.",
     "keywords": [
-      "lhasa-apso",
-      "lhasa apso",
-      "médio",
-      "tibete"
+      "Lhasa Apso",
+      "Lhasa",
+      "cão sentinela do Tibete",
+      "cão hipoalergênico",
+      "cão de guarda pequeno",
+      "raças de cães pequenas",
+      "cuidados com Lhasa Apso",
+      "temperamento Lhasa"
     ]
   },
   "imagem_principal": "/images/breeds/lhasa-apso.jpg",
@@ -77,11 +93,57 @@
     "/images/breeds/lhasa-apso-2.jpg",
     "/images/breeds/lhasa-apso-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lhasa-apso",
-  "popularidade": 6025,
-  "ranking_brasil": 153,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Lhasa Apso - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lhasa",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lhasa/hqdefault.jpg"
+    },
+    {
+      "titulo": "As Diferenças entre Lhasa Apso e Shih Tzu",
+      "url": "https://www.youtube.com/watch?v=example-lhasa-shih",
+      "canal": "Mundo Pet",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "shih-tzu",
+    "terrier-tibetano",
+    "maltes",
+    "pequines"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Sable)",
+    "Mel",
+    "Cinza (Slate)",
+    "Preto",
+    "Branco",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Pontas das orelhas e barba escuras (frequente)",
+    "Chama branca na face",
+    "Pode ser totalmente sólido"
+  ],
+  "curiosidades_historicas": "O Lhasa Apso era tão valorizado no Tibete que existia uma lei que proibia o cruzamento da raça com qualquer outro cão. Eles eram considerados 'pequenos guardiões do dharma' e sua presença nos templos era acreditada como purificadora de energias negativas, agindo como um elo entre o mundo humano e o espiritual.",
+  "referencias_externas": [
+    {
+      "titulo": "American Lhasa Apso Club",
+      "url": "https://lhasaapso.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e histórico."
+    },
+    {
+      "titulo": "FCI - Lhasa Apso Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/LHASA-APSO-227.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 5,
   "custo_mensal_estimado": [
-    337,
-    616
+    250,
+    650
   ]
 }

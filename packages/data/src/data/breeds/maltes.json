@@ -4,74 +4,87 @@
   "slug": "maltes",
   "nome_en": "Maltese",
   "apelidos": [
-    "Maltese"
+    "Maltese",
+    "Cão de Seda Romano",
+    "Melitae"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Malta",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "20 cm",
-    "altura_femea": "15 cm",
-    "peso_macho": "4.6 kg",
-    "peso_femea": "1.9 kg",
+    "origem": "Bacia do Mediterrâneo Central (Itália / Malta)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "21 - 25 cm",
+    "altura_femea": "20 - 23 cm",
+    "peso_macho": "3 - 4 kg",
+    "peso_femea": "3 - 4 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1912
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 5,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Maltês é uma raça de porte toy originária de Malta. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Maltês originou-se em Malta, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Maltês é a própria definição de elegância e doçura em um pacote pequeno e branco. Famoso por sua pelagem longa, sedosa e de um branco puro que flui até o chão, ele possui uma fisionomia aristocrática complementada por olhos escuros e redondos e um nariz preto 'de botão'. Diferente de sua aparência delicada de exposição, o Maltês é um cão vigoroso, alegre e dotado de uma autoconfiança notável. É um companheiro de colo por excelência, mas que mantém uma mente curiosa e ativa, adorando participar de brincadeiras e sendo famoso por sua sensibilidade extrema aos sentimentos de seus tutores.",
+    "historia": "Uma das raças mais antigas do mundo, o Maltês tem raízes que remontam a mais de 2.000 anos na região do Mediterrâneo. Gregos e romanos o chamavam de 'Melitae', e ele era o favorito absoluto das matronas romanas e da nobreza de Malta. Por séculos, o Maltês foi um símbolo de status e refinamento, sendo retratado em cerâmicas gregas e mencionado por filósofos como Aristóteles. A raça chegou à Inglaterra no reinado de Henrique VIII e tornou-se a favorita da Rainha Elizabeth I. Desde então, o Maltês evoluiu de um rústico cão de porto para o sofisticado e amado animal de companhia que conhecemos hoje.",
     "curiosidades": [
-      "Maltês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Maltês não possui pelo no sentido tradicional, mas sim uma fibra capilar de camada única que não cai, tornando-o uma das melhores opções para pessoas alérgicas.",
+      "Na Grécia Antiga, o filósofo Teofrasto mencionou que os Malteses eram carregados pelas mulheres em mangas de vestidos para servirem como 'aquecedores' de mãos.",
+      "Eles são famosos por manterem o nariz bem preto; no entanto, no inverno, alguns exemplares podem apresentar o 'nariz de neve' (clareamento temporário pela falta de sol).",
+      "Apesar do tamanho toy, o Maltês é conhecido por ser um cão de guarda 'de alerta' muito vigilante, possuindo um latido agudo para avisar sobre qualquer intruso.",
+      "Eles possuem um andar gracioso e flutuante, descrito no padrão da raça como se estivessem 'deslizando' sobre o solo."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas com alergias a pelos de cães",
+      "Tutores de primeira viagem que buscam um cão dócil e afetuoso",
+      "Famílias com crianças que saibam manusear o cão com delicadeza",
+      "Quem busca um companheiro constante que possa ser levado para todo lugar"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo diário à escovação da pelagem longa",
+      "Pessoas que ficam fora de casa o dia todo (sofre severamente com ansiedade de separação)",
+      "Ambientes com muita sujeira ou barro (a pelagem branca mancha com facilidade)",
+      "Tutores que buscam um cão passivo e 100% silencioso (ele pode ser um pouco latidor)",
+      "Proprietários que não toleram um cão que exige manutenção estética frequente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Patela",
+      "Problemas dentários graves (doença periodontal precoce)",
+      "Colapso de Traqueia",
+      "Shunt Portossistêmico",
+      "Síndrome do Tremor do Cão Branco (White Dog Shaker Syndrome)",
+      "Problemas oculares (Catarata e Entrópio)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e dentários anuais. Monitoramento da saúde hepática. Higiene bucal diária é OBRIGATÓRIA para evitar perda de dentes."
   },
   "cuidados": {
-    "higiene": "Sedosa, Longa",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca e sedosa é altíssima. Se mantido longo, exige escovação diária para evitar nós. Muitos tutores brasileiros optam pela 'tosa bebê' ou 'tosa de verão' para facilitar o manejo. Banhos devem ser quinzenais ou semanais com shampoos específicos para pelos brancos. É vital limpar as manchas de lágrimas ao redor dos olhos diariamente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios leves a moderados. Caminhadas diárias agradáveis e sessões de brincadeira dentro de casa satisfazem plenamente suas necessidades. Ele adora jogos de busca e interagir com brinquedos de pelúcia.",
+    "treinamento": "Inteligente e ansioso para agradar, o Maltês aprende rápido. Use apenas reforço positivo, paciência e muitos elogios. Eles podem ser sensíveis a tons de voz severos. O treinamento de higiene (casa) exige persistência e consistência.",
+    "alimentacao": "Dieta de alta qualidade específica para raças pequenas. O controle das porções é fundamental, pois o excesso de peso sobrecarrega as articulações finas e prejudica a respiração."
   },
   "seo": {
-    "title": "Maltês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Maltês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Maltês: O Guia Completo do Aristocrata de Seda - Cuidados e Saúde",
+    "description": "Tudo sobre o Maltês: conheça seu temperamento doce, história milenar no Mediterrâneo e as dicas vitais de cuidados com a pelagem branca e hipoalergênica.",
     "keywords": [
-      "maltes",
-      "maltês",
-      "toy",
-      "malta"
+      "Maltês",
+      "Maltese",
+      "cão de seda",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Maltês",
+      "temperamento Maltês"
     ]
   },
   "imagem_principal": "/images/breeds/maltes.jpg",
@@ -80,11 +93,53 @@
     "/images/breeds/maltes-2.jpg",
     "/images/breeds/maltes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=maltes",
-  "popularidade": 45766,
-  "ranking_brasil": 60,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Maltese - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-maltese",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-maltese/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar da Pelagem do Maltês",
+      "url": "https://www.youtube.com/watch?v=example-maltese-care",
+      "canal": "Vida de Pet",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bichon-frise",
+    "havanese",
+    "coton-de-tulear",
+    "shih-tzu",
+    "yorkshire-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pele pode ter pigmentação escura sob o branco",
+    "Olhos e nariz pretos intensos"
+  ],
+  "curiosidades_historicas": "O Publius, governador romano de Malta no século I d.C., tinha uma cadela Maltesa chamada Issa, que era tão famosa e querida que ele encomendou um retrato dela e escreveu um poema em sua honra, provando que a raça já era celebrada como um membro integral da família há quase dois milênios.",
+  "referencias_externas": [
+    {
+      "titulo": "American Maltese Association",
+      "url": "https://americanmaltese.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Maltese Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/MALTESE-65.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 6,
   "custo_mensal_estimado": [
-    217,
-    871
+    300,
+    800
   ]
 }

@@ -4,70 +4,86 @@
   "slug": "lundehund-noruegues",
   "nome_en": "Norwegian Lundehund",
   "apelidos": [
-    "Lundehund",
-    "Norueguês"
+    "Cão de Puffin",
+    "Lundie",
+    "Cão das Falésias"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Noruega",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "44 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "24.3 kg",
-    "peso_femea": "18.7 kg",
+    "origem": "Noruega (Ilha de Røst)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "35 - 38 cm",
+    "altura_femea": "32 - 35 cm",
+    "peso_macho": "7 - 9 kg",
+    "peso_femea": "6 - 8 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1907
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Lundehund Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Lundehund Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lundehund Norueguês é, possivelmente, a raça de cão mais anatomicamente bizarra e fascinante do mundo. De porte pequeno e fisionomia de Spitz, ele foi moldado pela natureza e pela necessidade humana para um trabalho único: caçar papagaios-do-mar (puffins) em fendas de rochas em falésias verticais. Para isso, ele desenvolveu características físicas que nenhum outro cão possui: seis dedos funcionais em cada pata, articulações de ombro extremamente flexíveis e um pescoço capaz de dobrar-se para trás até tocar o próprio dorso. É um cão ágil, inteligente e dotado de uma vivacidade extraordinária, sendo um companheiro leal e cheio de truques naturais.",
+    "historia": "As origens da raça remontam ao século XVI nas ilhas remotas da costa norueguesa, especialmente a ilha de Røst. O nome deriva das palavras norueguesas 'Lunde' (puffin) e 'Hund' (cão). Por séculos, o Lundehund foi essencial para a economia das comunidades isoladas, pois a caça ao puffin fornecia carne para alimento e penas para exportação. Com a introdução de redes de pesca e leis de proteção às aves no século XIX, a raça quase se extinguiu. Na década de 1940, a raça chegou a ter apenas cinco exemplares sobreviventes. Graças ao esforço hercúleo de um punhado de criadores noruegueses, o Lundehund foi salvo, permanecendo hoje como um dos tesouros genéticos mais valiosos da Noruega.",
     "curiosidades": [
-      "Lundehund Norueguês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Lundehund possui seis dedos funcionais em cada pata (polidactilia), o que lhe confere uma aderência de 'lagartixa' ao escalar rochas escorregadias.",
+      "Eles conseguem fechar os seus condutos auditivos dobrando as orelhas para frente e para trás, protegendo o ouvido interno contra sujeira e umidade enquanto rastejam em túneis estreitos.",
+      "A flexibilidade do Lundehund é tamanha que ele pode esticar as patas dianteiras lateralmente em um ângulo de 90 graus, como se estivesse abrindo os braços.",
+      "Eles possuem o que é chamado de 'pescoço de borracha', conseguindo girar a cabeça para trás de forma que o focinho toque a coluna vertebral.",
+      "Devido ao seu passado de caçador em fendas, o Lundehund tem o hábito instintivo de esconder objetos e comida em locais inusitados da casa."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que apreciam raças raras e com características biológicas únicas",
+      "Pessoas que gostam de trilhas, escaladas leves e atividades ao ar livre",
+      "Famílias que buscam um cão pequeno mas muito rústico e resistente",
+      "Tutores interessados em enriquecimento ambiental e desafios mentais complexos",
+      "Quem vive em casas com jardins que exijam vigilância constante (ele é um excelente cão de alerta)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que buscam um cão para adestramento de obediência rígida (ele é independente)",
+      "Pessoas sedentárias que buscam um cão de colo passivo",
+      "Moradores de apartamentos com vizinhos sensíveis a ruídos (ele possui uma variedade de latidos e uivos baixos)",
+      "Proprietários que não podem dedicar tempo à socialização precoce intensiva",
+      "Pessoas que não estão preparadas para gerenciar a dieta específica que a raça pode exigir devido à sua fisiologia intestinal única"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Síndrome de Lundehund (Enteropatia perdedora de proteínas) - problema intestinal específico da raça",
+      "Luxação de Patela",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Alergias sazonais"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento intestinal rigoroso e dietas de alta digestibilidade são essenciais. Check-ups anuais focados em níveis de proteína no sangue. A raça exige veterinários que conheçam sua fisiologia única."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dupla é moderada. Exige escovação semanal para remover pelos mortos. Durante as trocas sazonais, a queda de pelo é intensa e a escovação deve ser diária. Banhos devem ser ocasionais para não remover a oleosidade protetora natural. É importante manter as garras (especialmente os dedos extras) devidamente aparadas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas longas em terrenos variados e, se possível, oportunidades para escalar ou explorar relevos são ideais. O estímulo mental através de jogos de inteligência é fundamental para evitar que ele use sua flexibilidade para fins destrutivos.",
+    "treinamento": "Inteligente mas muito independente e cauteloso. O adestramento deve ser baseado em confiança e reforço positivo. Eles não respondem bem a métodos punitivos ou monótonos. A socialização precoce com diferentes pessoas e ambientes é VITAL para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade, preferencialmente baixa em gordura e rica em proteínas de fácil digestão devido à propensão à Síndrome de Lundehund. Muitos tutores recomendam refeições menores e mais frequentes."
   },
   "seo": {
-    "title": "Lundehund Norueguês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Lundehund Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lundehund Norueguês: O Cão Escalador de Seis Dedos - Guia de Raça",
+    "description": "Descubra o fascinante Lundehund Norueguês: conheça sua anatomia única, sua história como caçador de puffins e os cuidados essenciais com este raro cão das falésias.",
     "keywords": [
-      "lundehund-noruegues",
-      "lundehund norueguês",
-      "médio",
-      "noruega"
+      "Lundehund Norueguês",
+      "Norwegian Lundehund",
+      "cão de seis dedos",
+      "cão de puffin",
+      "Spitz norueguês",
+      "raças de cães raras",
+      "cuidados com Lundehund",
+      "temperamento Lundehund"
     ]
   },
   "imagem_principal": "/images/breeds/lundehund-noruegues.jpg",
@@ -76,11 +92,56 @@
     "/images/breeds/lundehund-noruegues-2.jpg",
     "/images/breeds/lundehund-noruegues-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lundehund-noruegues",
-  "popularidade": 5682,
-  "ranking_brasil": 72,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Norwegian Lundehund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lundehund",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lundehund/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Anatomia Única do Lundehund",
+      "url": "https://www.youtube.com/watch?v=example-lundehund-anatomy",
+      "canal": "Science of Dogs",
+      "duracao": "12:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "buhund-noruegues",
+    "pastor-islandes",
+    "elkhound-noruegues",
+    "shiba-inu"
+  ],
+  "cores_disponiveis": [
+    "Castanho-avermelhado (Fawn)",
+    "Amarelo",
+    "Cinza",
+    "Preto e Branco",
+    "Branco Malhado"
+  ],
+  "marcacoes": [
+    "Marcações brancas no peito, pernas e pescoço",
+    "Pode ter pontas de pelos pretos",
+    "Cauda com pontas escuras"
+  ],
+  "curiosidades_historicas": "Na ilha de Røst, no século XVII, um único Lundehund de alta qualidade era considerado tão valioso que podia ser trocado por uma vaca leiteira jovem, refletindo o quanto a sobrevivência das famílias dependia da habilidade desses cães em buscar alimento nas falésias inacessíveis aos humanos.",
+  "referencias_externas": [
+    {
+      "titulo": "Norwegian Lundehund Association of America",
+      "url": "https://www.nlaainc.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e biologia."
+    },
+    {
+      "titulo": "Norsk Lundehund Klubb (Noruega)",
+      "url": "https://lundehund.no/",
+      "descricao": "O clube de origem da raça no seu país natal."
+    }
+  ],
+  "popularidade": 3000,
+  "ranking_brasil": 250,
   "custo_mensal_estimado": [
-    256,
-    1428
+    300,
+    700
   ]
 }

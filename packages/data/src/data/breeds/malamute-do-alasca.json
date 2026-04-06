@@ -5,69 +5,87 @@
   "nome_en": "Alaskan Malamute",
   "apelidos": [
     "Malamute",
-    "Alasca"
+    "Locomotiva do Ártico",
+    "Mal"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "13.3 kg",
-    "peso_femea": "7.5 kg",
+    "origem": "Estados Unidos (Alasca)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "63 - 71 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "36 - 43 kg",
+    "peso_femea": "32 - 38 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1931
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 4,
     "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 4,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Malamute do Alasca é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Malamute do Alasca originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Malamute do Alasca é um dos cães de trabalho mais antigos e imponentes do Ártico, uma verdadeira 'locomotiva' projetada para a força e resistência em condições extremas. De porte grande e constituição massiva e musculosa, ele possui uma pelagem dupla extraordinariamente densa, áspera e impermeável. Diferente de seu primo, o Husky Siberiano, o Malamute é construído para a tração pesada em velocidades moderadas, não para a velocidade pura. Suas orelhas são eretas e bem afastadas, e sua cauda é farta em pelos, carregada orgulhosamente como uma pluma sobre o dorso. É um cão de dignidade silenciosa, dotado de um temperamento amigável, dócil e intensamente leal à sua família humana.",
+    "historia": "A raça leva o nome dos Mahlemuts, uma tribo nômade Inuit do noroeste do Alasca. Por milênios, esses cães foram vitais para a sobrevivência da tribo: eles puxavam trenós carregados com suprimentos pesados, ajudavam na caça de focas e protegiam os acampamentos contra ursos polares. Durante a Corrida do Ouro no Klondike (1896), os Malamutes tornaram-se extremamente valiosos, sendo usados por mineradores para transporte em terrenos inacessíveis. A raça quase desapareceu devido ao cruzamento indiscriminado na época, mas foi salva por entusiastas que buscaram exemplares puros em regiões remotas. Em 1935, a raça foi oficialmente reconhecida pelo AKC e hoje é o cão oficial do estado do Alasca.",
     "curiosidades": [
-      "Malamute do Alasca possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Malamute do Alasca é considerado um dos descendentes mais diretos do lobo ártico, mantendo uma integridade genética primitiva notável.",
+      "Eles não são cães de latir; em vez disso, eles emitem um 'uivo falado' (woo-woo) e resmungos melódicos para se comunicarem com seus tutores.",
+      "Diferente dos Huskies, os Malamutes puros NUNCA possuem olhos azuis; seus olhos são invariavelmente castanhos ou amendoados.",
+      "Eles possuem uma habilidade instintiva de detectar gelo fino ou rachaduras sob a neve, salvando inúmeras vidas de exploradores árticos ao longo da história.",
+      "Apesar do tamanho, o Malamute é conhecido por ser um cão extremamente silencioso e limpo dentro de casa, assemelhando-se aos felinos em seus hábitos de higiene."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que vivem em climas frios ou temperados",
+      "Tutores que buscam um companheiro leal e imponente para trilhas e aventuras",
+      "Pessoas que possuem casas com amplos espaços internos e quintais grandes",
+      "Proprietários que apreciam a estética rústica e ancestral dos cães de trenó",
+      "Quem deseja um cão sociável que ama a companhia de pessoas acima de tudo"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele é independente e testará a autoridade)",
+      "Pessoas sedentárias ou que vivem em apartamentos pequenos",
+      "Ambientes com calor tropical extremo sem refrigeração constante (ele sofre severamente com o calor)",
+      "Tutores que não toleram queda de pelos abundante (ele 'troca de casaco' duas vezes ao ano em proporções imensas)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável demais com estranhos)",
+      "Casas com pequenos animais domésticos (devido ao seu forte instinto de caça primitivo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência considerável)",
+      "Problemas oculares (Catarata e Atrofia Progressiva da Retina)",
+      "Hipotireoidismo",
+      "Nanismo Condrodisplásico (testes genéticos disponíveis)",
+      "Polineuropatia Hereditária (doença neurológica)",
+      "Dilatação e Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Testes genéticos para polineuropatia e condrodisplasia. Atenção rigorosa aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação profunda pelo menos três vezes por semana para evitar que o subpelo forme placas de feltro. Durante a troca de pelo ( shedding ), a queda é massiva e a escovação deve ser diária. Banhos devem ser raros para preservar a oleosidade natural impermeável. As unhas devem ser mantidas curtas para suportar o peso massivo do cão.",
+    "exercicios": "Necessita de MUITO exercício físico diário. Caminhadas longas não são suficientes; ele precisa de atividades que envolvam força e resistência, como trilhas com mochila canina ou jogos de tração (mantendo o cuidado com as articulações). O estímulo mental é vital para evitar o tédio e a destruição.",
+    "treinamento": "Inteligente mas muito independente e obstinado. O adestramento deve ser baseado em reforço positivo, paciência e liderança calma e inquestionável. Eles se aborrecem com repetições monótonas. O treinamento de 'recall' (vir quando chamado) é um desafio constante devido ao seu espírito explorador.",
+    "alimentacao": "Dieta de alta qualidade. Curiosamente, o Malamute exige menos comida proporcionalmente ao seu tamanho do que raças sedentárias, pois seu metabolismo é extremamente eficiente. Evite o sobrepeso a todo custo."
   },
   "seo": {
-    "title": "Malamute do Alasca - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Malamute do Alasca: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Malamute do Alasca: O Gigante Amigo do Ártico - Guia de Raça",
+    "description": "Descubra o Malamute do Alasca: conheça sua história milenar, seu temperamento dócil e as dicas essenciais de cuidados com exercícios e pelagem para este gigante do gelo.",
     "keywords": [
-      "malamute-do-alasca",
-      "malamute do alasca",
-      "médio",
-      "estados unidos"
+      "Malamute do Alasca",
+      "Alaskan Malamute",
+      "cão de trenó",
+      "gigante gentil",
+      "cão de tração",
+      "raças de cães grandes",
+      "cuidados com Malamute",
+      "temperamento Malamute"
     ]
   },
   "imagem_principal": "/images/breeds/malamute-do-alasca.jpg",
@@ -76,11 +94,56 @@
     "/images/breeds/malamute-do-alasca-2.jpg",
     "/images/breeds/malamute-do-alasca-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=malamute-do-alasca",
-  "popularidade": 43462,
-  "ranking_brasil": 18,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Alaskan Malamute - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-malamute",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-malamute/hqdefault.jpg"
+    },
+    {
+      "titulo": "As Diferenças entre Husky e Malamute",
+      "url": "https://www.youtube.com/watch?v=example-husky-mal-diff",
+      "canal": "Mundo Husky",
+      "duracao": "13:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "husky-siberiano",
+    "samoieda",
+    "akita-inu",
+    "elkhound-noruegues"
+  ],
+  "cores_disponiveis": [
+    "Cinza e Branco",
+    "Preto e Branco",
+    "Sable e Branco",
+    "Vermelho e Branco",
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Máscara facial completa ou tipo gorro",
+    "Padrão de manto no dorso",
+    "Olhos castanhos (obrigatórios)"
+  ],
+  "curiosidades_historicas": "Durante a Primeira e Segunda Guerras Mundiais, os Malamutes do Alasca foram recrutados para servir como cães de transporte tático em montanhas inacessíveis da Europa e como batedores de busca e salvamento no Ártico, salvando centenas de aviadores cujos aparelhos haviam caído no gelo.",
+  "referencias_externas": [
+    {
+      "titulo": "Alaskan Malamute Club of America",
+      "url": "https://alaskanmalamute.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações sobre saúde e genética."
+    },
+    {
+      "titulo": "FCI - Alaskan Malamute Standard",
+      "url": "https://www.fci.be/en/nomenclature/ALASKAN-MALAMUTE-243.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 115,
   "custo_mensal_estimado": [
-    272,
-    993
+    500,
+    1300
   ]
 }

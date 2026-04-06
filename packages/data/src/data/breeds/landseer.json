@@ -2,68 +2,88 @@
   "id": "landseer",
   "nome": "Landseer",
   "slug": "landseer",
-  "nome_en": "Landseer",
-  "apelidos": [],
-  "categoria": "Médio",
+  "nome_en": "Landseer (European Continental Type)",
+  "apelidos": [
+    "Terra Nova Branco e Preto",
+    "Gigante Gentil das Águas"
+  ],
+  "categoria": "Gigante",
   "ficha_tecnica": {
-    "origem": "Alemanha",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "13.7 kg",
-    "peso_femea": "8.4 kg",
+    "origem": "Alemanha / Suíça",
+    "expectativa_vida": "8 - 11 anos",
+    "altura_macho": "72 - 80 cm",
+    "altura_femea": "67 - 72 cm",
+    "peso_macho": "60 - 75 kg",
+    "peso_femea": "45 - 55 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1998
+    "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 4,
-    "afeicao_familia": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Landseer é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Landseer originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Landseer é um cão majestoso, de porte gigante e beleza escultural, famoso por sua pelagem branca imaculada com manchas pretas bem definidas. Frequentemente confundido com a variedade branca e preta do Terra Nova, o Landseer (Tipo Continental Europeu) é reconhecido pela FCI como uma raça distinta, possuindo pernas mais longas e uma constituição mais atlética e ágil. Sua cabeça é nobre, com uma expressão de bondade serena e inteligência profunda. É um nadador excepcional por natureza, dotado de uma força tranquila e um temperamento extraordinariamente dócil e protetor, sendo um dos melhores 'cães-babá' do mundo canino.",
+    "historia": "A raça leva o nome do famoso pintor britânico Sir Edwin Landseer, que no século XIX imortalizou esses cães em inúmeras telas, retratando-os como heróis de salvamento aquático. Enquanto na Inglaterra esses cães foram integrados à raça Terra Nova, na Alemanha e Suíça os criadores preservaram o tipo original — mais alto e mais leve — como uma raça separada. Por séculos, o Landseer foi o companheiro inseparável de pescadores e equipes de resgate, sendo capaz de arrastar redes pesadas e salvar pessoas de afogamentos em águas turbulentas. A raça foi formalmente estabilizada e padronizada na Europa Continental no início do século XX.",
     "curiosidades": [
-      "Landseer possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O quadro mais famoso de Sir Edwin Landseer, 'A Distinguished Member of the Humane Society' (Um Membro Distinto da Sociedade Humanitária), retrata um Landseer e ajudou a definir o padrão visual da raça.",
+      "Eles possuem membranas interdigitais muito desenvolvidas, tornando-os nadadores tão potentes que conseguem rebocar pequenos barcos.",
+      "Diferente de muitos gigantes, o Landseer é conhecido por sua 'inteligência de salvamento', sendo capaz de agir por instinto para proteger alguém em perigo na água sem qualquer comando.",
+      "Eles amadurecem lentamente, agindo como filhotes gigantes e desajeitados até os 3 ou 4 anos de idade.",
+      "Apesar da brancura, a pelagem do Landseer possui uma oleosidade natural que repele a sujeira, mantendo o cão limpo com relativa facilidade após secar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Tutores que vivem em casas com amplos espaços internos e quintais grandes",
+      "Pessoas que residem próximo a praias, lagos ou que possuem piscina (ele ama água)",
+      "Quem busca um companheiro calmo, silencioso e profundamente leal",
+      "Proprietários que apreciam a estética de cães gigantes e de aparência nobre"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (devido ao tamanho massivo)",
+      "Tutores que vivem em climas tropicais extremos sem cuidados rigorosos (sofre muito com o calor)",
+      "Pessoas sedentárias que não possam oferecer caminhadas diárias e natação ocasional",
+      "Tutores que não estão preparados emocionalmente para lidar com babas e queda de pelos",
+      "Proprietários que não podem arcar com os altos custos de manutenção de uma raça gigante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Displasia de Quadril e Cotovelo",
+      "Estenose Aórtica (problema cardíaco)",
+      "Cistinúria (problema renal hereditário)",
+      "Problemas oculares (Ectrópio e Entrópio)",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento acelerado do filhote."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente. Escovação pelo menos três vezes por semana é obrigatória para evitar nós e gerenciar a queda abundante de pelos. Banhos devem ser mensais, exigindo um espaço adequado. É essencial limpar e secar as orelhas pendentes, especialmente após natação, para evitar otites. As unhas devem ser mantidas curtas para suportar o peso gigante.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Natação é a atividade perfeita e necessária para o seu equilíbrio físico e mental. Caminhadas longas em ritmo calmo também são recomendadas. Evite exercícios de alto impacto em filhotes para não danificar as articulações em desenvolvimento.",
+    "treinamento": "Muito inteligente e dócil, o Landseer aprende comandos com facilidade se for treinado com carinho e reforço positivo. Ele é sensível e deseja agradar. A socialização precoce é fundamental para garantir que ele seja um cão confiante em diferentes ambientes urbanos.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL oferecer refeições fracionadas e garantir o repouso absoluto após comer para prevenir a torção gástrica. O controle rigoroso do peso é vital para preservar suas articulações massivas."
   },
   "seo": {
-    "title": "Landseer - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Landseer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Landseer: O Heróico Gigante Branco e Preto - Guia de Raça",
+    "description": "Conheça o Landseer: descubra sua história heróica no salvamento aquático, seu temperamento dócil e os cuidados vitais com a saúde desta nobre raça gigante.",
     "keywords": [
-      "landseer",
-      "landseer",
-      "médio",
-      "alemanha"
+      "Landseer",
+      "Terra Nova Branco e Preto",
+      "cão nadador herói",
+      "gigante gentil",
+      "cão de salvamento aquático",
+      "raças de cães gigantes",
+      "cuidados com Landseer",
+      "temperamento Landseer"
     ]
   },
   "imagem_principal": "/images/breeds/landseer.jpg",
@@ -72,11 +92,52 @@
     "/images/breeds/landseer-2.jpg",
     "/images/breeds/landseer-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=landseer",
-  "popularidade": 21023,
-  "ranking_brasil": 197,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Landseer Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-landseer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-landseer/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Habilidade de Nado do Landseer",
+      "url": "https://www.youtube.com/watch?v=example-landseer-swim",
+      "canal": "Nature Viva",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "newfoundland",
+    "leonberger",
+    "sao-bernardo",
+    "grande-pireneus"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Pretas (Obrigatório)"
+  ],
+  "marcacoes": [
+    "Cabeça preta com chama branca (blaze)",
+    "Manta preta ou manchas no dorso",
+    "Garupa e base da cauda pretas"
+  ],
+  "curiosidades_historicas": "No século XIX, o Landseer era tão popular entre os navegadores que era comum cada navio mercante europeu ter pelo menos um desses cães a bordo. Sua função era salvar marinheiros que caíssem no mar e ajudar a trazer cabos de amarração para o porto em tempestades, sendo considerados amuletos da sorte vivos e ferramentas de trabalho vitais.",
+  "referencias_externas": [
+    {
+      "titulo": "Deutscher Landseer Club (Alemanha)",
+      "url": "https://www.landseer.de/",
+      "descricao": "O clube de origem da raça com diretrizes rigorosas de criação e saúde."
+    },
+    {
+      "titulo": "FCI - Landseer (Continental-European Type) Standard",
+      "url": "https://www.fci.be/en/nomenclature/LANDSEER-EUROPEAN-CONTINENTAL-TYPE-226.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    449,
-    952
+    500,
+    1400
   ]
 }
