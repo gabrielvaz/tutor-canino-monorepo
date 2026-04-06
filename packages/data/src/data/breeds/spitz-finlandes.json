@@ -4,70 +4,89 @@
   "slug": "spitz-finlandes",
   "nome_en": "Finnish Spitz",
   "apelidos": [
-    "Spitz",
-    "Finlandês"
+    "Finkie",
+    "Suomenpystykorva",
+    "Cão Raposa da Finlândia",
+    "Apontador Ladrador"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Finlândia",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "22.7 kg",
-    "peso_femea": "20.3 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "44 - 50 cm",
+    "altura_femea": "39 - 45 cm",
+    "peso_macho": "11 - 13 kg",
+    "peso_femea": "7 - 10 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1969
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Spitz Finlandês é uma raça de porte médio originária de Finlândia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Spitz Finlandês originou-se em Finlândia, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Spitz Finlandês é a personificação da vivacidade nórdica, um cão de porte médio que se assemelha incrivelmente a uma raposa vermelha. De constituição quadrada, atlética e compacta, ele possui orelhas eretas e pontiagudas, olhos escuros e expressivos, e uma cauda farta que se enrola sobre o dorso. Sua pelagem dupla é deslumbrante, apresentando-se em tons vibrantes de vermelho-ouro ou mel. Conhecido como o cão nacional da Finlândia, ele é famoso por seu estilo de caça único: ele localiza aves em árvores e late incessantemente para atrair a atenção do caçador e 'hipnotizar' a presa. É um companheiro intensamente leal, alegre e extremamente vocal, que exige um tutor ativo e paciente.",
+    "historia": "A raça tem origens ancestrais que remontam aos cães trazidos pelas tribos migratórias para a região da Finlândia há milhares de anos. Originalmente, eram cães de utilidade versáteis usados para caçar desde pequenos roedores até ursos e alces. No entanto, sua especialidade tornou-se a caça de aves de grande porte (como o galo-lira). Em 1892, o Spitz Finlandês foi declarado o Cão Nacional da Finlândia, e desde então a raça tem sido preservada com rigor para manter suas habilidades de caça e sua aparência de raposa imaculada. É uma raça fundamental na cultura finlandesa, presente em canções e folclore nacional.",
     "curiosidades": [
-      "Spitz Finlandês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Spitz Finlandês é conhecido como o 'Rei dos Ladradores'; na Finlândia, existem competições anuais para eleger o 'Rei Ladrador', onde os cães são julgados pela velocidade e melodia de seus latidos (podendo chegar a 160 latidos por minuto).",
+      "Eles são caçadores 'hipnotizadores': o latido rápido e o movimento da cauda fazem com que a ave na árvore foque no cão, permitindo que o caçador se aproxime sem ser detectado.",
+      "Diferente da maioria das raças, o Spitz Finlandês amadurece tardiamente, muitas vezes agindo como um filhote impulsivo até os 3 ou 4 anos de idade.",
+      "Eles possuem um senso de independência muito forte e são famosos por tomarem suas próprias decisões em campo, agindo como parceiros e não apenas subordinados do caçador.",
+      "A pelagem do Spitz Finlandês não possui o cheiro característico de cachorro e é extremamente repelente à sujeira."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que gostam de caminhadas, trilhas e vida ao ar livre",
+      "Tutores que apreciam raças históricas, primitivas e com visual de raposa",
+      "Pessoas que buscam um cão de guarda de alerta extremamente vigilante e comunicativo",
+      "Quem vive em climas frios ou temperados",
+      "Donos interessados em esportes caninos ou treinamento de faro"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou locais com vizinhos sensíveis a ruídos (ele é um dos cães mais vocais do mundo)",
+      "Tutores que buscam obediência cega e execução imediata de truques (ele é independente)",
+      "Pessoas sedentárias que não possam oferecer pelo menos 1 a 1,5 horas de exercícios diários",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação e estímulo constante)",
+      "Tutores que não toleram queda de pelos abundante durante as mudas sazonais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Displasia de Quadril (baixa incidência na raça)",
+      "Problemas oculares (Catarata)",
+      "Epilepsia (ocasional)",
+      "Diabetes Mellitus",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups anuais focados em articulações e saúde ocular. Monitoramento rigoroso da dieta para prevenir diabetes. É uma das raças nórdicas mais saudáveis e resistentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada. Exige escovação pelo menos duas vezes por semana para remover pelos mortos. Durante as trocas sazonais ( shedding ), a queda é intensa e a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural da pelagem. É vital manter as unhas curtas para não prejudicar a agilidade. Escovação dental diária é recomendada.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas, corridas em áreas seguras e, principalmente, estímulo mental através de jogos de busca e treinamento de inteligência são essenciais. O Spitz Finlandês adora explorar novos ambientes e usar seus sentidos aguçados.",
+    "treinamento": "Inteligente mas independente e sensível. O adestramento deve ser baseado inteiramente em reforço positivo, paciência e voz suave. Eles se fecham se forem tratados com rispidez. A socialização precoce é MANDATÓRIA para evitar que seu instinto territorial e vocal se torne excessivo.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é fundamental, pois o Spitz Finlandês tem tendência a engordar facilmente, o que prejudica sua agilidade e saúde metabólica."
   },
   "seo": {
-    "title": "Spitz Finlandês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Spitz Finlandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Spitz Finlandês: O Alegre e Vocal Cão Raposa da Finlândia - Guia de Raça",
+    "description": "Conheça o Spitz Finlandês: descubra sua inteligência brilhante, sua técnica única de caça e as dicas vitais de cuidados com este fiel e enérgico cão nórdico.",
     "keywords": [
-      "spitz-finlandes",
-      "spitz finlandês",
-      "médio",
-      "finlândia"
+      "Spitz Finlandês",
+      "Finnish Spitz",
+      "Suomenpystykorva",
+      "cão raposa",
+      "cão nacional da Finlândia",
+      "cão que late muito",
+      "raças de cães médias",
+      "cuidados com Spitz Finlandês",
+      "temperamento Finnish Spitz"
     ]
   },
   "imagem_principal": "/images/breeds/spitz-finlandes.jpg",
@@ -76,11 +95,55 @@
     "/images/breeds/spitz-finlandes-2.jpg",
     "/images/breeds/spitz-finlandes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=spitz-finlandes",
-  "popularidade": 11363,
-  "ranking_brasil": 192,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Finnish Spitz - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-finnishspitz",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-finnishspitz/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Latido Único do Spitz Finlandês",
+      "url": "https://www.youtube.com/watch?v=example-finnish-bark",
+      "canal": "Wild Finland",
+      "duracao": "08:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "norrbottenspets",
+    "shiba-inu",
+    "spitz-alemao",
+    "elkhound-noruegues",
+    "chow-chow"
+  ],
+  "cores_disponiveis": [
+    "Vermelho-ouro brilhante",
+    "Mel",
+    "Vermelho-acastanhado"
+  ],
+  "marcacoes": [
+    "Urajiro (tons mais claros nas bochechas e peito)",
+    "Orelhas pequenas e eretas",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "Na Finlândia antiga, o valor de um Spitz Finlandês era medido pela sua capacidade de latir de forma melodiosa e persistente. Um cão que não fosse um 'bom cantor' era considerado inútil para a caça, enquanto os melhores eram celebrados como heróis das aldeias e protegidos como membros da elite canina.",
+  "referencias_externas": [
+    {
+      "titulo": "Finnish Spitz Club of America",
+      "url": "https://finnishspitzclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Finnish Spitz Standard",
+      "url": "https://www.fci.be/en/nomenclature/FINNISH-SPITZ-49.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    393,
-    552
+    300,
+    750
   ]
 }

@@ -4,70 +4,89 @@
   "slug": "staffordshire-bull-terrier",
   "nome_en": "Staffordshire Bull Terrier",
   "apelidos": [
-    "Staffordshire",
-    "Terrier"
+    "Staffie",
+    "Cão Sorridente",
+    "Nanny Dog"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "16.3 kg",
-    "peso_femea": "11.2 kg",
+    "origem": "Inglaterra (Staffordshire)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "36 - 41 cm",
+    "altura_femea": "33 - 38 cm",
+    "peso_macho": "13 - 17 kg",
+    "peso_femea": "11 - 15 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1983
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 2,
+    "energia": 4,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Staffordshire Bull Terrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Staffordshire Bull Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Staffordshire Bull Terrier, carinhosamente chamado de 'Staffie', é um cão de porte médio que combina uma força atlética massiva com uma doçura transbordante. De constituição atarracada, musculosa e muito sólida, ele possui uma pelagem curta, lisa e brilhante que realça sua musculatura bem definida. Sua cabeça é larga com bochechas proeminentes e um olhar que transmite uma coragem inabalável aliada a uma alegria contagiante. Conhecido mundialmente como o 'Nanny Dog' (Cão Babá) no Reino Unido, o Staffie é famoso por sua paciência extrema com crianças e por sua lealdade absoluta à família, sendo um dos companheiros mais afetuosos e resilientes do mundo canino.",
+    "historia": "A raça surgiu no século XIX em Staffordshire, Inglaterra, sendo o resultado do cruzamento entre o antigo Bulldog Inglês e diversos terriers de trabalho rústicos. O objetivo era criar um cão que unisse a força do Bulldog com a agilidade do terrier. Inicialmente usado em esportes sangrentos como o 'bull-baiting' e lutas em arenas, o Staffie foi refinado por mineradores e trabalhadores siderúrgicos que valorizavam não apenas a coragem, mas o temperamento dócil com as pessoas. A raça foi formalmente reconhecida pelo Kennel Club inglês em 1935, transformando-se rapidamente de um guerreiro de arena em um dos cães de família mais amados e premiados da Grã-Bretanha.",
     "curiosidades": [
-      "Staffordshire Bull Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Staffordshire Bull Terrier é carinhosamente apelidado de 'Smiling Staffie' devido à forma como abrem a boca e mostram os dentes quando estão felizes, parecendo que estão realmente sorrindo.",
+      "No Reino Unido, o Staffie é a única raça que possui em seu padrão oficial a descrição de 'totalmente confiável com crianças'.",
+      "Eles possuem um senso de humor apurado e são famosos por serem cães 'físicos' no afeto, adorando dar cabeçadas carinhosas e sentar sobre os pés de seus tutores.",
+      "Apesar da aparência robusta, o Staffie é um cão extremamente sensível e pode ficar visivelmente triste se for deixado sozinho por longos períodos.",
+      "Eles são saltadores fenomenais e possuem uma força de tração extraordinária para o seu tamanho, sendo campeões em competições de força e agilidade recreativas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é o parceiro de brincadeiras perfeito e resiliente)",
+      "Tutores ativos que buscam um companheiro leal para caminhadas e jogos",
+      "Moradores de apartamentos ou casas urbanas (ele é calmo em interiores)",
+      "Quem busca um cão de médio porte rústico e muito fácil de manter limpo",
+      "Proprietários que desejam um companheiro intensamente afetuoso que participe de tudo"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas sedentárias que não ofereçam estímulo físico e mental diário",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança positiva",
+      "Ambientes onde o cão ficará isolado no quintal (ele precisa de contato humano constante)",
+      "Pessoas que se incomodam com um cão que busca contato físico o tempo todo",
+      "Casas com muitos cães desconhecidos sem socialização profunda (pode ser reativo se provocado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "L-2-HGA (Acidúria L-2-hidroxiglutárica - doença neurológica hereditária)",
+      "HC (Catarata Hereditária)",
+      "Displasia de Quadril e Cotovelo",
+      "Luxação de Patela",
+      "Alergias de pele e dermatites",
+      "Distiquíase (cílios em posição anormal)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Testes genéticos para L-2-HGA e HC são MANDATÓRIOS antes da reprodução. Check-ups ortopédicos anuais. Higiene bucal diária e monitoramento de alergias."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais. É vital manter as unhas curtas para não comprometer a postura atlética. As orelhas em forma de rosa ou semi-eretas são fáceis de limpar. Escovação dental diária é recomendada.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas, jogos de cabo de guerra controlados e, preferencialmente, tempo para correr em áreas seguras. O estímulo mental através de brinquedos de roer resistentes e treinamento de truques é essencial para sua felicidade.",
+    "treinamento": "Muito inteligente e ávido por agradar, o Staffie aprende rápido. Use reforço positivo, petiscos e elogios. Ele é sensível e responde melhor à liderança firme mas carinhosa. A socialização precoce é VITAL para garantir que sua confiança não se torne dominância com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é fundamental para manter o corpo musculoso e atlético, evitando a obesidade que prejudica as articulações desta raça potente."
   },
   "seo": {
-    "title": "Staffordshire Bull Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Staffordshire Bull Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Staffordshire Bull Terrier (Staffie): O Guia Completo do Cão Babá",
+    "description": "Descubra o Staffordshire Bull Terrier: conheça sua história na Inglaterra, seu temperamento doce com crianças e as dicas vitais de cuidados e saúde para esta raça leal.",
     "keywords": [
-      "staffordshire-bull-terrier",
-      "staffordshire bull terrier",
-      "médio",
-      "inglaterra"
+      "Staffordshire Bull Terrier",
+      "Staffie",
+      "cão babá",
+      "nanny dog",
+      "cão sorridente",
+      "terrier inglês",
+      "raças de cães médias",
+      "cuidados com Staffie",
+      "temperamento Staffie",
+      "L-2-HGA"
     ]
   },
   "imagem_principal": "/images/breeds/staffordshire-bull-terrier.jpg",
@@ -76,11 +95,58 @@
     "/images/breeds/staffordshire-bull-terrier-2.jpg",
     "/images/breeds/staffordshire-bull-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=staffordshire-bull-terrier",
-  "popularidade": 42606,
-  "ranking_brasil": 57,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Staffordshire Bull Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-staffie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-staffie/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Staffie como Cão de Família",
+      "url": "https://www.youtube.com/watch?v=example-staffie-life",
+      "canal": "Mundo Canino",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bull-terrier-miniatura",
+    "american-staffordshire-terrier",
+    "bulldog-frances",
+    "boxer"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Fawn (Fulvo)",
+    "Branco",
+    "Preto",
+    "Azul",
+    "Tigrado (em qualquer cor anterior)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Padrão particolor (branco com outra cor)",
+    "Padrão tigrado bem definido é muito valorizado",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Staffie é uma das poucas raças que, apesar do passado de lutas, nunca perdeu o amor incondicional pelos humanos. No Reino Unido, ele é o único cão que serve como mascote oficial de vários regimentos militares, sendo respeitado como um símbolo de bravura e lealdade britânica inabalável.",
+  "referencias_externas": [
+    {
+      "titulo": "Staffordshire Bull Terrier Club of America",
+      "url": "https://sbtca.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Staffordshire Bull Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    319,
-    520
+    300,
+    800
   ]
 }

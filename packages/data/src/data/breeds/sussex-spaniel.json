@@ -5,69 +5,85 @@
   "nome_en": "Sussex Spaniel",
   "apelidos": [
     "Sussex",
-    "Spaniel"
+    "Golden Liver Spaniel"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "45 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "14.6 kg",
-    "peso_femea": "10.3 kg",
+    "origem": "Inglaterra (Condado de Sussex)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "38 - 41 cm",
+    "altura_femea": "33 - 38 cm",
+    "peso_macho": "18 - 23 kg",
+    "peso_femea": "16 - 20 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1965
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 5,
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Sussex Spaniel é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Sussex Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Sussex Spaniel é um dos segredos mais charmosos da Inglaterra, um cão de porte médio 'baixo e massivo' que exala uma aura de serenidade e poder contido. Caracteriza-se por seu corpo longo, pernas curtas e peito profundo, construído para atravessar a vegetação densa do sudexe inglês. Sua pelagem é única no mundo canino: longa, sedosa e invariavelmente de um tom 'fígado-dourado' (golden liver) brilhante. Com orelhas longas e fofas e um olhar sonolento mas inteligente, o Sussex é famoso por ser o mais calmo e menos 'agitado' de todos os spaniels, sendo um companheiro de família extremamente afetuoso, paciente e dotado de uma dignidade silenciosa.",
+    "historia": "A raça surgiu no Condado de Sussex, Inglaterra, no final do século XVIII, desenvolvida por Mr. Fuller de Rosehill Park. Ele buscou criar um cão de aponte e levantamento que fosse baixo o suficiente para trabalhar em matas fechadas e que possuísse uma voz musical para que o caçador pudesse localizá-lo sem vê-lo. O Sussex Spaniel foi uma das dez primeiras raças reconhecidas pelo AKC em 1884. No entanto, a raça quase foi extinta após a Segunda Guerra Mundial, sendo salva por Joy Freer, que preservou os últimos exemplares sobreviventes, tornando a raça uma das relíquias mais preciosas da canicultura britânica hoje.",
     "curiosidades": [
-      "Sussex Spaniel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A cor 'Fígado Dourado' é exclusiva do Sussex Spaniel; o brilho dourado nas pontas dos pelos de cor fígado é uma assinatura obrigatória da raça.",
+      "Diferente da maioria dos spaniels de trabalho, o Sussex caça 'com voz', emitindo um uivo rítmico e musical quando localiza a presa.",
+      "Eles são conhecidos como os 'filósofos' do grupo 8, possuindo um ritmo de vida mais lento e uma paciência admirável com a rotina doméstica.",
+      "Apesar da aparência preguiçosa, o Sussex é um cão de força surpreendente, capaz de arrastar galhos e abrir caminho em silvados onde cães maiores desistiriam.",
+      "Eles são famosos por serem cães 'observadores', preferindo sentar e monitorar a movimentação da casa com um olhar de seriedade cômica."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente resiliente e gentil com os pequenos)",
+      "Tutores que buscam um spaniel com nível de energia moderado e calmo",
+      "Pessoas que vivem em apartamentos ou casas menores (ele é muito silencioso em interiores)",
+      "Quem aprecia raças históricas, raras e com visual clássico britânico",
+      "Proprietários que buscam um companheiro leal e muito sensível às emoções da casa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não ofereçam pelo menos caminhadas diárias consistentes",
+      "Pessoas que não suportam queda de pelo moderada e detritos presos nas franjas",
+      "Ambientes onde o cão ficará sozinho por muitas horas (ele é muito apegado e dependente)",
+      "Tutores que utilizam métodos de treinamento severos (ele se torna amuado e teimoso)",
+      "Proprietários que buscam um cão para atividades atléticas de alta velocidade como Agility competitivo"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril (incidência alta devido à estrutura longa e baixa)",
+      "Problemas cardíacos (Persistência do Ducto Arterioso e Estenose Pulmonar)",
+      "Otites (infecções de ouvido devido às orelhas pesadas e abafadas)",
+      "Hipotireoidismo",
+      "Hérnia de Disco (IVDD - ocasional)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e cardíacos anuais são indispensáveis. Limpeza e secagem semanal profunda das orelhas franjadas. Monitoramento do peso para não sobrecarregar a coluna."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Banhos devem ser mensais com excelentes condicionadores para manter o brilho dourado. As orelhas precisam de inspeção diária. Unhas devem ser mantidas curtas para não prejudicar a pisada baixa.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos em ritmo constante e tempo para investigar novos cheiros satisfazem suas necessidades. Ele adora nadar e participar de jogos de busca lentos no quintal.",
+    "treinamento": "Inteligente mas com ritmo próprio. O adestramento deve ser baseado em reforço positivo, paciência e petiscos. Eles podem ser teimosos se apressados ou se o treino for monótono. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Sussex Spaniel tem uma tendência enorme à obesidade, o que é extremamente perigoso para sua estrutura corporal longa e pernas curtas."
   },
   "seo": {
-    "title": "Sussex Spaniel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Sussex Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Sussex Spaniel: O Aristocrata Gentil e Robusto - Guia de Raça",
+    "description": "Descubra o Sussex Spaniel: conheça sua inteligência brilhante, sua pelagem dourada única e as dicas vitais de cuidados e saúde para este raro e fiel companheiro.",
     "keywords": [
-      "sussex-spaniel",
-      "sussex spaniel",
-      "médio",
-      "inglaterra"
+      "Sussex Spaniel",
+      "cão de aponte inglês",
+      "cão dourado e fígado",
+      "spaniel raro",
+      "raças de cães calmas",
+      "raças de cães médias",
+      "cuidados com Sussex Spaniel",
+      "temperamento Sussex"
     ]
   },
   "imagem_principal": "/images/breeds/sussex-spaniel.jpg",
@@ -76,11 +92,52 @@
     "/images/breeds/sussex-spaniel-2.jpg",
     "/images/breeds/sussex-spaniel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=sussex-spaniel",
-  "popularidade": 19925,
-  "ranking_brasil": 152,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Sussex Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-sussex",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-sussex/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Raridade do Sussex Spaniel Hoje",
+      "url": "https://www.youtube.com/watch?v=example-sussex-rare",
+      "canal": "Hound Heritage",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "clumber-spaniel",
+    "cocker-spaniel-ingles",
+    "field-spaniel",
+    "basset-hound"
+  ],
+  "cores_disponiveis": [
+    "Fígado Dourado Rico (Rich Golden Liver)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (única cor permitida)",
+    "Franjas abundantes nas orelhas, peito e pernas",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "Durante a Segunda Guerra Mundial, Joy Freer, a criadora que salvou a raça, dividia sua própria ração de comida com seus cães e os levava para abrigos antiaéreos durante os bombardeios em Londres, garantindo que o pool genético do Sussex Spaniel não fosse apagado da história.",
+  "referencias_externas": [
+    {
+      "titulo": "Sussex Spaniel Club of America",
+      "url": "https://sussexspaniels.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Sussex Spaniel Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SUSSEX-SPANIEL-127.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    274,
-    842
+    300,
+    800
   ]
 }
