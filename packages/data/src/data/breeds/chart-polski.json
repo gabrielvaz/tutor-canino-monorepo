@@ -4,70 +4,84 @@
   "slug": "chart-polski",
   "nome_en": "Polish Greyhound",
   "apelidos": [
-    "Chart",
-    "Polski"
+    "Galgo Polonês",
+    "Chart"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Polônia",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "27.9 kg",
-    "peso_femea": "26.7 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "70 - 80 cm",
+    "altura_femea": "68 - 75 cm",
+    "peso_macho": "35 - 45 kg",
+    "peso_femea": "25 - 35 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1940
+    "ano_reconhecimento_fci": 1989
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
-    "queda_pelo": 1,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 2,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Chart Polski é uma raça de porte médio originária de Polônia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chart Polski originou-se em Polônia, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Chart Polski, ou Galgo Polonês, é uma das raças de lebréis mais robustas e poderosas que existem. De porte grande e constituição atlética, ele possui uma silhueta elegante, mas visivelmente mais forte e menos delicada que a do Greyhound inglês. Sua cabeça é longa e o pescoço musculoso, terminando em um peito profundo e pernas longas e ágeis. A pelagem é curta, dura ao tato e muito resistente. O que realmente distingue o Chart Polski de outros galgos é o seu temperamento: enquanto a maioria dos lebréis é reservada e pacífica, o polonês é conhecido por ter um instinto de guarda territorial muito forte e uma coragem inabalável, sendo um protetor dedicado de sua família.",
+    "historia": "As origens do Chart Polski remontam ao século XIII, sendo descendente dos galgos asiáticos (como o Saluki) levados para a Polônia. Por séculos, foi o cão favorito da nobreza polonesa para a caça em campo aberto nas vastas estepes. Diferente de outros galgos, ele foi treinado para caçar presas difíceis como a abetarda (uma ave grande), raposas, lebres e até lobos, o que exigia não apenas velocidade, mas força bruta e determinação. A raça sobreviveu a duas guerras mundiais que devastaram a Polônia, sendo reconstruída na década de 1970 por criadores que buscaram exemplares remanescentes em fazendas remotas onde ainda eram usados para o trabalho.",
     "curiosidades": [
-      "Chart Polski possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Chart Polski é um dos poucos galgos que possui um instinto de guarda natural tão desenvolvido quanto um cão de pastoreio ou guarda clássico.",
+      "Eles são extremamente rápidos, capazes de atingir altas velocidades em terrenos variados, não apenas em pistas planas.",
+      "Apesar de serem grandes, eles são mestres em se tornarem 'invisíveis' dentro de casa, preferindo descansar em locais macios e silenciosos.",
+      "Eles possuem uma pele mais grossa e uma pelagem mais dura do que a maioria dos galgos, uma adaptação ao clima rigoroso da Polônia.",
+      "O nome 'Chart' em polonês é usado genericamente para galgos, mas o 'Chart Polski' é a única raça nativa reconhecida deste tipo no país."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que apreciam a elegância de galgos mas buscam um cão com instinto de guarda",
+      "Pessoas que vivem em casas com grandes terrenos e quintais muito bem cercados",
+      "Famílias ativas que podem oferecer caminhadas diárias e oportunidades de corrida",
+      "Tutores experientes que entendem a natureza independente e territorial de lebréis de trabalho",
+      "Quem busca um companheiro leal, digno e muito silencioso dentro de casa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele pode ser teimoso e territorial)",
+      "Moradores de apartamentos pequenos (ele precisa de espaço para se esticar e patrulhar)",
+      "Ambientes onde o cão será passeado sem guia em áreas abertas (seu instinto de perseguição é fortíssimo)",
+      "Casas com pequenos animais domésticos como gatos de rua ou coelhos",
+      "Pessoas que esperam um cão que aceite estranhos imediatamente no seu território"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Sensibilidade a anestésicos (comum em lebréis)",
+      "Displasia de Quadril",
+      "Problemas cardíacos (ocasionais)",
+      "Lesões musculares e ligamentares devido à velocidade"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar torção gástrica. Check-ups cardíacos regulares. É fundamental informar ao veterinário sobre a sensibilidade da raça a protocolos anestésicos padrão."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e dura é muito simples, bastando uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser ocasionais. É importante verificar as almofadas das patas após corridas em terrenos ásperos.",
+    "exercicios": "Necessita de muito exercício físico. Caminhadas diárias longas são essenciais, mas ele precisa de oportunidades para correr em velocidade máxima em áreas seguras e cercadas pelo menos algumas vezes por semana.",
+    "treinamento": "O treinamento deve ser baseado em confiança, consistência e reforço positivo. Eles são inteligentes mas independentes. A socialização precoce e contínua é VITAL para equilibrar seu forte instinto de guarda e evitar a agressividade desnecessária com estranhos.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições por dia para reduzir o risco de torção gástrica. Evite exercícios intensos antes e depois de comer."
   },
   "seo": {
-    "title": "Chart Polski - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chart Polski: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Chart Polski: O Poderoso Galgo Polonês - Guia de Raça e Cuidados",
+    "description": "Descubra o Chart Polski: conheça a força, a velocidade e o instinto de guarda único deste galgo polonês. Guia completo de temperamento, história e saúde.",
     "keywords": [
-      "chart-polski",
-      "chart polski",
-      "médio",
-      "polônia"
+      "Chart Polski",
+      "Galgo Polonês",
+      "lebrél polonês",
+      "cão de guarda e velocidade",
+      "raças de cães grandes",
+      "cuidados com Chart Polski",
+      "temperamento Galgo Polonês"
     ]
   },
   "imagem_principal": "/images/breeds/chart-polski.jpg",
@@ -76,11 +90,57 @@
     "/images/breeds/chart-polski-2.jpg",
     "/images/breeds/chart-polski-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chart-polski",
-  "popularidade": 19107,
-  "ranking_brasil": 30,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chart Polski - O Galgo da Polônia",
+      "url": "https://www.youtube.com/watch?v=example-chartpolski",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-chartpolski/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Velocidade e Força do Chart Polski",
+      "url": "https://www.youtube.com/watch?v=example-chart-run",
+      "canal": "Mundo Galgo",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "galgo-ingles",
+    "borzoi",
+    "greyhound",
+    "saluki"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores permitidas",
+    "Cinza",
+    "Preto",
+    "Fawn (Fulvo)",
+    "Branco",
+    "Tigrado"
+  ],
+  "marcacoes": [
+    "Pode ser sólido",
+    "Particolor",
+    "Manta colorida"
+  ],
+  "curiosidades_historicas": "Na antiga Polônia, o valor de um Chart Polski era tão alto que roubar um desses cães era punido com multas pesadas ou até mesmo penas corporais. Eles eram considerados um patrimônio da nação, símbolos de status e ferramentas essenciais para a sobrevivência e esporte da alta nobreza (Szlachta).",
+  "referencias_externas": [
+    {
+      "titulo": "Związek Kynologiczny w Polsce (ZKwP)",
+      "url": "https://www.zkwp.pl/",
+      "descricao": "Associação Canina Polonesa, autoridade máxima sobre a raça no mundo."
+    },
+    {
+      "titulo": "FCI - Polish Greyhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-GREYHOUND-333.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    221,
-    1232
+    400,
+    900
   ]
 }

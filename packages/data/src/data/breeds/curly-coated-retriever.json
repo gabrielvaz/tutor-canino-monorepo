@@ -1,73 +1,88 @@
 {
   "id": "curly-coated-retriever",
-  "nome": "Curly-Coated Retriever",
+  "nome": "Curly Coated Retriever",
   "slug": "curly-coated-retriever",
-  "nome_en": "Curly-Coated Retriever",
+  "nome_en": "Curly Coated Retriever",
   "apelidos": [
-    "Curly-Coated",
-    "Retriever"
+    "Curly",
+    "Retriever de Pelo Encaracolado"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "17.6 kg",
-    "peso_femea": "14.4 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "64 - 69 cm",
+    "altura_femea": "58 - 64 cm",
+    "peso_macho": "32 - 41 kg",
+    "peso_femea": "27 - 34 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1939
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 5,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
     "afeicao_familia": 4,
-    "bom_com_criancas": 2,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Curly-Coated Retriever é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Curly-Coated Retriever originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Curly Coated Retriever é a mais antiga e uma das mais distintas raças de retriever, um verdadeiro 'aristocrata' de pelagem única. De porte grande e constituição atlética e elegante, ele é coberto da cabeça à cauda por uma massa densa de cachos pequenos, firmes e crocantes, que servem como uma armadura natural contra água gelada e vegetação espinhosa. Sua expressão é inteligente e um pouco reservada, refletindo uma natureza mais independente do que a de outros retrievers. É um cão dotado de uma resistência física extraordinária e uma mente perspicaz, sendo um trabalhador incansável e um companheiro leal e calmo dentro de casa.",
+    "historia": "A raça surgiu na Inglaterra no final do século XVIII, sendo o resultado provável de cruzamentos entre o extinto English Water Spaniel, o St. John's Dog (ancestral do Labrador) e possivelmente o Poodle para reforçar os cachos. O Curly foi o retriever favorito dos guardas-caça ingleses devido à sua versatilidade e robustez inigualáveis. Ele foi um dos primeiros retrievers a serem exibidos em exposições caninas em 1860. Embora sua popularidade tenha sido superada pelo Labrador e pelo Golden no século XX, o Curly Coated Retriever permanece uma raça de culto entre caçadores e entusiastas que valorizam seu estilo de trabalho único e sua personalidade distinta.",
     "curiosidades": [
-      "Curly-Coated Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A pelagem do Curly é composta por cachos tão firmes que a água e detritos raramente chegam à pele do animal.",
+      "Diferente da maioria dos retrievers, o Curly possui uma maturidade lenta, muitas vezes agindo como um filhote até os 3 ou 4 anos de idade.",
+      "Eles possuem um faro tão apurado que são frequentemente usados para rastrear aves feridas em pântanos onde outros cães desistiriam.",
+      "É considerado um dos retrievers mais silenciosos no trabalho, raramente latindo sem um motivo real.",
+      "Apesar da aparência encaracolada, o Curly não requer escovação; na verdade, escová-lo pode destruir a estrutura dos cachos, sendo preferível apenas molhar e apertar os pelos com as mãos."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam natação e trilhas longas",
+      "Tutores que buscam um retriever com temperamento mais independente e reservado",
+      "Pessoas que vivem em casas com quintais amplos e, preferencialmente, acesso a água",
+      "Proprietários interessados em esportes caninos desafiadores como Field Trials ou Dock Diving",
+      "Quem deseja um cão de grande porte robusto e com baixa manutenção de pelagem (sem nós)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que vivem em apartamentos pequenos",
+      "Pessoas que buscam o temperamento extremamente carente e 'grudento' de um Golden Retriever",
+      "Tutores de primeira viagem que não saibam estabelecer liderança clara (ele pode ser teimoso)",
+      "Ambientes onde o cão ficará confinado sem estímulo mental diário",
+      "Pessoas que não toleram uma queda de pelo sazonal moderada (ele troca de casaco duas vezes ao ano)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares (Atrofia Progressiva da Retina e Distiquíase)",
+      "Ectasia de Ducto Salivar",
+      "GSD II (Doença de Armazenamento de Glicogênio - rara)",
+      "Alopécia Padrão (perda de pelo em certas áreas)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Exames oftalmológicos regulares. Monitoramento cardíaco e da saúde da pele sob a pelagem encaracolada."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é peculiar: NÃO deve ser escovada. Para manter os cachos, basta molhar o cão ocasionalmente e deixar secar naturalmente. Banhos devem ser dados apenas quando necessário com shampoo suave. Unhas devem ser mantidas curtas e as orelhas limpas, especialmente após natação.",
+    "exercicios": "Necessita de muito exercício físico e mental. Caminhadas longas não são suficientes; ele precisa de oportunidades para nadar e buscar objetos. O Curly é um atleta de resistência que se sente melhor quando tem um 'trabalho' diário.",
+    "treinamento": "Muito inteligente, mas independente e facilmente entediado com repetições. O treinamento deve ser variado, desafiador e baseado em reforço positivo. Eles respondem melhor a sessões curtas e motivadoras. A socialização precoce é fundamental para equilibrar sua reserva natural com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães de grande porte ativos. Dividir a alimentação em pelo menos duas refeições por dia para prevenir a torção gástrica. Controle rigoroso do peso."
   },
   "seo": {
-    "title": "Curly-Coated Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Curly-Coated Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Curly Coated Retriever: O Aristocrata dos Cachos - Guia de Raça",
+    "description": "Conheça o Curly Coated Retriever: o mais antigo e robusto dos retrievers. Descubra sua história na Inglaterra, pelagem única e temperamento leal e independente.",
     "keywords": [
-      "curly-coated-retriever",
-      "curly-coated retriever",
-      "médio",
-      "inglaterra"
+      "Curly Coated Retriever",
+      "Retriever de Pelo Encaracolado",
+      "cão de caça inglês",
+      "cão nadador",
+      "raças de cães grandes",
+      "cuidados com Curly Coated",
+      "temperamento Curly"
     ]
   },
   "imagem_principal": "/images/breeds/curly-coated-retriever.jpg",
@@ -76,11 +91,52 @@
     "/images/breeds/curly-coated-retriever-2.jpg",
     "/images/breeds/curly-coated-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=curly-coated-retriever",
-  "popularidade": 24442,
-  "ranking_brasil": 196,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Curly Coated Retriever - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-curlyretriever",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-curlyretriever/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Curly Coated Retriever",
+      "url": "https://www.youtube.com/watch?v=example-curly-work",
+      "canal": "Natureza Pet",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "labrador-retriever",
+    "chesapeake-bay-retriever",
+    "flat-coated-retriever",
+    "poodle-padrao"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Fígado (Liver/Chocolate)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Alguns pelos brancos ocasionais no peito (não desejável)"
+  ],
+  "curiosidades_historicas": "O Curly Coated Retriever foi a primeira raça a ser chamada oficialmente de 'Retriever' na história das exposições caninas britânicas. No século XIX, sua resistência era tão lendária que exemplares foram levados para a Austrália e Nova Zelândia para trabalhar em terrenos extremamente hostis, onde ajudaram a fundar as linhagens de cães de busca dessas nações.",
+  "referencias_externas": [
+    {
+      "titulo": "Curly-Coated Retriever Club of America",
+      "url": "https://www.ccrca.org/",
+      "descricao": "Clube oficial de raça com diretrizes de saúde, ética e eventos nos EUA."
+    },
+    {
+      "titulo": "The Curly Coated Retriever Club UK",
+      "url": "http://www.curlycoatedretrieverclub.co.uk/",
+      "descricao": "O clube de raça original fundado na Inglaterra."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    491,
-    1108
+    400,
+    1000
   ]
 }

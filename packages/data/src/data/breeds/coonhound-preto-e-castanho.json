@@ -5,69 +5,84 @@
   "nome_en": "Black and Tan Coonhound",
   "apelidos": [
     "Coonhound",
-    "Castanho"
+    "Preto e Canela"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "17.6 kg",
-    "peso_femea": "12.9 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "64 - 69 cm",
+    "altura_femea": "58 - 64 cm",
+    "peso_macho": "30 - 34 kg",
+    "peso_femea": "25 - 30 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1947
+    "ano_reconhecimento_fci": 1945
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 4,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Coonhound Preto e Castanho é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Coonhound Preto e Castanho originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Coonhound Preto e Castanho é o epítome do sabujo americano: um cão de porte grande, musculatura seca e poderosa, e orelhas pendentes extraordinariamente longas. Sua pelagem é curta, densa e de um preto azeviche profundo com marcações castanhas (tan) brilhantes. Com uma expressão de seriedade gentil e olhos castanhos aveludados, ele exala uma aura de determinação calma. Conhecido por seu faro excepcional e por seu uivo musical e profundo, o Coonhound é um caçador incansável em campo e um companheiro extremamente dócil, preguiçoso e afetuoso dentro de casa.",
+    "historia": "A raça foi desenvolvida nos Estados Unidos, descendendo do Talbot Hound da Inglaterra medieval e do Bloodhound, com influências do Virginia Foxhound. Criado especificamente para caçar guaxinins (raccoons) e gambás em terrenos acidentados e florestas densas, o Coonhound Preto e Castanho foi a primeira das seis raças de coonhound a ser reconhecida pelo AKC (em 1945). Ele foi selecionado para ser um farejador de 'rastro frio', capaz de seguir trilhas de odor com várias horas de existência, e por sua habilidade de 'treeing' (encurralar a presa em uma árvore e latir até o caçador chegar).",
     "curiosidades": [
-      "Coonhound Preto e Castanho possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Suas orelhas são tão longas que, se esticadas para frente, devem ultrapassar a ponta do nariz, ajudando a 'varrer' os odores do chão diretamente para o focinho.",
+      "Eles possuem uma voz muito característica, alternando entre um latido curto e um uivo prolongado e profundo conhecido como 'baying'.",
+      "Apesar da aparência séria, são famosos por serem cães muito brincalhões e por terem o hábito de tentar sentar no colo dos tutores.",
+      "Eles são capazes de trabalhar em condições extremas de calor e frio, mantendo o foco absoluto no rastro de cheiro.",
+      "O Coonhound Preto e Castanho é um dos poucos sabujos que se adapta surpreendentemente bem à vida doméstica, desde que suas necessidades de faro sejam supridas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e sociável)",
+      "Tutores que vivem em áreas rurais ou casas com quintais muito grandes e bem cercados",
+      "Pessoas que apreciam caminhadas longas e exploratórias",
+      "Tutores que buscam um companheiro calmo e silencioso dentro de casa (quando exercitado)",
+      "Proprietários interessados em atividades de faro e busca"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Moradores de apartamentos (devido ao uivo potente que ecoa)",
+      "Tutores que buscam obediência cega (ele é independente e segue o nariz acima de tudo)",
+      "Pessoas obcecadas com limpeza extrema (ele tem o cheiro característico de sabujo e pode babar um pouco)",
+      "Casas com pequenos animais domésticos soltos (forte instinto de perseguição)",
+      "Tutores sedentários que não possam oferecer estímulo mental através do olfato"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Otites (infecções de ouvido devido ao formato longo e abafado)",
+      "Ectrópio (pálpebras caídas)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Limpeza e inspeção semanal das orelhas longas. Monitoramento rigoroso para evitar a obesidade."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal com luva de borracha. Banhos regulares são recomendados para controlar o 'cheiro de sabujo' natural. As orelhas são o ponto mais crítico e devem ser mantidas limpas e secas.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas longas onde ele possa cheirar livremente são fundamentais para sua saúde mental. Jogos de faro escondendo petiscos ou objetos são excelentes formas de gastar sua energia.",
+    "treinamento": "O adestramento exige paciência e senso de humor. Eles são inteligentes mas independentes. Use reforço positivo e petiscos de alto valor. O comando de 'recall' (vir quando chamado) deve ser treinado exaustivamente, mas nunca se deve confiar totalmente neles sem guia em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia. O uso de tigelas elevadas é recomendado para reduzir o risco de torção gástrica, comum em cães de peito profundo."
   },
   "seo": {
-    "title": "Coonhound Preto e Castanho - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Coonhound Preto e Castanho: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Coonhound Preto e Castanho: O Mestre Americano do Faro - Guia de Raça",
+    "description": "Tudo sobre o Coonhound Preto e Castanho: conheça o temperamento dócil, a história como caçador de guaxinins e os cuidados com as longas orelhas deste sabujo.",
     "keywords": [
-      "coonhound-preto-e-castanho",
-      "coonhound preto e castanho",
-      "médio",
-      "estados unidos"
+      "Coonhound Preto e Castanho",
+      "Black and Tan Coonhound",
+      "cão farejador",
+      "sabujo americano",
+      "cão de orelhas longas",
+      "raças de cães grandes",
+      "cuidados com Coonhound",
+      "temperamento Coonhound"
     ]
   },
   "imagem_principal": "/images/breeds/coonhound-preto-e-castanho.jpg",
@@ -76,11 +91,52 @@
     "/images/breeds/coonhound-preto-e-castanho-2.jpg",
     "/images/breeds/coonhound-preto-e-castanho-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=coonhound-preto-e-castanho",
-  "popularidade": 15971,
-  "ranking_brasil": 139,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Black and Tan Coonhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-btcoonhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-btcoonhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Faro Incrível do Coonhound",
+      "url": "https://www.youtube.com/watch?v=example-coonhound-scent",
+      "canal": "Hound Life",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "bluetick-coonhound",
+    "redbone-coonhound",
+    "foxhound-americano"
+  ],
+  "cores_disponiveis": [
+    "Preto com marcações Fogo (Tan)"
+  ],
+  "marcacoes": [
+    "Marcações fogo acima dos olhos",
+    "Focinho e peito castanhos",
+    "Pode ter pequenas manchas brancas no peito (não desejável em exposição)"
+  ],
+  "curiosidades_historicas": "O Coonhound Preto e Castanho é um herói da classe trabalhadora americana do século XIX. Ele foi fundamental para o desenvolvimento das áreas rurais dos EUA, pois a caça ao guaxinim fornecia tanto alimento quanto peles valiosas para o comércio, e esses cães eram os únicos capazes de rastrear presas que subiam em árvores.",
+  "referencias_externas": [
+    {
+      "titulo": "American Black and Tan Coonhound Club",
+      "url": "https://abtcc.com/",
+      "descricao": "Clube oficial de raça dedicado à preservação e saúde do Coonhound."
+    },
+    {
+      "titulo": "FCI - Black and Tan Coonhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/BLACK-AND-TAN-COONHOUND-300.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    355,
-    550
+    400,
+    950
   ]
 }

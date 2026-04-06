@@ -3,72 +3,87 @@
   "nome": "Chihuahua",
   "slug": "chihuahua",
   "nome_en": "Chihuahua",
-  "apelidos": [],
-  "categoria": "Toy",
+  "apelidos": [
+    "Chi",
+    "Cão de Bolso",
+    "Chihuahueño"
+  ],
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "México",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "21 cm",
-    "altura_femea": "15 cm",
-    "peso_macho": "2.5 kg",
-    "peso_femea": "-2 kg",
+    "expectativa_vida": "12 - 20 anos",
+    "altura_macho": "15 - 23 cm",
+    "altura_femea": "15 - 23 cm",
+    "peso_macho": "1.5 - 3 kg",
+    "peso_femea": "1.5 - 3 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1932
+    "ano_reconhecimento_fci": 1959
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 5,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Chihuahua é uma raça de porte toy originária de México. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chihuahua originou-se em México, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Chihuahua é mundialmente famoso como o menor cão do mundo, mas possui uma personalidade que desafia seu tamanho minúsculo. Com suas orelhas grandes e eretas 'de morcego', olhos redondos e luminosos e uma cabeça em formato de maçã (ou maçã), ele é a personificação da autoconfiança canina. Disponível em duas variedades de pelagem (pelo curto ou pelo longo) e em uma infinidade de cores, o Chihuahua é um cão alerta, ágil e extremamente apegado aos seus tutores. Frequentemente descrito como tendo o temperamento de um terrier, ele não hesita em enfrentar cães muito maiores, agindo como um guardião vigilante e um companheiro de colo inseparável.",
+    "historia": "A história do Chihuahua é envolta em mistério e lendas. Acredita-se que ele descenda do 'Techichi', um cão mudo criado pela civilização Tolteca no México antigo. Os astecas, que conquistaram os toltecas, acreditavam que esses cães tinham poderes místicos e podiam guiar as almas dos mortos através do submundo. A raça moderna leva o nome do estado mexicano de Chihuahua, onde exemplares foram encontrados por viajantes americanos em meados do século XIX. Desde o seu reconhecimento pelo AKC em 1904, o Chihuahua evoluiu de um animal sagrado e cão de aldeia para um ícone global da cultura pop e um dos cães de companhia mais amados do mundo.",
     "curiosidades": [
-      "Chihuahua possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Chihuahua é a raça com a maior expectativa de vida, podendo chegar facilmente aos 20 anos com cuidados adequados.",
+      "Eles possuem um cérebro proporcionalmente grande em relação ao corpo, o que explica sua inteligência e astúcia.",
+      "Muitos Chihuahuas nascem com uma 'moleira' (fontanela aberta) no topo do crânio, semelhante aos bebês humanos, que pode ou não fechar na idade adulta.",
+      "Eles são extremamente sensíveis ao frio e tremem com facilidade, não apenas pela temperatura, mas também por ansiedade ou excesso de energia.",
+      "Apesar do tamanho, o Chihuahua é um excelente cão de guarda 'de alerta', avisando sobre qualquer aproximação com seu latido agudo e persistente."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas que buscam um companheiro constante que possa ser levado para todo lugar",
+      "Tutores que apreciam cães com personalidade forte e 'opinião própria'",
+      "Idosos que buscam companhia afetuosa e de baixo impacto físico",
+      "Pessoas que viajam com frequência e querem o pet sempre junto"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Famílias com crianças muito pequenas e brutas (ele é fisicamente frágil)",
+      "Tutores que não toleram latidos frequentes de alerta",
+      "Ambientes externos (ele é estritamente um cão de interior)",
+      "Pessoas que buscam um cão 100% submisso e passivo",
+      "Tutores que não podem oferecer atenção constante (ele odeia ser ignorado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas cardíacos (Doença da Válvula Mitral)",
+      "Hipoglicemia (baixa de açúcar no sangue, comum em filhotes)",
+      "Problemas dentários graves (devido ao tamanho da boca)",
+      "Hidrocefalia",
+      "Colapso de Traqueia"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde bucal e cardíaca. Monitoramento rigoroso do peso (100g fazem diferença). Cuidado extremo com quedas de locais altos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A variedade de pelo curto exige apenas escovação ocasional. A variedade de pelo longo precisa de escovação duas a três vezes por semana para evitar nós. Banhos devem ser mensais e sempre com água morna. A escovação dos dentes é MANDATÓRIA e diária para evitar a perda precoce dos dentes.",
+    "exercicios": "Necessita de pouco exercício físico formal. Caminhadas curtas e brincadeiras dentro de casa são suficientes. No entanto, ele precisa de estímulo mental para não se tornar entediado e excessivamente latidor.",
+    "treinamento": "Inteligente mas pode ser teimoso. O adestramento deve ser baseado em reforço positivo e começar cedo para evitar a 'Síndrome do Cão Pequeno', onde o Chihuahua se torna o dono da casa. A socialização precoce é vital para evitar que se torne agressivo com outros cães.",
+    "alimentacao": "Dieta de alta qualidade específica para raças mini. Como comem pouco, cada caloria deve ser nutritiva. Evite o excesso de peso a todo custo."
   },
   "seo": {
-    "title": "Chihuahua - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chihuahua: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Chihuahua: O Pequeno Gigante do México - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Chihuahua: a menor raça do mundo. Conheça sua história mística, temperamento audaz e dicas essenciais de saúde e cuidados.",
     "keywords": [
-      "chihuahua",
-      "chihuahua",
-      "toy",
-      "méxico"
+      "Chihuahua",
+      "menor cão do mundo",
+      "cachorro para apartamento",
+      "cão de bolsa",
+      "raças de cães mexicanas",
+      "cuidados com Chihuahua",
+      "temperamento Chihuahua"
     ]
   },
   "imagem_principal": "/images/breeds/chihuahua.jpg",
@@ -77,11 +92,58 @@
     "/images/breeds/chihuahua-2.jpg",
     "/images/breeds/chihuahua-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chihuahua",
-  "popularidade": 37273,
-  "ranking_brasil": 181,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chihuahua - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-chihuahua",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-chihuahua/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar de um Chihuahua",
+      "url": "https://www.youtube.com/watch?v=example-chihuahua-care",
+      "canal": "Vida de Cão Mini",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pinscher-miniatura",
+    "maltes",
+    "papillon",
+    "yorkshire-terrier"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações possíveis",
+    "Creme",
+    "Fawn",
+    "Preto e Tan",
+    "Chocolate",
+    "Azul"
+  ],
+  "marcacoes": [
+    "Sólido",
+    "Malhado",
+    "Máscara preta",
+    "Merle (não aceito em algumas confederações)"
+  ],
+  "curiosidades_historicas": "No início do século XX, o famoso líder de banda Xavier Cugat fez muito pela popularidade da raça ao aparecer frequentemente em público com um Chihuahua no bolso da sua jaqueta ou sob o braço, transformando o cão em um símbolo de sofisticação e exotismo latino.",
+  "referencias_externas": [
+    {
+      "titulo": "Chihuahua Club of America",
+      "url": "https://chihuahuaclubofamerica.org/",
+      "descricao": "Clube oficial dedicado à preservação e fomento da raça nos EUA."
+    },
+    {
+      "titulo": "FCI - Chihuahua Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/CHIHUAHUA-218.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    457,
-    695
+    250,
+    600
   ]
 }

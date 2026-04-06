@@ -2,69 +2,91 @@
   "id": "collie",
   "nome": "Collie",
   "slug": "collie",
-  "nome_en": "Collie",
-  "apelidos": [],
-  "categoria": "Médio",
+  "nome_en": "Collie (Rough & Smooth)",
+  "apelidos": [
+    "Lassie",
+    "Rough Collie",
+    "Smooth Collie",
+    "Collie de Pelo Longo"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "15.9 kg",
-    "peso_femea": "12.9 kg",
+    "origem": "Escócia / Grã-Bretanha",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "56 - 61 cm",
+    "altura_femea": "51 - 56 cm",
+    "peso_macho": "20 - 34 kg",
+    "peso_femea": "18 - 29 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1997
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 1,
-    "afeicao_familia": 4,
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 2
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Collie é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Collie originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Collie é um dos cães mais reconhecíveis e amados do mundo, em grande parte devido à fama da personagem cinematográfica 'Lassie'. É um cão de porte grande, elegância suprema e proporções harmoniosas. A raça apresenta duas variedades: o 'Rough Collie' (pelo longo), com sua juba farta e pelagem majestosa, e o 'Smooth Collie' (pelo curto), com uma pelagem densa e rente ao corpo. Ambas as variedades possuem a mesma cabeça refinada em forma de cunha, expressão doce e inteligente e orelhas que ficam semi-eretas quando em atenção. É um cão dotado de uma sensibilidade aguçada, sendo um dos companheiros de família mais devotados e protetores que existem.",
+    "historia": "As raízes do Collie estão nas Highlands da Escócia, onde foram usados por séculos como pastores de ovelhas e gado. Originalmente, eram cães mais rústicos e de pernas mais curtas. A raça ganhou popularidade real quando a Rainha Vitória apaixonou-se pelos collies durante suas estadias no Castelo de Balmoral na década de 1860. A partir daí, a raça foi refinada para exposições de beleza, tornando-se mais alta e com o focinho mais alongado. No século XX, o livro 'Lassie Come-Home' de Eric Knight e as subsequentes adaptações para cinema e TV transformaram o Collie em um símbolo universal de lealdade canina.",
     "curiosidades": [
-      "Collie possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Apesar da aparência luxuosa do Rough Collie, a variedade Smooth Collie é geneticamente idêntica e era preferida por pastores que trabalhavam em regiões com muita lama ou vegetação que grudava no pelo.",
+      "Collies são famosos por serem cães extremamente 'limpos', muitas vezes desviando de poças de lama e se limpando como os gatos.",
+      "Eles possuem uma habilidade quase sobrenatural de prever as rotinas da família e as emoções de seus tutores.",
+      "O nome 'Collie' acredita-se que derive da palavra escocesa 'colley', que era o nome de uma raça de ovelhas de rosto preto que esses cães pastoreavam.",
+      "Em 'Lassie', o papel da fêmea heróica foi interpretado por uma sucessão de collies machos, pois eles possuem uma pelagem mais farta e impressionante visualmente."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é um babá natural e extremamente gentil)",
+      "Tutores de primeira viagem que buscam um cão inteligente e fácil de treinar",
+      "Pessoas que vivem em casas com quintais médios a grandes",
+      "Quem busca um companheiro leal e um cão de guarda de alerta vigilante",
+      "Proprietários que apreciam um cão com temperamento calmo e digno dentro de casa"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores que não podem dedicar tempo à escovação regular (no caso da variedade Rough)",
+      "Pessoas que vivem em locais com calor extremo sem cuidados (a pelagem densa retém muito calor)",
+      "Tutores que utilizam métodos de treinamento baseados em punição (ele é altamente sensível)",
+      "Ambientes onde o cão ficará confinado sem interação humana por longos períodos",
+      "Proprietários que se incomodam com latidos de alerta ocasionais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "CEA (Collie Eye Anomaly) - Anomalia do Olho do Collie",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Sensibilidade ao gene MDR1 (reação grave a certos medicamentos como Ivermectina)",
+      "Displasia de Quadril",
+      "Dermatomiosite (problema de pele e muscular)",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Testes genéticos para CEA e MDR1 são OBRIGATÓRIOS. Check-ups oftalmológicos anuais. Monitoramento ortopédico e cardíaco regular."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "O Rough Collie exige escovação profunda pelo menos três vezes por semana para evitar que o subpelo forme nós. O Smooth Collie precisa apenas de escovação semanal. Durante a troca de pelo ( shedding ), a queda é abundante. Banhos devem ser mensais, com foco em uma secagem muito completa para evitar fungos na pele.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para brincadeiras no quintal são suficientes. Ele adora atividades que usem seu cérebro, como jogos de pastoreio simulado ou busca de objetos.",
+    "treinamento": "Muito inteligente e extremamente fácil de treinar. O Collie deseja agradar acima de tudo. Use apenas reforço positivo, elogios e carinho. Eles aprendem comandos complexos com rapidez e se destacam em obediência e agilidade.",
+    "alimentacao": "Dieta de alta qualidade para cães de grande porte. É importante manter o peso ideal para não sobrecarregar as articulações e o coração. Dividir a alimentação em duas refeições ajuda a prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Collie - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Collie: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Collie: O Eterno Cão da Lealdade - Guia de Raça e Cuidados",
+    "description": "Tudo sobre o Collie: conheça o temperamento gentil, a inteligência brilhante e a história por trás da raça da Lassie. Guia completo para Rough e Smooth Collie.",
     "keywords": [
-      "collie",
-      "collie",
-      "médio",
-      "escócia"
+      "Collie",
+      "Lassie",
+      "Rough Collie",
+      "Smooth Collie",
+      "cão pastor escocês",
+      "raças de cães grandes",
+      "cuidados com Collie",
+      "temperamento Collie",
+      "CEA canino"
     ]
   },
   "imagem_principal": "/images/breeds/collie.jpg",
@@ -73,11 +95,56 @@
     "/images/breeds/collie-2.jpg",
     "/images/breeds/collie-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=collie",
-  "popularidade": 6159,
-  "ranking_brasil": 187,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Collie - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-collie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-collie/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento do Collie em Família",
+      "url": "https://www.youtube.com/watch?v=example-collie-life",
+      "canal": "Mundo Canino",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "shetland-sheepdog",
+    "border-collie",
+    "bearded-collie",
+    "pastor-australiano"
+  ],
+  "cores_disponiveis": [
+    "Sable (Dourado) e Branco",
+    "Tricolor",
+    "Blue Merle",
+    "Branco (predominante)"
+  ],
+  "marcacoes": [
+    "Colar branco completo",
+    "Chama branca na face",
+    "Meias brancas",
+    "Ponta da cauda branca"
+  ],
+  "curiosidades_historicas": "O Collie foi uma das primeiras raças a ter um clube de raça dedicado e um padrão escrito muito detalhado, graças ao esforço dos criadores ingleses do século XIX que queriam preservar a nobreza e a inteligência dos antigos pastores das montanhas, elevando-os a um patamar de cães de companhia da elite.",
+  "referencias_externas": [
+    {
+      "titulo": "Collie Club of America",
+      "url": "https://www.collieclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde."
+    },
+    {
+      "titulo": "The Rough Collie Club UK",
+      "url": "http://www.roughcollieclub.com/",
+      "descricao": "Um dos clubes mais antigos dedicados à variedade de pelo longo."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    348,
-    1248
+    400,
+    1000
   ]
 }

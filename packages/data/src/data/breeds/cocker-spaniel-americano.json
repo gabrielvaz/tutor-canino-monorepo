@@ -4,70 +4,85 @@
   "slug": "cocker-spaniel-americano",
   "nome_en": "American Cocker Spaniel",
   "apelidos": [
-    "Cocker",
-    "Americano"
+    "Cocker Americano",
+    "Merry Cocker"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "42 cm",
-    "peso_macho": "26.7 kg",
-    "peso_femea": "22.7 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "37 - 39 cm",
+    "altura_femea": "34 - 36 cm",
+    "peso_macho": "11 - 14 kg",
+    "peso_femea": "10 - 13 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1913
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 5,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 5
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Cocker Spaniel Americano é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cocker Spaniel Americano originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cocker Spaniel Americano é a menor das raças de caça esportiva, um cão de beleza glamourosa e temperamento irresistivelmente alegre. Caracteriza-se por sua cabeça cinzelada com olhos grandes, escuros e expressivos que parecem implorar por carinho, e orelhas longas e fofas. Sua pelagem é abundante, sedosa e flutuante, especialmente nas pernas e abdômen (conhecida como 'saia'). É um cão compacto e atlético, dotado de uma agilidade surpreendente. Conhecido mundialmente como o 'Merry Cocker' (Cocker Alegre), ele é o companheiro de família perfeito: gentil, brincalhão e profundamente devotado aos seus tutores.",
+    "historia": "A raça descende do Cocker Spaniel Inglês levado para a América no final do século XIX. Os criadores americanos buscaram criar um cão que fosse um pouco menor e mais refinado, com uma pelagem mais abundante e um focinho mais curto, focando na caça de codornas e outras aves menores de solo. Em 1946, o American Kennel Club reconheceu formalmente a separação entre o Cocker Americano e o Inglês. A raça tornou-se um fenômeno de popularidade nos anos 50, sendo eternizada como a protagonista feminina no filme da Disney 'A Dama e o Vagabundo'.",
     "curiosidades": [
-      "Cocker Spaniel Americano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A personagem 'Lady' (Dama) de 'A Dama e o Vagabundo' é uma representação clássica do Cocker Spaniel Americano.",
+      "Eles possuem um andar característico chamado 'rocking chair motion', que é suave e rítmico, denotando sua eficiência física.",
+      "O Cocker Americano é conhecido por 'abanar o corpo inteiro' em vez de apenas a cauda quando está feliz.",
+      "Apesar da aparência de cão de luxo, eles ainda mantêm um instinto de caça aguçado e adoram investigar trilhas de odor no jardim.",
+      "Eles são extremamente sensíveis ao tom de voz, podendo ficar visivelmente tristes se sentirem que decepcionaram o tutor."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um dos cães mais pacientes e gentis que existem)",
+      "Moradores de apartamentos e casas urbanas",
+      "Tutores que buscam um companheiro de colo constante e carinhoso",
+      "Pessoas que apreciam cuidar da estética canina e escovação regular",
+      "Tutores de primeira viagem que desejam um cão fácil de socializar"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que não podem dedicar tempo diário à manutenção da pelagem",
+      "Ambientes onde o cão ficará sozinho por muitas horas (sofre com ansiedade de separação)",
+      "Pessoas que não suportam queda moderada de pelos longos pela casa",
+      "Proprietários sedentários que não ofereçam pelo menos caminhadas diárias agradáveis",
+      "Locais com muita lama e sujeira frequente (a pelagem longa atrai detritos com facilidade)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Problemas oculares (Catarata, Glaucoma e Atrofia Progressiva da Retina)",
+      "Otites (infecções de ouvido devido às orelhas longas e pesadas)",
+      "Luxação de Patela",
+      "Cardiomiopatia Dilatada",
+      "Anemia Hemolítica Imunomediada (AIHA)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups oftalmológicos anuais são indispensáveis. Limpeza semanal profunda das orelhas. Monitoramento cardíaco em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação diária para evitar nós dolorosos na 'saia' e nas orelhas. A tosa profissional é obrigatória a cada 4 a 6 semanas para manter a saúde da pele e o visual da raça. Os olhos devem ser limpos diariamente com soro fisiológico.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para brincadeiras de busca em casa são suficientes. Ele adora explorar novos cheiros e passear em parques.",
+    "treinamento": "Inteligente e muito ansioso para agradar, o que torna o treinamento relativamente fácil. No entanto, sua sensibilidade exige métodos baseados inteiramente em reforço positivo e carinho. Eles podem se tornar amuados se forem tratados com rispidez.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Cocker Americano é um grande glutão e tem uma facilidade enorme para engordar, o que agrava problemas articulares e cardíacos."
   },
   "seo": {
-    "title": "Cocker Spaniel Americano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cocker Spaniel Americano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cocker Spaniel Americano: A Alegre Dama dos Cães - Guia de Raça",
+    "description": "Descubra tudo sobre o Cocker Spaniel Americano: conheça seu temperamento doce, sua história no cinema e as dicas essenciais de cuidados com sua pelagem luxuosa.",
     "keywords": [
-      "cocker-spaniel-americano",
-      "cocker spaniel americano",
-      "médio",
-      "estados unidos"
+      "Cocker Spaniel Americano",
+      "Cocker Americano",
+      "cão da Dama e o Vagabundo",
+      "cachorro para família",
+      "raças de cães médias",
+      "cuidados com Cocker Americano",
+      "temperamento Cocker"
     ]
   },
   "imagem_principal": "/images/breeds/cocker-spaniel-americano.jpg",
@@ -76,11 +91,56 @@
     "/images/breeds/cocker-spaniel-americano-2.jpg",
     "/images/breeds/cocker-spaniel-americano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cocker-spaniel-americano",
-  "popularidade": 22570,
-  "ranking_brasil": 61,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "American Cocker Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-americancocker",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-americancocker/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cuidados com a Pelagem do Cocker Americano",
+      "url": "https://www.youtube.com/watch?v=example-cocker-groom",
+      "canal": "Pet Style",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "cocker-spaniel-ingles",
+    "cavalier-king-charles-spaniel",
+    "springer-spaniel-ingles",
+    "sussex-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Chocolate (Brown)",
+    "Buff (Creme/Dourado)",
+    "Particolor (Branco com outra cor)",
+    "Black and Tan"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) permitidas no preto e tricolor",
+    "Padrão Roão (Roan) no particolor",
+    "Branco no peito permitido no sólido"
+  ],
+  "curiosidades_historicas": "O Cocker Americano foi a raça mais popular nos Estados Unidos por quase duas décadas (de 1936 a 1952), e novamente nos anos 80. Nenhum outro cão capturou o coração das famílias americanas por tanto tempo quanto o 'pequeno spaniel alegre', tornando-se um verdadeiro ícone cultural da classe média.",
+  "referencias_externas": [
+    {
+      "titulo": "American Spaniel Club",
+      "url": "https://americanspanielclub.org/",
+      "descricao": "Clube oficial de raça e guardião do Cocker Americano nos EUA."
+    },
+    {
+      "titulo": "FCI - American Cocker Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-COCKER-SPANIEL-167.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 35000,
+  "ranking_brasil": 48,
   "custo_mensal_estimado": [
-    461,
-    655
+    300,
+    800
   ]
 }

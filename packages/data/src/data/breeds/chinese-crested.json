@@ -1,79 +1,88 @@
 {
   "id": "chinese-crested",
-  "nome": "Chinese Crested",
+  "nome": "Cristado Chinês",
   "slug": "chinese-crested",
-  "nome_en": "Chinese Crested",
+  "nome_en": "Chinese Crested Dog",
   "apelidos": [
-    "Chinese",
-    "Crested"
+    "Cão de Crista Chinês",
+    "Chinês de Crista"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "China",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "27 cm",
-    "altura_femea": "22 cm",
-    "peso_macho": "13.4 kg",
-    "peso_femea": "9.7 kg",
+    "origem": "China / África",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "28 - 33 cm",
+    "altura_femea": "23 - 30 cm",
+    "peso_macho": "2 - 5.5 kg",
+    "peso_femea": "2 - 5.5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1928
+    "ano_reconhecimento_fci": 1972
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 5,
-    "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Chinese Crested é uma raça de porte pequeno originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chinese Crested originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cristado Chinês é uma das raças mais exóticas e cativantes do mundo, conhecida por sua aparência única e temperamento afetuoso. A raça apresenta duas variedades distintas que podem nascer na mesma ninhada: a 'Hairless' (sem pelo), que possui pele macia e lisa com tufos de pelo apenas na cabeça (crista), patas (meias) e cauda (pluma); e a 'Powderpuff', totalmente coberta por uma pelagem longa, sedosa e fina. De porte pequeno e ossatura fina, o Cristado Chinês é um cão elegante, ágil e extremamente carinhoso, muitas vezes descrito como um 'cão-velcro' que adora estar em contato físico constante com seus tutores.",
+    "historia": "Apesar do nome, acredita-se que a raça tenha se originado na África, onde eram cães de grande porte sem pelos. Marinheiros chineses os levaram para seus navios no século XIV para caçar ratos, miniaturizando a raça ao longo das gerações. Eles se tornaram valiosos itens de troca em portos ao redor do mundo, ganhando o nome de 'Cão de Navio Chinês'. Na China, foram refinados como cães de companhia da nobreza. Foram introduzidos no ocidente no final do século XIX, mas ganharam popularidade real apenas em meados do século XX, tornando-se ícones de exposições caninas por sua beleza singular e natureza dócil.",
     "curiosidades": [
-      "Chinese Crested possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "As variedades Hairless e Powderpuff podem nascer juntas na mesma ninhada; o gene da falta de pelos é dominante mas letal se herdado em dose dupla.",
+      "O Cristado Chinês Hairless possui glândulas sudoríparas e pode suar para regular a temperatura, ao contrário da maioria dos cães que apenas arquejam.",
+      "Eles são famosos por usarem suas patas dianteiras quase como mãos para 'abraçar' seus tutores e manipular objetos.",
+      "Devido à falta de pelos, a pele da variedade Hairless pode bronzear no verão e clarear no inverno.",
+      "Apesar da aparência frágil, eles são excelentes saltadores e alpinistas, capazes de escalar cercas e móveis com facilidade."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas com alergias a pelos de cães (especialmente a variedade Hairless)",
+      "Tutores que buscam um companheiro extremamente afetuoso e 'grudento'",
+      "Famílias com crianças que saibam respeitar o tamanho do cão",
+      "Quem busca um cão de companhia silencioso e discreto dentro de casa"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que ficam fora de casa por muitas horas (ele sofre muito com a solidão)",
+      "Tutores que não podem dedicar tempo aos cuidados específicos com a pele ou pelagem",
+      "Ambientes com climas extremos de frio ou sol intenso sem proteção adequada",
+      "Famílias que buscam um cão para atividades rústicas ao ar livre (ele é sensível a traumas na pele)",
+      "Pessoas que se incomodam com um cão que exige contato físico constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Problemas dentários (comum na variedade Hairless devido à ligação genética com a falta de pelos)",
+      "Luxação de Patela",
+      "Problemas oculares (PRA e Luxação de Lente)",
+      "Problemas de pele (cravos, acne e queimaduras solares)",
+      "Alergias alimentares e de contato"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups oftalmológicos e ortopédicos regulares. Atenção rigorosa à saúde bucal desde filhote. Testes genéticos para PRA e PLL são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A variedade Hairless exige banhos semanais com shampoo neutro e uso de hidratantes hipoalergênicos para evitar o ressecamento da pele. Protetor solar é obrigatório antes de qualquer exposição ao sol. A variedade Powderpuff exige escovação diária para evitar nós na pelagem fina. Ambas as variedades precisam de escovação dental diária.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas curtas e sessões de brincadeira em casa são suficientes. O estímulo mental através de truques e jogos interativos é muito apreciado por sua inteligência.",
+    "treinamento": "Muito inteligente e ansioso para agradar, o Cristado Chinês aprende rápido. Eles são sensíveis e respondem melhor ao reforço positivo e elogios. Podem ser tímidos, então a socialização precoce com diferentes pessoas e sons é fundamental.",
+    "alimentacao": "Dieta de alta qualidade controlada. Deve-se ter cuidado com petiscos, pois o excesso de peso prejudica as articulações finas e a saúde geral desta raça pequena."
   },
   "seo": {
-    "title": "Chinese Crested - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chinese Crested: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cristado Chinês (Chinese Crested): O Guia Completo da Raça Exótica",
+    "description": "Tudo sobre o Cristado Chinês: conheça as variedades Hairless e Powderpuff, o temperamento amoroso e os cuidados essenciais com a pele e saúde desta raça única.",
     "keywords": [
-      "chinese-crested",
-      "chinese crested",
-      "pequeno",
-      "china"
+      "Cristado Chinês",
+      "Chinese Crested",
+      "cão sem pelo",
+      "cachorro hipoalergênico",
+      "cão de crista chinês",
+      "raças de cães pequenas",
+      "cuidados com Cristado Chinês",
+      "Powderpuff dog"
     ]
   },
   "imagem_principal": "/images/breeds/chinese-crested.jpg",
@@ -82,11 +91,57 @@
     "/images/breeds/chinese-crested-2.jpg",
     "/images/breeds/chinese-crested-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chinese-crested",
-  "popularidade": 37466,
-  "ranking_brasil": 32,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chinese Crested - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-crested",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-crested/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cuidados com a Pele do Cristado Chinês",
+      "url": "https://www.youtube.com/watch?v=example-crested-care",
+      "canal": "Estética Pet",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "xoloitzcuintle",
+    "perro-sin-pelo-del-peru",
+    "maltes",
+    "chihuahua"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações permitidas",
+    "Slate (Cinza-azulado)",
+    "Rosa e Cinza",
+    "Branco",
+    "Chocolate"
+  ],
+  "marcacoes": [
+    "Manchas na pele (na variedade Hairless)",
+    "Crista de pelos na cabeça",
+    "Meias de pelos nas patas",
+    "Pluma na cauda"
+  ],
+  "curiosidades_historicas": "No passado, acredita-se que o Cristado Chinês era usado como uma 'bolsa de água quente' viva. Devido à sua temperatura corporal elevada e falta de pelos na variedade Hairless, eles eram colocados nas camas de pessoas com doenças reumáticas para ajudar a aliviar a dor através do calor por contato.",
+  "referencias_externas": [
+    {
+      "titulo": "American Chinese Crested Club",
+      "url": "https://chinesecrestedclub.info/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e genética."
+    },
+    {
+      "titulo": "FCI - Chinese Crested Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/CHINESE-CRESTED-DOG-288.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 115,
   "custo_mensal_estimado": [
-    483,
-    917
+    300,
+    800
   ]
 }

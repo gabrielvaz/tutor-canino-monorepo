@@ -4,69 +4,85 @@
   "slug": "chow-chow",
   "nome_en": "Chow Chow",
   "apelidos": [
-    "Chow"
+    "Chow",
+    "Cão Leão"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "China",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "24.1 kg",
-    "peso_femea": "19.8 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "48 - 56 cm",
+    "altura_femea": "46 - 51 cm",
+    "peso_macho": "25 - 32 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1974
+    "ano_reconhecimento_fci": 1957
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Chow Chow é uma raça de porte médio originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chow Chow originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Chow Chow é uma raça de beleza majestosa e temperamento único, frequentemente descrito como tendo a 'dignidade de um leão, a independência de um gato e a lealdade de um cão'. De porte médio e constituição quadrada e robusta, ele possui uma pelagem dupla extraordinariamente densa que forma uma 'juba' ao redor do pescoço. Suas características mais icônicas são a língua preto-azulada e as pernas traseiras quase retas, que lhe conferem um andar 'empolado' e característico. É um cão reservado, silencioso e muito limpo, que mantém uma postura de autoridade e exige respeito mútuo em sua relação com os humanos.",
+    "historia": "Uma das raças mais antigas do mundo, o Chow Chow tem origens que remontam a mais de 2.000 anos na China. Representações da raça aparecem em artefatos da dinastia Han (206 a.C.). Eles desempenharam inúmeras funções ao longo dos séculos: foram cães de guarda imperial, caçadores de grandes animais, puxadores de trenós e, infelizmente, em períodos de escassez, fonte de carne e pele. O nome 'Chow Chow' não é chinês; acredita-se que derive de um termo do inglês pidgin usado para descrever mercadorias variadas em navios mercantes do século XVIII, onde os primeiros exemplares foram levados para o ocidente.",
     "curiosidades": [
-      "Chow Chow possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Chow Chow e o Shar Pei são as únicas raças de cães conhecidas por terem a língua e o céu da boca totalmente preto-azulados.",
+      "Eles possuem 44 dentes, enquanto a maioria das outras raças possui 42.",
+      "O Chow Chow é um dos cães mais difíceis de motivar no treinamento tradicional, pois eles não veem sentido em repetir comandos apenas para agradar o tutor.",
+      "Devido à sua pelagem densa e conformação física, eles são extremamente sensíveis ao calor e podem sofrer hipertermia rapidamente.",
+      "Antigamente na China, eles eram chamados de 'Songshi Quan', que significa literalmente 'Cão Leão Embolado'."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um companheiro independente e silencioso",
+      "Pessoas que vivem em apartamentos ou casas pequenas (ele é muito calmo em interiores)",
+      "Proprietários que buscam um cão de guarda territorial incorruptível",
+      "Quem aprecia a estética de cães exóticos e não se importa com manutenção de pelagem",
+      "Famílias que desejam um cão leal mas que não exige atenção constante"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (exige liderança firme e compreensão da psicologia da raça)",
+      "Famílias com crianças muito pequenas e barulhentas (ele não tolera desrespeito ou toques bruscos)",
+      "Pessoas que buscam um cão para frequentar parques de cães públicos (tende a ser territorial e dominante com outros cães)",
+      "Ambientes com calor tropical extremo sem refrigeração adequada",
+      "Tutores que desejam um cão 'festeiro' com estranhos (ele é naturalmente desconfiado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Entrópio (pálpebras viradas para dentro) - muito comum na raça",
+      "Displasia de Quadril e Cotovelo",
+      "Luxação de Patela",
+      "Problemas de pele (Dermatites devido à densidade do pelo)",
+      "Câncer de estômago",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups oftalmológicos regulares são cruciais. Monitoramento ortopédico desde filhote. Atenção rigorosa ao peso para não sobrecarregar as articulações retas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção é altíssima. A pelagem exige escovação profunda pelo menos três vezes por semana (diária durante a troca de pelo) para evitar nós e problemas de pele. Banhos devem ser mensais e a secagem deve ser TOTAL e minuciosa, o que pode levar horas. Olhos e dobras faciais devem ser limpos diariamente.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em horários frescos são suficientes. O Chow Chow não é um cão para atividades atléticas intensas ou corridas longas, preferindo passeios calmos e exploratórios.",
+    "treinamento": "O adestramento é um desafio clássico. O Chow Chow é inteligente mas questionador. Use reforço positivo, paciência infinita e nunca tente usar força, pois ele se tornará agressivo ou se fechará. A socialização precoce e intensa é MANDATÓRIA para evitar a agressividade com estranhos e outros animais.",
+    "alimentacao": "Dieta de alta qualidade dividida em duas refeições. O controle do peso é vital. Evite exercícios pesados logo após as refeições para reduzir o risco de torção gástrica."
   },
   "seo": {
-    "title": "Chow Chow - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chow Chow: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Chow Chow: O Guardião de Língua Azul - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Chow Chow: conheça sua história milenar na China, sua famosa língua azul e os cuidados essenciais com este leal e independente cão leão.",
     "keywords": [
-      "chow-chow",
-      "chow chow",
-      "médio",
-      "china"
+      "Chow Chow",
+      "cão de língua azul",
+      "cão leão chinês",
+      "raças de cães independentes",
+      "cão de guarda silencioso",
+      "cuidados com Chow Chow",
+      "temperamento Chow"
     ]
   },
   "imagem_principal": "/images/breeds/chow-chow.jpg",
@@ -75,11 +91,56 @@
     "/images/breeds/chow-chow-2.jpg",
     "/images/breeds/chow-chow-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chow-chow",
-  "popularidade": 8444,
-  "ranking_brasil": 78,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chow Chow - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-chow",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-chow/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é o Temperamento do Chow Chow?",
+      "url": "https://www.youtube.com/watch?v=example-chow-temp",
+      "canal": "Mundo Canino",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "shar-pei",
+    "akita-inu",
+    "samoieda",
+    "mastiff-tibetano"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red)",
+    "Preto",
+    "Azul",
+    "Canela (Cinnamon)",
+    "Creme"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Língua azul-escura",
+    "Juba de pelos ao redor do pescoço"
+  ],
+  "curiosidades_historicas": "O Chow Chow foi um dos primeiros cães a serem exibidos no Zoológico de Londres em 1880, como o 'Cão Selvagem da China'. A Rainha Vitória, no entanto, apaixonou-se pela raça e ajudou a transformá-los de curiosidades exóticas em animais de estimação cobiçados pela aristocracia britânica.",
+  "referencias_externas": [
+    {
+      "titulo": "Chow Chow Club, Inc. (USA)",
+      "url": "https://chowclub.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e histórico."
+    },
+    {
+      "titulo": "FCI - Chow Chow Standard",
+      "url": "https://www.fci.be/en/nomenclature/CHOW-CHOW-205.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 55,
   "custo_mensal_estimado": [
-    435,
-    1108
+    400,
+    1100
   ]
 }

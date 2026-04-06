@@ -2,72 +2,90 @@
   "id": "dachshund-kaninchen",
   "nome": "Dachshund Kaninchen",
   "slug": "dachshund-kaninchen",
-  "nome_en": "Dachshund Rabbit",
+  "nome_en": "Rabbit Dachshund",
   "apelidos": [
-    "Dachshund",
-    "Kaninchen"
+    "Teckel para Coelho",
+    "Dachshund Toy",
+    "Salsicha Kaninchen"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "24.3 kg",
-    "peso_femea": "21.6 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "13 - 15 cm",
+    "altura_femea": "12 - 14 cm",
+    "peso_macho": "3 - 3.5 kg",
+    "peso_femea": "3 - 3.5 kg",
+    "perimetro_toracico": "Até 30 cm",
     "grupo_fci": "Grupo 4 - Dachshunds",
-    "ano_reconhecimento_fci": 1991
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 5,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 4,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dachshund Kaninchen é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dachshund Kaninchen originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 4. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dachshund Kaninchen é a menor das três variedades de tamanho do Teckel, um cão minúsculo com a coragem de um gigante. Diferente das outras raças, os Dachshunds não são medidos apenas pela altura, mas pelo perímetro torácico, sendo o Kaninchen o que possui até 30 cm aos 15 meses. Com seu corpo longo, pernas curtas e orelhas pendentes, ele mantém toda a elegância e rusticidade de seus parentes maiores. Disponível em três tipos de pelagem (pelo curto, pelo longo e pelo duro), o Kaninchen é um companheiro vibrante, astuto e extremamente apegado, famoso por sua personalidade cômica e por não ter a menor noção de seu tamanho diminuto.",
+    "historia": "A raça Dachshund surgiu na Alemanha há séculos para caçar texugos (Dachs significa texugo e Hund significa cão). A variedade Kaninchen foi desenvolvida especificamente para caçar coelhos (Kaninchen, em alemão) em tocas muito estreitas onde nem mesmo o Dachshund Miniatura conseguia entrar. Através de cruzamentos selecionados dos menores exemplares, os criadores alemães estabilizaram este 'micro-caçador' que, apesar do tamanho, precisava manter a mesma força de mandíbula e determinação para enfrentar presas selvagens. Hoje, embora ainda seja um caçador capaz, o Kaninchen brilha principalmente como um cão de companhia de luxo e um excelente animal para vida em apartamentos.",
     "curiosidades": [
-      "Dachshund Kaninchen possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dachshund Kaninchen é tão pequeno que pode caber confortavelmente dentro de uma caixa de sapatos grande.",
+      "Eles são conhecidos por terem um 'latido de cão grande', surpreendendo quem os ouve sem vê-los.",
+      "A raça possui um instinto de escavação tão forte que é comum encontrá-los enterrados sob cobertores e mantas no sofá.",
+      "O recorde de longevidade para um Dachshund é de 21 anos, provando que são cães extremamente resistentes.",
+      "Diferente de outras raças toy, o Kaninchen não foi criado para ser um cão de colo, mas sim um trabalhador rústico miniaturizado."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas que buscam um companheiro constante que possa ser transportado facilmente",
+      "Tutores que apreciam cães com personalidade forte e independente",
+      "Famílias com crianças maiores que saibam manusear um cão frágil",
+      "Quem busca um cão de guarda de alerta muito vigilante"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Famílias com crianças muito pequenas e brutas (risco de lesão na coluna)",
+      "Tutores que não toleram latidos de alerta frequentes",
+      "Pessoas sedentárias que não possam oferecer estímulo mental",
+      "Ambientes com muitas escadas (o sobe e desce é prejudicial para a coluna longa)",
+      "Tutores que buscam obediência cega (ele é teimoso e independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "IVDD (Doença do Disco Intervertebral) - risco altíssimo na raça",
+      "Problemas oculares (PRA e Catarata)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Problemas dentários (devido à boca pequena)",
+      "Obesidade (extremamente perigosa para a coluna)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento constante da coluna vertebral. Check-ups odontológicos anuais. É vital evitar que o cão salte de locais altos (sofás, camas)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção depende da pelagem: o pelo curto exige apenas escovação ocasional; o pelo longo precisa de escovação três vezes por semana; o pelo duro exige stripping manual duas vezes por ano. Banhos devem ser mensais. As orelhas pendentes devem ser limpas semanalmente. Escovação dental diária é recomendada.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para explorar cheiros são fundamentais. Evite exercícios de alto impacto ou saltos. O estímulo mental através de jogos de busca é muito apreciado.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e ser muito recompensador. Eles respondem mal a métodos severos. A socialização precoce com outros cães é importante para evitar a reatividade.",
+    "alimentacao": "Dieta de alta qualidade com controle RIGOROSO de porções. Cada grama de excesso de peso coloca uma pressão perigosa sobre a coluna vertebral do Dachshund."
   },
   "seo": {
-    "title": "Dachshund Kaninchen - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dachshund Kaninchen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dachshund Kaninchen: O Pequeno Salsicha de Coração Gigante - Guia de Raça",
+    "description": "Conheça o Dachshund Kaninchen, a menor variedade do Teckel. Descubra sua história como caçador de coelhos, temperamento audaz e cuidados essenciais com a coluna.",
     "keywords": [
-      "dachshund-kaninchen",
-      "dachshund kaninchen",
-      "médio",
-      "alemanha"
+      "Dachshund Kaninchen",
+      "Teckel Kaninchen",
+      "cão salsicha mini",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Dachshund",
+      "temperamento Teckel",
+      "IVDD em cães"
     ]
   },
   "imagem_principal": "/images/breeds/dachshund-kaninchen.jpg",
@@ -76,11 +94,56 @@
     "/images/breeds/dachshund-kaninchen-2.jpg",
     "/images/breeds/dachshund-kaninchen-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dachshund-kaninchen",
-  "popularidade": 45377,
-  "ranking_brasil": 15,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dachshund Kaninchen - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-kaninchen",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-kaninchen/hqdefault.jpg"
+    },
+    {
+      "titulo": "As Diferenças de Tamanho do Dachshund",
+      "url": "https://www.youtube.com/watch?v=example-dachshund-sizes",
+      "canal": "Mundo Teckel",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "dachshund-miniatura",
+    "dachshund-padrao",
+    "basset-hound",
+    "corgi-pembroke"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Preto e Tan",
+    "Chocolate e Tan",
+    "Arlequim (Dapple)",
+    "Javali (comum no pelo duro)"
+  ],
+  "marcacoes": [
+    "Marcações tan (fogo) bem definidas",
+    "Padrão Merle (no arlequim)",
+    "Pode ter uma pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "Na Alemanha, para um Dachshund ser registrado como Kaninchen, ele deve passar por uma medição oficial de tórax aos 15 meses de idade. Se o perímetro for superior a 30 cm, ele é automaticamente reclassificado como Miniatura, demonstrando o rigor técnico para preservar esta variedade minúscula.",
+  "referencias_externas": [
+    {
+      "titulo": "Deutscher Teckelklub (Alemanha)",
+      "url": "https://www.dtk1888.de/",
+      "descricao": "O clube de Dachshund mais antigo do mundo, fundado em 1888."
+    },
+    {
+      "titulo": "FCI - Dachshund Standard",
+      "url": "https://www.fci.be/en/nomenclature/DACHSHUND-148.html",
+      "descricao": "Padrão oficial que engloba as três variedades de tamanho."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 10,
   "custo_mensal_estimado": [
-    233,
-    585
+    250,
+    600
   ]
 }

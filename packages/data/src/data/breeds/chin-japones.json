@@ -4,76 +4,86 @@
   "slug": "chin-japones",
   "nome_en": "Japanese Chin",
   "apelidos": [
-    "Chin",
-    "Japonês"
+    "Spaniel Japonês",
+    "Chin"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Japão",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "29 cm",
-    "altura_femea": "25 cm",
-    "peso_macho": "11.2 kg",
-    "peso_femea": "6.2 kg",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "23 - 27 cm",
+    "altura_femea": "20 - 25 cm",
+    "peso_macho": "2 - 5 kg",
+    "peso_femea": "2 - 5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1964
+    "ano_reconhecimento_fci": 1957
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 2,
     "inteligencia": 4,
     "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 5
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Chin Japonês é uma raça de porte pequeno originária de Japão. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chin Japonês originou-se em Japão, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Chin Japonês é a própria definição de elegância oriental e refinamento em forma de cão. De porte pequeno e fisionomia única, ele possui uma cabeça larga, focinho muito curto e olhos grandes, escuros e bem afastados, que lhe conferem uma expressão de surpresa aristocrática. Sua pelagem é longa, sedosa e profusa, com uma cauda em forma de pluma que se curva majestosamente sobre o dorso. Muitas vezes descrito como 'parecido com um gato', o Chin Japonês é conhecido por sua natureza silenciosa, por se limpar meticulosamente e por preferir observar o mundo de lugares elevados, como o encosto de um sofá.",
+    "historia": "Apesar do nome, acredita-se que a raça tenha se originado na corte imperial da China, sendo levada para o Japão como presente para o Imperador por volta do ano 732 d.C. No Japão, a raça foi tratada como um ser sagrado e criada exclusivamente pela nobreza em palácios luxuosos. Diferente dos cães de trabalho, o Chin foi selecionado puramente por sua beleza e companhia. Foram introduzidos na Europa no século XVII, tornando-se os favoritos de rainhas como Vitória da Inglaterra e Alexandra. O nome foi mudado de 'Spaniel Japonês' para 'Chin Japonês' em 1977, refletindo sua identidade única que o diferencia dos spaniels de caça.",
     "curiosidades": [
-      "Chin Japonês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles são famosos por fazerem o 'Chin Spin', uma dança em círculos rápidos sobre as patas traseiras quando estão animados.",
+      "O Chin Japonês possui uma habilidade de escalada incomum para cães, sendo comum encontrá-los sobre mesas ou prateleiras altas.",
+      "Ao contrário da maioria das raças, eles se limpam lambendo as patas e o rosto, de forma idêntica aos gatos.",
+      "Eles emitem um som único chamado 'snort' ou 'chuckle', que soa como uma risadinha ou um resmungo melódico.",
+      "Historicamente, no Japão, eles eram mantidos em gaiolas de bambu suspensas, quase como pássaros exóticos, para diversão da realeza."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços pequenos",
+      "Pessoas que buscam um companheiro calmo, silencioso e discreto",
+      "Tutores que apreciam cães com personalidade independente e felina",
+      "Idosos que buscam companhia afetuosa de baixo impacto físico",
+      "Pessoas que trabalham em casa e querem um pet tranquilo ao lado"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Famílias com crianças muito pequenas e barulhentas (ele é sensível e frágil)",
+      "Ambientes com calor extremo sem ar-condicionado (devido ao focinho curto)",
+      "Tutores que buscam um cão para atividades físicas intensas como corridas",
+      "Proprietários que não podem dedicar tempo à escovação regular da pelagem",
+      "Casas onde o cão ficará isolado no quintal (ele é estritamente um cão de interior e companhia)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Problemas cardíacos (Doença da Válvula Mitral)",
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e Atrofia Progressiva da Retina)",
+      "Sopros cardíacos",
+      "Hidrocefalia"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups cardíacos anuais são essenciais. Monitoramento da respiração em climas quentes. Limpeza regular dos olhos grandes e proeminentes para evitar úlceras."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem sedosa é surpreendentemente fácil de cuidar, pois não tende a formar nós como outras raças de pelo longo. Uma escovação duas vezes por semana é suficiente. Banhos devem ser mensais. As orelhas e franjas das pernas exigem mais atenção. É importante secar bem o rosto e as dobras ao redor do focinho.",
+    "exercicios": "Necessita de muito pouco exercício formal. Caminhadas curtas e sessões de brincadeira em casa satisfazem plenamente suas necessidades. Ele prefere brincadeiras de intelecto e exploração de ambientes internos.",
+    "treinamento": "Inteligente mas sensível. O adestramento deve ser baseado inteiramente em reforço positivo e suavidade. Eles podem se fechar completamente se forem tratados com dureza. O Chin Japonês aprende comandos rapidamente, mas decide quando quer executá-los.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é vital, pois o excesso de peso agrava os problemas cardíacos e respiratórios típicos de raças pequenas e braquicefálicas."
   },
   "seo": {
-    "title": "Chin Japonês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chin Japonês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Chin Japonês: O Elegante e Felino Spaniel Imperial - Guia de Raça",
+    "description": "Conheça o Chin Japonês: o cão sagrado da nobreza nipônica. Descubra seu temperamento calmo, hábitos de gato e os cuidados com sua beleza aristocrática.",
     "keywords": [
-      "chin-japones",
-      "chin japonês",
-      "pequeno",
-      "japão"
+      "Chin Japonês",
+      "Japanese Chin",
+      "Spaniel Japonês",
+      "cão de palácio",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Chin Japonês",
+      "temperamento Chin"
     ]
   },
   "imagem_principal": "/images/breeds/chin-japones.jpg",
@@ -82,11 +92,54 @@
     "/images/breeds/chin-japones-2.jpg",
     "/images/breeds/chin-japones-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chin-japones",
-  "popularidade": 1692,
-  "ranking_brasil": 94,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Japanese Chin - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-japchin",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-japchin/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade Única do Chin Japonês",
+      "url": "https://www.youtube.com/watch?v=example-japchin-life",
+      "canal": "Mundo Pet",
+      "duracao": "08:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pequines",
+    "pug",
+    "cavalier-king-charles-spaniel",
+    "papillon"
+  ],
+  "cores_disponiveis": [
+    "Preto e Branco",
+    "Vermelho e Branco (Lemon)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Mancha branca no rosto (blaze)",
+    "Marcações simétricas nos olhos e orelhas",
+    "Pode ter a 'marca do polegar' no topo da cabeça"
+  ],
+  "curiosidades_historicas": "O Chin Japonês foi o primeiro cão japonês a ganhar reconhecimento internacional e a ser exportado para o ocidente em grandes números. Em 1853, o Comodoro Matthew Perry, que abriu o Japão para o comércio ocidental, recebeu vários Chins como presentes imperiais, levando-os para os Estados Unidos e presenteando a Rainha Vitória com dois deles.",
+  "referencias_externas": [
+    {
+      "titulo": "Japanese Chin Club of America",
+      "url": "https://www.japanesechinclub.org/",
+      "descricao": "Clube oficial com guias de saúde, ética e padrão da raça nos EUA."
+    },
+    {
+      "titulo": "FCI - Japanese Chin Standard",
+      "url": "https://www.fci.be/en/nomenclature/JAPANESE-CHIN-206.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    222,
-    1233
+    250,
+    600
   ]
 }

@@ -4,69 +4,84 @@
   "slug": "cao-de-fila-de-sao-miguel",
   "nome_en": "Azores Cattle Dog",
   "apelidos": [
-    "Cão",
-    "Miguel"
+    "Cão de Fila",
+    "Cão de Vacas"
   ],
-  "categoria": "Grande",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Portugal",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "69 cm",
-    "altura_femea": "66 cm",
-    "peso_macho": "38.3 kg",
-    "peso_femea": "33.7 kg",
+    "origem": "Portugal (Açores - Ilha de São Miguel)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "50 - 60 cm",
+    "altura_femea": "48 - 58 cm",
+    "peso_macho": "25 - 35 kg",
+    "peso_femea": "20 - 30 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1985
+    "ano_reconhecimento_fci": 1995
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 2,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Cão de Fila de São Miguel é uma raça de porte grande originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão de Fila de São Miguel originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão de Fila de São Miguel é um cão de gado rústico e poderoso, originário das ilhas dos Açores. De porte médio a grande e constituição atlética, ele possui uma aparência distinta, muitas vezes caracterizada por orelhas arredondadas (quando cortadas, prática comum no passado para trabalho com gado) e uma pelagem curta e lisa, invariavelmente tigrada. Sua expressão é inteligente, decidida e muito atenta. Como um autêntico cão de 'fila', ele tem a habilidade inata de morder baixo nas pernas do gado para guiá-lo sem causar ferimentos graves. É um animal de temperamento forte, extremamente inteligente e dotado de uma lealdade inabalável ao seu dono, sendo um guardião vigilante e incansável.",
+    "historia": "A raça desenvolveu-se na Ilha de São Miguel, nos Açores, a partir do século XV, descendendo provavelmente dos extintos Cães de Fila da Terceira e de outros molossóides levados pelos colonos portugueses. Os criadores açorianos precisavam de um cão que pudesse lidar com o gado semi-selvagem nas pastagens montanhosas e vulcânicas da ilha, suportando o clima oceânico úmido. O Cão de Fila de São Miguel provou ser um trabalhador indispensável, atuando como condutor de gado e cão de guarda de propriedades. Devido ao isolamento geográfico, a raça manteve suas características funcionais intactas por séculos, ganhando reconhecimento internacional oficial apenas no final do século XX.",
     "curiosidades": [
-      "Cão de Fila de São Miguel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Fila' refere-se à habilidade do cão de segurar ou 'filar' o gado pela perna para imobilizá-lo ou guiá-lo.",
+      "As orelhas arredondadas da raça, que lhe dão uma aparência lupina ou de urso, eram originalmente cortadas para evitar ferimentos durante as lutas com touros e vacas agressivas.",
+      "É considerado um dos cães de gado mais inteligentes do mundo, capaz de entender comandos complexos e agir de forma independente em campo.",
+      "A pelagem tigrada é a única aceita e serve como uma excelente proteção contra o desgaste e sujeira do trabalho rural.",
+      "Eles possuem um andar muito ágil e saltitante, adaptado para se mover rapidamente entre as patas do gado em terrenos irregulares."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um cão de trabalho ou guarda funcional",
+      "Fazendas, propriedades rurais ou casas com grandes terrenos",
+      "Pessoas muito ativas que praticam esportes caninos ou atividades físicas intensas",
+      "Quem busca um cão de guarda extremamente leal e territorial",
+      "Tutores que valorizam raças rústicas e com alta inteligência prática"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores iniciantes ou que buscam um primeiro cão 'fácil'",
+      "Vida em apartamentos ou espaços urbanos confinados",
+      "Casas com muitos cães desconhecidos (pode ser dominante e territorial)",
+      "Pessoas que não podem oferecer pelo menos 1 a 2 horas de exercícios vigorosos e estímulo mental diário",
+      "Tutores que não estabeleçam uma liderança firme, calma e consistente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares leves",
+      "Alergias sazonais",
+      "Lesões articulares (devido ao trabalho intenso)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. É importante monitorar o peso para não sobrecarregar as articulações desta raça musculosa. Atenção à saúde dental."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal. Banhos devem ser dados apenas quando necessário. É importante manter as unhas curtas e verificar os ouvidos regularmente, especialmente se o cão tiver acesso a áreas rurais.",
+    "exercicios": "Necessita de muito exercício físico. Não se satisfaz com caminhadas curtas; ele precisa correr, saltar e, se possível, realizar tarefas que simulem o trabalho com gado. O estímulo mental através de adestramento avançado é fundamental.",
+    "treinamento": "O adestramento deve ser focado em obediência e socialização precoce. O Cão de Fila de São Miguel aprende muito rápido, mas testará a autoridade do tutor se perceber hesitação. Use métodos positivos, mas mantenha limites muito claros. A socialização com outros animais desde cedo é crucial.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de médio/grande porte. Atenção às porções para manter o cão em forma atlética, evitando o excesso de peso."
   },
   "seo": {
-    "title": "Cão de Fila de São Miguel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão de Fila de São Miguel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão de Fila de São Miguel: O Guardião dos Açores - Guia de Raça",
+    "description": "Conheça o Cão de Fila de São Miguel: o poderoso cão de gado açoriano. Descubra sua história, temperamento leal e os cuidados essenciais com este trabalhador incansável.",
     "keywords": [
-      "cao-de-fila-de-sao-miguel",
-      "cão de fila de são miguel",
-      "grande",
-      "portugal"
+      "Cão de Fila de São Miguel",
+      "Azores Cattle Dog",
+      "cão de gado",
+      "cão açoriano",
+      "cão de fila",
+      "raças de cães médias",
+      "cuidados com Fila de São Miguel",
+      "temperamento Cão de Vacas"
     ]
   },
   "imagem_principal": "/images/breeds/cao-de-fila-de-sao-miguel.jpg",
@@ -75,11 +90,53 @@
     "/images/breeds/cao-de-fila-de-sao-miguel-2.jpg",
     "/images/breeds/cao-de-fila-de-sao-miguel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-de-fila-de-sao-miguel",
-  "popularidade": 38638,
-  "ranking_brasil": 182,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cão de Fila de São Miguel - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=example-filamiguel",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-filamiguel/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Cão de Fila de São Miguel nos Açores",
+      "url": "https://www.youtube.com/watch?v=example-filamiguel-work",
+      "canal": "Açores Natureza",
+      "duracao": "08:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "cao-de-castro-laboreiro",
+    "rafeiro-do-alentejo",
+    "cane-corso",
+    "pastor-alemao"
+  ],
+  "cores_disponiveis": [
+    "Fawn Tigrado (Fulvo)",
+    "Cinza Tigrado",
+    "Amarelo Tigrado"
+  ],
+  "marcacoes": [
+    "Marcações brancas permitidas no peito e patas",
+    "Orelhas arredondadas (quando cortadas)"
+  ],
+  "curiosidades_historicas": "O Cão de Fila de São Miguel é carinhosamente chamado de 'Cão de Vacas' pelos locais nos Açores. Sua reputação é de tal ordem que os agricultores dizem que o cão sabe exatamente qual vaca pertence a qual rebanho e é capaz de buscá-la individualmente na montanha se lhe for pedido.",
+  "referencias_externas": [
+    {
+      "titulo": "Clube do Cão de Fila de São Miguel (Portugal)",
+      "url": "http://www.caofilasãomiguel.com/",
+      "descricao": "Clube oficial dedicado à preservação e fomento da raça nos Açores e Portugal Continental."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Fila de São Miguel",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/cao-de-fila-de-sao-miguel/",
+      "descricao": "Padrão oficial da raça em Portugal."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    455,
-    504
+    350,
+    850
   ]
 }

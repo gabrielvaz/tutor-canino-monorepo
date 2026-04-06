@@ -4,70 +4,86 @@
   "slug": "cao-finlandes-da-laponia",
   "nome_en": "Finnish Lapphund",
   "apelidos": [
-    "Cão",
-    "Lapônia"
+    "Lappie",
+    "Lapphund",
+    "Lapinkoira"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Finlândia",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "22.9 kg",
-    "peso_femea": "20.9 kg",
+    "origem": "Finlândia (Lapônia)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "46 - 52 cm",
+    "altura_femea": "41 - 47 cm",
+    "peso_macho": "18 - 24 kg",
+    "peso_femea": "15 - 20 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1934
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Cão Finlandês da Lapônia é uma raça de porte médio originária de Finlândia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão Finlandês da Lapônia originou-se em Finlândia, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão Finlandês da Lapônia, ou 'Lappie', é um cão de tipo Spitz de beleza deslumbrante e temperamento extraordinário. De porte médio e constituição forte, ele possui uma pelagem dupla profusa e densa, projetada para suportar as temperaturas árticas extremas. Sua cauda é farta em pelos e carregada sobre o dorso, e suas orelhas são eretas ou semi-eretas. O que mais cativa nesta raça é a sua expressão 'sorridente' e olhos gentis que transbordam inteligência. Ao contrário de muitos Spitz que podem ser reservados, o Lappie é famoso por ser extremamente amigável, sociável e profundamente dedicado à sua família, sendo um dos cães de companhia mais populares na Finlândia.",
+    "historia": "A história da raça está intrinsecamente ligada ao povo Sámi (Lapons) da região ártica da Finlândia, Suécia e Noruega. Por milênios, esses cães foram usados para pastorear e guardar rebanhos de renas, uma tarefa que exigia agilidade, coragem e um latido potente para manter as renas em movimento e afastar predadores. Com a motorização do pastoreio de renas (uso de snowmobiles), a função da raça mudou, mas suas habilidades naturais foram preservadas. O Finnish Lapphund foi formalmente padronizado na década de 1940 e hoje é celebrado como um tesouro nacional finlandês, evoluindo de um trabalhador ártico rústico para um companheiro doméstico de elite.",
     "curiosidades": [
-      "Cão Finlandês da Lapônia possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Cão Finlandês da Lapônia possui um 'reflexo de sobressalto' (startle reflex) muito desenvolvido, uma adaptação evolutiva para evitar coices rápidos das renas.",
+      "Eles são conhecidos por serem cães 'falantes', emitindo uma variedade de sons e uivos baixos para se comunicar com seus tutores.",
+      "Apesar da abundância de pelos, a pelagem do Lappie é surpreendentemente resistente à sujeira e possui pouco cheiro característico.",
+      "Na Finlândia, há um ditado que diz que o Lapphund é o cão que 'pensa antes de agir', referindo-se à sua inteligência analítica.",
+      "Eles possuem patas largas e com muitos pelos entre os dedos, que funcionam como 'raquetes de neve' naturais."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso)",
+      "Tutores que vivem em climas mais frios ou temperados",
+      "Pessoas que buscam um cão de médio porte muito inteligente e treinável",
+      "Donos que dispõem de tempo para caminhadas diárias e sessões de escovação",
+      "Quem busca um companheiro leal que participe ativamente da vida familiar"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Ambientes com calor tropical intenso sem ar-condicionado constante",
+      "Tutores que não toleram queda de pelos abundante (ele solta muito pelo o ano todo)",
+      "Pessoas que buscam um cão de guarda silencioso (ele late para alertar sobre tudo)",
+      "Proprietários sedentários que não possam oferecer estímulo físico e mental diário",
+      "Moradores de apartamentos com vizinhos intolerantes a ruídos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "PRA (Atrofia Progressiva da Retina) - comum na raça",
+      "Catarata",
+      "Displasia de Quadril e Cotovelo",
+      "Doença de Pompe (doença metabólica rara)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Testes genéticos para PRA e Doença de Pompe são fundamentais antes da reprodução. Check-ups oftalmológicos e ortopédicos anuais são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta devido à densidade e subpelo. Escovação profunda pelo menos duas ou três vezes por semana é necessária para remover pelos mortos e evitar nós. Durante as trocas sazonais ( shedding ), a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural da pelagem.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas diárias vigorosas e tempo para brincadeiras de busca ou agilidade são essenciais. Ele adora atividades ao ar livre, especialmente se houver neve ou clima frio.",
+    "treinamento": "Muito inteligente e ansioso para aprender, o Lappie responde maravilhosamente bem ao reforço positivo. Eles aprendem truques novos com facilidade, mas podem ser independentes. O treinamento deve ser divertido e variado para manter seu interesse.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. É importante controlar as porções, pois o Lappie pode ter tendência à obesidade se for sedentário, o que prejudica suas articulações."
   },
   "seo": {
-    "title": "Cão Finlandês da Lapônia - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão Finlandês da Lapônia: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão Finlandês da Lapônia: O Sorridente Pastor de Renas - Guia de Raça",
+    "description": "Descubra o Cão Finlandês da Lapônia: conheça sua história com os Sámi, seu temperamento afetuoso e as dicas essenciais de cuidados com sua pelagem ártica.",
     "keywords": [
-      "cao-finlandes-da-laponia",
-      "cão finlandês da lapônia",
-      "médio",
-      "finlândia"
+      "Cão Finlandês da Lapônia",
+      "Finnish Lapphund",
+      "Lappie",
+      "cão de renas",
+      "Spitz finlandês",
+      "raças de cães médias",
+      "cuidados com Lapphund",
+      "temperamento Finnish Lapphund"
     ]
   },
   "imagem_principal": "/images/breeds/cao-finlandes-da-laponia.jpg",
@@ -76,11 +92,55 @@
     "/images/breeds/cao-finlandes-da-laponia-2.jpg",
     "/images/breeds/cao-finlandes-da-laponia-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-finlandes-da-laponia",
-  "popularidade": 32294,
-  "ranking_brasil": 24,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Finnish Lapphund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lappie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lappie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Finnish Lapphund em Campo",
+      "url": "https://www.youtube.com/watch?v=example-lappie-work",
+      "canal": "Nordic Life",
+      "duracao": "09:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "samoieda",
+    "elkhound-noruegues",
+    "buhund-noruegues",
+    "pastor-islandes"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores permitidas (Preto e Tan é comum)",
+    "Marrom",
+    "Creme",
+    "Wolf-Sable"
+  ],
+  "marcacoes": [
+    "Marcações tipo 'óculos' ao redor dos olhos",
+    "Peito e pernas brancos",
+    "Marcações 'tan' (fogo)"
+  ],
+  "curiosidades_historicas": "Na cultura Sámi, o Lapphund não era apenas um trabalhador, mas um protetor espiritual da família. Acreditava-se que os cães podiam ver espíritos e alertar seus donos sobre perigos invisíveis. Esta profunda conexão espiritual moldou o temperamento extraordinariamente gentil e atento que a raça mantém até hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "Finnish Lapphund Club of America",
+      "url": "https://www.finnishlapphundclubofamerica.org/",
+      "descricao": "Clube oficial com diretrizes de saúde, criação e eventos da raça nos EUA."
+    },
+    {
+      "titulo": "FKC - Finnish Kennel Club - Suomen Lapinkoira",
+      "url": "https://www.kennelliitto.fi/en/dog-breeds/finnish-lapphund",
+      "descricao": "Padrão oficial da raça no seu país de origem."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 205,
   "custo_mensal_estimado": [
-    207,
-    1311
+    300,
+    800
   ]
 }

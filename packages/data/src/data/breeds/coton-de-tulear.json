@@ -5,70 +5,85 @@
   "nome_en": "Coton de Tulear",
   "apelidos": [
     "Coton",
-    "Tulear"
+    "Cão Algodão",
+    "Cão Real de Madagascar"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Madagáscar",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "18.7 kg",
-    "peso_femea": "16.9 kg",
+    "origem": "Madagascar",
+    "expectativa_vida": "14 - 16 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "22 - 27 cm",
+    "peso_macho": "4 - 6 kg",
+    "peso_femea": "3.5 - 5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1924
+    "ano_reconhecimento_fci": 1970
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 4,
+    "queda_pelo": 1,
     "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
     "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
+    "necessidade_exercicio": 2,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Coton de Tulear é uma raça de porte médio originária de Madagáscar. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Coton de Tulear originou-se em Madagáscar, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Coton de Tulear é um cão de companhia encantador, famoso por sua pelagem extraordinariamente macia que lembra uma bola de algodão (coton, em francês). De porte pequeno e construção retangular, ele possui olhos escuros e inteligentes e um sorriso que parece eterno. É um cão dotado de uma alegria contagiante e uma adaptabilidade notável, sendo capaz de se ajustar tanto a um dia de preguiça no sofá quanto a uma tarde de brincadeiras vigorosas. O Coton é conhecido por ser um cão 'anti-estresse', sempre pronto para consolar seus tutores com sua presença afetuosa e suas palhaçadas naturais.",
+    "historia": "A raça originou-se na ilha de Madagascar, especificamente no porto de Tulear (hoje Toliara). Acredita-se que seus ancestrais foram pequenos cães brancos tipo bichon que sobreviveram a naufrágios ou foram levados por piratas e marinheiros franceses no século XVII. Em Madagascar, a raça tornou-se tão valorizada que por séculos sua posse foi exclusividade da realeza e da alta nobreza local (os Merinas), sendo proibida a sua exportação. O Coton de Tulear só foi 'descoberto' pelo resto do mundo na década de 1970, quando exemplares foram levados para a França e, posteriormente, para os Estados Unidos, tornando-se uma raça de luxo muito desejada.",
     "curiosidades": [
-      "Coton de Tulear possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Coton de Tulear não possui pelo no sentido tradicional, mas sim uma fibra capilar que quase não cai, tornando-o uma excelente opção para alérgicos.",
+      "Eles são famosos por emitirem sons engraçados e 'conversarem' com seus tutores através de vocalizações melódicas.",
+      "Uma habilidade peculiar da raça é o hábito de andar sobre as patas traseiras por longos períodos para chamar a atenção.",
+      "Diferente de muitos cães pequenos, o Coton é extremamente robusto e adora nadar e correr na praia.",
+      "Madagascar emitiu selos postais em homenagem ao Coton de Tulear, designando-o como o cão oficial da nação."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Pessoas com alergias a pelos de cães",
+      "Famílias com crianças (ele é muito resistente e paciente)",
+      "Moradores de apartamentos e espaços pequenos",
+      "Tutores de primeira viagem que buscam um cão equilibrado e amoroso",
+      "Quem busca um companheiro constante (ele é um verdadeiro 'cão de sombra')"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas que não podem dedicar tempo diário à escovação da pelagem",
+      "Tutores que ficam fora de casa por muitas horas (ele sofre com a solidão)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável com todos)",
+      "Quem prefere um cão de pelagem curta e de baixa manutenção estética",
+      "Pessoas que se incomodam com um cão que exige interação social constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina)",
+      "Displasia de Quadril (baixa incidência para o tamanho)",
+      "Problemas dentários (comum em raças pequenas)",
+      "Doença de Von Willebrand (ocasional)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em articulações e saúde bucal. Monitoramento oftalmológico regular. É uma das raças pequenas mais saudáveis e longevas que existem."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem de 'algodão' é exigente. Exige escovação pelo menos três a quatro vezes por semana para evitar que os fios se emaranhem na base da pele. Banhos devem ser mensais com produtos específicos para manter a textura macia. O pelo ao redor dos olhos deve ser limpo diariamente. Escovação dental é essencial.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e muito tempo de brincadeira com brinquedos interativos são suficientes. Ele adora jogos de busca e interagir com outros cães em ambientes controlados.",
+    "treinamento": "Muito inteligente e extremamente ansioso para agradar, o Coton aprende comandos e truques com rapidez. O adestramento deve ser baseado inteiramente em reforço positivo, elogios e petiscos. Eles são sensíveis e respondem mal a métodos autoritários.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle do peso é fundamental para preservar suas articulações e manter sua agilidade natural."
   },
   "seo": {
-    "title": "Coton de Tulear - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Coton de Tulear: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Coton de Tulear: O Cão Real de Madagascar - Guia Completo da Raça",
+    "description": "Descubra o Coton de Tulear: o cão com pelo de algodão e temperamento de palhaço. Conheça sua história real, pelagem hipoalergênica e cuidados essenciais.",
     "keywords": [
-      "coton-de-tulear",
-      "coton de tulear",
-      "médio",
-      "madagáscar"
+      "Coton de Tulear",
+      "Cão Algodão",
+      "cão real de Madagascar",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Coton de Tulear",
+      "temperamento Coton"
     ]
   },
   "imagem_principal": "/images/breeds/coton-de-tulear.jpg",
@@ -77,11 +92,53 @@
     "/images/breeds/coton-de-tulear-2.jpg",
     "/images/breeds/coton-de-tulear-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=coton-de-tulear",
-  "popularidade": 44369,
-  "ranking_brasil": 86,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Coton de Tulear - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-coton",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-coton/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é ter um Coton de Tulear?",
+      "url": "https://www.youtube.com/watch?v=example-coton-life",
+      "canal": "Vida de Cão",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "havanese",
+    "bichon-frise",
+    "maltes",
+    "bolognese"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Branco com manchas Cinza (raro)",
+    "Branco com manchas Limão (raro)"
+  ],
+  "marcacoes": [
+    "Totalmente branco (preferível em adultos)",
+    "Pode nascer com manchas escuras que clareiam totalmente até a maturidade"
+  ],
+  "curiosidades_historicas": "Em Madagascar, o Cão de Tulear era tão sagrado que as tribos locais acreditavam que, se um deles fosse levado para fora da ilha sem permissão real, a pessoa responsável sofreria uma maldição. Isso ajudou a manter a raça protegida e isolada do resto do mundo por quase 300 anos.",
+  "referencias_externas": [
+    {
+      "titulo": "United States of America Coton de Tulear Club",
+      "url": "https://usactc.dog/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Coton de Tuléar Standard",
+      "url": "https://www.fci.be/en/nomenclature/COTON-DE-TULEAR-283.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    363,
-    1037
+    300,
+    750
   ]
 }

@@ -4,70 +4,86 @@
   "slug": "chesapeake-bay-retriever",
   "nome_en": "Chesapeake Bay Retriever",
   "apelidos": [
-    "Chesapeake",
-    "Retriever"
+    "Chessie",
+    "Peake"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "44 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "18.7 kg",
-    "peso_femea": "14.5 kg",
+    "origem": "Estados Unidos (Maryland)",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "58 - 66 cm",
+    "altura_femea": "53 - 61 cm",
+    "peso_macho": "30 - 36 kg",
+    "peso_femea": "25 - 32 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1944
+    "ano_reconhecimento_fci": 1964
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 5,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Chesapeake Bay Retriever é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Chesapeake Bay Retriever originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Chesapeake Bay Retriever, ou 'Chessie', é o mais rústico e poderoso de todos os retrievers. De porte grande e constituição atlética, ele possui uma pelagem única: curta, densa e ondulada sobre o dorso, com uma oleosidade natural tão forte que a torna praticamente impermeável. Suas cores variam entre tons de terra, palha e chocolate, projetadas para camuflagem. Sua expressão é inteligente e decidida, refletindo uma coragem inabalável e um foco absoluto no trabalho. Diferente do Labrador, o Chessie é um cão de temperamento mais sério, independente e protetor, sendo muitas vezes descrito como o 'retriever de um único dono' devido à sua lealdade exclusiva e intensa.",
+    "historia": "A raça teve origem em 1807, quando dois filhotes de cães de Terra Nova foram resgatados de um naufrágio na costa de Maryland, nos Estados Unidos. Cruzados com spaniels e sabujos locais ao longo do século XIX, esses cães evoluíram para enfrentar as águas geladas, correntes fortes e o gelo flutuante da Baía de Chesapeake. Eles foram selecionados para serem retrievers de aves aquáticas incansáveis, capazes de buscar centenas de patos em um único dia. É a raça oficial do estado de Maryland e um dos poucos retrievers que mantém um forte instinto de guarda herdado de seu passado de proteção dos botes e da caça dos seus tutores.",
     "curiosidades": [
-      "Chesapeake Bay Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A oleosidade da sua pelagem é tão intensa que, após sair da água, um Chessie pode ficar quase seco apenas com uma sacudidela vigorosa.",
+      "Eles possuem membranas interdigitais muito desenvolvidas, o que lhes confere uma potência de nado superior à maioria das outras raças.",
+      "Muitos Chessies possuem o hábito curioso de 'sorrir' quando estão felizes, mostrando os dentes da frente em uma careta engraçada que não deve ser confundida com agressividade.",
+      "A cor ideal de seus olhos é amarelada ou âmbar, harmonizando perfeitamente com a tonalidade da sua pelagem.",
+      "Diferente de outros retrievers, o Chesapeake é conhecido por ter um discernimento aguçado sobre quem é amigo ou estranho."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Caçadores e pessoas que praticam esportes aquáticos intensos",
+      "Famílias muito ativas que vivem em áreas rurais ou próximas a rios e mares",
+      "Tutores que buscam um retriever com temperamento mais protetor e vigilante",
+      "Proprietários que apreciam um cão inteligente e com forte ética de trabalho",
+      "Pessoas que vivem em climas frios (ele é um mestre das águas geladas)"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores iniciantes que nunca tiveram cães de temperamento forte",
+      "Pessoas que buscam um cão que ame incondicionalmente todos os estranhos",
+      "Moradores de apartamentos ou áreas urbanas sem acesso a exercícios vigorosos",
+      "Tutores sedentários que buscam um cão calmo para ficar em casa",
+      "Pessoas que se incomodam com o 'cheiro de cachorro' (a oleosidade natural do pelo tem odor característico)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Doença de Von Willebrand (distúrbio de coagulação)",
+      "Dilatação e Torção Gástrica",
+      "EIC (Colapso Induzido por Exercício)",
+      "Catarata"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes genéticos para PRA, Von Willebrand e EIC são essenciais. Check-ups ortopédicos anuais são fundamentais devido ao alto impacto das atividades físicas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é simples mas específica: não deve ser escovada excessivamente para não remover a oleosidade vital. Uma escovação semanal leve é suficiente. Banhos devem ser raros e apenas com shampoo neutro para não despojar o pelo de sua proteção natural. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercício físico intenso e diário. Natação é a sua atividade favorita e necessária para o seu equilíbrio. Ele precisa de pelo menos 1 a 2 horas de atividade vigorosa e desafios mentais para não se tornar frustrado.",
+    "treinamento": "Muito inteligente mas pode ser teimoso. O adestramento deve ser firme, consistente e baseado em respeito mútuo. Ele não responde bem a métodos agressivos. A socialização precoce é CRÍTICA para garantir que seu instinto protetor seja equilibrado e sociável.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães ativos de grande porte. É importante monitorar a ingestão calórica para sustentar sua energia sem causar sobrepeso."
   },
   "seo": {
-    "title": "Chesapeake Bay Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Chesapeake Bay Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Chesapeake Bay Retriever: O Rei das Águas Geladas - Guia de Raça",
+    "description": "Conheça o Chesapeake Bay Retriever: o retriever mais poderoso e resistente. Descubra sua história na Baía de Chesapeake, seu temperamento leal e cuidados essenciais.",
     "keywords": [
-      "chesapeake-bay-retriever",
-      "chesapeake bay retriever",
-      "médio",
-      "estados unidos"
+      "Chesapeake Bay Retriever",
+      "Chessie",
+      "cão de caça aquática",
+      "retriever americano",
+      "cão impermeável",
+      "raças de cães grandes",
+      "cuidados com Chessie",
+      "temperamento Chesapeake"
     ]
   },
   "imagem_principal": "/images/breeds/chesapeake-bay-retriever.jpg",
@@ -76,11 +92,53 @@
     "/images/breeds/chesapeake-bay-retriever-2.jpg",
     "/images/breeds/chesapeake-bay-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=chesapeake-bay-retriever",
-  "popularidade": 29646,
-  "ranking_brasil": 63,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chesapeake Bay Retriever - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-chessie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-chessie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Potência do Chessie na Água",
+      "url": "https://www.youtube.com/watch?v=example-chessie-water",
+      "canal": "Natureza Viva",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "labrador-retriever",
+    "curly-coated-retriever",
+    "flat-coated-retriever",
+    "newfoundland"
+  ],
+  "cores_disponiveis": [
+    "Marrom (Brown)",
+    "Sedge (Grisalho-avermelhado)",
+    "Deadgrass (Cor de palha seca)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (preferível)",
+    "Pequenas manchas brancas permitidas no peito e dedos"
+  ],
+  "curiosidades_historicas": "Na Baía de Chesapeake do século XIX, um único cão era frequentemente encarregado de buscar até 200 patos em um dia de caça comercial. O valor desses cães era tamanho que eles raramente eram vendidos, sendo considerados ferramentas de sobrevivência e orgulho das famílias de caçadores da região.",
+  "referencias_externas": [
+    {
+      "titulo": "American Chesapeake Bay Retriever Club",
+      "url": "https://amchessieclub.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e histórico."
+    },
+    {
+      "titulo": "AKC - Chesapeake Bay Retriever Standard",
+      "url": "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    428,
-    1420
+    400,
+    1000
   ]
 }

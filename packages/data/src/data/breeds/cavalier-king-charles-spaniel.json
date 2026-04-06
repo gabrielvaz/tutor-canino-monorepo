@@ -5,73 +5,86 @@
   "nome_en": "Cavalier King Charles Spaniel",
   "apelidos": [
     "Cavalier",
-    "Spaniel"
+    "Cav",
+    "Love-Sponge"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "29 cm",
-    "altura_femea": "25 cm",
-    "peso_macho": "10.4 kg",
-    "peso_femea": "5.2 kg",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "30 - 33 cm",
+    "altura_femea": "30 - 33 cm",
+    "peso_macho": "5.9 - 8.2 kg",
+    "peso_femea": "5.9 - 8.2 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1991
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 5,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Cavalier King Charles Spaniel é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cavalier King Charles Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cavalier King Charles Spaniel é a definição de um 'cão de colo real' com o espírito de um pequeno atleta. De porte pequeno e beleza clássica, ele possui orelhas longas e fofas, olhos grandes, redondos e expressivos que parecem transbordar doçura, e uma pelagem sedosa e ondulada. É um dos cães mais afetuosos do mundo, frequentemente descrito como um 'viciado em amor' que só quer estar perto de seus humanos. Apesar de sua aparência delicada e aristocrática, o Cavalier mantém os instintos de spaniel, adorando perseguir pássaros e borboletas no jardim, combinando perfeitamente a elegância de um cão de exposição com a alegria de um cão de família.",
+    "historia": "A raça descende dos pequenos spaniels de brinquedo retratados em pinturas de mestres como Van Dyck e Gainsborough nos séculos XVI e XVII. Eles eram os favoritos da corte britânica, especialmente dos reis Charles I e Charles II, que deram nome à raça. Charles II era tão apegado aos seus cães que diziam que ele priorizava brincar com eles em vez de atender aos assuntos de estado. No século XIX, a raça original quase foi substituída por exemplares de focinho mais curto (o King Charles Spaniel atual). Na década de 1920, o americano Roswell Eldridge ofereceu um prêmio em dinheiro para quem recriasse o spaniel 'do tipo antigo' com focinho mais longo, dando origem ao Cavalier King Charles Spaniel moderno.",
     "curiosidades": [
-      "Cavalier King Charles Spaniel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Cavalier é conhecido como o 'consolador', pois na antiguidade acreditava-se que eles podiam atrair pulgas e doenças de seus donos para si mesmos, protegendo a realeza.",
+      "A mancha castanha no topo da cabeça de alguns exemplares Blenheim é chamada de 'marca do polegar da Duquesa', pois diz a lenda que a Duquesa Sarah de Marlborough pressionou o polegar na cabeça de sua cadela ansiosa enquanto esperava notícias do marido na guerra.",
+      "Charles II assinou um decreto real permitindo que o King Charles Spaniel entrasse em qualquer lugar público no Reino Unido, inclusive no Parlamento, lei que tecnicamente ainda existe.",
+      "Eles possuem quatro cores oficiais com nomes históricos: Blenheim (branco e castanho), Tricolor, Black and Tan, e Ruby.",
+      "O Cavalier é frequentemente usado como cão de terapia devido ao seu temperamento excepcionalmente calmo e empático."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é extremamente paciente e nunca agressivo)",
+      "Tutores de primeira viagem que buscam um cão dócil e fácil de treinar",
+      "Moradores de apartamentos e centros urbanos",
+      "Idosos que buscam companhia constante e afetuosa",
+      "Proprietários que podem levar o cão para quase todos os lugares"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que ficam fora de casa o dia todo (ele sofre severamente com a solidão)",
+      "Pessoas que não querem se preocupar com manutenção regular de pelagem",
+      "Ambientes onde o cão precise ser um guardião vigilante (ele ama todo mundo)",
+      "Tutores que buscam um cão para corridas de longa distância no calor",
+      "Proprietários que não podem arcar com monitoramento veterinário cardíaco frequente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "MVD (Doença da Válvula Mitral) - extremamente comum na raça",
+      "Siringomielia (doença neurológica grave devido ao formato do crânio)",
+      "Luxação de Patela",
+      "Problemas oculares (Catarata, PRA, Olho Seco)",
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual (ecocardiograma) é MANDATÓRIO desde jovem. Exames neurológicos se houver sinais de sensibilidade no pescoço. Limpeza semanal das orelhas pendentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem sedosa exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Banhos devem ser mensais com bons condicionadores. Não é necessário tosar o pelo, apenas aparar as franjas das patas para evitar sujeira. Limpeza diária dos olhos é recomendada.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para brincadeiras em casa são suficientes. Ele adora passear, mas se adapta facilmente a um dia de preguiça no sofá.",
+    "treinamento": "Muito inteligente e ansioso para agradar, o Cavalier é um dos cães mais fáceis de treinar. Eles respondem maravilhosamente bem ao reforço positivo e petiscos. O maior desafio é o treinamento de 'recall', pois seu instinto de spaniel pode fazê-los perseguir pássaros.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Cavalier tem uma tendência genética a engordar, o que é extremamente perigoso para seu coração já predisposto a problemas."
   },
   "seo": {
-    "title": "Cavalier King Charles Spaniel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cavalier King Charles Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cavalier King Charles Spaniel: O Cão Real da Companhia - Guia Completo",
+    "description": "Descubra o Cavalier King Charles Spaniel: conheça sua história na corte britânica, seu temperamento amoroso e as dicas essenciais de saúde cardíaca para a raça.",
     "keywords": [
-      "cavalier-king-charles-spaniel",
-      "cavalier king charles spaniel",
-      "pequeno",
-      "inglaterra"
+      "Cavalier King Charles Spaniel",
+      "Cavalier",
+      "cão real",
+      "spaniel de companhia",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Cavalier",
+      "temperamento Cavalier"
     ]
   },
   "imagem_principal": "/images/breeds/cavalier-king-charles-spaniel.jpg",
@@ -80,11 +93,55 @@
     "/images/breeds/cavalier-king-charles-spaniel-2.jpg",
     "/images/breeds/cavalier-king-charles-spaniel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cavalier-king-charles-spaniel",
-  "popularidade": 28786,
-  "ranking_brasil": 113,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cavalier King Charles Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-cavalier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-cavalier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Cavalier",
+      "url": "https://www.youtube.com/watch?v=example-cavalier-life",
+      "canal": "Tutor Canino",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cocker-spaniel-ingles",
+    "papillon",
+    "maltes",
+    "king-charles-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Blenheim (Castaño e Branco)",
+    "Tricolor (Preto, Branco e Fogo)",
+    "Ruby (Vermelho Sólido)",
+    "Black and Tan"
+  ],
+  "marcacoes": [
+    "Mancha de Blenheim (topo da cabeça)",
+    "Marcações simétricas na face",
+    "Ponta da cauda branca (comum no Blenheim e Tricolor)"
+  ],
+  "curiosidades_historicas": "Durante o reinado de Charles II, o acesso dos spaniels era tão irrestrito que Samuel Pepys, o famoso cronista da época, escreveu que o rei parecia mais interessado em seus cães do que em governar o país, notando que os spaniels seguiam Charles II até mesmo em audiências oficiais com embaixadores estrangeiros.",
+  "referencias_externas": [
+    {
+      "titulo": "Cavalier King Charles Spaniel Club (USA)",
+      "url": "https://ckcsc.org/",
+      "descricao": "O clube de raça original nos Estados Unidos com vasto material de saúde."
+    },
+    {
+      "titulo": "The Kennel Club UK - Cavalier King Charles Spaniel",
+      "url": "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/toy/cavalier-king-charles-spaniel/",
+      "descricao": "Padrão oficial da raça em seu país de origem."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 35,
   "custo_mensal_estimado": [
-    448,
-    851
+    400,
+    900
   ]
 }

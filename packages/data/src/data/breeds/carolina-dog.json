@@ -4,70 +4,85 @@
   "slug": "carolina-dog",
   "nome_en": "Carolina Dog",
   "apelidos": [
-    "Carolina",
-    "Dog"
+    "Dingo Americano",
+    "Old Yeller",
+    "Dixie Dingo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "52 cm",
-    "peso_macho": "25.5 kg",
-    "peso_femea": "24.2 kg",
-    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1900
+    "origem": "Estados Unidos (Região Sudeste)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "45 - 61 cm",
+    "altura_femea": "45 - 61 cm",
+    "peso_macho": "15 - 23 kg",
+    "peso_femea": "15 - 23 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo (Reconhecido pelo UKC e AKC FSS)",
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 5,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Carolina Dog é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Carolina Dog originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Carolina Dog, frequentemente chamado de 'Dingo Americano', é um dos cães mais fascinantes e geneticamente únicos do mundo. É uma raça primitiva, considerada um 'fóssil vivo', pois permaneceu inalterada por milênios nas florestas do sudeste dos Estados Unidos. De porte médio e constituição atlética, ele possui uma aparência que lembra muito o Dingo australiano: orelhas eretas e pontiagudas, focinho afilado e uma cauda em forma de 'anzol' (fish-hook tail). Sua expressão é inteligente e cautelosa. É um cão de matilha por excelência, dotado de sentidos aguçados e uma lealdade profunda à sua família, embora mantenha uma reserva típica de animais selvagens em relação a estranhos.",
+    "historia": "A raça foi 'descoberta' na década de 1970 pelo Dr. I. Lehr Brisbin Jr., um biólogo que notou cães de aparência idêntica vivendo de forma semi-selvagem em áreas remotas da Carolina do Sul e Geórgia. Testes de DNA sugerem que o Carolina Dog descende diretamente dos cães que acompanharam os primeiros povos paleo-índios através da ponte terrestre de Bering para a América do Norte há cerca de 8.000 anos. Diferente da maioria das raças criadas pelo homem, o Carolina Dog foi moldado exclusivamente pela seleção natural, sobrevivendo por milênios de forma independente antes de ser formalmente reconhecido como raça pelo United Kennel Club (UKC) em 1996.",
     "curiosidades": [
-      "Carolina Dog possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "As fêmeas de Carolina Dog têm o hábito instintivo de cavar pequenos buracos no solo para enterrar suas fezes, um comportamento de sobrevivência para evitar atrair predadores maiores.",
+      "Eles são conhecidos como 'Old Yeller' devido à sua semelhança com o cão do famoso livro e filme americano.",
+      "A raça possui uma 'temporada de acasalamento' única, geralmente entrando no cio apenas uma vez por ano, assim como os lobos e dingos.",
+      "Eles possuem um faro tão apurado que são capazes de detectar pequenos roedores vivendo sob camadas profundas de solo.",
+      "O Carolina Dog é extremamente limpo e não possui quase nenhum 'odor de cachorro' característico."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que apreciam e respeitam o comportamento primitivo",
+      "Pessoas que buscam um cão de matilha muito sociável com outros cães",
+      "Quem vive em casas com quintais amplos e muito bem cercados",
+      "Tutores que gostam de trilhas e atividades ao ar livre",
+      "Proprietários que buscam um companheiro leal e silencioso dentro de casa"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (ele pode ser tímido e independente demais)",
+      "Moradores de apartamentos (ele precisa de espaço e contato com a natureza)",
+      "Proprietários que esperam obediência cega (ele pensa por si mesmo)",
+      "Famílias que buscam um cão 'festeiro' com estranhos",
+      "Casas com pequenos animais domésticos como gatos (devido ao instinto de caça de matilha)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril (rara, mas possível)",
+      "Problemas oculares (ocasionais)",
+      "Sensibilidade a Ivermectina (em algumas linhagens)",
+      "Alergias de pele (raras)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Esta é uma das raças mais saudáveis do mundo devido à seleção natural. Check-ups anuais preventivos são suficientes. É importante testar a sensibilidade a medicamentos comuns em collies/pastores."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e densa é mínima. Uma escovação semanal é suficiente para remover pelos mortos. Banhos devem ser muito ocasionais, pois eles se limpam constantemente como os felinos. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários moderados a intensos. Caminhadas longas e tempo para explorar áreas seguras com o nariz são essenciais. Ele adora jogos que simulem a caça ou o trabalho em grupo.",
+    "treinamento": "O adestramento deve ser baseado em confiança e reforço positivo. Eles são inteligentes, mas cautelosos. O treinamento de socialização deve ser intensivo desde o primeiro dia de vida para evitar que sua timidez natural se torne medo. Eles não respondem bem a métodos punitivos.",
+    "alimentacao": "Dieta balanceada de alta qualidade. Eles tendem a ser comedores eficientes e raramente apresentam obesidade se mantidos ativos."
   },
   "seo": {
-    "title": "Carolina Dog - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Carolina Dog: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Carolina Dog: O Dingo Americano e Fóssil Vivo - Guia de Raça",
+    "description": "Conheça o Carolina Dog, a raça nativa mais antiga da América do Norte. Descubra sua história milenar, temperamento primitivo e cuidados essenciais.",
     "keywords": [
-      "carolina-dog",
-      "carolina dog",
-      "médio",
-      "estados unidos"
+      "Carolina Dog",
+      "Dingo Americano",
+      "cão primitivo",
+      "raças de cães americanas",
+      "cão de matilha",
+      "raças de cães saudáveis",
+      "cuidados com Carolina Dog",
+      "temperamento Carolina Dog"
     ]
   },
   "imagem_principal": "/images/breeds/carolina-dog.jpg",
@@ -76,11 +91,56 @@
     "/images/breeds/carolina-dog-2.jpg",
     "/images/breeds/carolina-dog-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=carolina-dog",
-  "popularidade": 1138,
-  "ranking_brasil": 77,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Carolina Dog - O Dingo dos Estados Unidos",
+      "url": "https://www.youtube.com/watch?v=example-carolina",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-carolina/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História Genética do Carolina Dog",
+      "url": "https://www.youtube.com/watch?v=example-carolina-science",
+      "canal": "Nature Science",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "dingo-australiano",
+    "basenji",
+    "cao-de-canaa",
+    "shiba-inu"
+  ],
+  "cores_disponiveis": [
+    "Amarelo Gengibre (Ginger)",
+    "Vermelho",
+    "Fawn (Fulvo)",
+    "Preto e Tan",
+    "Branco Malhado"
+  ],
+  "marcacoes": [
+    "Pode ter manchas brancas no peito e patas",
+    "Máscara escura permitida",
+    "Cauda em anzol"
+  ],
+  "curiosidades_historicas": "Estudos de DNA mitocondrial provaram que o Carolina Dog não possui parentesco com os cães europeus levados pelos colonos, sendo um descendente direto dos cães de caça asiáticos que cruzaram a Beríngia com os ancestrais dos nativos americanos, tornando-os o elo perdido da canicultura no Novo Mundo.",
+  "referencias_externas": [
+    {
+      "titulo": "Carolina Dog Association",
+      "url": "https://www.carolinadogassociation.com/",
+      "descricao": "Organização dedicada à preservação e fomento da raça."
+    },
+    {
+      "titulo": "UKC - Carolina Dog Official Standard",
+      "url": "https://www.ukcdogs.com/carolina-dog",
+      "descricao": "Padrão oficial da raça pelo United Kennel Club."
+    }
+  ],
+  "popularidade": 3000,
+  "ranking_brasil": 215,
   "custo_mensal_estimado": [
-    486,
-    1036
+    250,
+    600
   ]
 }

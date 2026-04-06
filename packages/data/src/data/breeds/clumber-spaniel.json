@@ -4,70 +4,85 @@
   "slug": "clumber-spaniel",
   "nome_en": "Clumber Spaniel",
   "apelidos": [
-    "Clumber",
-    "Spaniel"
+    "O Spaniel do Cavalheiro",
+    "Clumber"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "42 cm",
-    "peso_macho": "29.7 kg",
-    "peso_femea": "25.7 kg",
+    "origem": "Inglaterra / França",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "45 - 51 cm",
+    "altura_femea": "43 - 48 cm",
+    "peso_macho": "32 - 39 kg",
+    "peso_femea": "25 - 32 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1957
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 1,
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Clumber Spaniel é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Clumber Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Clumber Spaniel é o mais pesado e massivo de todos os spaniels, um cão de 'grande substância' em um corpo baixo e alongado. Caracteriza-se por sua cabeça larga e quadrada, orelhas longas em forma de folha de videira e uma pelagem branca profusa e sedosa com marcações limão ou laranja. Sua expressão é de uma dignidade sonolenta e sabedoria gentil. Conhecido como o 'spaniel do cavalheiro', ele é um caçador lento mas persistente, capaz de atravessar vegetação densa onde cães mais ágeis não conseguem. Em casa, é um companheiro extremamente dócil, preguiçoso e afetuoso, famoso por seu temperamento pacífico e por ser um dos spaniels mais silenciosos.",
+    "historia": "As origens exatas da raça são incertas, mas uma lenda popular diz que ela se originou na França no final do século XVIII, quando o Duque de Noailles enviou sua matilha de spaniels para o Duque de Newcastle em Clumber Park, na Inglaterra, para salvá-los da Revolução Francesa. Lá, a raça foi refinada para caçar em matas fechadas e tornou-se a favorita da realeza britânica, incluindo o Príncipe Albert, o Rei Edward VII e o Rei George V. O Clumber Spaniel foi uma das primeiras raças a serem exibidas em exposições caninas e mantém até hoje sua essência de cão aristocrático e trabalhador rústico.",
     "curiosidades": [
-      "Clumber Spaniel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Apesar de ser um spaniel, o Clumber caça em silêncio absoluto, diferente de outros que costumam latir ao levantar a caça.",
+      "Eles são famosos por roncarem alto e babarem consideravelmente devido ao formato de suas bochechas pendentes.",
+      "O Clumber Spaniel possui uma memória excepcional para o faro, sendo capaz de encontrar objetos perdidos em campo após longos períodos.",
+      "Devido à sua densidade óssea, eles são muito mais pesados do que aparentam pelo tamanho visual.",
+      "Eles são conhecidos por serem 'colecionadores', frequentemente carregando sapatos, meias ou brinquedos na boca pela casa apenas por prazer."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e difícil de irritar)",
+      "Tutores que buscam um companheiro calmo e de baixo consumo de energia",
+      "Pessoas que vivem em casas com quintais onde o cão possa fazer passeios lentos",
+      "Donos que apreciam um cão com personalidade digna e reservada com estranhos",
+      "Tutores que não se importam com um pouco de baba e pelos pela casa"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas extremamente zelosas com a limpeza absoluta (devido à baba e queda de pelo branco)",
+      "Tutores sedentários que não possam oferecer caminhadas diárias para controle de peso",
+      "Ambientes com escadas excessivas (pode ser prejudicial para sua coluna longa e peso massivo)",
+      "Tutores que buscam um cão para corridas ou atividades físicas de alto impacto",
+      "Proprietários que vivem em locais com calor extremo sem refrigeração adequada"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência alta)",
+      "Problemas oculares (Entrópio e Ectrópio)",
+      "Hipotireoidismo",
+      "Doença do Disco Intervertebral (IVDD)",
+      "PDP (Deficiência de Piruvato Desidrogenase - metabólica)",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos semestrais são fundamentais. Testes genéticos para PDP são recomendados. Limpeza diária dos ouvidos e olhos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca é exigente. Escovação pelo menos três vezes por semana é necessária para remover pelos mortos e manter a brancura. Banhos frequentes com shampoo para pelos claros são indicados. As orelhas pendentes devem ser limpas e secas diariamente. Prepare-se para limpar baba das superfícies da casa.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em ritmo constante são essenciais para manter o tônus muscular e evitar a obesidade, que é fatal para suas articulações. Ele adora nadar e participar de jogos de busca lentos.",
+    "treinamento": "O Clumber é inteligente mas tem um ritmo próprio. O treinamento deve ser paciente, positivo e baseado em petiscos. Eles podem ser teimosos se apressados. A socialização precoce é importante para garantir que sua cautela natural não se torne timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade com controle rígido de calorias. O Clumber tem uma tendência enorme a engordar, e o sobrepeso agrava drasticamente seus problemas de coluna e quadril."
   },
   "seo": {
-    "title": "Clumber Spaniel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Clumber Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Clumber Spaniel: O Aristocrata Gentil e Robusto - Guia de Raça",
+    "description": "Descubra o Clumber Spaniel: conheça sua história na realeza britânica, seu temperamento calmo e os cuidados essenciais com este spaniel majestoso e pesado.",
     "keywords": [
-      "clumber-spaniel",
-      "clumber spaniel",
-      "médio",
-      "inglaterra"
+      "Clumber Spaniel",
+      "spaniel aristocrático",
+      "cão branco e limão",
+      "raças de cães calmas",
+      "cão de caça inglês",
+      "cuidados com Clumber Spaniel",
+      "temperamento Clumber"
     ]
   },
   "imagem_principal": "/images/breeds/clumber-spaniel.jpg",
@@ -76,11 +91,53 @@
     "/images/breeds/clumber-spaniel-2.jpg",
     "/images/breeds/clumber-spaniel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=clumber-spaniel",
-  "popularidade": 33135,
-  "ranking_brasil": 146,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Clumber Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-clumber",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-clumber/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Clumber Spaniel",
+      "url": "https://www.youtube.com/watch?v=example-clumber-life",
+      "canal": "Mundo Animal",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "sussex-spaniel",
+    "basset-hound",
+    "cocker-spaniel-ingles",
+    "field-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Branco com marcações Limão",
+    "Branco com marcações Laranja"
+  ],
+  "marcacoes": [
+    "Manchas nas orelhas e ao redor dos olhos",
+    "Sardas no focinho e pernas dianteiras",
+    "Pode ser quase todo branco"
+  ],
+  "curiosidades_historicas": "O Clumber Spaniel foi uma das nove primeiras raças reconhecidas pelo AKC em 1884. Sua exclusividade era tanta que, durante o século XIX, era quase impossível obter um filhote se você não fosse um aristocrata britânico ou amigo íntimo da família Newcastle.",
+  "referencias_externas": [
+    {
+      "titulo": "Clumber Spaniel Club of America",
+      "url": "https://www.clumbers.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e genética."
+    },
+    {
+      "titulo": "The Clumber Spaniel Club UK",
+      "url": "http://www.clumberspanielclub.org.uk/",
+      "descricao": "O clube de raça original fundado na Inglaterra."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    353,
-    1272
+    400,
+    1000
   ]
 }

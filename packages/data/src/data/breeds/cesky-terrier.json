@@ -4,72 +4,84 @@
   "slug": "cesky-terrier",
   "nome_en": "Cesky Terrier",
   "apelidos": [
-    "Cesky",
-    "Terrier"
+    "Terrier Tcheco",
+    "Bohemian Terrier"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "República Tcheca",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "35 cm",
-    "altura_femea": "32 cm",
-    "peso_macho": "13.2 kg",
-    "peso_femea": "8.5 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "27 - 32 cm",
+    "altura_femea": "25 - 29 cm",
+    "peso_macho": "7 - 10 kg",
+    "peso_femea": "7 - 10 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1954
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Cesky Terrier é uma raça de porte pequeno originária de República Tcheca. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cesky Terrier originou-se em República Tcheca, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cesky Terrier é um cão pequeno, elegante e de pernas curtas, conhecido por ser um dos terriers mais calmos e dóceis que existem. Diferente da maioria de seus primos rústicos, ele possui uma pelagem longa, sedosa e levemente ondulada, que é tradicionalmente tosada de forma a deixar uma saia longa e uma barba generosa. Sua cabeça é longa com orelhas caídas, conferindo-lhe uma expressão gentil e melancólica. É um cão bem constituído e musculoso, projetado originalmente para o trabalho em florestas, mas que hoje brilha como um companheiro doméstico refinado, afetuoso e muito adaptável à vida em família.",
+    "historia": "A raça foi criada deliberadamente por um geneticista tcheco chamado Frantisek Horák na década de 1940. Horák desejava um cão de caça que fosse estreito o suficiente para entrar em tocas, mas mais dócil e cooperativo do que o Terrier Escocês e o Sealyham Terrier (seus ancestrais diretos). Ele buscou um animal que pudesse trabalhar em matilha e ser um bom companheiro doméstico. Após anos de seleção cuidadosa, a raça foi reconhecida pela FCI em 1963. O Cesky Terrier é hoje considerado o cão nacional da República Tcheca e é apreciado mundialmente por seu temperamento equilibrado e aparência exótica.",
     "curiosidades": [
-      "Cesky Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Os Cesky Terriers nascem pretos ou marrom-escuros e vão clareando gradualmente até atingirem sua cor definitiva (cinza-azulado ou café-com-leite) por volta dos dois anos de idade.",
+      "Diferente da maioria dos terriers, sua pelagem deve ser cortada com máquina em vez de ser submetida ao stripping manual.",
+      "Eles são considerados muito menos 'briguentos' com outros cães do que a média dos terriers de trabalho.",
+      "O Cesky é uma das raças mais raras do mundo, com uma população global relativamente pequena.",
+      "Apesar de serem caçadores, eles são conhecidos por terem um 'botão de desligar' muito eficiente dentro de casa, sendo ótimos cães de sofá."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias que buscam um terrier com temperamento mais dócil e calmo",
+      "Moradores de apartamentos e casas pequenas",
+      "Tutores que apreciam cães com aparência exótica e que exigem tosa artística",
+      "Pessoas que desejam um cão inteligente e fácil de treinar com reforço positivo",
+      "Famílias com crianças, com quem ele costuma ser muito paciente"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores que não podem arcar com os custos de tosa profissional frequente",
+      "Pessoas sedentárias que não possam oferecer pelo menos uma caminhada diária",
+      "Casas com pequenos roedores de estimação (ele ainda mantém o instinto de caçador de tocas)",
+      "Tutores que buscam um cão de guarda agressivo (ele é mais um cão de alerta)",
+      "Pessoas que não gostam de manutenção constante de pelos longos que podem trazer sujeira para casa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Scottie Cramp (problema neuromuscular inofensivo mas que causa espasmos)",
+      "Luxação de Patela",
+      "Problemas oculares (PRA e Glaucoma)",
+      "Hipotireoidismo",
+      "Problemas dentários (comum em raças pequenas)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos regulares. Monitoramento da saúde bucal desde jovem. Testes genéticos para Scottie Cramp são recomendados antes da criação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente. Escovação pelo menos duas a três vezes por semana é necessária para evitar nós na saia longa e na barba. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas para manter o padrão da raça. Banhos devem ser mensais com bons condicionadores. A limpeza da barba após as refeições é essencial.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e sessões de brincadeira interativas são suficientes para mantê-lo saudável e feliz.",
+    "treinamento": "Muito inteligente e geralmente mais disposto a agradar do que outros terriers. Eles respondem maravilhosamente bem ao reforço positivo e petiscos. Podem ser um pouco teimosos se o treinamento for muito repetitivo ou severo. A socialização precoce é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. É importante monitorar o peso, pois o Cesky tem facilidade para engordar, o que sobrecarrega suas pernas curtas e coluna."
   },
   "seo": {
-    "title": "Cesky Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cesky Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cesky Terrier: O Terrier Tcheco Elegante e Dócil - Guia de Raça",
+    "description": "Descubra o Cesky Terrier: conheça o temperamento calmo, a história na República Tcheca e os cuidados únicos com a pelagem deste raro e charmoso terrier.",
     "keywords": [
-      "cesky-terrier",
-      "cesky terrier",
-      "pequeno",
-      "república tcheca"
+      "Cesky Terrier",
+      "Terrier Tcheco",
+      "cão nacional tcheco",
+      "terrier dócil",
+      "raças de cães raras",
+      "cuidados com Cesky Terrier",
+      "temperamento Cesky"
     ]
   },
   "imagem_principal": "/images/breeds/cesky-terrier.jpg",
@@ -78,11 +90,53 @@
     "/images/breeds/cesky-terrier-2.jpg",
     "/images/breeds/cesky-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cesky-terrier",
-  "popularidade": 28727,
-  "ranking_brasil": 59,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cesky Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-cesky",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-cesky/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Aparência Única do Cesky Terrier",
+      "url": "https://www.youtube.com/watch?v=example-cesky-look",
+      "canal": "Pet Style",
+      "duracao": "07:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "scottish-terrier",
+    "sealyham-terrier",
+    "dandie-dinmont-terrier",
+    "west-highland-white-terrier"
+  ],
+  "cores_disponiveis": [
+    "Cinza-azulado",
+    "Café-com-leite (Fígado clareado)"
+  ],
+  "marcacoes": [
+    "Saia longa de pelos",
+    "Barba e sobrancelhas proeminentes",
+    "Marcações fogo ou creme permitidas"
+  ],
+  "curiosidades_historicas": "Frantisek Horák era um ávido caçador e o Cesky Terrier foi criado especificamente para caçar nas florestas densas da Boêmia. Ele queria um cão que não apenas pegasse a presa, mas que também pudesse ser carregado no colo no final de um dia de caça, algo que ele achava difícil de fazer com o temperamento explosivo dos terriers de sua época.",
+  "referencias_externas": [
+    {
+      "titulo": "American Cesky Terrier Club",
+      "url": "https://www.ceskyterrierclub.com/",
+      "descricao": "Clube oficial dedicado à preservação e fomento da raça nos EUA."
+    },
+    {
+      "titulo": "FCI - Cesky Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/CESKY-TERRIER-246.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 3000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    279,
-    1422
+    250,
+    600
   ]
 }
