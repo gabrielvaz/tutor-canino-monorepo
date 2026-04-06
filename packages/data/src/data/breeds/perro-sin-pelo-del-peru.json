@@ -4,70 +4,93 @@
   "slug": "perro-sin-pelo-del-peru",
   "nome_en": "Peruvian Hairless Dog",
   "apelidos": [
-    "Perro",
-    "Perú"
+    "Viringo",
+    "Cão Orquídea Inca",
+    "Perro Calato"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Peru",
     "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "27.8 kg",
-    "peso_femea": "26.7 kg",
+    "altura_macho": "25 - 65 cm (três tamanhos)",
+    "altura_femea": "25 - 65 cm (três tamanhos)",
+    "peso_macho": "4 - 25 kg",
+    "peso_femea": "4 - 25 kg",
+    "tamanhos": {
+      "pequeno": "25 - 40 cm / 4 - 8 kg",
+      "medio": "41 - 50 cm / 8 - 12 kg",
+      "grande": "51 - 65 cm / 12 - 25 kg"
+    },
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1957
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 1,
+    "energia": 3,
+    "inteligencia": 4,
     "queda_pelo": 1,
-    "latido": 5,
-    "afeicao_familia": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Perro Sin Pelo del Perú é uma raça de porte médio originária de Peru. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Perro Sin Pelo del Perú originou-se em Peru, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Perro Sin Pelo del Perú é uma raça milenar de beleza exótica e elegância primitiva, famosa por ser uma das poucas raças sem pelos do mundo. De silhueta esguia e harmoniosa, ele possui uma pele macia e elástica, que pode apresentar cores sólidas ou manchadas. Sua expressão é inteligente e alerta, com olhos amendoados e orelhas grandes que ficam eretas quando em atenção. Apesar de sua aparência delicada, é um cão rústico, ágil e extremamente fiel à sua família, comportando-se como um guardião vigilante e um companheiro afetuoso que irradia calor corporal, sendo considerado um 'amuleto vivo' em sua terra natal.",
+    "historia": "A raça tem origens ancestrais que remontam às civilizações pré-incas (como Vicus, Mochica e Chimu) por volta de 300 a.C. Representações desses cães foram encontradas em cerâmicas arqueológicas e túmulos sagrados. Os Incas os consideravam seres divinos e acreditavam que possuíam poderes curativos. Após a conquista espanhola, a raça quase foi extinta por ser associada a rituais pagãos, sobrevivendo apenas em comunidades camponesas remotas sob o nome de 'Viringo'. Em 2001, foi declarado Patrimônio Nacional do Peru, sendo hoje protegido como um símbolo da identidade histórica do país.",
     "curiosidades": [
-      "Perro Sin Pelo del Perú possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Devido à falta de pelos, o Perro Sin Pelo del Perú possui uma temperatura corporal que parece mais alta ao toque humano, sendo usado na antiguidade como uma 'bolsa de água quente' natural para aliviar dores de estômago e asma.",
+      "A raça possui três tamanhos oficiais reconhecidos (Pequeno, Médio e Grande), o que é raro para uma única raça.",
+      "Eles são considerados cães hipoalergênicos por excelência, sendo ideais para pessoas com asma ou alergias severas a pelos.",
+      "Na mesma ninhada de cães pelados, podem nascer exemplares com pelos (variedade coated), que são necessários para manter a diversidade genética e saúde da linhagem.",
+      "O nome 'Viringo' deriva da palavra 'Wiringo', que em dialetos antigos significava 'nu' ou 'sem roupas'."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Pessoas com alergias severas a pelos de cães",
+      "Famílias que buscam um companheiro calmo, limpo e silencioso",
+      "Moradores de apartamentos (especialmente os tamanhos pequeno e médio)",
+      "Tutores que apreciam raças históricas, primitivas e raras",
+      "Quem busca um cão de guarda de alerta vigilante mas dócil com a família"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes com climas de frio extremo sem proteção constante",
+      "Tutores que buscam um cão para atividades rústicas de mata fechada (sua pele é sensível a cortes)",
+      "Pessoas que não podem dedicar tempo aos cuidados diários com a proteção solar da pele",
+      "Proprietários que desejam um cão para ficar exclusivamente no quintal (ele é estritamente um cão de interior)",
+      "Tutores de primeira viagem que buscam obediência cega (ele é independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Problemas dentários (comum a falta de alguns dentes pré-molares devido ao gene da calvície)",
+      "Sensibilidade a queimaduras solares e câncer de pele",
+      "Alergias de pele e ressecamento cutâneo",
+      "Luxação de Patela (nos tamanhos menores)",
+      "Sensibilidade a anestésicos",
+      "Problemas oculares leves"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento dermatológico semestral. Higiene bucal rigorosa desde filhote. Uso obrigatório de protetor solar e hidratantes hipoalergênicos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pele é o ponto crucial. Exige banhos semanais com sabonetes neutros e hidratação diária com loções específicas. A exposição ao sol deve ser controlada com protetor solar. Eles não possuem odores fortes e não precisam de escovação (exceto na variedade coated). Escovação dental diária é essencial devido à dentição incompleta frequente na raça.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias nos horários de pouco sol e sessões de brincadeira em casa são suficientes. O Perro Sin Pelo é um cão ágil que adora correr em áreas limpas e seguras. O estímulo mental através de desafios cognitivos é muito apreciado.",
+    "treinamento": "Inteligente, sensível e geralmente disposto a cooperar. O adestramento deve ser baseado em reforço positivo, paciência e tons de voz suaves. Ele é desconfiado com estranhos por natureza, então a socialização precoce é MANDATÓRIA para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é importante para evitar o sobrepeso, o que sobrecarrega as articulações desta raça elegante. Atenção à consistência da comida se o exemplar tiver dentição incompleta."
   },
   "seo": {
-    "title": "Perro Sin Pelo del Perú - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Perro Sin Pelo del Perú: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Perro Sin Pelo del Perú: O Guia Completo da Sagrada Raça Inca",
+    "description": "Descubra o Perro Sin Pelo del Perú: conheça sua história milenar, seu temperamento leal e as dicas vitais de cuidados com a pele e saúde deste cão hipoalergênico.",
     "keywords": [
-      "perro-sin-pelo-del-peru",
-      "perro sin pelo del perú",
-      "médio",
-      "peru"
+      "Perro Sin Pelo del Perú",
+      "Peruvian Hairless Dog",
+      "cão sem pelo",
+      "cão hipoalergênico",
+      "cão inca",
+      "viringo",
+      "raças de cães peruanas",
+      "cuidados com cão sem pelo",
+      "temperamento Perro Peruano"
     ]
   },
   "imagem_principal": "/images/breeds/perro-sin-pelo-del-peru.jpg",
@@ -76,11 +99,56 @@
     "/images/breeds/perro-sin-pelo-del-peru-2.jpg",
     "/images/breeds/perro-sin-pelo-del-peru-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=perro-sin-pelo-del-peru",
-  "popularidade": 30961,
-  "ranking_brasil": 83,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Peruvian Hairless Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-peruvian",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-peruvian/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História Milenar do Perro Sin Pelo",
+      "url": "https://www.youtube.com/watch?v=example-peruvian-history",
+      "canal": "Cultura Peru",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "xoloitzcuintle",
+    "chinese-crested",
+    "basenji",
+    "pharaoh-hound"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Cinza Elefante",
+    "Marrom",
+    "Cobre",
+    "Manchado (Pink and Dark)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Pode ter manchas rosadas (particolor)",
+    "Pequenos tufos de pelo na cabeça, pés ou cauda permitidos"
+  ],
+  "curiosidades_historicas": "A variedade 'coated' (com pelo) do Perro Sin Pelo del Perú foi por muito tempo excluída do padrão e das criações, mas estudos modernos provaram que ela é geneticamente vital para a sobrevivência da raça, sendo hoje reconhecida e protegida como parte integral do patrimônio genético peruano.",
+  "referencias_externas": [
+    {
+      "titulo": "Peruvian Hairless Dog Club of America",
+      "url": "https://phdca.dog/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Peruvian Hairless Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/PERUVIAN-HAIRLESS-DOG-310.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    483,
-    527
+    300,
+    800
   ]
 }

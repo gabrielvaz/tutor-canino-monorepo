@@ -4,70 +4,88 @@
   "slug": "pointer-alemao-de-pelo-duro",
   "nome_en": "German Wirehaired Pointer",
   "apelidos": [
-    "Pointer",
-    "Duro"
+    "Drahthaar",
+    "GWP",
+    "Braco Alemão de Pelo Duro"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "16.5 kg",
-    "peso_femea": "12.6 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "61 - 68 cm",
+    "altura_femea": "57 - 64 cm",
+    "peso_macho": "27 - 34 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 7 - Cães Apontadores",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
+    "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 4,
-    "latido": 3,
-    "afeicao_familia": 4,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 5,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pointer Alemão de Pelo Duro é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pointer Alemão de Pelo Duro originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 7. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pointer Alemão de Pelo Duro, ou Drahthaar, é o epítome da versatilidade e resistência rústica no mundo canino. De porte grande e constituição atlética e poderosa, ele é imediatamente reconhecido por sua pelagem externa dura e aramada, que funciona como uma armadura contra vegetação densa e climas rigorosos. Sua cabeça é adornada com sobrancelhas espessas e uma barba característica que realça sua expressão de inteligência focada e determinação. Diferente de muitos cães de caça, o Drahthaar é um trabalhador multifuncional 'pau para toda obra', dotado de uma coragem inabalável, um instinto de guarda natural e uma lealdade profunda à sua família humana.",
+    "historia": "A raça surgiu na Alemanha no final do século XIX, desenvolvida por caçadores que buscavam o cão de caça universal definitivo. Eles cruzaram o Braco Alemão de Pelo Curto com raças de pelo duro como o Pudelpointer, o Griffon de Cortals e o Braco Polonês. O objetivo era criar um cão capaz de apontar a caça, buscar aves na água e em terra, rastrear animais feridos e ainda atuar como guarda de propriedade. O padrão da raça foi consolidado sob o lema 'através do trabalho para o tipo', priorizando a funcionalidade e o temperamento robusto acima de qualquer característica puramente estética.",
     "curiosidades": [
-      "Pointer Alemão de Pelo Duro possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Drahthaar' significa literalmente 'Pelo de Arame' em alemão, descrevendo a textura única da sua pelagem externa.",
+      "Eles possuem membranas interdigitais muito desenvolvidas e uma pelagem impermeável, o que os torna nadadores de elite, capazes de trabalhar em águas geladas por horas.",
+      "Diferente do seu primo de pelo curto, o Drahthaar tende a ter um instinto de guarda e territorialismo mais pronunciado, sendo muito vigilante com o lar.",
+      "A barba e as sobrancelhas não são apenas estéticas; elas servem para proteger os olhos e o rosto do cão contra galhos e espinhos durante o trabalho em mata fechada.",
+      "Eles são famosos por sua 'ética de trabalho' incansável, muitas vezes ignorando o cansaço extremo até que a tarefa seja concluída com sucesso."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que vivem em áreas rurais ou próximas à natureza",
+      "Tutores interessados em adestramento de alto nível e esportes caninos complexos",
+      "Quem busca um cão de guarda de alerta vigilante e corajoso",
+      "Caçadores e entusiastas de atividades de campo, busca e salvamento",
+      "Pessoas que apreciam a estética rústica e a personalidade de um trabalhador independente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão para ficar apenas no sofá (ele se tornará destrutivo)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 horas de exercícios vigorosos",
+      "Famílias que ficam fora de casa o dia todo (sofre com a solidão e falta de 'trabalho')",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme, calma e consistente",
+      "Pessoas que buscam um cão passivo que não questione comandos (ele é um livre-pensador)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Doença de Von Willebrand (vWD - distúrbio de coagulação)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Problemas oculares (Entrópio e Catarata)",
+      "Hipotireoidismo",
+      "Cardiopatias (ocasionais)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Testes de DNA para vWD antes de qualquer cirurgia. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada. Exige escovação semanal profunda para remover pelos mortos e evitar que o subpelo denso se torne feltro. O 'hand-stripping' (remoção manual de pelos velhos) pode ser necessário ocasionalmente para manter a textura aramada. Banhos devem ser mensais. É vital limpar as orelhas pendentes e secar bem a barba após as refeições. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas de atividade física e mental. O Drahthaar precisa de 'missões' diárias. Caminhadas simples não bastam; ele precisa correr, nadar e ter estímulos olfativos complexos para ser equilibrado em casa.",
+    "treinamento": "Extremamente inteligente e capaz, mas exige um tutor que respeite sua inteligência e independência. O adestramento deve ser baseado em reforço positivo, clareza e variedade. Ele aprende comandos novos com rapidez, mas testará as regras se perceber inconsistência. A socialização precoce é MANDATÓRIA.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas de grande porte. É essencial fracionar as refeições em pelo menos duas vezes ao dia e garantir o repouso antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Pointer Alemão de Pelo Duro - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pointer Alemão de Pelo Duro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pointer Alemão de Pelo Duro (Drahthaar): O Atleta Rústico - Guia de Raça",
+    "description": "Descubra o Pointer Alemão de Pelo Duro (Drahthaar): conheça sua força versátil, inteligência de elite e dicas essenciais de treinamento e cuidados para este guardião incansável.",
     "keywords": [
-      "pointer-alemao-de-pelo-duro",
-      "pointer alemão de pelo duro",
-      "médio",
-      "alemanha"
+      "Pointer Alemão de Pelo Duro",
+      "Drahthaar",
+      "GWP",
+      "cão de caça versátil",
+      "cão de guarda alemão",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Drahthaar",
+      "temperamento Drahthaar"
     ]
   },
   "imagem_principal": "/images/breeds/pointer-alemao-de-pelo-duro.jpg",
@@ -76,11 +94,55 @@
     "/images/breeds/pointer-alemao-de-pelo-duro-2.jpg",
     "/images/breeds/pointer-alemao-de-pelo-duro-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pointer-alemao-de-pelo-duro",
-  "popularidade": 21071,
-  "ranking_brasil": 65,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "German Wirehaired Pointer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-drahthaar",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-drahthaar/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho Versátil do Drahthaar",
+      "url": "https://www.youtube.com/watch?v=example-drahthaar-work",
+      "canal": "Working Hunter",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-alemao-de-pelo-curto",
+    "pudelpointer",
+    "griffon-de-cortals",
+    "vizsla-de-pelo-duro",
+    "spinone-italiano"
+  ],
+  "cores_disponiveis": [
+    "Fígado e Branco Ruão (Liver & White Roan)",
+    "Fígado Sólido",
+    "Preto e Branco Ruão"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas características (obrigatórias)",
+    "Máscara escura no focinho",
+    "Marcações particolor ou ruão no corpo"
+  ],
+  "curiosidades_historicas": "O Drahthaar foi desenvolvido sob um rigoroso sistema de testes de performance que incluía rastreamento de animais feridos por quilômetros, busca em águas congelantes e defesa contra intrusos, tornando-se a raça de eleição para os guardas-florestais alemães devido à sua resiliência e coragem inigualáveis.",
+  "referencias_externas": [
+    {
+      "titulo": "German Wirehaired Pointer Club of America",
+      "url": "https://gwpca.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e treinamento."
+    },
+    {
+      "titulo": "FCI - German Wire-haired Pointing Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-WIRE-HAIRED-POINTING-DOG-98.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    344,
-    990
+    400,
+    1000
   ]
 }

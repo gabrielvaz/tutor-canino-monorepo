@@ -5,68 +5,86 @@
   "nome_en": "German Pinscher",
   "apelidos": [
     "Pinscher",
-    "Alemão"
+    "Standard Pinscher",
+    "Deutscher Pinscher"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "42 cm",
-    "peso_macho": "29.8 kg",
-    "peso_femea": "24.6 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "45 - 50 cm",
+    "altura_femea": "45 - 50 cm",
+    "peso_macho": "14 - 20 kg",
+    "peso_femea": "14 - 20 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1933
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 1,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 4
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pinscher Alemão é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pinscher Alemão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pinscher Alemão é o tipo original e ancestral de toda a família Pinscher, um cão de porte médio que exala elegância, poder e inteligência. De constituição atlética, musculosa e de linhas limpas, ele possui uma pelagem curta, densa e brilhante que realça sua fisionomia aristocrática. Suas orelhas podem ser eretas ou dobradas, e seu olhar é penetrante, refletindo uma mente sempre ativa e vigilante. Conhecido por sua versatilidade, o Pinscher Alemão é um guardião destemido, um exterminador de pragas eficiente e um companheiro intensamente leal que exige um estilo de vida ativo e um tutor que saiba canalizar sua energia vibrante.",
+    "historia": "As origens da raça remontam ao século XVIII na Alemanha, onde eram cães de utilidade em fazendas, encarregados de caçar ratos e proteger as carroças e propriedades. O Pinscher Alemão é o descendente direto de antigos cães de tipo terrier europeus e é o elo genético entre o Dobermann (que herdou sua cor e instinto de guarda) e o Pinscher Miniatura (sua versão reduzida). A raça quase foi extinta após a Segunda Guerra Mundial, sendo salva por Werner Jung, que buscou os últimos exemplares típicos em fazendas alemãs e reconstruiu a linhagem que conhecemos hoje.",
     "curiosidades": [
-      "Pinscher Alemão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pinscher Alemão é frequentemente confundido com um 'Dobermann pequeno' ou um 'Pinscher Miniatura grande', mas ele é a raça original que deu origem a ambas.",
+      "Eles possuem um senso de humor apurado e são conhecidos por 'roubarem' objetos da casa para iniciar jogos de perseguição com seus tutores.",
+      "O Pinscher Alemão é um dos cães mais rápidos em sua categoria de tamanho, capaz de sprints impressionantes e mudanças de direção ágeis.",
+      "Diferente de muitas raças, eles mantêm um instinto de caça de roedores extremamente aguçado, sendo capazes de limpar um ambiente de pragas em minutos.",
+      "Eles são famosos por serem cães 'multitarefa', adaptando-se com facilidade a esportes como Agility, Obediência e até busca e salvamento."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que buscam um protetor inteligente e companheiro",
+      "Tutores interessados em adestramento avançado e esportes caninos",
+      "Quem busca um cão de guarda vigilante que seja dócil com o círculo familiar",
+      "Pessoas que vivem em casas com quintais seguros onde o cão possa exercitar-se",
+      "Donos experientes que apreciam cães com personalidade forte e independente"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar no colo",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele exige estímulo mental constante)",
+      "Casas com pequenos animais domésticos como hamsters ou coelhos (instinto de caça é extremo)",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança firme"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Doença de Von Willebrand (vWD - distúrbio de coagulação)",
+      "Displasia de Quadril",
+      "Problemas oculares (Catarata e PRA)",
+      "Cardiopatias",
+      "Sensibilidade a vacinas (ocasional)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Testes de DNA para vWD são essenciais antes de qualquer cirurgia. Check-ups ortopédicos e oftalmológicos anuais. Monitoramento da saúde cardíaca em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. As orelhas devem ser verificadas semanalmente. Unhas devem ser mantidas bem curtas para suportar sua alta atividade física.",
+    "exercicios": "Necessita de MUITO exercício físico e mental diário — pelo menos 1 a 2 horas. Caminhadas simples não bastam; o Pinscher Alemão precisa correr, saltar e ter desafios de inteligência. Ele se destaca em Agility, Flyball e jogos de busca complexos.",
+    "treinamento": "Extremamente inteligente e aprende muito rápido, mas pode ser teimoso e testar a autoridade do tutor. Use reforço positivo, paciência e variedade para manter o interesse dele. A socialização precoce é MANDATÓRIA para evitar que seu instinto protetor se torne agressividade desnecessária com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é vital para manter a forma atlética e não sobrecarregar as articulações desta raça muito veloz e saltadora."
   },
   "seo": {
-    "title": "Pinscher Alemão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pinscher Alemão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pinscher Alemão: O Guia Completo do Inteligente Ancestral da Raça",
+    "description": "Descubra o Pinscher Alemão: conheça sua inteligência de elite, sua história como cão de guarda e as dicas vitais de exercícios para esta raça vibrante e leal.",
     "keywords": [
-      "pinscher-alemao",
-      "pinscher alemão",
-      "médio",
-      "alemanha"
+      "Pinscher Alemão",
+      "German Pinscher",
+      "cão de guarda",
+      "cão inteligente",
+      "exterminador de ratos",
+      "raças de cães médias",
+      "cuidados com Pinscher Alemão",
+      "temperamento Pinscher"
     ]
   },
   "imagem_principal": "/images/breeds/pinscher-alemao.jpg",
@@ -75,11 +93,54 @@
     "/images/breeds/pinscher-alemao-2.jpg",
     "/images/breeds/pinscher-alemao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pinscher-alemao",
-  "popularidade": 30070,
-  "ranking_brasil": 83,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "German Pinscher - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-germanpinscher",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-germanpinscher/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Pinscher Alemão",
+      "url": "https://www.youtube.com/watch?v=example-pinscher-intel",
+      "canal": "Mundo Canino",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "dobermann",
+    "pinscher-miniatura",
+    "schnauzer-standard",
+    "rottweiler"
+  ],
+  "cores_disponiveis": [
+    "Preto e Tan (Ferrugem)",
+    "Vermelho Cervo",
+    "Marrom e Tan"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) bem definidas na face e pernas",
+    "Pode ser totalmente sólido (vermelho)",
+    "Olhos escuros e amendoados"
+  ],
+  "curiosidades_historicas": "Werner Jung, o salvador da raça, contrabandeou uma cadela Pinscher Alemão da Alemanha Oriental para a Ocidental escondida em uma caixa de palha, pois a exportação da raça era proibida na época. Ele foi o único criador a manter o padrão original vivo durante os anos de isolamento da Guerra Fria.",
+  "referencias_externas": [
+    {
+      "titulo": "German Pinscher Club of America",
+      "url": "https://germanpinscher.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - German Pinscher Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-PINSCHER-184.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    362,
-    996
+    300,
+    800
   ]
 }

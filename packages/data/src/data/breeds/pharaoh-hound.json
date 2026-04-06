@@ -4,70 +4,86 @@
   "slug": "pharaoh-hound",
   "nome_en": "Pharaoh Hound",
   "apelidos": [
-    "Pharaoh",
-    "Hound"
+    "Kelb tal-Fenek",
+    "Cão de Coelho de Malta",
+    "Cão Sorridente de Malta"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Malta",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "26.1 kg",
-    "peso_femea": "23.2 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "56 - 63 cm",
+    "altura_femea": "53 - 61 cm",
+    "peso_macho": "20 - 27 kg",
+    "peso_femea": "18 - 23 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1918
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
+    "energia": 4,
     "inteligencia": 5,
     "queda_pelo": 2,
     "latido": 3,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Pharaoh Hound é uma raça de porte médio originária de Malta. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pharaoh Hound originou-se em Malta, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pharaoh Hound, ou Kelb tal-Fenek, é uma das raças mais elegantes e ancestrais do mundo, um verdadeiro 'fóssil vivo' da bacia do Mediterrâneo. De porte médio e constituição atlética, ele possui uma silhueta de lebrél com orelhas grandes e eretas que lhe conferem uma expressão de eterna prontidão. Sua pelagem é curta, fina e de um tom bronze ou castanho-avermelhado (tan) vibrante. É um cão dotado de uma inteligência brilhante, um temperamento alegre e uma característica única: quando está animado ou feliz, ele pode 'corar', com suas orelhas e nariz tornando-se de um tom rosa profundo. É um companheiro leal, ágil e um caçador de visão e olfato fenomenais.",
+    "historia": "Apesar do nome sugerir o Egito Antigo, o Pharaoh Hound desenvolveu-se na ilha de Malta, onde é o cão nacional. Acredita-se que seus ancestrais tenham sido levados para a ilha pelos fenícios há mais de 2.000 anos. Em Malta, a raça foi preservada de forma pura como o 'Kelb tal-Fenek' (Cão de Coelho), sendo essencial para os camponeses na caça de coelhos em terrenos rochosos durante a noite. Sua morfologia mudou muito pouco ao longo dos milênios, mantendo a eficiência funcional e a beleza clássica das raças primitivas. Foi introduzido no ocidente na década de 1960 e hoje é admirado mundialmente pela sua raridade e nobreza.",
     "curiosidades": [
-      "Pharaoh Hound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pharaoh Hound é famoso por seu 'sorriso'; eles são treinados para mostrar os dentes em sinal de alegria extrema, o que muitas vezes é confundido com agressividade por quem não conhece a raça.",
+      "Eles possuem a habilidade única de 'corar' (blushing) — o fluxo sanguíneo aumenta nas orelhas e nariz quando estão excitados, criando um brilho rosado visível.",
+      "Diferente da maioria dos galgos, o Pharaoh Hound usa tanto a visão quanto o olfato e a audição para caçar, sendo um caçador multissensorial extraordinário.",
+      "Em Malta, eles são tradicionalmente treinados para caçar em parceria com furões, demonstrando um nível de cooperação entre espécies muito raro.",
+      "Eles são saltadores fenomenais, sendo capazes de pular obstáculos de até 2 metros de altura a partir de uma posição estática."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que apreciam raças históricas e primitivas",
+      "Tutores que buscam um cão de médio porte elegante e muito limpo",
+      "Pessoas que vivem em casas com quintais bem cercados e seguros",
+      "Proprietários interessados em esportes de velocidade como Lure Coursing ou Agility",
+      "Quem busca um companheiro afetuoso que participe de todas as atividades da família"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de caça é incontrolável se avistar uma presa)",
+      "Tutores sedentários que não possam oferecer estímulo físico e mental diário",
+      "Casas com pequenos animais domésticos como gatos ou coelhos (perigo real de predação)",
+      "Pessoas sensíveis a latidos ocasionais (ele é um cão vocal que 'conversa' com o tutor)",
+      "Tutores que não podem lidar com a independência ocasional típica de raças primitivas"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Displasia de Quadril (incidência baixa)",
+      "Sensibilidade extrema a anestésicos (comum em lebréis)",
+      "Hipotireoidismo",
+      "Alergias de pele e sensibilidade a picadas de insetos"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. É fundamental informar ao veterinário sobre a sensibilidade a protocolos anestésicos padrão. Limpeza dental frequente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal leve. Banhos devem ser ocasionais. Eles são cães extremamente limpos e não possuem quase nenhum 'odor de cachorro'. As orelhas grandes devem ser verificadas em busca de sujeira. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas e oportunidades para correr em áreas totalmente cercadas são essenciais. Ele adora jogos que envolvam perseguição de brinquedos e desafios de inteligência.",
+    "treinamento": "Muito inteligente e geralmente disposto a aprender, mas pode ser independente. O adestramento deve ser baseado em reforço positivo, paciência e diversão. Eles respondem mal a métodos severos. A socialização precoce é fundamental para evitar a timidez excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é importante para manter sua silhueta elegante e atlética, evitando o sobrepeso que prejudica as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Pharaoh Hound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pharaoh Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pharaoh Hound: O Guia Completo do Cão de Coelho de Malta",
+    "description": "Descubra o Pharaoh Hound: conheça sua história milenar, sua habilidade única de corar e as dicas vitais de cuidados com este elegante e inteligente cão primitivo.",
     "keywords": [
-      "pharaoh-hound",
-      "pharaoh hound",
-      "médio",
-      "malta"
+      "Pharaoh Hound",
+      "Kelb tal-Fenek",
+      "cão de coelho",
+      "cão que cora",
+      "lebrél de Malta",
+      "raças de cães primitivas",
+      "cuidados com Pharaoh Hound",
+      "temperamento Pharaoh"
     ]
   },
   "imagem_principal": "/images/breeds/pharaoh-hound.jpg",
@@ -76,11 +92,54 @@
     "/images/breeds/pharaoh-hound-2.jpg",
     "/images/breeds/pharaoh-hound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pharaoh-hound",
-  "popularidade": 7759,
-  "ranking_brasil": 125,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pharaoh Hound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pharaoh",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pharaoh/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Velocidade e o Sorriso do Pharaoh Hound",
+      "url": "https://www.youtube.com/watch?v=example-pharaoh-life",
+      "canal": "Mundo Canino",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pharaoh-hound",
+    "ibizan-hound",
+    "cirneco-dell-etna",
+    "basenji",
+    "greyhound"
+  ],
+  "cores_disponiveis": [
+    "Bronze (Tan) a Castanho-avermelhado rico"
+  ],
+  "marcacoes": [
+    "Marcações brancas permitidas na ponta da cauda (desejável)",
+    "Peito branco (estilha)",
+    "Dedos brancos",
+    "Chama branca fina na face (opcional)"
+  ],
+  "curiosidades_historicas": "O Pharaoh Hound foi levado para o Reino Unido pela primeira vez na década de 1920 por uma entusiasta chamada Sra. Pauline Block, que se apaixonou pelos cães enquanto vivia em Malta. O interesse da aristocracia britânica pela estética 'egípcia' da época ajudou a popularizar a raça no ocidente, embora ela seja puramente maltesa.",
+  "referencias_externas": [
+    {
+      "titulo": "Pharaoh Hound Club of America",
+      "url": "https://pharaohhoundclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Pharaoh Hound Standard",
+      "url": "https://www.fci.be/en/nomenclature/PHARAOH-HOUND-248.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    490,
-    1213
+    350,
+    800
   ]
 }

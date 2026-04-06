@@ -4,70 +4,89 @@
   "slug": "pointer-alemao-de-pelo-curto",
   "nome_en": "German Shorthaired Pointer",
   "apelidos": [
-    "Pointer",
-    "Curto"
+    "Kurzhaar",
+    "GSP",
+    "Braco Alemão"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "15.7 kg",
-    "peso_femea": "10.2 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "62 - 66 cm",
+    "altura_femea": "58 - 63 cm",
+    "peso_macho": "25 - 32 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 7 - Cães Apontadores",
-    "ano_reconhecimento_fci": 1997
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 1,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 3,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pointer Alemão de Pelo Curto é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pointer Alemão de Pelo Curto originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 7. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pointer Alemão de Pelo Curto, ou Kurzhaar, é considerado por muitos o cão de caça mais versátil e completo do mundo. De porte grande e constituição atlética, musculosa e de linhas nobres, ele exala uma aura de força, agilidade e inteligência. Sua pelagem é curta, grossa e dura ao toque, apresentando-se em tons de fígado sólido ou mesclado com branco (ruão). Com orelhas pendentes de tamanho médio e um olhar focado e doce, o Kurzhaar é um atleta de elite capaz de atuar em terra e na água. É um companheiro intensamente leal, dotado de uma energia inesgotável e uma necessidade profunda de participar ativamente da vida de seus tutores.",
+    "historia": "A raça surgiu na Alemanha no século XIX, resultado de cruzamentos planejados entre o antigo Braco Espanhol, o Pointer Inglês e diversos sabujos continentais. O objetivo era criar um cão que pudesse fazer tudo: apontar a caça, buscar aves na água, rastrear feridos e até atuar como guardião. O padrão foi estabilizado por volta de 1870, priorizando a funcionalidade 'pau para toda obra'. O Pointer Alemão de Pelo Curto ganhou fama mundial após a Segunda Guerra Mundial, tornando-se uma das raças de esporte e companhia mais valorizadas nas Américas devido ao seu equilíbrio entre trabalho e afeto familiar.",
     "curiosidades": [
-      "Pointer Alemão de Pelo Curto possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Kurzhaar' significa literalmente 'Pelo Curto' em alemão.",
+      "Eles possuem membranas interdigitais muito desenvolvidas, o que os torna nadadores excepcionais, capazes de buscar aves em rios e lagos gelados.",
+      "O Kurzhaar é famoso por sua 'pose de estátua' ao detectar uma caça, levantando uma das patas dianteiras e mantendo a cauda perfeitamente esticada.",
+      "Diferente de muitos cães de caça, o Pointer Alemão possui um instinto de guarda natural, sendo muito vigilante com o seu território e família.",
+      "Eles são conhecidos como 'velcro dogs' (cães-velcro), pois apesar de serem grandes e atléticos, adoram estar encostados em seus tutores o tempo todo."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam esportes, trilhas e atividades ao ar livre",
+      "Tutores interessados em adestramento avançado e esportes caninos (Agility, Field Trials)",
+      "Pessoas que vivem em casas com amplos quintais seguros",
+      "Donos que buscam um parceiro para natação e jogos de busca intensos",
+      "Quem deseja um cão inteligente, dócil e intensamente leal"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar no sofá (ele se tornará neurótico)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 horas de exercícios diários",
+      "Pessoas que ficam fora de casa o dia todo (sofre severamente com a solidão e tédio)",
+      "Famílias que não toleram intensidade física (ele pula e corre com muito entusiasmo)",
+      "Tutores que não podem dedicar tempo ao estímulo mental constante (ele precisa de um 'trabalho')"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Problemas oculares (Atrofia Progressiva da Retina e Entrópio)",
+      "Cardiomiopatia Dilatada",
+      "Hipotireoidismo",
+      "Linfedema (raro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e cardíacos anuais. Monitoramento rigoroso do peso. Atenção absoluta aos sinais de torção gástrica após as refeições e exercícios."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal com luva de borracha para remover pelos mortos. Durante as trocas sazonais, a queda é moderada e a escovação pode ser mais frequente. Banhos devem ser mensais. É vital secar e limpar as orelhas pendentes após natação para prevenir otites. Unhas devem ser mantidas bem curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1,5 a 2 horas de atividade física vigorosa. Caminhadas simples não bastam; o Kurzhaar precisa correr, nadar e ter estímulos mentais como jogos de faro ou treinos de obediência. Ele é um atleta que se sente melhor quando está fisicamente exausto.",
+    "treinamento": "Extremamente inteligente e ávido por aprender, o treinamento é muito prazeroso. Ele aprende comandos novos com rapidez impressionante. Use apenas reforço positivo, variedade e desafios crescentes. A socialização precoce é fundamental para canalizar sua energia de forma sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas. É essencial fracionar as refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Pointer Alemão de Pelo Curto - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pointer Alemão de Pelo Curto: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pointer Alemão de Pelo Curto (Kurzhaar): O Atleta Versátil - Guia de Raça",
+    "description": "Descubra o Pointer Alemão de Pelo Curto (Kurzhaar): conheça sua inteligência brilhante, sua história na caça e as dicas vitais de cuidados com exercícios e saúde.",
     "keywords": [
-      "pointer-alemao-de-pelo-curto",
-      "pointer alemão de pelo curto",
-      "médio",
-      "alemanha"
+      "Pointer Alemão de Pelo Curto",
+      "Kurzhaar",
+      "GSP",
+      "Braco Alemão",
+      "cão inteligente",
+      "cão de caça versátil",
+      "Agility dog",
+      "raças de cães grandes",
+      "cuidados com Kurzhaar",
+      "temperamento Pointer Alemão"
     ]
   },
   "imagem_principal": "/images/breeds/pointer-alemao-de-pelo-curto.jpg",
@@ -76,11 +95,56 @@
     "/images/breeds/pointer-alemao-de-pelo-curto-2.jpg",
     "/images/breeds/pointer-alemao-de-pelo-curto-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pointer-alemao-de-pelo-curto",
-  "popularidade": 16887,
-  "ranking_brasil": 120,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "German Shorthaired Pointer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-kurzhaar",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-kurzhaar/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Braco Alemão no Trabalho",
+      "url": "https://www.youtube.com/watch?v=example-kurzhaar-work",
+      "canal": "Mundo Canino",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-ingles",
+    "vizsla",
+    "weimaraner",
+    "pointer-alemao-de-pelo-duro",
+    "braco-italiano"
+  ],
+  "cores_disponiveis": [
+    "Fígado (Liver) Sólido",
+    "Fígado e Branco Ruão (Liver & White Roan)",
+    "Preto Sólido (menos comum)",
+    "Preto e Branco Ruão"
+  ],
+  "marcacoes": [
+    "Cabeça geralmente sólida (fígado)",
+    "Marcações particolor ou ruão no corpo",
+    "Pode ser salpicado (ticked)"
+  ],
+  "curiosidades_historicas": "O Príncipe Albrecht de Solms-Braunfels foi o maior entusiasta da raça no século XIX e foi ele quem estabeleceu o princípio de que a forma do Kurzhaar deveria seguir a sua função, criando a base para o cão atlético e equilibrado que conhecemos hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "German Shorthaired Pointer Club of America",
+      "url": "https://gspca.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e eventos."
+    },
+    {
+      "titulo": "FCI - German Shorthaired Pointing Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SHORTHAIRED-POINTING-DOG-119.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    420,
-    738
+    400,
+    900
   ]
 }

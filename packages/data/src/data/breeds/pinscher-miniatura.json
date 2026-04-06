@@ -4,70 +4,88 @@
   "slug": "pinscher-miniatura",
   "nome_en": "Miniature Pinscher",
   "apelidos": [
-    "Pinscher",
-    "Miniatura"
+    "Min Pin",
+    "Rei dos Toys",
+    "Zwergpinscher"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "25 cm",
-    "altura_femea": "22 cm",
-    "peso_macho": "4.8 kg",
-    "peso_femea": "0.1 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "4 - 6 kg",
+    "peso_femea": "4 - 5 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1959
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 1,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 3,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 1
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pinscher Miniatura é uma raça de porte toy originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pinscher Miniatura originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pinscher Miniatura, conhecido mundialmente como o 'Rei dos Toys', é um cão pequeno com a personalidade de um gigante. De constituição compacta, musculosa e de linhas refinadas, ele exala uma autoconfiança e uma energia inabaláveis. Sua característica física mais marcante é o andar 'hackney' (passo de ganso), erguendo as patas dianteiras de forma alta e rítmica, similar a um cavalo de carruagem. Com orelhas eretas e um olhar vigilante, o 'Min Pin' é um guardião de alerta fenomenal, dotado de uma inteligência astuta e um espírito destemido que o torna um dos cães mais vibrantes e divertidos do mundo canino.",
+    "historia": "Diferente da crença popular, o Pinscher Miniatura não é um Dobermann miniaturizado; na verdade, a raça é muito mais antiga que o Dobermann. Ele se desenvolveu na Alemanha há séculos a partir do Pinscher Alemão, sendo selecionado para caçar ratos e outros pequenos roedores em fazendas e residências. A raça foi refinada no final do século XIX, ganhando elegância e perdendo a rusticidade excessiva do trabalhador rural. O Pinscher Miniatura tornou-se um fenômeno de popularidade na Europa e nas Américas no século XX, especialmente no Brasil, onde é uma das raças pequenas mais icônicas e presentes em lares urbanos.",
     "curiosidades": [
-      "Pinscher Miniatura possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O andar característico da raça (hackney gait) é único entre os cães toy e é resultado da sua estrutura corporal equilibrada e alta energia.",
+      "Eles possuem um senso de território tão forte que são capazes de expulsar cães dez vezes maiores de sua propriedade com pura intimidação vocal.",
+      "O Pinscher Miniatura é conhecido como o 'mestre da escapada', sendo capaz de abrir portões, escalar sofás e encontrar frestas minúsculas para explorar o que há fora de casa.",
+      "Apesar do tamanho, eles são extremamente resistentes e possuem uma das maiores expectativas de vida do reino canino, chegando facilmente aos 16 anos.",
+      "Eles são famosos por sua sensibilidade ao frio, adorando se esconder sob cobertores e mantas, criando 'ninhos' confortáveis para dormir."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas que buscam um cão de guarda 'de bolso' extremamente vigilante",
+      "Tutores ativos que gostam de jogos, brincadeiras e caminhadas diárias",
+      "Quem busca um companheiro leal, inteligente e com personalidade forte",
+      "Famílias com crianças maiores que saibam manusear um cão pequeno com respeito"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que desejam um cão passivo para ficar apenas no colo",
+      "Famílias com crianças muito pequenas e barulhentas (ele é fisicamente frágil e pode reagir a toques bruscos)",
+      "Tutores que não toleram latidos frequentes de alerta",
+      "Casas com pequenos roedores de estimação (seu instinto de caça é extremo)",
+      "Ambientes onde o cão ficará confinado sem limites claros (ele tomará conta da casa)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Doença de Legg-Calve-Perthes (problema no fêmur)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Hipotireoidismo",
+      "Problemas cardíacos (em idade avançada)",
+      "Diabetes Mellitus",
+      "Problemas dentários (tártaro)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento rigoroso da saúde bucal. É vital evitar saltos de locais muito altos para proteger a ossatura fina."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. É importante limpar as orelhas e os olhos regularmente. A escovação dos dentes é MANDATÓRIA para evitar a perda precoce de dentes, comum em raças pequenas.",
+    "exercicios": "Necessita de exercícios moderados a intensos para o seu tamanho. Caminhadas diárias vigorosas e muito tempo de brincadeira com brinquedos interativos são essenciais. O estímulo mental através de truques e treinamentos é muito importante para sua mente ativa.",
+    "treinamento": "Muito inteligente mas independente e às vezes obstinado. O adestramento deve ser baseado em reforço positivo, paciência e liderança firme mas divertida. Eles se aborrecem com repetições monótonas. A socialização precoce é VITAL para evitar a reatividade com outros cães e estranhos.",
+    "alimentacao": "Dieta de alta qualidade específica para raças pequenas. O controle das porções é fundamental, pois qualquer excesso de peso sobrecarrega as articulações finas e a coluna do Pinscher."
   },
   "seo": {
-    "title": "Pinscher Miniatura - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pinscher Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pinscher Miniatura: O Rei dos Toys Destemido - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Pinscher Miniatura: conheça seu temperamento audaz, sua história alemã e as dicas vitais de cuidados com a saúde e adestramento.",
     "keywords": [
-      "pinscher-miniatura",
-      "pinscher miniatura",
-      "toy",
-      "alemanha"
+      "Pinscher Miniatura",
+      "Min Pin",
+      "Rei dos Toys",
+      "cão de guarda pequeno",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Pinscher",
+      "temperamento Pinscher Miniatura"
     ]
   },
   "imagem_principal": "/images/breeds/pinscher-miniatura.jpg",
@@ -76,11 +94,54 @@
     "/images/breeds/pinscher-miniatura-2.jpg",
     "/images/breeds/pinscher-miniatura-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pinscher-miniatura",
-  "popularidade": 45319,
-  "ranking_brasil": 131,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Miniature Pinscher - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-minpin",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-minpin/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Adestrar um Pinscher Miniatura",
+      "url": "https://www.youtube.com/watch?v=example-minpin-training",
+      "canal": "Mundo Canino",
+      "duracao": "12:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pinscher-alemao",
+    "dobermann",
+    "chihuahua",
+    "rat-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho Cervo (Deer Red)",
+    "Preto e Tan (Ferrugem)",
+    "Marrom e Tan"
+  ],
+  "marcacoes": [
+    "Marcações tan (fogo) bem definidas na face e pernas",
+    "Manchas tan sobre os olhos (rosetas)",
+    "Peito com marcações tan simétricas"
+  ],
+  "curiosidades_historicas": "O Pinscher Miniatura foi por décadas um segredo bem guardado na Alemanha, com o clube oficial da raça sendo fundado em 1895. Eles ganharam o mundo apenas após a Primeira Guerra Mundial, quando oficiais americanos levaram exemplares para os EUA, transformando a raça em um ícone global de cão de companhia.",
+  "referencias_externas": [
+    {
+      "titulo": "Miniature Pinscher Club of America",
+      "url": "https://minpin.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Miniature Pinscher Standard",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-PINSCHER-185.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 10,
   "custo_mensal_estimado": [
-    431,
-    1174
+    250,
+    650
   ]
 }

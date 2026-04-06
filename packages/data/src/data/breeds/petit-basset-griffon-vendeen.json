@@ -4,70 +4,87 @@
   "slug": "petit-basset-griffon-vendeen",
   "nome_en": "Petit Basset Griffon Vendéen",
   "apelidos": [
+    "PBGV",
     "Petit",
-    "Vendéen"
+    "Hound Feliz"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "15.1 kg",
-    "peso_femea": "10 kg",
+    "origem": "França (Vendeia)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "34 - 38 cm",
+    "altura_femea": "34 - 38 cm",
+    "peso_macho": "14 - 18 kg",
+    "peso_femea": "11 - 15 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1944
+    "ano_reconhecimento_fci": 1976
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 5
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Petit Basset Griffon Vendéen é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Petit Basset Griffon Vendéen originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Petit Basset Griffon Vendéen (PBGV) é a personificação da alegria e do entusiasmo em forma de cão. De porte pequeno e constituição robusta, ele é um sabujo de pernas curtas mas de movimento surpreendentemente ágil. Sua característica mais marcante é a pelagem 'griffon' — dura, áspera e de aparência 'despenteada' — complementada por sobrancelhas espessas e uma barba generosa que realçam sua expressão de eterna curiosidade e humor. Conhecido como o 'happy hound' (sabujo feliz), o PBGV é um cão vibrante, sociável e dotado de uma energia inesgotável para explorar o mundo através do seu nariz privilegiado.",
+    "historia": "A raça surgiu na região da Vendeia, no oeste da França, descendendo diretamente do Grand Griffon Vendéen. No século XIX, caçadores selecionaram os exemplares menores (petit) para criar um cão que pudesse caçar coelhos e lebres em terrenos densos e espinhosos onde cães maiores tinham dificuldade. O PBGV foi desenvolvido para ser um cão de matilha rústico e eficiente. Por muito tempo, ele e o Grand Basset (GBGV) eram considerados a mesma raça, diferenciados apenas pelo tamanho. A separação formal ocorreu na década de 1950, consolidando o PBGV como uma raça distinta, hoje imensamente popular como companheiro doméstico devido ao seu temperamento extrovertido.",
     "curiosidades": [
-      "Petit Basset Griffon Vendéen possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome da raça é uma descrição literal: 'Petit' (Pequeno), 'Basset' (Baixo), 'Griffon' (Pelo duro) e 'Vendéen' (da Vendeia).",
+      "Eles possuem um uivo musical e potente, que usam não apenas para caçar, mas também para 'conversar' com seus tutores.",
+      "O PBGV é famoso por ser um 'artista da fuga', capaz de escalar cercas ou cavar sob elas em segundos se sentir um cheiro interessante.",
+      "Diferente de muitos hounds, o PBGV é extremamente sociável com outros cães e raramente apresenta tendências de dominância agressiva.",
+      "Eles são conhecidos por terem um 'senso de humor' apurado, frequentemente inventando brincadeiras e palhaçadas para serem o centro das atenções."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam caminhadas em áreas naturais",
+      "Tutores que possuem outros cães (ele prospera em grupo)",
+      "Pessoas que vivem em casas com quintais muito seguros e bem cercados",
+      "Quem busca um companheiro alegre, barulhento e difícil de intimidar",
+      "Proprietários que apreciam o visual rústico e natural dos cães de pelo duro"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos com vizinhos sensíveis a ruídos (devido ao latido e uivo potentes)",
+      "Tutores sedentários que não possam oferecer pelo menos 1 a 2 horas de atividade física vigorosa",
+      "Proprietários que buscam obediência cega (ele é independente e segue o nariz)",
+      "Pessoas obcecadas com a limpeza absoluta da casa (a pelagem rústica atrai detritos)",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Luxação de Patela",
+      "Problemas oculares (Glaucoma e Atrofia Progressiva da Retina)",
+      "Epilepsia (ocasional na linhagem)",
+      "Hipotireoidismo",
+      "Síndrome da Dor do PBGV (SRMA - Meningite-Arterite Responsiva a Corticosteróides)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento rigoroso da higiene dos ouvidos. Atenção aos sinais de dor súbita no pescoço ou coluna (SRMA)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica exige escovação pelo menos duas vezes por semana para remover pelos mortos e detritos. O 'hand-stripping' (remoção manual de fios velhos) é recomendado duas vezes ao ano para manter a textura dura. Banhos devem ser ocasionais para não amolecer a proteção natural. A limpeza da barba após as refeições é essencial.",
+    "exercicios": "Necessita de MUITO exercício diário. Caminhadas longas e, crucialmente, atividades que usem seu faro em áreas seguras são fundamentais. O PBGV é uma 'turbina' de energia que se torna destrutivo se não for estimulado física e mentalmente.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado inteiramente em reforço positivo, paciência e senso de humor. Eles se aborrecem com repetições monótonas. A socialização precoce é fundamental para garantir sua natureza amigável com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é vital, pois o PBGV tem facilidade para engordar, o que sobrecarrega sua estrutura de basset."
   },
   "seo": {
-    "title": "Petit Basset Griffon Vendéen - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Petit Basset Griffon Vendéen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Petit Basset Griffon Vendéen (PBGV): O Sabujo Feliz - Guia de Raça",
+    "description": "Descubra o Petit Basset Griffon Vendéen: conheça seu temperamento alegre, sua história na caça francesa e as dicas vitais de cuidados com a pelagem rústica e exercícios.",
     "keywords": [
-      "petit-basset-griffon-vendeen",
-      "petit basset griffon vendéen",
-      "médio",
-      "frança"
+      "Petit Basset Griffon Vendéen",
+      "PBGV",
+      "sabujo feliz",
+      "cão de caça francês",
+      "sabujo de pelo duro",
+      "raças de cães pequenas",
+      "cuidados com PBGV",
+      "temperamento PBGV"
     ]
   },
   "imagem_principal": "/images/breeds/petit-basset-griffon-vendeen.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/petit-basset-griffon-vendeen-2.jpg",
     "/images/breeds/petit-basset-griffon-vendeen-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=petit-basset-griffon-vendeen",
-  "popularidade": 25393,
-  "ranking_brasil": 112,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Petit Basset Griffon Vendéen - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pbgv",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pbgv/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Alegria do PBGV em Família",
+      "url": "https://www.youtube.com/watch?v=example-pbgv-life",
+      "canal": "Natureza Pet",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "grand-basset-griffon-vendeen",
+    "basset-fauve-de-bretagne",
+    "basset-hound",
+    "beagle"
+  ],
+  "cores_disponiveis": [
+    "Branco com marcações Laranja",
+    "Branco com marcações Pretas",
+    "Branco com marcações Fogo (Tan)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Padrão particolor (branco dominante)",
+    "Marcações em tons de cinza ou lebre comuns",
+    "Sobrancelhas e barba abundantes"
+  ],
+  "curiosidades_historicas": "O PBGV era conhecido na França rural como 'o cão do homem pobre', pois seu tamanho permitia que fosse seguido a pé por caçadores que não possuíam cavalos, tornando-o o companheiro democrático e eficiente das aldeias da Vendeia por séculos.",
+  "referencias_externas": [
+    {
+      "titulo": "Petit Basset Griffon Vendéen Club of America",
+      "url": "https://pbgv.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Petit Basset Griffon Vendéen Standard",
+      "url": "https://www.fci.be/en/nomenclature/PETIT-BASSET-GRIFFON-VENDEEN-67.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    474,
-    1040
+    300,
+    750
   ]
 }

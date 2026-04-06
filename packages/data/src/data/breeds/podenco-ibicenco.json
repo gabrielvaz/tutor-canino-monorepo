@@ -4,70 +4,88 @@
   "slug": "podenco-ibicenco",
   "nome_en": "Ibizan Hound",
   "apelidos": [
+    "Ca Eivissenc",
     "Podenco",
-    "Ibicenco"
+    "Cão de Ibiza",
+    "Beezer"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Espanha",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "20.9 kg",
-    "peso_femea": "19.8 kg",
+    "origem": "Espanha (Ilhas Baleares - Ibiza)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "66 - 72 cm",
+    "altura_femea": "60 - 67 cm",
+    "peso_macho": "23 - 29 kg",
+    "peso_femea": "20 - 25 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
     "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 4,
+    "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 5,
-    "latido": 1,
-    "afeicao_familia": 3,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 1,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Podenco Ibicenco é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Podenco Ibicenco originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Podenco Ibicenco é a própria definição de elegância aerodinâmica e agilidade primitiva. De porte grande e constituição extremamente esguia e seca, ele possui uma silhueta que lembra os cães retratados nas pirâmides do Egito Antigo. Suas características mais icônicas são as orelhas grandes, eretas e muito móveis, e sua pelagem curta ou dura em tons de branco e vermelho (ruivo). Com um olhar que transborda inteligência e um ar aristocrático, o Ibicenco é um atleta de elite, capaz de saltar grandes alturas e mudar de direção com rapidez felina. É um companheiro leal, gentil e dotado de um temperamento independente e curioso.",
+    "historia": "A raça é considerada uma das mais antigas do mundo, com raízes que remontam aos lebréis do Egito Antigo (como o Tesem) levados para a ilha de Ibiza pelos fenícios há mais de 3.000 anos. Em Ibiza, a raça foi preservada de forma pura como o 'Ca Eivissenc', sendo essencial para a sobrevivência dos camponeses na caça de coelhos em terrenos rochosos e áridos. Diferente de muitos galgos que caçam apenas pela visão, o Ibicenco desenvolveu um faro e audição extraordinários para caçar em matilha durante a noite. Foi reconhecido pela FCI em 1961 e permanece como um símbolo vivo da herança mediterrânea.",
     "curiosidades": [
-      "Podenco Ibicenco possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Podenco Ibicenco é famoso por sua habilidade de 'pular do nada', sendo capaz de saltar cercas de até 2 metros de altura a partir de uma posição estática.",
+      "Eles possuem o que é chamado de 'nariz de borboleta' (cor de carne ou rosa), que combina harmoniosamente com a pelagem ruiva.",
+      "Diferente da maioria dos cães, os Ibicencos usam suas orelhas grandes quase como antenas parabólicas, movendo-as de forma independente para localizar sons sutis.",
+      "Eles são conhecidos por serem cães 'anti-odor', mantendo-se extremamente limpos por conta própria, de forma similar aos felinos.",
+      "Apesar da aparência de lebrél, o Ibicenco é classificado no Grupo 5 (Primitivos) devido à sua versatilidade sensorial e morfologia funcional."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que praticam esportes, trilhas e atividades ao ar livre",
+      "Tutores que apreciam raças históricas, primitivas e de beleza clássica",
+      "Pessoas que vivem em casas com quintais muito seguros e muros bem altos",
+      "Quem possui outros cães (ele é um cão de matilha extremamente sociável)",
+      "Proprietários interessados em esportes como Lure Coursing ou Agility"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição é incontrolável)",
+      "Tutores sedentários que não possam oferecer estímulo físico vigoroso diário",
+      "Casas com pequenos animais domésticos como coelhos ou gatos de rua (perigo de predação)",
+      "Pessoas que buscam um cão passivo e 100% submisso (ele é um livre-pensador)",
+      "Tutores de primeira viagem que não entendam a sensibilidade das raças primitivas"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril (baixa incidência)",
+      "Problemas oculares (Catarata e PRA)",
+      "Sensibilidade extrema a anestésicos (comum em lebréis)",
+      "Alergias de pele",
+      "Surdez (ocasional em exemplares com muito branco)",
+      "Problemas neurológicos (raros)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. É fundamental informar ao veterinário sobre a sensibilidade a protocolos anestésicos padrão. Limpeza dental frequente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem (curta ou dura) é mínima, exigindo apenas uma escovação semanal leve para remover pelos mortos. Banhos devem ser ocasionais. É vital manter os dentes escovados e as unhas curtas. Devido à pele fina e pouco percentual de gordura, o Ibicenco precisa de roupas de proteção em climas frios.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade física vigorosa. Caminhadas rápidas e oportunidades para correr em velocidade máxima em áreas totalmente cercadas são essenciais. O tédio mental deve ser combatido com jogos de busca e enriquecimento ambiental.",
+    "treinamento": "Muito inteligente mas independente. O adestramento deve ser baseado em reforço positivo, paciência e tons de voz calmos. Eles se aborrecem com repetições inúteis. A socialização precoce é fundamental para evitar a timidez excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é importante para manter sua silhueta elegante e atlética, evitando o sobrepeso que prejudica as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Podenco Ibicenco - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Podenco Ibicenco: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Podenco Ibicenco: O Elegante Caçador dos Deuses de Ibiza - Guia de Raça",
+    "description": "Descubra o Podenco Ibicenco (Ibizan Hound): conheça sua história milenar, sua agilidade extraordinária e as dicas vitais de cuidados com este fiel cão primitivo.",
     "keywords": [
-      "podenco-ibicenco",
-      "podenco ibicenco",
-      "médio",
-      "espanha"
+      "Podenco Ibicenco",
+      "Ibizan Hound",
+      "cão de Ibiza",
+      "lebrél espanhol",
+      "cão saltador",
+      "raças de cães primitivas",
+      "cuidados com Podenco Ibicenco",
+      "temperamento Ibicenco"
     ]
   },
   "imagem_principal": "/images/breeds/podenco-ibicenco.jpg",
@@ -76,11 +94,55 @@
     "/images/breeds/podenco-ibicenco-2.jpg",
     "/images/breeds/podenco-ibicenco-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=podenco-ibicenco",
-  "popularidade": 50762,
-  "ranking_brasil": 176,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Ibizan Hound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-ibizan",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-ibizan/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Podenco Ibicenco",
+      "url": "https://www.youtube.com/watch?v=example-ibizan-action",
+      "canal": "Wild Nature",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pharaoh-hound",
+    "cirneco-dell-etna",
+    "basenji",
+    "greyhound",
+    "whippet"
+  ],
+  "cores_disponiveis": [
+    "Branco e Vermelho",
+    "Vermelho Sólido",
+    "Branco Sólido"
+  ],
+  "marcacoes": [
+    "Padrão particolor (branco e vermelho)",
+    "Pode ser totalmente manchado",
+    "Orelhas grandes e eretas (obrigatórias)"
+  ],
+  "curiosidades_historicas": "O Podenco Ibicenco é considerado o herdeiro direto do deus egípcio Anúbis. Acredita-se que quando o túmulo de Tutancâmon foi aberto, a estátua do cão guardião encontrada no interior era uma representação perfeita da anatomia que o Podenco Ibicenco preserva até os dias de hoje na ilha de Ibiza.",
+  "referencias_externas": [
+    {
+      "titulo": "Ibizan Hound Club of the United States",
+      "url": "https://www.ihcus.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Ibizan Hound Standard",
+      "url": "https://www.fci.be/en/nomenclature/IBIZAN-HOUND-176.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    416,
-    872
+    350,
+    800
   ]
 }

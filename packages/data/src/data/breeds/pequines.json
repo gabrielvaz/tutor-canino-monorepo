@@ -3,74 +3,89 @@
   "nome": "Pequinês",
   "slug": "pequines",
   "nome_en": "Pekingese",
-  "apelidos": [],
-  "categoria": "Toy",
+  "apelidos": [
+    "Peke",
+    "Cão Leão Chinês",
+    "Cão de Manga"
+  ],
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "China",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "25 cm",
-    "altura_femea": "23 cm",
-    "peso_macho": "3.9 kg",
-    "peso_femea": "1 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "15 - 23 cm",
+    "altura_femea": "15 - 23 cm",
+    "peso_macho": "3.2 - 5.4 kg",
+    "peso_femea": "3.2 - 5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1996
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 3,
+    "energia": 2,
     "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 2
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pequinês é uma raça de porte toy originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pequinês originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pequinês é a personificação da dignidade imperial em um corpo minúsculo. Famoso por sua aparência de 'leão em miniatura', ele possui uma pelagem dupla profusa e farta, especialmente ao redor do pescoço, formando uma juba majestosa. Sua cabeça é larga com um focinho muito curto (braquicefálico) e olhos grandes, escuros e brilhantes que transbordam uma autoconfiança aristocrática. Diferente de muitos cães pequenos que buscam agradar a todos, o Pequinês é independente, obstinado e extremamente leal ao seu círculo familiar íntimo, mantendo uma postura reservada e digna com estranhos que reflete seu passado milenar nos palácios da China.",
+    "historia": "A raça tem raízes sagradas que remontam a mais de 2.000 anos na China Imperial. Acreditava-se que os Pequineses eram os guardiões dos templos e a reencarnação de pequenos leões. Durante séculos, sua posse era exclusividade da família imperial chinesa, sendo proibida a sua exportação sob pena de morte. Eles eram criados em palácios luxuosos e muitas vezes carregados dentro das amplas mangas das vestes dos nobres. O Pequinês chegou ao ocidente apenas em 1860, após o saque do Palácio de Verão em Pequim pelas tropas britânicas, quando cinco exemplares sobreviventes foram levados para a Rainha Vitória, transformando-se rapidamente em um símbolo de status e luxo europeu.",
     "curiosidades": [
-      "Pequinês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pequinês é a raça central da 'Lenda do Leão e da Marmota', onde um leão apaixonado pediu a Buda para ser reduzido em tamanho para se casar com uma marmota, mantendo seu coração e dignidade de leão.",
+      "Eles possuem um andar característico chamado 'roll', um movimento balançante e majestoso causado por suas pernas dianteiras ligeiramente arqueadas.",
+      "Os menores exemplares da raça eram conhecidos como 'Cães de Manga', pois viviam literalmente dentro das mangas das túnicas imperiais chinesas.",
+      "O Pequinês é um dos cães mais difíceis de intimidar; ele não tem noção de seu tamanho e enfrentará cães dez vezes maiores sem hesitação.",
+      "Na China antiga, os Pequineses eram treinados para serem 'cães de guarda de silêncio', alertando os imperadores através de toques discretos antes de começarem a latir."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos calmos",
+      "Pessoas que buscam um companheiro calmo, independente e silencioso",
+      "Idosos que buscam uma companhia afetuosa de baixo impacto físico",
+      "Tutores experientes que apreciam cães com personalidade forte e 'opinião própria'",
+      "Proprietários que apreciam a estética de cães históricos e exóticos"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito pequenas e barulhentas (ele exige ser tratado com respeito e dignidade)",
+      "Ambientes com calor extremo sem refrigeração constante (devido ao focinho curto e pelagem farta)",
+      "Tutores sedentários que não possam dedicar tempo à escovação diária da juba",
+      "Pessoas que buscam obediência cega e execução imediata de comandos (ele é obstinado)",
+      "Proprietários que não suportam roncos e ruídos respiratórios ocasionais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Problemas oculares (Catarata, Entrópio e Úlceras de Córnea devido aos olhos proeminentes)",
+      "Luxação de Patela",
+      "Doença da Válvula Mitral (problemas cardíacos)",
+      "IVDD (Doença do Disco Intervertebral)",
+      "Dermatites nas dobras faciais"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e respiratório anual é essencial. Limpeza diária dos olhos e das dobras do focinho. Check-ups ortopédicos para a coluna e joelhos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação diária profunda para evitar nós dolorosos e manter a juba armada. Muitos tutores optam por tosas mais curtas para facilidade. Banhos devem ser mensais com secagem TOTAL do subpelo. É vital limpar as dobras faciais diariamente para evitar infecções fúngicas. Escovação dental diária é necessária.",
+    "exercicios": "Necessita de pouco exercício físico. Caminhadas curtas nos horários mais frescos do dia são suficientes. Ele prefere passeios exploratórios calmos do que atividades atléticas intensas. O estímulo mental em casa através de brinquedos sensoriais é apreciado.",
+    "treinamento": "O adestramento exige paciência infinita. O Pequinês é inteligente mas só obedece se vir uma razão válida. Use apenas reforço positivo e petiscos de alto valor. Ele pode ser sensível a tons de voz severos. A socialização precoce é fundamental para evitar a desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é CRÍTICO, pois o excesso de peso agrava os problemas respiratórios e de coluna típicos da raça."
   },
   "seo": {
-    "title": "Pequinês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pequinês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pequinês: O Nobre Cão Leão da China Imperial - Guia de Raça",
+    "description": "Descubra o Pequinês: conheça seu temperamento independente, sua história sagrada nos palácios chineses e as dicas vitais de cuidados com a saúde braquicefálica e pelagem.",
     "keywords": [
-      "pequines",
-      "pequinês",
-      "toy",
-      "china"
+      "Pequinês",
+      "Pekingese",
+      "cão leão chinês",
+      "cão de manga",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Pequinês",
+      "temperamento Pequinês",
+      "saúde braquicefálica"
     ]
   },
   "imagem_principal": "/images/breeds/pequines.jpg",
@@ -79,11 +94,57 @@
     "/images/breeds/pequines-2.jpg",
     "/images/breeds/pequines-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pequines",
-  "popularidade": 14740,
-  "ranking_brasil": 61,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pekingese - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pekingese",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pekingese/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade Real do Pequinês",
+      "url": "https://www.youtube.com/watch?v=example-pekingese-life",
+      "canal": "Mundo Canino",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "shih-tzu",
+    "lhasa-apso",
+    "pug",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e manchas permitidas (exceto albino)",
+    "Dourado",
+    "Vermelho",
+    "Preto",
+    "Creme",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Máscara preta obrigatória",
+    "Mancha branca no topo da cabeça (opcional)",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Pequinês 'Looty' foi levado para a Inglaterra em 1860 como presente para a Rainha Vitória após ser encontrado escondido atrás de cortinas no Palácio de Verão. Ela o chamou de 'Looty' (Saqueado) devido à circunstância da sua descoberta, e o cão viveu o resto dos seus dias nos luxuosos apartamentos do Castelo de Windsor.",
+  "referencias_externas": [
+    {
+      "titulo": "Pekingese Club of America",
+      "url": "https://pekingeseclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Pekingese Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/PEKINGESE-207.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    291,
-    726
+    300,
+    800
   ]
 }

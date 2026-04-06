@@ -5,69 +5,85 @@
   "nome_en": "Plott Hound",
   "apelidos": [
     "Plott",
-    "Hound"
+    "Cão de Urso de Plott"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "45 cm",
-    "altura_femea": "43 cm",
-    "peso_macho": "19.8 kg",
-    "peso_femea": "14.9 kg",
+    "origem": "Estados Unidos (Carolina do Norte)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "51 - 71 cm",
+    "altura_femea": "51 - 58 cm",
+    "peso_macho": "23 - 34 kg",
+    "peso_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1974
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 5,
+    "energia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 4,
+    "latido": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Plott Hound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Plott Hound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Plott Hound é um sabujo americano único, o único dos sete 'coonhounds' que não descende de cães de rastro ingleses (foxhounds). De porte grande e constituição atlética e poderosa, ele é famoso por sua pelagem curta, densa e invariavelmente tigrada (brindle). Com orelhas pendentes de tamanho médio e um olhar que transborda determinação e inteligência, o Plott é um atleta de elite construído para a resistência em terrenos montanhosos. É um cão dotado de uma coragem lendária para enfrentar grandes predadores como ursos e javalis, mas que em casa se revela um companheiro extremamente dócil, protetor e profundamente apegado à sua família.",
+    "historia": "A raça leva o nome da família Plott, que imigrou da Alemanha para a Carolina do Norte em 1750. Johannes George Plott levou consigo cinco cães de tipo 'Hanoverian Scenthound' (Sabujo de Hanôver) de pelagem tigrada. Por sete gerações, a família Plott criou esses cães exclusivamente para caçar ursos pretos e javalis nas Montanhas Great Smoky, priorizando a bravura e a tenacidade. Diferente de outros hounds americanos, o Plott foi mantido como um segredo familiar por mais de um século antes de se tornar conhecido mundialmente. É hoje a raça oficial do estado da Carolina do Norte.",
     "curiosidades": [
-      "Plott Hound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Plott Hound é o único sabujo americano que descende de cães de rastro alemães em vez de ingleses ou franceses.",
+      "Eles possuem um latido curto e agudo, muitas vezes chamado de 'chop', que é perfeitamente audível através das florestas densas e montanhas.",
+      "A cor tigrada (brindle) é uma assinatura da raça, servindo originalmente como camuflagem nas florestas sombrias dos Apalaches.",
+      "Diferente de muitos sabujos que podem ser desatentos, o Plott é conhecido por ser um cão de guarda natural muito vigilante e territorial.",
+      "Eles são famosos por sua 'voz de hound' musical, sendo capazes de modular o tom do uivo para indicar o tipo de presa que estão rastreando."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam trilhas, corridas e atividades em áreas naturais",
+      "Tutores que vivem em propriedades rurais ou casas com grandes quintais muito bem cercados",
+      "Pessoas interessadas em atividades de faro, busca e salvamento",
+      "Quem busca um cão de guarda de alerta corajoso e leal",
+      "Proprietários que apreciam a história e a rusticidade das raças de trabalho americanas"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer exercícios diários exaustivos",
+      "Casas sem cercas de altíssima segurança (ele seguirá um rastro de urso ou javali por quilômetros)",
+      "Proprietários que buscam obediência cega (ele é independente e focado em objetivos)",
+      "Pessoas que se incomodam com latidos de alerta frequentes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Otites (infecções de ouvido devido ao formato pendente)",
+      "Problemas oculares leves",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Limpeza semanal das orelhas pendentes. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade após atividades em campo. As orelhas exigem inspeção frequente. Unhas devem ser mantidas curtas para não comprometer a postura atlética.",
+    "exercicios": "Necessita de MUITO exercício diário. O Plott Hound é um cão de maratona que precisa gastar energia física e mental. Longas trilhas, corridas em áreas seguras e, crucialmente, estímulo olfativo são essenciais. Se ficar entediado, ele desenvolverá comportamentos obsessivos e destrutivos.",
+    "treinamento": "O adestramento exige paciência e liderança firme. O Plott é inteligente mas independente. Use reforço positivo e petiscos de alto valor. O comando de 'recall' deve ser treinado exaustivamente, mas o instinto de hound sempre pode prevalecer se houver um cheiro interessante. A socialização precoce com pessoas e outros cães é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de grande porte. É vital dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica."
   },
   "seo": {
-    "title": "Plott Hound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Plott Hound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Plott Hound: O Corajoso Caçador de Ursos da Carolina - Guia de Raça",
+    "description": "Conheça o Plott Hound: descubra sua história heróica nas montanhas, seu temperamento leal e as dicas vitais de cuidados com este poderoso sabujo tigrado.",
     "keywords": [
-      "plott-hound",
-      "plott hound",
-      "médio",
-      "estados unidos"
+      "Plott Hound",
+      "Plott",
+      "cão caçador de ursos",
+      "sabujo americano",
+      "cão tigrado",
+      "cão da Carolina do Norte",
+      "raças de cães grandes",
+      "cuidados com Plott Hound",
+      "temperamento Plott"
     ]
   },
   "imagem_principal": "/images/breeds/plott-hound.jpg",
@@ -76,11 +92,56 @@
     "/images/breeds/plott-hound-2.jpg",
     "/images/breeds/plott-hound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=plott-hound",
-  "popularidade": 39557,
-  "ranking_brasil": 58,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Plott Hound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-plott",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-plott/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Faro e Trabalho do Plott Hound",
+      "url": "https://www.youtube.com/watch?v=example-plott-work",
+      "canal": "Hound Country",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "bluetick-coonhound",
+    "black-and-tan-coonhound",
+    "foxhound-americano"
+  ],
+  "cores_disponiveis": [
+    "Tigrado Amarelo",
+    "Tigrado Vermelho",
+    "Tigrado Preto",
+    "Tigrado Cinza",
+    "Preto Sólido (raro)"
+  ],
+  "marcacoes": [
+    "Padrão tigrado obrigatório",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Plott Hound foi fundamental para a colonização dos Apalaches, protegendo as famílias pioneiras de ursos e pumas. Johannes George Plott, ao imigrar para a América, guardou os registros de linhagem de seus cães em sua Bíblia familiar, uma tradição de manutenção de pedigree que a família Plott seguiu por mais de 200 anos.",
+  "referencias_externas": [
+    {
+      "titulo": "National Plott Hound Association",
+      "url": "https://www.nationalplotthoundassociation.org/",
+      "descricao": "Organização dedicada à preservação e fomento do Plott como cão de trabalho e companhia."
+    },
+    {
+      "titulo": "AKC - Plott Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/plott-hound/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    218,
-    1255
+    400,
+    900
   ]
 }

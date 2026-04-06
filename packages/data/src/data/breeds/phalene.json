@@ -3,69 +3,89 @@
   "nome": "Phalène",
   "slug": "phalene",
   "nome_en": "Phalène",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Cão Mariposa",
+    "Papillon de Orelhas Caídas",
+    "Spaniel Anão Continental"
+  ],
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "19.2 kg",
-    "peso_femea": "16.5 kg",
+    "origem": "França / Bélgica",
+    "expectativa_vida": "13 - 16 anos",
+    "altura_macho": "20 - 28 cm",
+    "altura_femea": "20 - 28 cm",
+    "peso_macho": "2.5 - 4.5 kg",
+    "peso_femea": "1.5 - 4 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1903
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 1,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 3
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Phalène é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Phalène originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Phalène é a variedade original e mais clássica do Spaniel Anão Continental, famoso por suas orelhas caídas e bem franjadas que lembram as asas de uma mariposa (phalène em francês). De porte pequeno e elegância suprema, ele possui uma pelagem longa, sedosa e farta, sem subpelo, que flui graciosamente. Sua expressão é de uma doçura inteligente e alerta. Diferente do seu primo Papillon (de orelhas eretas), o Phalène exala uma aura de refinamento vitoriano. É um cão dotado de uma inteligência brilhante, um temperamento alegre e uma agilidade surpreendente, sendo um companheiro de família intensamente devotado e vibrante.",
+    "historia": "A raça é uma das mais antigas entre os cães de companhia europeus, sendo a forma original do spaniel anão retratada em pinturas de mestres desde o século XVI (como Tiziano e Rubens). Por séculos, o Phalène foi o favorito absoluto da nobreza francesa e belga. A variedade de orelhas eretas (Papillon) surgiu e ganhou popularidade apenas no final do século XIX. Embora hoje o Papillon seja mais numeroso, o Phalène é preservado por entusiastas que valorizam o tipo ancestral da raça. Ambas as variedades são consideradas a mesma raça pela FCI, podendo nascer na mesma ninhada, mas são julgadas separadamente em exposições.",
     "curiosidades": [
-      "Phalène possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Phalène' refere-se às mariposas noturnas, cujas asas fechadas em repouso assemelham-se às orelhas caídas do cão.",
+      "O Phalène ocupa, junto com o Papillon, a 8ª posição no ranking de inteligência canina de Stanley Coren.",
+      "Eles são famosos por serem cães 'anti-odor', possuindo uma pele muito limpa e uma pelagem que raramente desenvolve o cheiro forte característico de cachorro.",
+      "Apesar da aparência de luxo, o Phalène é um atleta nato, destacando-se em competições de Agility e sendo capaz de acompanhar seus tutores em caminhadas longas.",
+      "Na corte de Henrique III da França, esses cães eram tão valorizados que o rei gastava fortunas em cestas de seda e joias para seus amados spaniels."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e lares urbanos",
+      "Pessoas que buscam um cão toy extremamente inteligente e fácil de treinar",
+      "Famílias com crianças (ele é resistente e adora participar de brincadeiras)",
+      "Quem busca um companheiro discreto, limpo e afetuoso",
+      "Tutores interessados em esportes caninos de agilidade"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que desejam um cão apenas para o colo (ele precisa de estímulo mental)",
+      "Pessoas que não podem dedicar tempo à escovação semanal da pelagem longa",
+      "Famílias com crianças muito brutas (ele possui ossatura fina)",
+      "Ambientes com frio extremo sem proteção (devido à falta de subpelo)",
+      "Tutores que se incomodam com latidos de alerta ocasionais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina)",
+      "Hipoglicemia (em filhotes muito pequenos)",
+      "Problemas dentários (acúmulo de tártaro)",
+      "Sensibilidade a anestésicos",
+      "Fontanela aberta (moleira)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde articular e oftalmológica. Higiene bucal diária. Cuidado redobrado com quedas de móveis altos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem sedosa é fácil de manter se escovada regularmente (duas a três vezes por semana) para evitar nós nas franjas das orelhas e pernas. Banhos devem ser mensais com bons condicionadores. A limpeza diária dos olhos é recomendada. A escovação dos dentes é MANDATÓRIA devido à propensão a doenças periodontais em raças toy.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para aprender truques satisfazem suas necessidades. Ele é um cão curioso que gosta de explorar novos ambientes e brincar com brinquedos de inteligência.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o Phalène é um prazer de treinar. Eles aprendem comandos novos com rapidez impressionante. Use apenas reforço positivo e mantenha os treinos curtos e variados para manter o interesse dele.",
+    "alimentacao": "Dieta de alta qualidade específica para raças pequenas. O controle das porções é fundamental para evitar o sobrepeso que prejudica as articulações e a vitalidade.",
   },
   "seo": {
-    "title": "Phalène - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Phalène: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Phalène: O Elegante e Ancestral Cão Mariposa - Guia de Raça",
+    "description": "Descubra o Phalène: conheça a história original do Spaniel Anão Continental, seu temperamento inteligente e as dicas vitais de cuidados com a pelagem e saúde.",
     "keywords": [
-      "phalene",
-      "phalène",
-      "médio",
-      "frança"
+      "Phalène",
+      "Cão Mariposa",
+      "Spaniel Anão Continental",
+      "Papillon de orelha caída",
+      "cão inteligente pequeno",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Phalène",
+      "temperamento Phalène"
     ]
   },
   "imagem_principal": "/images/breeds/phalene.jpg",
@@ -74,11 +94,56 @@
     "/images/breeds/phalene-2.jpg",
     "/images/breeds/phalene-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=phalene",
-  "popularidade": 46240,
-  "ranking_brasil": 106,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Phalene Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-phalene",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-phalene/hqdefault.jpg"
+    },
+    {
+      "titulo": "Phalene vs Papillon: Qual a Diferença?",
+      "url": "https://www.youtube.com/watch?v=example-phalene-diff",
+      "canal": "Mundo Canino",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "papillon",
+    "poodle-toy",
+    "maltes",
+    "havanese",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Pretas",
+    "Branco com manchas Vermelhas (Red)",
+    "Tricolor",
+    "Sable e Branco"
+  ],
+  "marcacoes": [
+    "Chama branca na face (blaze)",
+    "Orelhas caídas e bem franjadas",
+    "Branco deve ser a cor de fundo"
+  ],
+  "curiosidades_historicas": "A Rainha Ana da Áustria, mãe de Luís XIV, era uma das maiores entusiastas do Phalène, possuindo uma matilha de cães que a acompanhavam em todas as viagens entre as cortes de Paris e Madrid, ajudando a popularizar a raça em ambos os reinos como o cão de colo supremo.",
+  "referencias_externas": [
+    {
+      "titulo": "Papillon Club of America (inclui Phalène)",
+      "url": "https://papillonclub.org/",
+      "descricao": "Clube oficial de raça que preserva ambas as variedades do Spaniel Anão."
+    },
+    {
+      "titulo": "FCI - Continental Toy Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/CONTINENTAL-TOY-SPANIEL-77.html",
+      "descricao": "Padrão oficial morfológico internacional que engloba o Phalène."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    400,
-    726
+    250,
+    650
   ]
 }
