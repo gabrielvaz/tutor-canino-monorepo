@@ -5,72 +5,86 @@
   "nome_en": "Skye Terrier",
   "apelidos": [
     "Skye",
-    "Terrier"
+    "Terrier da Ilha de Skye",
+    "Cão de Maria Stuart"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "31 cm",
-    "altura_femea": "26 cm",
-    "peso_macho": "11.4 kg",
-    "peso_femea": "8.1 kg",
+    "origem": "Escócia (Ilha de Skye)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 30 cm (comprimento dobro da altura)",
+    "altura_femea": "23 - 28 cm",
+    "peso_macho": "11 - 18 kg",
+    "peso_femea": "11 - 18 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1987
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 1,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Skye Terrier é uma raça de porte pequeno originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Skye Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Skye Terrier é um dos cães mais imponentes e ancestrais da Escócia, uma figura de elegância rústica dotada de uma personalidade inabalável. De porte baixo, corpo extraordinariamente longo e pernas curtas, ele é coberto por uma pelagem dupla farta, longa e reta que flui por todo o corpo. Sua cabeça é adornada com orelhas grandes e bem franjadas (podendo ser eretas ou caídas) e uma franja que cobre os olhos, conferindo-lhe uma expressão de seriedade aristocrática. Conhecido mundialmente como o 'Diehard' (Duro de Matar), o Skye é um companheiro de uma lealdade quase mística, famoso por sua coragem absoluta e por seu temperamento reservado e digno.",
+    "historia": "A raça surgiu na Ilha de Skye, no arquipélago das Hébridas, há mais de quatro séculos. Originalmente, eram cães de trabalho rústicos usados por fazendeiros para caçar raposas, lontras e texugos entre as rochas. A raça ganhou status real quando a Rainha Vitória apaixonou-se por eles em 1842, tornando o Skye o cão de luxo mais cobiçado da nobreza britânica. Maria Stuart, a Rainha da Escócia, diziam possuir um Skye que a acompanhou até o cadafalso. O cão mais famoso da história da raça foi 'Greyfriars Bobby', que vigiou o túmulo de seu dono em Edimburgo por 14 anos, transformando o Skye Terrier no símbolo universal da fidelidade eterna.",
     "curiosidades": [
-      "Skye Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O padrão da raça exige que o Skye Terrier seja 'duas vezes mais longo do que alto', uma proporção única que o ajudava a entrar em fendas estreitas de rochas.",
+      "Eles são famosos por serem cães de 'um único dono', escolhendo uma pessoa favorita na família para dedicar uma devoção absoluta.",
+      "O Skye Terrier é considerado uma das raças nativas mais vulneráveis e em perigo de extinção no Reino Unido hoje.",
+      "Diferente de muitos terriers, o Skye é um cão de interior calmo e silencioso, preferindo vigiar o ambiente de um ponto estratégico.",
+      "A estátua de Greyfriars Bobby em Edimburgo é o monumento canino mais visitado da Escócia, honrando a memória de um Skye Terrier fiel."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Tutores que buscam um companheiro extremamente leal e de temperamento digno",
+      "Moradores de apartamentos e espaços urbanos (ele é muito calmo em interiores)",
+      "Pessoas que apreciam a estética de cães históricos e de aparência primitiva",
+      "Quem busca um cão de guarda de alerta vigilante e corajoso",
+      "Tutores experientes que entendam a independência e sensibilidade dos terriers"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas que não podem dedicar tempo à manutenção diária da pelagem longa",
+      "Famílias com crianças muito pequenas e barulhentas (ele exige ser tratado com respeito)",
+      "Tutores iniciantes que buscam obediência cega (ele questionará comandos se não respeitar o líder)",
+      "Ambientes com muitas escadas (devido ao corpo longo e risco de problemas de coluna)",
+      "Pessoas que buscam um cão 'festeiro' com todos os estranhos (ele é naturalmente reservado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "IVDD (Doença do Disco Intervertebral) - devido ao corpo longo",
+      "Skye Limp (coxeio juvenil - problema de crescimento ósseo)",
+      "Problemas renais hereditários",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Câncer (especialmente Hemangiossarcoma em cães seniores)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso da saúde da coluna vertebral. Check-ups renais anuais. É vital evitar que o cão salte de locais altos durante o crescimento (até os 2 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa e densa é alta. Exige escovação pelo menos três vezes por semana para evitar nós dolorosos e manter o pelo reto. Diferente de outros terriers, não se deve fazer o 'stripping' (remoção manual), mas apenas escovação e banhos mensais com bons condicionadores. A limpeza dos olhos e da barba após as refeições é essencial. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para explorar cheiros satisfazem suas necessidades. Evite atividades de alto impacto que sobrecarreguem a coluna. O estímulo mental através de desafios sensoriais é muito apreciado.",
+    "treinamento": "O adestramento exige paciência e reforço positivo. O Skye é inteligente mas independente e tem uma memória excelente (tanto para comandos quanto para ofensas). Nunca use métodos severos. A socialização precoce é MANDATÓRIA para evitar que sua reserva natural se torne timidez ou reatividade excessiva.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é fundamental para evitar o sobrepeso, o que coloca uma pressão perigosa sobre a coluna longa desta raça."
   },
   "seo": {
-    "title": "Skye Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Skye Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Skye Terrier: O Nobre e Fiel Guardião da Ilha de Skye - Guia de Raça",
+    "description": "Descubra o Skye Terrier: conheça sua história com a realeza escocesa, seu temperamento leal e as dicas vitais de cuidados com a coluna e pelagem longa.",
     "keywords": [
-      "skye-terrier",
-      "skye terrier",
-      "pequeno",
-      "escócia"
+      "Skye Terrier",
+      "Terrier da Ilha de Skye",
+      "Greyfriars Bobby",
+      "cão fiel escocês",
+      "cão de Maria Stuart",
+      "raças de cães raras",
+      "cuidados com Skye Terrier",
+      "temperamento Skye"
     ]
   },
   "imagem_principal": "/images/breeds/skye-terrier.jpg",
@@ -79,11 +93,56 @@
     "/images/breeds/skye-terrier-2.jpg",
     "/images/breeds/skye-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=skye-terrier",
-  "popularidade": 22345,
-  "ranking_brasil": 92,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Skye Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-skyeterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-skyeterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História de Greyfriars Bobby",
+      "url": "https://www.youtube.com/watch?v=example-bobby-story",
+      "canal": "History Channel",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "scottish-terrier",
+    "dandie-dinmont-terrier",
+    "sealyham-terrier",
+    "west-highland-white-terrier"
+  ],
+  "cores_disponiveis": [
+    "Cinza (Slate)",
+    "Preto Sólido",
+    "Fawn (Fulvo)",
+    "Creme",
+    "Prata"
+  ],
+  "marcacoes": [
+    "Orelhas, focinho e ponta da cauda pretos (obrigatórios)",
+    "Pelagem longa e reta (clássica)",
+    "Pode ser totalmente sólido ou sombreado"
+  ],
+  "curiosidades_historicas": "A Rainha Vitória era tão dedicada à raça que em seus canis em Windsor os Skye Terriers recebiam cuidados veterinários diários e dietas balanceadas muito à frente de seu tempo, elevando a raça a um patamar de luxo que ajudou a preservá-la durante a transição da vida rural para a urbana na Grã-Bretanha.",
+  "referencias_externas": [
+    {
+      "titulo": "Skye Terrier Club of America",
+      "url": "https://skyeterrierclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Skye Terrier Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SKYE-TERRIER-75.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    335,
-    728
+    300,
+    800
   ]
 }

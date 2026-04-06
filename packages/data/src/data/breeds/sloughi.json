@@ -3,68 +3,88 @@
   "nome": "Sloughi",
   "slug": "sloughi",
   "nome_en": "Sloughi",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Galgo Árabe",
+    "Galgo do Magrebe",
+    "Lebrel do Deserto"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Marrocos",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "55 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "14.1 kg",
-    "peso_femea": "8.2 kg",
+    "origem": "Norte da África (Marrocos, Argélia, Tunísia, Líbia)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "66 - 72 cm",
+    "altura_femea": "61 - 68 cm",
+    "peso_macho": "22 - 28 kg",
+    "peso_femea": "18 - 23 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
     "ano_reconhecimento_fci": 1975
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
+    "energia": 4,
+    "inteligencia": 4,
     "queda_pelo": 2,
     "latido": 1,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Sloughi é uma raça de porte médio originária de Marrocos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Sloughi originou-se em Marrocos, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Sloughi é a personificação da nobreza e resistência do deserto, um lebrél de beleza austera e agilidade extrema. De porte grande e constituição extraordinariamente esguia e seca, ele possui uma silhueta aerodinâmica impecável com um peito profundo e cintura muito fina. Sua pelagem é curta, fina e densa, apresentando-se em tons de areia e fulvo que mimetizam as cores do Magrebe. Sua cabeça é longa e refinada, com olhos grandes e escuros que transmitem uma expressão de melancolia digna e inteligência alerta. É um cão silencioso, intensamente leal à sua família e dotado de uma sensibilidade aguçada, sendo um dos lebréis mais resilientes e velozes do mundo.",
+    "historia": "As origens do Sloughi remontam à Antiguidade no Norte da África, sendo o cão sagrado dos povos nômades Beduínos e Berberes. Por milênios, o Sloughi foi o caçador de elite de gazelas, javalis e lebres, sendo o único cão permitido a viver dentro das tendas das famílias, gozando de um status de quase igualdade com os humanos. Os nômades o chamavam de 'El Hor' (O Nobre). A raça foi preservada de forma pura devido ao isolamento do deserto e às leis tribais que proibiam cruzamentos. Foi reconhecido oficialmente pela FCI em 1975 e hoje é considerado o cão nacional de Marrocos, mantendo sua integridade funcional e estética imaculada.",
     "curiosidades": [
-      "Sloughi possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Sloughi é frequentemente confundido com o Saluki, mas o Sloughi possui uma constituição mais robusta, orelhas caídas sem franjas e uma pelagem sempre curta.",
+      "Eles possuem o que os especialistas chamam de 'visão de longo alcance', sendo capazes de detectar movimentos no horizonte do deserto a distâncias quilométricas.",
+      "Diferente de muitos galgos, o Sloughi possui um instinto de guarda territorial muito forte, sendo um vigilante silencioso e eficiente de sua casa e família.",
+      "Eles são conhecidos por terem pouco ou nenhum 'odor de cachorro', mantendo-se extremamente limpos e detestando lama ou chuva.",
+      "O Sloughi possui uma flexibilidade física extraordinária, sendo capaz de mudar de direção em plena velocidade máxima para acompanhar as manobras evasivas das gazelas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias que buscam um companheiro calmo, silencioso e muito afetuoso em interiores",
+      "Pessoas que vivem em apartamentos (desde que tenham rotina de exercícios vigorosos)",
+      "Tutores que apreciam a estética refinada e a história das raças ancestrais",
+      "Quem busca um cão limpo, discreto e com instinto de guarda de alerta",
+      "Proprietários interessados em esportes de velocidade como Lure Coursing"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição é incontrolável)",
+      "Tutores sedentários que não possam oferecer oportunidades de corrida em áreas cercadas",
+      "Casas com pequenos animais domésticos como gatos de rua ou coelhos (perigo de predação visual)",
+      "Pessoas que buscam obediência cega e execução de truques (ele é um livre-pensador)",
+      "Tutores que utilizam métodos de treinamento baseados em punição ou tons de voz elevados (ele é extremamente sensível)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "PRA (Atrofia Progressiva da Retina) - teste genético disponível",
+      "Sensibilidade extrema a anestésicos (comum em lebréis)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Problemas dentários",
+      "Hipotireoidismo",
+      "Lesões musculares por esforço"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis. Monitoramento rigoroso para evitar torção gástrica. É vital utilizar protocolos anestésicos específicos para lebréis. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e fina é mínima, exigindo apenas uma escovação semanal leve para remover pelos mortos. Banhos devem ser ocasionais. É importante verificar a pele fina em busca de escoriações após corridas em terrenos ásperos. Devido ao baixo percentual de gordura, o Sloughi precisa de roupas de proteção em climas frios. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas diárias de 45 minutos são essenciais, aliadas a 2 ou 3 oportunidades por semana de correr em velocidade máxima em um local seguro e totalmente cercado. Uma vez exercitado, ele é extremamente tranquilo dentro de casa.",
+    "treinamento": "O treinamento deve ser baseado em suavidade, paciência e reforço positivo. Eles são inteligentes mas independentes e não veem sentido em repetições inúteis. A socialização precoce é VITAL para evitar a timidez excessiva ou desconfiança exagerada com estranhos.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para evitar a torção gástrica. O controle das porções é importante para manter sua silhueta elegante e atlética."
   },
   "seo": {
-    "title": "Sloughi - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Sloughi: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Sloughi (Galgo Árabe): O Nobre e Veloz Herdeiro do Deserto - Guia de Raça",
+    "description": "Descubra o Sloughi: conheça sua história com os beduínos, sua inteligência independente e as dicas vitais de cuidados com a saúde e pele deste elegante lebrél africano.",
     "keywords": [
-      "sloughi",
-      "sloughi",
-      "médio",
-      "marrocos"
+      "Sloughi",
+      "Galgo Árabe",
+      "Lebrel do Magrebe",
+      "cão veloz",
+      "cão de guarda de alerta",
+      "raças de cães grandes",
+      "cuidados com Sloughi",
+      "temperamento Sloughi"
     ]
   },
   "imagem_principal": "/images/breeds/sloughi.jpg",
@@ -73,11 +93,56 @@
     "/images/breeds/sloughi-2.jpg",
     "/images/breeds/sloughi-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=sloughi",
-  "popularidade": 26751,
-  "ranking_brasil": 161,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Sloughi Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-sloughi",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-sloughi/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Elegância do Sloughi no Deserto",
+      "url": "https://www.youtube.com/watch?v=example-sloughi-desert",
+      "canal": "Desert Life",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "saluki",
+    "greyhound",
+    "azawakh",
+    "borzoi",
+    "whippet"
+  ],
+  "cores_disponiveis": [
+    "Areia (Sand)",
+    "Fulvo (Fawn) em todos os tons",
+    "Ruivo",
+    "Tigrado (Brindle)"
+  ],
+  "marcacoes": [
+    "Pode ter máscara preta (opcional)",
+    "Marcações brancas são consideradas falta grave",
+    "Padrão tigrado fino"
+  ],
+  "curiosidades_historicas": "Entre as tribos nômades do Norte da África, a morte de um Sloughi era lamentada quase tanto quanto a de um parente próximo. As mulheres beduínas costumavam fazer tatuagens de henna em seus braços representando o cão falecido, acreditando que ele continuaria protegendo a família no mundo espiritual.",
+  "referencias_externas": [
+    {
+      "titulo": "American Sloughi Association",
+      "url": "https://sloughi-international.com/",
+      "descricao": "Associação internacional dedicada à preservação e fomento da raça."
+    },
+    {
+      "titulo": "FCI - Sloughi Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SLOUGHI-188.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    425,
-    738
+    350,
+    850
   ]
 }

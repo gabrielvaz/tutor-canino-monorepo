@@ -5,71 +5,87 @@
   "nome_en": "Australian Silky Terrier",
   "apelidos": [
     "Silky",
-    "Terrier"
+    "Terrier Australiano de Seda",
+    "Sydney Silky"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Austrália",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "33 cm",
-    "altura_femea": "30 cm",
-    "peso_macho": "9.6 kg",
-    "peso_femea": "3.9 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "23 - 26 cm",
+    "altura_femea": "23 - 26 cm",
+    "peso_macho": "4.5 - 5 kg",
+    "peso_femea": "4 - 4.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1969
+    "ano_reconhecimento_fci": 1962
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Silky Terrier é uma raça de porte pequeno originária de Austrália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Silky Terrier originou-se em Austrália, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Silky Terrier Australiano é um cão pequeno de elegância suprema e vivacidade terrier autêntica. Frequentemente confundido com o Yorkshire Terrier, o Silky é ligeiramente maior, mais baixo e possui uma constituição mais robusta e atlética. Sua pelagem é sua assinatura: longa, sedosa e perfeitamente plana, caindo em um azul prateado e castanho (tan) brilhante que realça sua fisionomia aristocrática. Com orelhas eretas e um olhar que transborda prontidão, o Silky é um cão de temperamento alerta, corajoso e intensamente afetuoso, sendo um companheiro de apartamento dinâmico que não hesita em agir como um pequeno guardião vigilante.",
+    "historia": "A raça desenvolveu-se na Austrália (especialmente em Sydney e Melbourne) no final do século XIX, através de cruzamentos entre o Yorkshire Terrier e o Australian Terrier rústico. O objetivo era unir a beleza sedosa do Yorkie com a força e habilidade de caçador de cobras e ratos do terrier australiano original. Inicialmente, a raça era conhecida como 'Sydney Silky'. Durante décadas, houve debates intensos sobre o padrão da raça, que só foi unificado e reconhecido oficialmente em 1958 na Austrália e posteriormente pela FCI, consolidando o Silky como uma raça distinta e versátil.",
     "curiosidades": [
-      "Silky Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente do Yorkshire Terrier, o pelo do Silky Terrier não deve chegar ao chão; o padrão da raça exige que a pelagem termine logo acima do nível do solo para permitir agilidade.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem, semelhante ao cabelo humano, não possui subpelo e cai muito pouco.",
+      "O Silky Terrier é famoso por manter o seu instinto de 'terrier de trabalho' intacto, sendo um exímio caçador de pequenos roedores e lagartos em jardins.",
+      "Eles possuem um andar elástico e rápido, descrito como se estivessem sempre prontos para uma investigação minuciosa.",
+      "Apesar da aparência de luxo, o Silky é conhecido por sua resistência física, sendo capaz de acompanhar os tutores em caminhadas moderadas sem se cansar facilmente."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas com alergias leves a pelos de cães",
+      "Tutores que buscam um cão pequeno com personalidade forte e inteligente",
+      "Famílias com crianças que saibam respeitar o espaço do animal",
+      "Quem deseja um companheiro alerta e vigilante (ele é um excelente cão de aviso)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas que não podem dedicar tempo diário à escovação da pelagem sedosa",
+      "Tutores sedentários que buscam um cão passivo para ficar apenas no colo",
+      "Casas com pequenos roedores de estimação (seu instinto de caça é extremo)",
+      "Tutores que se incomodam com latidos de alerta frequentes",
+      "Ambientes onde o cão ficará confinado sem estímulo mental constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Patela",
+      "Doença de Legg-Calve-Perthes (problema no fêmur)",
+      "Diabetes Mellitus",
+      "Colapso de Traqueia (comum em raças pequenas)",
+      "Problemas oculares (Catarata e PRA)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e dentários anuais. Monitoramento rigoroso dos níveis de glicose em cães adultos. Uso de peitoral em vez de coleira para proteger a traqueia."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação diária ou pelo menos três vezes por semana para evitar nós e manter o brilho metálico. Banhos devem ser quinzenais com produtos hidratantes de alta qualidade. O pelo ao redor das patas e ânus deve ser aparado por higiene. A limpeza diária dos olhos é recomendada. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para explorar cheiros e brincar com brinquedos de inteligência satisfazem suas necessidades. Ele adora aprender truques e participar de jogos de busca interna.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e clareza. Eles aprendem comandos novos rapidamente se houver motivação. A socialização precoce é VITAL para evitar a timidez ou reatividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade específica para raças pequenas. O controle das porções é essencial para evitar o sobrepeso, o que sobrecarrega as articulações finas e prejudica a vitalidade."
   },
   "seo": {
-    "title": "Silky Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Silky Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Silky Terrier Australiano: Elegância e Valentia em um Cão de Seda",
+    "description": "Descubra o Silky Terrier: conheça seu temperamento dinâmico, sua história na Austrália e as dicas vitais de cuidados com a pelagem e saúde desta raça inteligente.",
     "keywords": [
-      "silky-terrier",
-      "silky terrier",
-      "pequeno",
-      "austrália"
+      "Silky Terrier",
+      "Australian Silky Terrier",
+      "cão de seda",
+      "cão inteligente pequeno",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Silky Terrier",
+      "temperamento Silky"
     ]
   },
   "imagem_principal": "/images/breeds/silky-terrier.jpg",
@@ -78,11 +94,55 @@
     "/images/breeds/silky-terrier-2.jpg",
     "/images/breeds/silky-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=silky-terrier",
-  "popularidade": 41348,
-  "ranking_brasil": 75,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Australian Silky Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-silkyterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-silkyterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "Silky Terrier vs Yorkshire: Qual a Diferença?",
+      "url": "https://www.youtube.com/watch?v=example-silky-yorkie",
+      "canal": "Mundo Terrier",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "yorkshire-terrier",
+    "australian-terrier",
+    "chihuahua",
+    "maltes",
+    "norwich-terrier"
+  ],
+  "cores_disponiveis": [
+    "Azul Prateado e Tan",
+    "Azul Ardósia e Tan",
+    "Azul e Fogo"
+  ],
+  "marcacoes": [
+    "Padrão de cores bem definido (azul no dorso, tan na face e pernas)",
+    "Pelo do topo da cabeça (topknot) mais claro",
+    "Não deve possuir pelos pretos em adultos"
+  ],
+  "curiosidades_historicas": "O Silky Terrier foi uma das primeiras raças a serem reconhecidas como 'verdadeiramente australianas', representando o esforço dos criadores coloniais para adaptar a estética europeia (Yorkie) à funcionalidade exigida pelo rigoroso clima e fauna da Austrália, criando um cão que era ao mesmo tempo um companheiro de luxo e um vigilante rústico.",
+  "referencias_externas": [
+    {
+      "titulo": "Silky Terrier Club of America",
+      "url": "https://silkyterrierclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Australian Silky Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-SILKY-TERRIER-236.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    260,
-    957
+    250,
+    650
   ]
 }

@@ -4,72 +4,88 @@
   "slug": "soft-coated-wheaten-terrier",
   "nome_en": "Soft Coated Wheaten Terrier",
   "apelidos": [
-    "Soft",
-    "Terrier"
+    "Wheaten",
+    "Terrier de Pelo Macio",
+    "Cão de Trigo"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Irlanda",
     "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "34 cm",
-    "altura_femea": "30 cm",
-    "peso_macho": "6.1 kg",
-    "peso_femea": "0.7 kg",
+    "altura_macho": "46 - 48 cm",
+    "altura_femea": "43 - 46 cm",
+    "peso_macho": "15 - 18 kg",
+    "peso_femea": "13 - 16 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1917
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 2,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Soft Coated Wheaten Terrier é uma raça de porte pequeno originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Soft Coated Wheaten Terrier originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Soft Coated Wheaten Terrier é o 'gentil cavalheiro' da família terrier, um cão de porte médio famoso por sua pelagem sedosa e de cor de trigo que flui suavemente com o movimento. Diferente da maioria dos terriers que possuem pelos duros e rústicos, o Wheaten possui uma pelagem de camada única extraordinariamente macia ao toque. De constituição atlética, quadrada e bem balanceada, ele exala uma aura de alegria e vivacidade. É um cão dotado de uma personalidade intensamente afetuosa, menos agressivo que outros terriers e famoso por sua 'saudação de corpo inteiro', sendo um companheiro de família exuberante e muito apegado aos seus tutores.",
+    "historia": "A raça tem raízes ancestrais na Irlanda, onde foi por séculos o 'cão do povo' ou o 'wolfhound do homem pobre'. Enquanto a nobreza mantinha matilhas de galgos e cães de rastro, os camponeses irlandeses dependiam do Wheaten para tudo: pastorear gado, caçar pragas, buscar aves na água e proteger a casa. Eles compartilham ancestrais comuns com o Kerry Blue e o Terrier Irlandês. A raça foi formalmente reconhecida pelo Kennel Club Irlandês em 1937, justamente no dia de São Patrício, consolidando sua posição como um dos símbolos da vida rural e da resistência da Irlanda.",
     "curiosidades": [
-      "Soft Coated Wheaten Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Wheaten é famoso pelo 'Wheaten Greet', uma saudação extremamente entusiasmada onde o cão pula para tentar lamber o rosto das pessoas como sinal de alegria máxima.",
+      "Eles são considerados cães hipoalergênicos porque não possuem subpelo e sua pelagem, similar ao cabelo humano, quase não cai.",
+      "Os filhotes de Wheaten nascem escuros, às vezes quase pretos ou avermelhados, e clareiam gradualmente até atingirem a cor de trigo maduro definitiva por volta dos dois anos.",
+      "Diferente de muitos terriers que são solitários, o Wheaten é um cão de matilha nato e adora a companhia de outros cães.",
+      "Eles possuem o que os especialistas chamam de 'botão de desligar' dentro de casa, sendo muito mais calmos e silenciosos do que outros terriers de alta energia quando estão em família."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias com crianças (ele é extremamente paciente e adora participar das brincadeiras)",
+      "Pessoas com alergias a pelos de cães que buscam um cão de porte médio",
+      "Tutores ativos que buscam um companheiro para caminhadas e vida social intensa",
+      "Quem deseja um terrier com temperamento mais dócil e menos reativo",
+      "Proprietários que apreciam cuidar da estética canina e escovação frequente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas extremamente zelosas com a limpeza absoluta da casa (a pelagem traz sujeira da rua facilmente)",
+      "Tutores sedentários que não possam oferecer estímulo físico e mental diário",
+      "Ambientes onde o cão ficará sozinho por longos períodos (sofre com ansiedade de separação)",
+      "Pessoas que não podem dedicar tempo à escovação frequente para evitar nós na pelagem sedosa",
+      "Tutores que não toleram uma certa dose de 'exuberância' física no contato social"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "PLE (Enteropatia perdedora de proteínas - problema intestinal genético)",
+      "PLN (Nefropatia perdedora de proteínas - problema renal genético)",
+      "Displasia de Quadril",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Alergias de pele e dermatites"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento renal e intestinal anual através de exames de sangue e urina é vital para a raça. Check-ups ortopédicos. Testes de DNA para doenças hereditárias antes da reprodução."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é muito alta. Exige escovação pelo menos três vezes por semana até a pele para evitar nós dolorosos que se formam rapidamente. Diferente de outros terriers, não se faz 'stripping', apenas tosa profissional a cada 2 meses para manter o visual e a higiene. Banhos devem ser mensais com excelentes condicionadores. É vital limpar os olhos e a barba diariamente após as refeições. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas diárias vigorosas e sessões de brincadeira que envolvam busca de objetos ou trilhas são ideais. O Wheaten adora interagir socialmente e se sente feliz em parques ou áreas gramadas seguras.",
+    "treinamento": "Inteligente mas independente e às vezes teimoso. O adestramento deve ser baseado inteiramente em reforço positivo e consistência. Eles são sensíveis e respondem mal à rispidez. A socialização precoce é fundamental para canalizar sua energia de forma disciplinada e evitar que o 'Wheaten Greet' se torne invasivo.",
+    "alimentacao": "Dieta de alta qualidade com níveis controlados de proteína conforme orientação veterinária para proteger os rins. O controle das porções é fundamental para evitar o sobrepeso que prejudica as articulações."
   },
   "seo": {
-    "title": "Soft Coated Wheaten Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Soft Coated Wheaten Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Soft Coated Wheaten Terrier: O Doce e Alegre Cão de Trigo - Guia de Raça",
+    "description": "Descubra o Soft Coated Wheaten Terrier: conheça sua inteligência brilhante, sua pelagem sedosa hipoalergênica e as dicas vitais de saúde e cuidados para este leal irlandês.",
     "keywords": [
-      "soft-coated-wheaten-terrier",
-      "soft coated wheaten terrier",
-      "pequeno",
-      "irlanda"
+      "Soft Coated Wheaten Terrier",
+      "Wheaten",
+      "cão de trigo",
+      "terrier irlandês dócil",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Wheaten",
+      "temperamento Wheaten",
+      "Wheaten Greet"
     ]
   },
   "imagem_principal": "/images/breeds/soft-coated-wheaten-terrier.jpg",
@@ -78,11 +94,54 @@
     "/images/breeds/soft-coated-wheaten-terrier-2.jpg",
     "/images/breeds/soft-coated-wheaten-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=soft-coated-wheaten-terrier",
-  "popularidade": 25796,
-  "ranking_brasil": 166,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Soft Coated Wheaten Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-wheaten",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-wheaten/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento do Wheaten em Família",
+      "url": "https://www.youtube.com/watch?v=example-wheaten-life",
+      "canal": "Mundo Terrier",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "kerry-blue-terrier",
+    "irish-terrier",
+    "airedale-terrier",
+    "bearded-collie"
+  ],
+  "cores_disponiveis": [
+    "Trigo (Wheaten) em todos os tons",
+    "Dourado Pálido",
+    "Mel"
+  ],
+  "marcacoes": [
+    "Totalmente sólido cor de trigo",
+    "Barba e sobrancelhas características",
+    "Pode ter máscara cinza leve nos filhotes que desaparece"
+  ],
+  "curiosidades_historicas": "O Wheaten Terrier foi um dos segredos mais bem guardados da Irlanda rural por séculos. A raça só começou a ser levada a sério como raça de exposição na década de 1930, quando os criadores perceberam que este cão camponês possuía uma elegância e inteligência que superava muitas raças aristocráticas da época.",
+  "referencias_externas": [
+    {
+      "titulo": "Soft Coated Wheaten Terrier Club of America",
+      "url": "https://scwtca.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Soft Coated Wheaten Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/SOFT-COATED-WHEATEN-TERRIER-40.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 20000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    237,
-    646
+    350,
+    800
   ]
 }
