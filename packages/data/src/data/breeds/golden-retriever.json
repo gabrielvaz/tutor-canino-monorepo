@@ -5,71 +5,87 @@
   "nome_en": "Golden Retriever",
   "apelidos": [
     "Golden",
-    "Retriever",
-    "Dourado"
+    "Dourado",
+    "Cão Sorridente"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "68 cm",
-    "altura_femea": "64 cm",
-    "peso_macho": "31.6 kg",
-    "peso_femea": "27 kg",
+    "origem": "Escócia (Terras Altas)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "56 - 61 cm",
+    "altura_femea": "51 - 56 cm",
+    "peso_macho": "30 - 34 kg",
+    "peso_femea": "25 - 32 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1988
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 4,
-    "queda_pelo": 4,
-    "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Golden Retriever é uma raça de porte grande originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Golden Retriever originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Golden Retriever é, talvez, a raça mais amada do mundo, a própria definição de um 'melhor amigo do homem'. De porte grande e constituição harmoniosa, ele é famoso por sua pelagem dourada brilhante, que varia do creme ao ouro escuro, e por uma expressão de doçura e bondade inigualáveis. É um cão dotado de uma inteligência brilhante, uma paciência infinita e um desejo insaciável de agradar seus tutores. Com sua cauda que nunca para de abanar e seu temperamento alegre e equilibrado, o Golden é o companheiro de família por excelência, destacando-se não apenas como animal de estimação, mas como um dos melhores cães de serviço e assistência do planeta.",
+    "historia": "A raça foi desenvolvida na Escócia em meados do século XIX por Dudley Marjoribanks, o primeiro Lord Tweedmouth. Ele buscou criar um retriever que fosse capaz de buscar aves em terrenos difíceis e águas geladas, mas que tivesse um temperamento calmo e dócil em casa. Lord Tweedmouth cruzou um retriever amarelo chamado 'Nous' com uma cadela Tweed Water Spaniel chamada 'Belle'. Através de gerações de cruzamentos planejados com setters e bloodhounds, a raça foi estabilizada. O Golden Retriever foi reconhecido oficialmente pelo Kennel Club inglês em 1911 e, desde então, tornou-se um fenômeno global de popularidade.",
     "curiosidades": [
-      "Golden Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Golden Retriever ocupa o 4º lugar no ranking de inteligência canina de Stanley Coren.",
+      "Eles possuem o que é chamado de 'boca macia', uma habilidade instintiva de carregar objetos frágeis (como um ovo cru) na boca sem quebrá-los.",
+      "A raça é famosa por manter um comportamento de 'filhote' até bem tarde na vida, muitas vezes até os 3 ou 4 anos de idade.",
+      "Eles são nadadores excepcionais por natureza, dotados de pelagem impermeável e membranas interdigitais que facilitam o nado.",
+      "Os Goldens são frequentemente usados em operações de busca e salvamento devido ao seu faro apurado e determinação focada no resgate humano."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças de todas as idades",
+      "Tutores de primeira viagem que buscam um cão dócil e fácil de treinar",
+      "Pessoas que buscam um parceiro para atividades ao ar livre como caminhadas e natação",
+      "Casas com outros animais de estimação (ele é extremamente sociável)",
+      "Quem deseja um cão para treinamento de assistência ou terapia emocional"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Pessoas extremamente zelosas com a limpeza absoluta da casa (ele solta muito pelo e adora lama)",
+      "Tutores que ficam fora de casa o dia todo (ele sofre severamente com a solidão e ansiedade)",
+      "Proprietários que buscam um cão de guarda agressivo (ele costuma receber estranhos com alegria)",
+      "Moradores de apartamentos muito pequenos sem rotina intensa de exercícios externos",
+      "Tutores sedentários que não possam oferecer estímulo físico e mental diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Displasia de Quadril e Cotovelo",
+      "Cânceres (especialmente Hemangiossarcoma e Linfoma - incidência alta na raça)",
+      "Problemas oculares (PRA e Catarata)",
+      "Estenose Aórtica (problema cardíaco)",
+      "Hipotireoidismo",
+      "Hot Spots (dermatites úmidas agudas)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e cardíacos anuais. Monitoramento rigoroso da pele sob a pelagem densa. Exames preventivos oncológicos regulares em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Escovação pelo menos três vezes por semana é obrigatória para evitar nós e gerenciar a queda intensa de pelos. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais, com secagem MUITO minuciosa do subpelo para evitar dermatites. As orelhas pendentes devem ser limpas semanalmente.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 hora de atividade vigorosa. Natação é a sua atividade favorita, mas ele também adora jogos de busca (fetch) e caminhadas em parques. O estímulo mental através de truques e jogos de inteligência é fundamental.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o treinamento do Golden é prazeroso e eficaz. Eles respondem maravilhosamente bem ao reforço positivo, elogios e carinho. A socialização precoce é importante para garantir que seu entusiasmo natural não se torne impulsividade.",
+    "alimentacao": "Dieta de alta qualidade com controle rigoroso de calorias. O Golden Retriever vive para comer e tem uma tendência enorme à obesidade, o que agrava drasticamente seus problemas articulares."
   },
   "seo": {
-    "title": "Golden Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Golden Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Golden Retriever: O Guia Completo da Raça Mais Amada do Mundo",
+    "description": "Tudo sobre o Golden Retriever: conheça seu temperamento doce, inteligência brilhante e história escocesa. Dicas vitais de saúde, cuidados com o pelo e exercícios.",
     "keywords": [
-      "golden-retriever",
-      "golden retriever",
-      "grande",
-      "escócia"
+      "Golden Retriever",
+      "Golden",
+      "cão de família",
+      "cão inteligente",
+      "cão para crianças",
+      "raças de cães grandes",
+      "cuidados com Golden Retriever",
+      "temperamento Golden",
+      "saúde do Golden"
     ]
   },
   "imagem_principal": "/images/breeds/golden-retriever.jpg",
@@ -78,57 +94,53 @@
     "/images/breeds/golden-retriever-2.jpg",
     "/images/breeds/golden-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=golden-retriever",
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
   "videos_youtube": [
     {
-      "titulo": "Golden Retriever - Tudo sobre a raça",
+      "titulo": "Golden Retriever - Tudo Sobre a Raça",
       "url": "https://www.youtube.com/watch?v=example-golden",
-      "canal": "Pet Brasil",
+      "canal": "Dogs 101",
       "thumbnail": "https://img.youtube.com/vi/example-golden/hqdefault.jpg"
     },
     {
-      "titulo": "Golden Retriever: Características e Temperamento",
-      "url": "https://www.youtube.com/watch?v=example-golden-temp",
-      "canal": "Mundo Pet",
-      "duracao": "12:34"
-    },
-    {
-      "titulo": "Como adestrar seu Golden Retriever",
-      "url": "https://www.youtube.com/watch?v=example-golden-train",
-      "canal": "Turbo Treino"
+      "titulo": "Como é a Vida com um Golden Retriever",
+      "url": "https://www.youtube.com/watch?v=example-golden-life",
+      "canal": "Tutor Canino",
+      "duracao": "12:15"
     }
   ],
   "racas_relacionadas": [
     "labrador-retriever",
-    "pastor-alemao",
-    "border-collie"
+    "flat-coated-retriever",
+    "setter-irlandes",
+    "pastor-alemao"
   ],
   "cores_disponiveis": [
-    "Dourado",
-    "Creme",
-    "Escuro"
+    "Dourado Claro (Cream)",
+    "Dourado Tradicional",
+    "Dourado Escuro (Gold)"
   ],
   "marcacoes": [
-    "Mancha branca no peito",
-    "Dourado uniforme"
+    "Totalmente sólido (tonalidades de dourado)",
+    "Franjas mais claras nas pernas e cauda"
   ],
-  "curiosidades_historicas": "O Golden Retriever foi desenvolvido na Escócia em meados do século XIX pelo Lord Tweedmouth, e ganhou popularidade rapidamente por ser um excelente cão de caça e retriever de água, mesmo em condições climáticas adversas. É uma das raças mais populares do mundo.",
+  "curiosidades_historicas": "Lord Tweedmouth, o criador da raça, mantinha um registro meticuloso de cada nascimento e cruzamento entre 1835 e 1890. Estes registros, que sobreviveram ao tempo, provaram definitivamente a origem da raça e derrubaram a lenda antiga de que os Goldens descendiam de cães de circo russos, confirmando seu pedigree puramente britânico.",
   "referencias_externas": [
     {
-      "titulo": "American Kennel Club - Golden Retriever",
-      "url": "https://www.akc.org/dog-breeds/golden-retriever/",
-      "descricao": "Padrão oficial da raça nos Estados Unidos"
+      "titulo": "Golden Retriever Club of America",
+      "url": "https://grca.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
     },
     {
-      "titulo": "CBKC - Golden Retriever",
-      "url": "https://www.cbkc.org.br/breeds/golden-retriever",
-      "descricao": "Padrão oficial da raça no Brasil"
+      "titulo": "The Golden Retriever Club (UK)",
+      "url": "https://thegoldenretrieverclub.co.uk/",
+      "descricao": "O clube de raça original no país de origem."
     }
   ],
-  "popularidade": 33125,
-  "ranking_brasil": 125,
+  "popularidade": 50000,
+  "ranking_brasil": 2,
   "custo_mensal_estimado": [
-    335,
-    958
+    400,
+    1200
   ]
 }

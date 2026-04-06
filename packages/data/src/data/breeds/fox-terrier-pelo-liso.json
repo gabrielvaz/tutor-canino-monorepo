@@ -5,70 +5,86 @@
   "nome_en": "Smooth Fox Terrier",
   "apelidos": [
     "Fox",
-    "Liso"
+    "Liso",
+    "Smoothie"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "31 cm",
-    "altura_femea": "26 cm",
-    "peso_macho": "6.5 kg",
-    "peso_femea": "4 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "36 - 39 cm",
+    "altura_femea": "33 - 36 cm",
+    "peso_macho": "7.5 - 9 kg",
+    "peso_femea": "6.5 - 8 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1962
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 1,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
     "latido": 4,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Fox Terrier Pelo Liso é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Fox Terrier Pelo Liso originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Fox Terrier Pelo Liso é um mestre da agilidade e da elegância rústica. De porte médio e constituição atlética, ele possui uma pelagem curta, densa e lisa que realça sua musculatura bem definida. Caracteriza-se por sua cabeça longa e afilada, orelhas pequenas em forma de 'V' que caem para frente e um olhar que transborda inteligência e prontidão. Diferente de seu primo de pelo duro, o Smooth Fox Terrier possui uma silhueta mais limpa e aerodinâmica. É um cão dotado de uma energia inesgotável, uma coragem destemida e um senso de humor vibrante, sendo famoso por sua lealdade e por estar sempre pronto para uma nova investigação.",
+    "historia": "A raça surgiu na Inglaterra no século XVIII, sendo desenvolvida especificamente para acompanhar matilhas de Foxhounds na caça à raposa. Enquanto os cães maiores seguiam o rastro, o Fox Terrier era encarregado de entrar nas tocas e forçar a raposa a sair (bolting). Por muito tempo, ele foi considerado o mais 'clássico' dos terriers, sendo a primeira variedade a ser padronizada. Embora compartilhe ancestrais com o Fox de Pelo Duro, o Pelo Liso é reconhecido como uma raça distinta há mais de um século. Ele evoluiu de um trabalhador rústico de campo para um dos cães de exposição mais bem-sucedidos da história e um companheiro doméstico ágil.",
     "curiosidades": [
-      "Fox Terrier Pelo Liso possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Fox Terrier Pelo Liso foi uma das primeiras raças a serem oficialmente registradas no Kennel Club inglês em 1875.",
+      "Eles são conhecidos como 'artistas da fuga', sendo capazes de pular cercas surpreendentemente altas ou cavar sob elas em segundos.",
+      "Milu, o cão heróico das Aventuras de Tintim, é um Fox Terrier Pelo Liso (embora muitas vezes retratado como branco puro).",
+      "Eles possuem um hábito curioso de 'marcar passo' quando estão muito animados, movendo as patas dianteiras sem sair do lugar.",
+      "Apesar do tamanho, o Fox Liso é um dos cães de alerta mais vigilantes, percebendo qualquer mudança sonora ao redor da casa instantaneamente."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias muito ativas que praticam corridas, trilhas e jogos constantes",
+      "Tutores que apreciam um cão com personalidade forte, inteligente e independente",
+      "Quem vive em casas com quintais muito seguros e bem cercados",
+      "Proprietários interessados em esportes caninos como Agility ou Flyball",
+      "Pessoas que buscam um cão de médio porte rústico e fácil de manter limpo"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão de colo calmo e passivo",
+      "Casas com pequenos animais domésticos como gatos ou hamsters (instinto de caça de presas pequenas é extremo)",
+      "Moradores de apartamentos com vizinhos sensíveis a latidos de alerta frequentes",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança firme",
+      "Proprietários que não podem oferecer pelo menos 1 a 2 horas de exercícios vigorosos diários"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Lente Primária (PLL)",
+      "Luxação de Patela",
+      "Surdez (ocasional em exemplares com muito branco)",
+      "Hipotireoidismo",
+      "Problemas dentários (acúmulo de tártaro)",
+      "Ataxia Cerebelar (rara)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são essenciais devido ao risco de PLL. Check-ups ortopédicos regulares. É importante realizar a limpeza dental frequente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem lisa é muito fácil, exigindo apenas uma escovação semanal com luva de borracha ou escova macia para remover pelos mortos. Banhos devem ser mensais. As orelhas devem ser verificadas semanalmente. Unhas devem ser mantidas curtas para não comprometer sua agilidade natural.",
+    "exercicios": "Necessita de muito exercício físico e, principalmente, estímulo mental. O Fox Terrier Liso é uma 'pilha de energia' que precisa de caminhadas rápidas, jogos de perseguição e desafios de inteligência. Sem gasto de energia, ele pode se tornar excessivamente cavador e destrutivo.",
+    "treinamento": "Extremamente inteligente e aprende truques com facilidade incrível. No entanto, é independente e pode ser teimoso se o treinamento for repetitivo. O adestramento deve ser baseado em reforço positivo, rapidez e variedade. A socialização precoce é MANDATÓRIA para evitar que se torne reativo com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça saltadora e veloz."
   },
   "seo": {
-    "title": "Fox Terrier Pelo Liso - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Fox Terrier Pelo Liso: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Fox Terrier Pelo Liso: O Guia Completo do Inteligente Caçador Inglês",
+    "description": "Conheça o Fox Terrier Pelo Liso: descubra seu temperamento audaz, sua história como cão de Tintim e os cuidados essenciais com este ágil terrier.",
     "keywords": [
-      "fox-terrier-pelo-liso",
-      "fox terrier pelo liso",
-      "pequeno",
-      "inglaterra"
+      "Fox Terrier Pelo Liso",
+      "Smooth Fox Terrier",
+      "cão de Tintim",
+      "cão caçador de raposas",
+      "raças de cães médias",
+      "cuidados com Fox Terrier",
+      "temperamento Fox Terrier",
+      "Agility dog"
     ]
   },
   "imagem_principal": "/images/breeds/fox-terrier-pelo-liso.jpg",
@@ -77,11 +93,54 @@
     "/images/breeds/fox-terrier-pelo-liso-2.jpg",
     "/images/breeds/fox-terrier-pelo-liso-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=fox-terrier-pelo-liso",
-  "popularidade": 44081,
-  "ranking_brasil": 149,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Smooth Fox Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-smoothfox",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-smoothfox/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Fox Terrier Pelo Liso",
+      "url": "https://www.youtube.com/watch?v=example-fox-agility",
+      "canal": "Mundo Canino",
+      "duracao": "08:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "fox-terrier-pelo-duro",
+    "jack-russell-terrier",
+    "parson-russell-terrier",
+    "rat-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco predominante com manchas Pretas",
+    "Branco predominante com manchas Fogo (Tan)",
+    "Tricolor (Branco, Preto e Fogo)"
+  ],
+  "marcacoes": [
+    "Manchas na cabeça e orelhas",
+    "Sela ou manchas no dorso",
+    "Branco deve ser a cor dominante"
+  ],
+  "curiosidades_historicas": "O Fox Terrier Pelo Liso foi por décadas o rosto da famosa marca de gramofones e discos Victor (e mais tarde RCA), representado pelo cão 'Nipper' ouvindo 'A Voz do seu Dono'. Nipper era um Terrier mestiço, mas sua aparência moldou o ideal do Fox Terrier Liso como o cão de companhia atento e fiel da era vitoriana.",
+  "referencias_externas": [
+    {
+      "titulo": "The Smooth Fox Terrier Club (UK)",
+      "url": "http://www.smoothfoxterrierclub.co.uk/",
+      "descricao": "O clube de raça original fundado na Inglaterra."
+    },
+    {
+      "titulo": "AKC - Smooth Fox Terrier Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/smooth-fox-terrier/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 125,
   "custo_mensal_estimado": [
-    301,
-    1077
+    300,
+    700
   ]
 }

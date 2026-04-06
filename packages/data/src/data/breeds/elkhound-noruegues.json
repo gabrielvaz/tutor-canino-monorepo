@@ -4,70 +4,86 @@
   "slug": "elkhound-noruegues",
   "nome_en": "Norwegian Elkhound",
   "apelidos": [
-    "Elkhound",
-    "Norueguês"
+    "Cão de Alce",
+    "Norsk Elghund"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Noruega",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "55 cm",
-    "altura_femea": "52 cm",
-    "peso_macho": "23.9 kg",
-    "peso_femea": "20 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "50 - 52 cm",
+    "altura_femea": "47 - 49 cm",
+    "peso_macho": "23 - 25 kg",
+    "peso_femea": "20 - 23 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1900
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 5,
-    "queda_pelo": 1,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 5,
     "latido": 5,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Elkhound Norueguês é uma raça de porte médio originária de Noruega. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Elkhound Norueguês originou-se em Noruega, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Elkhound Norueguês é um cão de caça rústico e majestoso, a personificação da resiliência nórdica. Como um clássico Spitz, ele possui um corpo quadrado e compacto, orelhas eretas e pontiagudas, e uma cauda farta que se enrola firmemente sobre o dorso. Sua pelagem dupla é espessa e resistente às intempéries, em tons variados de cinza com pontas pretas. Sua expressão é alerta, inteligente e transborda uma autoconfiança destemida. Conhecido por seu passado como caçador de alces e companheiro dos Vikings, o Elkhound é um cão dotado de uma lealdade profunda e um instinto protetor aguçado, sendo um guardião vigilante e um parceiro de aventuras incansável.",
+    "historia": "Esta é uma das raças mais antigas do mundo, com esqueletos de cães idênticos encontrados em sítios arqueológicos da Idade da Pedra na Escandinávia. O Elkhound Norueguês era o companheiro inseparável dos Vikings, servindo como caçador, pastor e guardião das aldeias. Sua especialidade era rastrear e manter o alce (elk) encurralado através de latidos incessantes até a chegada do caçador, uma tarefa que exigia coragem extrema e resistência física. A raça foi formalmente padronizada na Noruega em 1877 e permanece até hoje como o Cão Nacional da Noruega, sendo um símbolo de orgulho e história escandinava.",
     "curiosidades": [
-      "Elkhound Norueguês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Dingos e Elkhounds são canídeos que compartilham uma linhagem genética primitiva muito próxima.",
+      "Eles possuem um latido muito específico, musical e agudo, que foi desenvolvido para ser ouvido a quilômetros de distância nas florestas geladas.",
+      "O Elkhound Norueguês é capaz de rastrear um alce a uma distância de até 1,5 km apenas pelo cheiro no vento.",
+      "Apesar de serem caçadores, eles são extremamente sensíveis aos sentimentos de seus tutores e agem frequentemente como 'consoladores' da família.",
+      "Em tempos de guerra na Noruega, o governo tem o direito legal de convocar todos os Elkhounds machos para servirem como cães de tração e guarda militar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que vivem em climas frios ou temperados",
+      "Tutores que buscam um cão de guarda de alerta incorruptível",
+      "Pessoas que gostam de trilhas, corridas na neve e atividades ao ar livre intensas",
+      "Quem aprecia a estética clássica e rústica dos cães nórdicos",
+      "Proprietários que buscam um companheiro leal que participe de todas as atividades"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que vivem em apartamentos pequenos (ele é muito vocal)",
+      "Pessoas que não suportam queda de pelos abundante (ele 'troca de casaco' duas vezes ao ano)",
+      "Ambientes com calor tropical intenso sem cuidados especiais (sofre muito com o calor)",
+      "Tutores iniciantes que buscam obediência cega (ele é independente e pensa por si mesmo)",
+      "Moradores de locais com vizinhos sensíveis a latidos frequentes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Cistos Sebáceos",
+      "Hipotireoidismo",
+      "Fanconi-like Syndrome (problema renal raro)",
+      "Obesidade"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento rigoroso do peso, pois a raça tem tendência a engordar facilmente. Atenção à saúde da pele sob a pelagem densa."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente durante as trocas sazonais, onde a escovação deve ser diária para remover o subpelo morto. No restante do ano, duas escovações semanais são suficientes. Eles possuem pouco 'odor de cachorro'. Banhos devem ser ocasionais para manter a proteção natural do pelo. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de muito exercício físico e mental. Longas caminhadas, corridas e, principalmente, oportunidades para explorar florestas ou áreas abertas são ideais. Ele adora desafios de inteligência e jogos de busca que usem o faro.",
+    "treinamento": "O adestramento exige paciência e consistência. O Elkhound é inteligente mas independente. Use reforço positivo, petiscos e mantenha as sessões interessantes. A socialização precoce é MANDATÓRIA para garantir que seu instinto protetor e vocal não se tornem excessivos.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Elkhound vive para comer e usará todo o seu charme para conseguir comida extra, o que deve ser evitado para preservar sua saúde articular e longevidade."
   },
   "seo": {
-    "title": "Elkhound Norueguês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Elkhound Norueguês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Elkhound Norueguês: O Guardião Viking das Florestas - Guia de Raça",
+    "description": "Descubra o Elkhound Norueguês: conheça sua história milenar, seu incrível instinto de caçador de alces e os cuidados essenciais com este cão nórdico leal.",
     "keywords": [
-      "elkhound-noruegues",
-      "elkhound norueguês",
-      "médio",
-      "noruega"
+      "Elkhound Norueguês",
+      "Norwegian Elkhound",
+      "cão viking",
+      "cão de alce",
+      "Spitz norueguês",
+      "raças de cães médias",
+      "cuidados com Elkhound",
+      "temperamento Elkhound"
     ]
   },
   "imagem_principal": "/images/breeds/elkhound-noruegues.jpg",
@@ -76,11 +92,54 @@
     "/images/breeds/elkhound-noruegues-2.jpg",
     "/images/breeds/elkhound-noruegues-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=elkhound-noruegues",
-  "popularidade": 27698,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Norwegian Elkhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-elkhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-elkhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Elkhound Norueguês em Campo",
+      "url": "https://www.youtube.com/watch?v=example-elkhound-work",
+      "canal": "Nordic Hunter",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "elkhound-sueco",
+    "buhund-noruegues",
+    "pastor-islandes",
+    "samoieda"
+  ],
+  "cores_disponiveis": [
+    "Cinza com pontas pretas",
+    "Prata",
+    "Cinza Escuro"
+  ],
+  "marcacoes": [
+    "Máscara escura",
+    "Orelhas pretas",
+    "Sela de cor mais clara no dorso"
+  ],
+  "curiosidades_historicas": "O Elkhound Norueguês é considerado um 'cão de rastro no ar', o que significa que ele detecta a presa pelo cheiro transportado pelo vento, mantendo a cabeça alta em vez de focada no chão. Esta habilidade permitiu que eles rastreassem alces em terrenos acidentados onde os rastros de solo seriam impossíveis de seguir.",
+  "referencias_externas": [
+    {
+      "titulo": "Norwegian Elkhound Association of America",
+      "url": "https://neaa.net/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Norwegian Elkhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/NORWEGIAN-ELKHOUND-GREY-242.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
   "ranking_brasil": 200,
   "custo_mensal_estimado": [
-    303,
-    1241
+    300,
+    800
   ]
 }

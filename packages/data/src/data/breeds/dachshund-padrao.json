@@ -2,72 +2,90 @@
   "id": "dachshund-padrao",
   "nome": "Dachshund Padrão",
   "slug": "dachshund-padrao",
-  "nome_en": "Dachshund Standard",
+  "nome_en": "Standard Dachshund",
   "apelidos": [
-    "Dachshund",
-    "Padrão"
+    "Teckel Padrão",
+    "Salsicha",
+    "Cão Texugo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "45 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "16 kg",
-    "peso_femea": "11.8 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "20 - 27 cm",
+    "altura_femea": "20 - 27 cm",
+    "peso_macho": "7.5 - 14 kg",
+    "peso_femea": "7.5 - 14 kg",
+    "perimetro_toracico": "Acima de 35 cm",
     "grupo_fci": "Grupo 4 - Dachshunds",
-    "ano_reconhecimento_fci": 1986
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 2,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dachshund Padrão é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dachshund Padrão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 4. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dachshund Padrão é o membro original e mais robusto da família Teckel, um cão de caça rústico que se tornou um ícone mundial. De corpo longo, pernas curtas e peito largo, ele foi projetado pela natureza e pelo homem para ser uma máquina de escavação e combate subterrâneo. Sua expressão é inteligente, vigilante e transborda uma autoconfiança que muitas vezes beira a teimosia. Disponível nas variedades de pelo curto, longo e duro, o Dachshund Padrão é um companheiro leal, corajoso e dotado de um senso de humor inigualável, sendo famoso por sua personalidade forte e por ser um dos cães mais adaptáveis a diferentes estilos de vida.",
+    "historia": "A história do Dachshund remonta à Idade Média na Alemanha, onde cães do tipo sabujo foram selecionados por suas pernas curtas para caçar texugos (Dachs) em suas tocas. O Dachshund Padrão precisava ser forte o suficiente para enfrentar um texugo enfurecido, um dos animais mais ferozes da fauna europeia. Ao longo dos séculos, a raça foi refinada, e três tipos de pelagem foram desenvolvidos para diferentes terrenos e climas. No século XIX, o Dachshund tornou-se um favorito da realeza europeia, mas nunca perdeu seu instinto de caçador. Hoje, é uma das raças mais populares do mundo, amado tanto como cão de trabalho quanto como animal de estimação familiar.",
     "curiosidades": [
-      "Dachshund Padrão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dachshund é o único cão de caça que caça tanto acima quanto abaixo do solo.",
+      "Eles possuem um latido profundo e sonoro que soa como o de um cão muito maior, uma adaptação para que o caçador pudesse ouvi-los enquanto estavam dentro das tocas.",
+      "A variedade de pelo longo é frequentemente considerada a mais dócil e afetuosa, enquanto a de pelo duro é vista como a mais teimosa e energética.",
+      "Dachshunds são conhecidos por terem um 'espírito de matilha' e muitas vezes se dão melhor com outros cães da mesma raça.",
+      "Apesar da silhueta de salsicha, o Dachshund é um atleta de resistência capaz de caminhar por quilômetros sem se cansar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que buscam um companheiro leal e divertido",
+      "Tutores que apreciam cães com personalidade forte e independente",
+      "Pessoas que vivem em casas com quintais onde o cão possa explorar cheiros",
+      "Moradores de apartamentos (desde que tenham uma rotina de exercícios adequada)",
+      "Quem busca um cão de guarda de alerta extremamente eficiente"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores iniciantes que buscam obediência cega (ele é teimoso)",
+      "Famílias com crianças muito pequenas que não saibam manusear o cão com cuidado",
+      "Ambientes com muitas escadas (o sobe e desce frequente é devastador para a coluna longa)",
+      "Pessoas que não toleram latidos de alerta frequentes",
+      "Tutores sedentários que não possam oferecer estímulo mental diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "IVDD (Doença do Disco Intervertebral) - o maior problema de saúde da raça",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Obesidade (extremamente perigosa para a integridade da coluna)",
+      "Acanthosis Nigricans (problema de pele comum no pelo curto)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso da coluna vertebral e do peso. Check-ups anuais para saúde bucal e oftalmológica. É fundamental evitar que o cão salte de móveis altos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Manutenção variável conforme a pelagem: pelo curto precisa apenas de escovação semanal; pelo longo requer escovação três vezes por semana; pelo duro exige stripping manual duas vezes por ano. As orelhas pendentes devem ser limpas semanalmente. A escovação dental diária é recomendada devido à propensão a tártaro.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas diárias vigorosas e jogos que estimulem o faro são essenciais. Ele adora investigar jardins e parques. Evite exercícios de alto impacto que sobrecarreguem a coluna.",
+    "treinamento": "Inteligente mas independente. O adestramento deve ser consistente, baseado em reforço positivo e começar o mais cedo possível. Eles respondem bem a desafios mentais e petiscos saborosos. A socialização precoce é VITAL para evitar a reatividade com estranhos e outros cães.",
+    "alimentacao": "Dieta de alta qualidade com controle RIGOROSO de calorias. A obesidade é o maior inimigo da saúde do Dachshund, pois aumenta drasticamente o risco de paralisia por IVDD."
   },
   "seo": {
-    "title": "Dachshund Padrão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dachshund Padrão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dachshund Padrão: O Valente Caçador Salsicha - Guia Completo da Raça",
+    "description": "Tudo sobre o Dachshund Padrão (Teckel): conheça seu temperamento forte, história de bravura e as dicas vitais de cuidados com a coluna e saúde.",
     "keywords": [
-      "dachshund-padrao",
-      "dachshund padrão",
-      "médio",
-      "alemanha"
+      "Dachshund Padrão",
+      "Teckel Padrão",
+      "cão salsicha",
+      "cão texugo",
+      "raças de cães médias",
+      "cuidados com Dachshund",
+      "temperamento Teckel",
+      "IVDD em cães"
     ]
   },
   "imagem_principal": "/images/breeds/dachshund-padrao.jpg",
@@ -76,11 +94,56 @@
     "/images/breeds/dachshund-padrao-2.jpg",
     "/images/breeds/dachshund-padrao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dachshund-padrao",
-  "popularidade": 50497,
-  "ranking_brasil": 64,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dachshund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-standardteckel",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-standardteckel/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Evitar Problemas de Coluna no Dachshund",
+      "url": "https://www.youtube.com/watch?v=example-teckel-spine",
+      "canal": "Veterinária em Foco",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "basset-hound",
+    "corgi-pembroke",
+    "dachshund-miniatura",
+    "beagle"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Preto e Tan",
+    "Chocolate e Tan",
+    "Arlequim (Dapple)",
+    "Javali (Wild Boar)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) sobre os olhos e focinho",
+    "Padrão Merle (no arlequim)",
+    "Pode ter mancha branca no peito"
+  ],
+  "curiosidades_historicas": "O Imperador Guilherme II da Alemanha era um entusiasta tão fervoroso da raça que mandou erguer um monumento aos seus amados Dachshunds em sua residência. Durante a Primeira Guerra Mundial, a popularidade da raça caiu drasticamente no Reino Unido e EUA devido à sua associação com a Alemanha, mas o charme do 'cão salsicha' logo reconquistou o mundo no pós-guerra.",
+  "referencias_externas": [
+    {
+      "titulo": "The Dachshund Club UK",
+      "url": "https://www.dachshundclub.org.uk/",
+      "descricao": "O clube de raça original no Reino Unido com vastas informações históricas."
+    },
+    {
+      "titulo": "AKC - Dachshund Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/dachshund/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 5,
   "custo_mensal_estimado": [
-    357,
-    1377
+    300,
+    800
   ]
 }

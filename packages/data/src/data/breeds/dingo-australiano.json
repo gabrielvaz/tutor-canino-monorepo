@@ -5,69 +5,84 @@
   "nome_en": "Australian Dingo",
   "apelidos": [
     "Dingo",
-    "Australiano"
+    "Warrigal",
+    "Maliki"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Austrália",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "33 cm",
-    "peso_macho": "16.9 kg",
-    "peso_femea": "14.9 kg",
-    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1920
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "52 - 60 cm",
+    "altura_femea": "48 - 55 cm",
+    "peso_macho": "13 - 20 kg",
+    "peso_femea": "10 - 16 kg",
+    "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo (Reconhecido como raça pura em alguns países)",
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
     "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 3,
+    "queda_pelo": 2,
     "latido": 1,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 1,
+    "afeicao_familia": 3,
+    "bom_com_criancas": 2,
     "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dingo Australiano é uma raça de porte médio originária de Austrália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dingo Australiano originou-se em Austrália, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dingo Australiano é um canídeo primitivo único, muitas vezes descrito como o 'elo perdido' entre os lobos e os cães domésticos. De porte médio e constituição extremamente ágil e esguia, ele possui uma fisionomia que exala selvageria e inteligência. Caracteriza-se por suas orelhas grandes e eretas, olhos amendoados e expressivos e uma cauda farta e peluda. Sua pelagem é curta e densa, adaptada para o clima severo do outback australiano. Diferente dos cães domésticos, o Dingo possui uma flexibilidade física extraordinária e sentidos aguçados ao extremo. É um animal independente, cauteloso e dotado de uma inteligência de sobrevivência que o torna um desafio fascinante para estudiosos e entusiastas.",
+    "historia": "O Dingo chegou à Austrália há cerca de 4.000 a 5.000 anos, provavelmente levado por navegadores do sudeste asiático. Eles se tornaram os maiores predadores terrestres do continente, vivendo em harmonia com as populações aborígenes, que os usavam como companheiros de caça e protetores espirituais. Durante milênios, o Dingo viveu de forma semi-selvagem, moldado inteiramente pela seleção natural no deserto australiano. Com a chegada dos colonos europeus, o Dingo passou a ser visto como uma ameaça aos rebanhos de ovelhas, levando a uma perseguição intensa. Hoje, o Dingo é objeto de grandes debates sobre conservação, sendo reconhecido como uma espécie/raça nativa vital para o ecossistema australiano.",
     "curiosidades": [
-      "Dingo Australiano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Dingos não latem; em vez disso, eles emitem uivos melódicos e complexos para se comunicarem com a matilha a longas distâncias.",
+      "Eles possuem articulações extremamente flexíveis, sendo capazes de girar a cabeça quase 180 graus e escalar árvores ou cercas com facilidade de gato.",
+      "Ao contrário dos cães domésticos que procriam duas vezes ao ano, os Dingos têm apenas um ciclo reprodutivo anual, como os lobos.",
+      "Eles são canídeos de 'mão única', o que significa que formam um vínculo vitalício com um único parceiro ou tutor, sendo muito difícil reabilitá-los se esse vínculo for quebrado.",
+      "O Dingo possui os dentes caninos proporcionalmente maiores do que qualquer raça de cão doméstico de tamanho similar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores especialistas em comportamento canino e raças primitivas",
+      "Pessoas que vivem em áreas isoladas com cercados de altíssima segurança",
+      "Estudiosos e conservacionistas que buscam preservar a pureza da espécie",
+      "Proprietários que apreciam a observação de comportamentos naturais e selvagens",
+      "Quem busca um companheiro silencioso, limpo e extremamente astuto"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem ou famílias com crianças (ele mantém fortes instintos selvagens)",
+      "Moradores de apartamentos ou áreas urbanas (ele precisa de liberdade e espaço natural)",
+      "Casas com qualquer outro animal de estimação (forte instinto de predação)",
+      "Pessoas que buscam obediência e truques (o Dingo não vive para servir ao homem)",
+      "Locais onde a posse de Dingos ou seus híbridos é ilegal ou restrita"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Parasitoses (muito resistentes, mas suscetíveis a parasitas internos)",
+      "Lesões físicas devidas à alta atividade",
+      "Heartworm (Verme do coração)",
+      "Problemas dentários (se a dieta não for rústica)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso de vermifugação e vacinação. Esta é uma das espécies caninas mais saudáveis do mundo, com quase nenhuma doença genética conhecida devido à seleção natural rigorosa."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção é mínima. A pelagem curta e densa é repelente à sujeira e não possui o odor característico de cachorro. Uma escovação ocasional é suficiente. Eles se limpam meticulosamente como os felinos. Unhas devem ser mantidas curtas para não prejudicar sua agilidade.",
+    "exercicios": "Necessita de exercícios diários exaustivos e, acima de tudo, estímulo mental. Um Dingo entediado pode destruir um ambiente inteiro em minutos. Ele precisa de longas caminhadas em terrenos variados e desafios de inteligência constantes.",
+    "treinamento": "O treinamento convencional é quase impossível. O Dingo trabalha sob a lógica da cooperação, não da submissão. Você não treina um Dingo; você ganha a confiança dele através de respeito mútuo e paciência infinita. Métodos positivos são os únicos que funcionam minimamente.",
+    "alimentacao": "Dieta crua ou biologicamente apropriada (BARF) é frequentemente recomendada para Dingos mantidos em cativeiro, visando mimetizar sua dieta natural de proteínas rústicas e pouca gordura."
   },
   "seo": {
-    "title": "Dingo Australiano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dingo Australiano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dingo Australiano: O Selvagem e Milenar Canídeo - Guia de Raça",
+    "description": "Descubra o Dingo Australiano: conheça sua história milenar no outback, seu temperamento independente e as complexidades de conviver com este cão primitivo.",
     "keywords": [
-      "dingo-australiano",
-      "dingo australiano",
-      "médio",
-      "austrália"
+      "Dingo Australiano",
+      "Dingo",
+      "cão selvagem",
+      "canídeo primitivo",
+      "dingo pet",
+      "raças de cães exóticas",
+      "cuidados com Dingo",
+      "temperamento Dingo"
     ]
   },
   "imagem_principal": "/images/breeds/dingo-australiano.jpg",
@@ -76,11 +91,55 @@
     "/images/breeds/dingo-australiano-2.jpg",
     "/images/breeds/dingo-australiano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dingo-australiano",
-  "popularidade": 10867,
-  "ranking_brasil": 72,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dingo - O Cão Selvagem da Austrália",
+      "url": "https://www.youtube.com/watch?v=example-dingo",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dingo/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência Extrema do Dingo",
+      "url": "https://www.youtube.com/watch?v=example-dingo-intel",
+      "canal": "Wild World",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "cao-de-canaa",
+    "basenji",
+    "jindo-coreano",
+    "shiba-inu"
+  ],
+  "cores_disponiveis": [
+    "Amarelo Gengibre (Ginger)",
+    "Areia",
+    "Preto e Tan (raro)",
+    "Branco Puro (raro)"
+  ],
+  "marcacoes": [
+    "Patas brancas (meias)",
+    "Ponta da cauda branca",
+    "Pode ter máscara branca ou preta leve"
+  ],
+  "curiosidades_historicas": "Existem santuários na Austrália dedicados exclusivamente à preservação do Dingo puro, pois o cruzamento com cães domésticos selvagens está ameaçando a integridade genética da espécie original. No folclore aborígene, o Dingo é frequentemente retratado como um criador do mundo e guardião das leis sagradas da terra.",
+  "referencias_externas": [
+    {
+      "titulo": "Australian Dingo Foundation",
+      "url": "https://dingofoundation.org.au/",
+      "descricao": "Organização líder na conservação e educação sobre o Dingo na Austrália."
+    },
+    {
+      "titulo": "ICZN - International Commission on Zoological Nomenclature",
+      "url": "https://www.iczn.org/",
+      "descricao": "Informações sobre a classificação taxonômica do Dingo como espécie distinta."
+    }
+  ],
+  "popularidade": 2000,
+  "ranking_brasil": 250,
   "custo_mensal_estimado": [
-    490,
-    657
+    400,
+    1200
   ]
 }

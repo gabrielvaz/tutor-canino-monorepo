@@ -4,70 +4,87 @@
   "slug": "galgo-ingles",
   "nome_en": "Greyhound",
   "apelidos": [
-    "Galgo",
-    "Inglês"
+    "Greyhound",
+    "Foguete Canino",
+    "Preguiçoso de 70km/h"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "13.9 kg",
-    "peso_femea": "12.7 kg",
+    "origem": "Grã-Bretanha / Oriente Médio",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "71 - 76 cm",
+    "altura_femea": "68 - 71 cm",
+    "peso_macho": "30 - 40 kg",
+    "peso_femea": "26 - 34 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1984
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 5,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 2,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Galgo Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Galgo Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Galgo Inglês, ou Greyhound, é o atleta supremo do mundo canino, famoso por ser o cão mais rápido do planeta, capaz de atingir 70 km/h em poucos segundos. De porte grande e constituição aerodinâmica impecável, ele possui um peito profundo, cintura fina e pernas longas e musculosas que funcionam como molas potentes. Sua cabeça é longa e estreita, com orelhas pequenas em forma de 'rosa'. Apesar de sua fama de velocista, o Greyhound é paradoxalmente um dos cães mais calmos e preguiçosos que existem dentro de casa, sendo carinhosamente chamado de 'couch potato' (preguiçoso de sofá) devido à sua capacidade de dormir por horas a fio após uma breve corrida.",
+    "historia": "As origens do Greyhound remontam ao Antigo Egito, há mais de 4.000 anos, onde eram retratados em tumbas faraônicas como companheiros de caça sagrados. A raça foi levada para a Europa e refinada na Grã-Bretanha, tornando-se o símbolo da aristocracia inglesa. Por séculos, as leis inglesas proibiam que pessoas comuns possuíssem um Greyhound. No século XX, a raça ganhou fama mundial através das corridas de galgos em pistas (greyhound racing). Hoje, com o declínio dessa prática, milhares de Greyhounds são adotados anualmente como animais de estimação, revelando ao mundo seu temperamento dócil e adaptável à vida urbana.",
     "curiosidades": [
-      "Galgo Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Greyhound é a única raça de cão mencionada nominalmente na Bíblia (Provérbios 30:31).",
+      "Eles possuem um coração proporcionalmente maior do que qualquer outra raça de cão, uma adaptação evolutiva para bombear sangue rapidamente durante os sprints de alta velocidade.",
+      "Devido à sua pele muito fina e baixo percentual de gordura, eles sentem frio com extrema facilidade e quase sempre precisam de roupas em climas amenos.",
+      "O Greyhound possui um campo de visão de 270 graus, o que lhe permite ver objetos atrás de si sem girar a cabeça.",
+      "Eles são 'sprinters', não maratonistas; dez minutos de corrida intensa costumam ser suficientes para deixá-los satisfeitos pelo resto do dia."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos (eles são extremamente silenciosos e calmos em interiores)",
+      "Pessoas que buscam um companheiro afetuoso, gentil e que quase não late",
+      "Tutores que podem oferecer caminhadas diárias e acesso ocasional a áreas cercadas para corridas",
+      "Famílias com crianças (ele é um cão muito paciente e raramente agressivo)",
+      "Proprietários que buscam um cão limpo e com pouco odor característico"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição visual é incontrolável se ele avistar uma presa)",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável com todos e muito pacífico)",
+      "Tutores que não toleram cães subindo em sofás e camas (é o lugar favorito deles)",
+      "Proprietários que buscam obediência cega e execução de truques complexos (ele é independente)",
+      "Casas com pequenos animais domésticos como gatos de rua ou coelhos, a menos que muito bem socializado desde filhote"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Osteosarcoma (câncer ósseo) - incidência acima da média",
+      "Sensibilidade extrema a anestésicos (devido ao baixo teor de gordura corporal)",
+      "Dilatação e Torção Gástrica",
+      "Problemas dentários e gengivais",
+      "Pannus (problema ocular inflamatório)",
+      "Cardiomiopatia Dilatada (ocasional)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar torção gástrica. Check-ups oncológicos em cães adultos. É vital utilizar protocolos anestésicos específicos para lebréis. Higiene bucal diária é essencial."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e fina é mínima, bastando uma escovação semanal leve. Banhos devem ser ocasionais. É importante verificar a pele fina em busca de escoriações após corridas. As unhas devem ser mantidas curtas e os dentes escovados com frequência. Oferecer camas macias e acolchoadas é essencial para evitar calos e feridas nas articulações.",
+    "exercicios": "Necessita de exercícios moderados a intensos em picos curtos. Caminhadas diárias de 30 a 40 minutos são essenciais, aliadas a 2 ou 3 oportunidades por semana de correr em velocidade máxima em um local seguro e totalmente cercado.",
+    "treinamento": "O treinamento deve ser baseado em suavidade, paciência e reforço positivo. Eles são cães sensíveis e respondem mal a tons de voz elevados. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para evitar a torção gástrica. Evite exercícios intensos imediatamente antes ou depois das refeições."
   },
   "seo": {
-    "title": "Galgo Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Galgo Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Galgo Inglês (Greyhound): O Atleta Mais Veloz e Gentil - Guia de Raça",
+    "description": "Descubra o Galgo Inglês: conheça sua velocidade incrível, seu temperamento calmo de sofá e os cuidados essenciais com a saúde e pele fina deste elegante lebrél.",
     "keywords": [
-      "galgo-ingles",
-      "galgo inglês",
-      "médio",
-      "inglaterra"
+      "Galgo Inglês",
+      "Greyhound",
+      "cão mais rápido do mundo",
+      "lebrél",
+      "cachorro para apartamento",
+      "raças de cães grandes",
+      "cuidados com Greyhound",
+      "temperamento Galgo Inglês"
     ]
   },
   "imagem_principal": "/images/breeds/galgo-ingles.jpg",
@@ -76,11 +93,59 @@
     "/images/breeds/galgo-ingles-2.jpg",
     "/images/breeds/galgo-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=galgo-ingles",
-  "popularidade": 42128,
-  "ranking_brasil": 1,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Greyhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-greyhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-greyhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Velocidade do Galgo Inglês em Câmera Lenta",
+      "url": "https://www.youtube.com/watch?v=example-greyhound-run",
+      "canal": "Speed Science",
+      "duracao": "06:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "whippet",
+    "galgo-espanhol",
+    "borzoi",
+    "saluki",
+    "italian-greyhound"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações permitidas",
+    "Cinza",
+    "Preto",
+    "Branco",
+    "Vermelho",
+    "Tigrado (Brindle)",
+    "Fawn (Fulvo)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Particolor (branco com manchas)",
+    "Manchas irregulares"
+  ],
+  "curiosidades_historicas": "O Greyhound é a única raça canina mencionada no Livro de Leis de Cnut, o Grande, Rei da Dinamarca e da Inglaterra, no ano de 1016, onde se estabelecia que 'ninguém, a menos que seja um homem livre, pode manter um galgo', solidificando seu status de cão da realeza por mais de um milênio.",
+  "referencias_externas": [
+    {
+      "titulo": "Greyhound Club of America",
+      "url": "https://greyhoundclubofamerica.org/",
+      "descricao": "Clube oficial de raça com vastas informações sobre saúde e ética nos EUA."
+    },
+    {
+      "titulo": "The Greyhound Club (UK)",
+      "url": "http://www.thegreyhoundclub.co.uk/",
+      "descricao": "O clube de raça mais antigo do mundo, fundado na Inglaterra."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    466,
-    541
+    400,
+    1000
   ]
 }

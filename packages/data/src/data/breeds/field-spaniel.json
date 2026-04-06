@@ -5,69 +5,84 @@
   "nome_en": "Field Spaniel",
   "apelidos": [
     "Field",
-    "Spaniel"
+    "Spaniel de Campo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "50 cm",
-    "peso_macho": "23 kg",
-    "peso_femea": "21.8 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "43 - 46 cm",
+    "altura_femea": "43 - 46 cm",
+    "peso_macho": "18 - 23 kg",
+    "peso_femea": "16 - 20 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1977
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 5,
-    "latido": 1,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Field Spaniel é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Field Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Field Spaniel é uma raça de beleza clássica e temperamento extraordinariamente equilibrado, muitas vezes descrito como o 'primo aristocrático' dos cockers e springers. De porte médio e constituição sólida, ele possui uma silhueta ligeiramente mais longa do que alta e uma pelagem sedosa, plana e farta, geralmente em tons profundos de fígado, preto ou ruão. Sua expressão é de uma doçura inteligente e nobreza, com orelhas pendentes bem franjadas. É um cão dotado de uma sensibilidade aguçada e um senso de humor discreto, sendo famoso por sua natureza dócil em casa e sua persistência incansável durante o trabalho em campo.",
+    "historia": "A raça surgiu na Inglaterra no final do século XIX, como uma tentativa de criar um spaniel de exposição que fosse exclusivamente de cores sólidas. Infelizmente, a seleção inicial focou tanto na estética que a funcionalidade e a saúde da raça foram comprometidas, levando o Field Spaniel quase à extinção. Na década de 1920, entusiastas redescobriram a raça e trabalharam arduamente para restaurar suas habilidades de caça e sua saúde genética, cruzando-os com English Springer Spaniels. O Field Spaniel moderno é o resultado deste esforço de resgate, sendo hoje uma raça rara, mas extremamente valorizada por sua versatilidade como caçador e companheiro familiar.",
     "curiosidades": [
-      "Field Spaniel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Field Spaniel é considerado uma 'raça nativa vulnerável' no Reino Unido, com poucos nascimentos registrados anualmente.",
+      "Eles são famosos por terem um temperamento mais calmo e menos 'agitado' dentro de casa do que o Cocker Spaniel Inglês.",
+      "Diferente de muitos spaniels, o Field possui um faro extremamente persistente e 'metódico', preferindo investigar cada pista com calma.",
+      "Eles possuem um latido profundo e musical que raramente usam sem um motivo real.",
+      "O Field Spaniel é conhecido por ser um cão que 'amadurece com graça', tornando-se cada vez mais sábio e conectado com seus tutores ao longo dos anos."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e difícil de irritar)",
+      "Tutores que buscam um spaniel com nível de energia mais moderado",
+      "Pessoas que apreciam cuidar da estética canina e escovação de pelagem longa",
+      "Quem vive em casas com quintais onde o cão possa realizar atividades de faro",
+      "Proprietários que buscam um companheiro leal e muito sensível às emoções da casa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que ficam fora de casa o dia todo (ele é muito dependente de companhia)",
+      "Pessoas que não podem dedicar tempo à manutenção regular da pelagem",
+      "Ambientes urbanos barulhentos sem rotina de passeios em áreas verdes",
+      "Tutores que utilizam métodos de treinamento baseados em força (ele se fecha completamente)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável com todos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Hipotireoidismo",
+      "Otites (infecções de ouvido devido às orelhas pesadas)",
+      "Alergias de pele",
+      "Ectopia Ureteral (ocasional)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups oftalmológicos e ortopédicos anuais são essenciais. Limpeza semanal profunda das orelhas franjadas. Monitoramento da função tireoidiana em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem sedosa exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Banhos devem ser mensais com bons condicionadores. A tosa higiênica e o aparo das franjas das patas são recomendados a cada 2 meses. Os ouvidos devem ser limpos e secos após cada banho ou passeio na chuva.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas diárias vigorosas e tempo para investigar novos cheiros são fundamentais. Ele adora jogos de busca e atividades de enriquecimento ambiental que usem seu nariz privilegiado.",
+    "treinamento": "Muito inteligente e sensível, o Field Spaniel aprende rápido com reforço positivo. Eles não respondem bem a repetições monótonas e podem se tornar amuados se o tutor for impaciente. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Field Spaniel tem tendência a engordar, o que deve ser evitado para preservar sua saúde articular e vitalidade atlética."
   },
   "seo": {
-    "title": "Field Spaniel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Field Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Field Spaniel: O Aristocrata Gentil dos Spaniels - Guia de Raça",
+    "description": "Conheça o Field Spaniel: descubra sua história de resgate, seu temperamento dócil e os cuidados essenciais com este spaniel raro e encantador.",
     "keywords": [
-      "field-spaniel",
-      "field spaniel",
-      "médio",
-      "inglaterra"
+      "Field Spaniel",
+      "Spaniel de Campo",
+      "cão de caça inglês",
+      "spaniel raro",
+      "raças de cães médias",
+      "cuidados com Field Spaniel",
+      "temperamento Field Spaniel"
     ]
   },
   "imagem_principal": "/images/breeds/field-spaniel.jpg",
@@ -76,11 +91,55 @@
     "/images/breeds/field-spaniel-2.jpg",
     "/images/breeds/field-spaniel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=field-spaniel",
-  "popularidade": 37079,
-  "ranking_brasil": 23,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Field Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-fieldspaniel",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-fieldspaniel/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Field Spaniel em Família",
+      "url": "https://www.youtube.com/watch?v=example-field-life",
+      "canal": "Mundo Spaniel",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cocker-spaniel-ingles",
+    "springer-spaniel-ingles",
+    "sussex-spaniel",
+    "clumber-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Fígado (Liver) Sólido",
+    "Preto Sólido",
+    "Fígado Ruão (Liver Roan)",
+    "Azul Ruão (Blue Roan)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) permitidas",
+    "Pode ter pequenas manchas brancas no peito",
+    "Padrão particolor (branco com manchas)"
+  ],
+  "curiosidades_historicas": "No auge de sua crise genética no início do século XX, sobraram tão poucos Field Spaniels puros que a raça foi mantida viva graças ao trabalho de apenas quatro fêmeas sobreviventes. Esta 'gargalo genético' foi superado com cruzamentos planejados com English Springers, salvando a raça mas mantendo a sua identidade única como o spaniel de campo clássico.",
+  "referencias_externas": [
+    {
+      "titulo": "Field Spaniel Society of America",
+      "url": "https://fieldspanielsocietyofamerica.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e histórico nos EUA."
+    },
+    {
+      "titulo": "The Field Spaniel Society (UK)",
+      "url": "http://www.fieldspanielsociety.co.uk/",
+      "descricao": "O clube de raça original no país de origem."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    238,
-    915
+    300,
+    800
   ]
 }

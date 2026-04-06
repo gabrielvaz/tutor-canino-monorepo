@@ -5,71 +5,86 @@
   "nome_en": "Wire Fox Terrier",
   "apelidos": [
     "Fox",
-    "Duro"
+    "Wire Fox",
+    "Fox de Pelo Aramado"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "28 cm",
-    "altura_femea": "26 cm",
-    "peso_macho": "8.7 kg",
-    "peso_femea": "7.7 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "36 - 39 cm",
+    "altura_femea": "33 - 36 cm",
+    "peso_macho": "7.5 - 9 kg",
+    "peso_femea": "6.5 - 8 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1963
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 5
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Fox Terrier Pelo Duro é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Fox Terrier Pelo Duro originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Fox Terrier Pelo Duro é a personificação da vivacidade e do espírito de aventura em um cão de porte médio. Caracteriza-se por sua pelagem densa, dura e aramada, uma cabeça longa com barba e bigodes expressivos e orelhas em forma de 'V' que caem para frente. Sua postura é sempre alerta, como se estivesse sobre as pontas dos pés, pronto para entrar em ação a qualquer segundo. Conhecido por sua inteligência brilhante e coragem inabalável, o Fox Wire é um cão que transborda personalidade, sendo muitas vezes descrito como um 'mestre da diversão' que nunca se cansa de brincar e explorar o mundo com seus tutores.",
+    "historia": "A raça surgiu na Inglaterra no século XIX, descendendo de antigos terriers de trabalho usados especificamente para a caça à raposa. Enquanto o Fox de Pelo Liso era preferido por alguns, o Pelo Duro foi desenvolvido para trabalhar em terrenos com vegetação mais densa e espinhosa, onde sua pelagem aramada servia como uma armadura protetora. Por décadas, as duas variedades foram consideradas a mesma raça, mas o Pelo Duro ganhou sua própria identidade oficial no final do século XIX. A raça tornou-se um ícone global após o sucesso do cão 'Asta' nos filmes da série 'The Thin Man' (A Ceia dos Acusados) nas décadas de 30 e 40.",
     "curiosidades": [
-      "Fox Terrier Pelo Duro possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Fox Terrier Pelo Duro é um dos maiores vencedores de 'Best in Show' na história da prestigiosa exposição Westminster Kennel Club nos EUA.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem quase não cai; os pelos mortos ficam presos na textura aramada até serem removidos.",
+      "A raça possui um instinto de escavação tão forte que são capazes de criar túneis complexos em jardins se não forem estimulados.",
+      "Eles são famosos por sua 'pose de estátua' quando avistam algo interessante, mantendo a cauda ereta e o corpo imóvel antes de disparar.",
+      "Milu, o fiel companheiro de Tintim nas famosas histórias em quadrinhos de Hergé, é um Fox Terrier (embora de pelo liso, muitas vezes é associado ao espírito de ambas as variedades)."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias muito ativas que gostam de jogos e brincadeiras constantes",
+      "Tutores interessados em adestramento avançado e truques",
+      "Pessoas com alergias que buscam um cão enérgico e pequeno",
+      "Quem vive em casas com quintais muito seguros e bem cercados",
+      "Proprietários que apreciam um cão com inteligência superior e senso de humor"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários ou que buscam um cão passivo para ficar no colo",
+      "Pessoas que não podem dedicar tempo e dinheiro para a manutenção da pelagem (stripping)",
+      "Casas com pequenos animais domésticos como gatos ou roedores (instinto de caça fortíssimo)",
+      "Moradores de apartamentos com vizinhos intolerantes a latidos de alerta frequentes",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Luxação de Lente Primária (doença ocular hereditária)",
+      "Surdez (ocasional em exemplares com muito branco)",
+      "Luxação de Patela",
+      "Problemas dermatológicos (se a pelagem não for bem cuidada)",
+      "Hipotireoidismo",
+      "Catarata"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são essenciais. Monitoramento ortopédico. Teste genético para Luxação de Lente é recomendado antes da reprodução."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente. Para manter a textura dura e as cores vibrantes, o 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3-4 meses. Escovação semanal é necessária para evitar que os fios se emaranhem na barba e pernas. Banhos devem ser ocasionais. A limpeza da barba após as refeições é importante.",
+    "exercicios": "Necessita de muito exercício físico e mental. O Fox Terrier é uma 'pilha elétrica' que precisa de caminhadas vigorosas, jogos de perseguição e desafios de inteligência. Se ficar entediado, ele encontrará sua própria diversão, que costuma envolver destruição ou escavação.",
+    "treinamento": "Extremamente inteligente e aprende truques com facilidade incrível. No entanto, é independente e pode ser teimoso. O adestramento deve ser baseado em reforço positivo, rapidez e muita variedade. A socialização precoce é VITAL para mitigar a tendência de ser briguento com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Fox Terrier Pelo Duro - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Fox Terrier Pelo Duro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Fox Terrier Pelo Duro: O Pequeno Aventureiro Aramado - Guia de Raça",
+    "description": "Conheça o Fox Terrier Pelo Duro: descubra sua inteligência brilhante, sua coragem na caça e as dicas essenciais de cuidados com a pelagem e adestramento.",
     "keywords": [
-      "fox-terrier-pelo-duro",
-      "fox terrier pelo duro",
-      "pequeno",
-      "inglaterra"
+      "Fox Terrier Pelo Duro",
+      "Wire Fox Terrier",
+      "cão caçador de raposas",
+      "cão de Tintim",
+      "raças de cães médias",
+      "cuidados com Fox Terrier",
+      "temperamento Fox Terrier",
+      "stripping canino"
     ]
   },
   "imagem_principal": "/images/breeds/fox-terrier-pelo-duro.jpg",
@@ -78,11 +93,54 @@
     "/images/breeds/fox-terrier-pelo-duro-2.jpg",
     "/images/breeds/fox-terrier-pelo-duro-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=fox-terrier-pelo-duro",
-  "popularidade": 13974,
-  "ranking_brasil": 171,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Wire Fox Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-wirefox",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-wirefox/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Tosa e Manutenção do Fox Terrier",
+      "url": "https://www.youtube.com/watch?v=example-fox-groom",
+      "canal": "Grooming Pro",
+      "duracao": "15:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "fox-terrier-pelo-liso",
+    "airedale-terrier",
+    "welsh-terrier",
+    "jack-russell-terrier"
+  ],
+  "cores_disponiveis": [
+    "Branco predominante com manchas Pretas",
+    "Branco predominante com manchas Fogo (Tan)",
+    "Tricolor (Branco, Preto e Fogo)"
+  ],
+  "marcacoes": [
+    "Barba e bigodes característicos",
+    "Marcações na cabeça e orelhas",
+    "Manchas no dorso (sela)"
+  ],
+  "curiosidades_historicas": "O Rei Edward VII da Inglaterra tinha um Fox Terrier Pelo Duro chamado 'Caesar', que era tão amado que seguiu imediatamente atrás do caixão do Rei em seu cortejo fúnebre em 1910, à frente de nove reis e outros chefes de estado estrangeiros, demonstrando o status de companheiro inseparável da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "American Fox Terrier Club",
+      "url": "https://aftc.org/",
+      "descricao": "Clube oficial de raça com diretrizes rigorosas de saúde e criação para ambas as variedades."
+    },
+    {
+      "titulo": "FCI - Wire Fox Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/WIRE-FOX-TERRIER-169.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 155,
   "custo_mensal_estimado": [
-    304,
-    880
+    300,
+    750
   ]
 }

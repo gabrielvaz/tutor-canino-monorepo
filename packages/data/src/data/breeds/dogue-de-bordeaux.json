@@ -4,69 +4,87 @@
   "slug": "dogue-de-bordeaux",
   "nome_en": "Dogue de Bordeaux",
   "apelidos": [
-    "Dogue",
-    "Bordeaux"
+    "Mastiff Francês",
+    "Bordeaux",
+    "Cão de Turner & Hooch"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "França",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "55 cm",
-    "altura_femea": "50 cm",
-    "peso_macho": "19.1 kg",
-    "peso_femea": "15.6 kg",
+    "expectativa_vida": "5 - 8 anos",
+    "altura_macho": "60 - 68 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "50 - 65 kg",
+    "peso_femea": "45 - 55 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1930
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 1,
+    "energia": 2,
+    "inteligencia": 3,
+    "queda_pelo": 3,
     "latido": 2,
-    "afeicao_familia": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Dogue de Bordeaux é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dogue de Bordeaux originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dogue de Bordeaux é uma das raças francesas mais antigas e imponentes, um molossóide de força massiva e aparência escultural. Caracteriza-se por seu corpo musculoso, atarracado e rente ao solo, mas sua característica mais marcante é a cabeça gigantesca — proporcionalmente a maior do mundo canino — repleta de rugas profundas e uma expressão de seriedade pensativa. Sua pelagem é curta, fina e macia, sempre em tons de fulvo ou mogno. Apesar de sua história como lutador temido, o Bordeaux moderno é um 'gigante de coração mole', extremamente afetuoso, calmo e profundamente leal aos seus tutores, sendo um dos melhores cães de guarda familiar para quem busca proteção aliada à doçura.",
+    "historia": "A raça tem origens que remontam ao século XIV na região de Bordeaux, na França. Foram usados para uma variedade de tarefas pesadas: guardavam propriedades, conduziam gado e, infelizmente, participavam de combates em arenas contra ursos e touros. A Revolução Francesa quase extinguiu a raça, pois muitos Bordeaux eram propriedade da nobreza e foram mortos junto com seus donos. A raça foi resgatada no século XIX e ganhou fama mundial definitiva em 1989, após o filme 'Turner & Hooch' (Uma Dupla Quase Perfeita), estrelado por Tom Hanks e um Dogue de Bordeaux chamado Beasley.",
     "curiosidades": [
-      "Dogue de Bordeaux possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dogue de Bordeaux possui a maior circunferência de cabeça de qualquer raça canina em proporção ao seu corpo.",
+      "Eles são famosos por babarem consideravelmente devido ao formato de seus lábios pendentes.",
+      "Apesar da aparência preguiçosa, eles são capazes de reações explosivas e velocidade surpreendente se detectarem uma ameaça real.",
+      "Eles são conhecidos por terem uma 'sensibilidade de alma', sentindo-se muito infelizes se forem afastados da convivência diária com a família.",
+      "Antigamente, havia três tipos de Bordeaux (o de Bordeaux, o de Toulouse e o de Paris), mas apenas o tipo Bordeaux sobreviveu e tornou-se a raça que conhecemos hoje."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um cão de guarda protetor e dócil",
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Pessoas que preferem um cão calmo e de baixo consumo de energia dentro de casa",
+      "Quem vive em casas com espaço mas não necessariamente quintais gigantescos",
+      "Proprietários que buscam uma relação de lealdade extrema e proximidade física"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Pessoas obcecadas com limpeza extrema (devido à baba e roncos)",
+      "Tutores sedentários que não ofereçam pelo menos caminhadas curtas diárias",
+      "Ambientes com calor tropical intenso sem refrigeração (ele sofre muito com o calor)",
+      "Proprietários que não estão preparados emocionalmente para uma das menores expectativas de vida entre os cães",
+      "Tutores que não podem arcar com altos custos de alimentação e cuidados médicos preventivos"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Cardiomiopatia Dilatada e Estenose Aórtica (problemas cardíacos graves)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Ectrópio e Entrópio)",
+      "Hiperceratose digital (espessamento das almofadas das patas)",
+      "Calos de apoio"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual (Ecocardiograma) é vital. Atenção total a sinais de torção gástrica. Limpeza diária das dobras faciais para evitar fungos. Check-ups ortopédicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo apenas uma escovação semanal. O ponto crítico é a limpeza diária das rugas profundas do rosto para evitar dermatites e odores. Banhos devem ser mensais. Prepare-se para limpar baba das superfícies da casa. As unhas devem ser mantidas curtas para não prejudicar as articulações pesadas.",
+    "exercicios": "Necessita de pouco exercício físico. Caminhadas curtas e lentas nos horários mais frescos do dia são suficientes. Evite exercícios de alto impacto, especialmente durante o crescimento, para preservar as articulações frágeis desta raça gigante.",
+    "treinamento": "O treinamento deve ser baseado em reforço positivo, paciência e consistência. O Bordeaux pode ser teimoso e responderá mal a métodos agressivos. Eles são sensíveis ao tom de voz. A socialização precoce é MANDATÓRIA para garantir que ele seja equilibrado com estranhos e outros animais.",
+    "alimentacao": "Dieta de altíssima qualidade específica para raças gigantes. É essencial dividir a alimentação em várias pequenas refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Dogue de Bordeaux - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dogue de Bordeaux: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dogue de Bordeaux: O Nobre Gigante de Turner & Hooch - Guia de Raça",
+    "description": "Descubra o Dogue de Bordeaux: conheça seu temperamento amoroso, sua força como guardião e os cuidados essenciais com a saúde e as rugas deste mastiff francês.",
     "keywords": [
-      "dogue-de-bordeaux",
-      "dogue de bordeaux",
-      "médio",
-      "frança"
+      "Dogue de Bordeaux",
+      "Mastiff Francês",
+      "cão de Turner & Hooch",
+      "cão de guarda dócil",
+      "raças de cães grandes",
+      "cuidados com Dogue de Bordeaux",
+      "temperamento Bordeaux",
+      "saúde do Bordeaux"
     ]
   },
   "imagem_principal": "/images/breeds/dogue-de-bordeaux.jpg",
@@ -75,11 +93,54 @@
     "/images/breeds/dogue-de-bordeaux-2.jpg",
     "/images/breeds/dogue-de-bordeaux-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dogue-de-bordeaux",
-  "popularidade": 16863,
-  "ranking_brasil": 132,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dogue de Bordeaux - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bordeaux",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bordeaux/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento do Dogue de Bordeaux",
+      "url": "https://www.youtube.com/watch?v=example-bordeaux-temp",
+      "canal": "Mundo Molosso",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "bullmastiff",
+    "mastiff-ingles",
+    "dogue-alemao",
+    "bulldog-ingles"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn) em todos os tons",
+    "Mogno (Mahogany)",
+    "Dourado"
+  ],
+  "marcacoes": [
+    "Máscara vermelha ou marrom (obrigatória)",
+    "Máscara preta (não aceita no padrão original)",
+    "Pequenas manchas brancas permitidas no peito e dedos"
+  ],
+  "curiosidades_historicas": "O Dogue de Bordeaux é tão antigo que existem registros de cães similares lutando ao lado de guerreiros galos contra as legiões romanas. Sua cabeça é considerada uma obra-prima da arquitetura canina, projetada para a máxima força de apreensão, sendo por séculos a principal arma de defesa das propriedades rurais francesas.",
+  "referencias_externas": [
+    {
+      "titulo": "Dogue de Bordeaux Society of America",
+      "url": "https://ddbs.org/",
+      "descricao": "Clube oficial de raça nos Estados Unidos com vasto material sobre saúde."
+    },
+    {
+      "titulo": "FCI - Dogue de Bordeaux Standard",
+      "url": "https://www.fci.be/en/nomenclature/DOGUE-DE-BORDEAUX-116.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 18000,
+  "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    458,
-    526
+    500,
+    1500
   ]
 }

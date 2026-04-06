@@ -2,71 +2,88 @@
   "id": "fila-brasileiro",
   "nome": "Fila Brasileiro",
   "slug": "fila-brasileiro",
-  "nome_en": "Brazilian Mastiff",
+  "nome_en": "Fila Brasileiro",
   "apelidos": [
+    "Cão de Fila",
     "Fila",
-    "Brasileiro"
+    "Brazilian Mastiff"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Brasil",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "14.7 kg",
-    "peso_femea": "12.4 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "65 - 75 cm",
+    "altura_femea": "60 - 70 cm",
+    "peso_macho": "50 - 70 kg",
+    "peso_femea": "40 - 55 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1935
+    "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 5,
-    "queda_pelo": 4,
-    "latido": 4,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Fila Brasileiro é uma raça de porte médio originária de Brasil. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Fila Brasileiro originou-se em Brasil, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Fila Brasileiro é o orgulho da canicultura nacional, um molossóide de força massiva e uma presença que impõe respeito absoluto. De porte grande e constituição robusta, ele possui uma pele solta e elástica, formando rugas características e uma barbela pendente no pescoço. Sua característica física mais singular é o passo de camelo (passo de saca), onde move simultaneamente as duas pernas de um mesmo lado. O temperamento do Fila é lendário: ele possui uma lealdade inabalável aos seus tutores (originando o ditado 'fiel como um Fila') e uma característica racial única chamada 'ojeriza' a estranhos, o que o torna um dos cães de guarda mais eficazes e naturais do mundo.",
+    "historia": "A raça desenvolveu-se no Brasil a partir do período colonial, sendo o resultado do cruzamento de cães levados pelos colonizadores portugueses e espanhóis, como o antigo Bulldog Inglês, o Mastiff e o Bloodhound. O Fila foi selecionado para ser o cão multifuncional das fazendas brasileiras: ele guardava a sede da propriedade, conduzia o gado por longas distâncias e caçava grandes animais como onças e javalis. Sua habilidade de 'filar' (segurar) a presa sem matá-la foi essencial na sua evolução. É a primeira raça brasileira a ser reconhecida internacionalmente pela FCI e permanece como um símbolo de coragem e fidelidade no país.",
     "curiosidades": [
-      "Fila Brasileiro possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O termo 'ojeriza' no padrão do Fila não significa agressividade gratuita, mas sim um desinteresse e desconfiança instintiva total em relação a qualquer pessoa fora do seu círculo familiar.",
+      "Eles possuem um faro extraordinário, herdado do Bloodhound, sendo capazes de rastrear presas ou pessoas por quilômetros.",
+      "Diferente de muitos cães de guarda, o Fila Brasileiro não precisa de treinamento para proteger; seu instinto de defesa territorial é puramente genético e surge naturalmente na maturidade.",
+      "A raça é conhecida por sua paciência 'infinita' com as crianças da família, permitindo brincadeiras pesadas com uma tolerância admirável.",
+      "O Fila Brasileiro possui o chamado 'passo de camelo', um andar rítmico e balançante que lhe permite cobrir grandes distâncias com o mínimo gasto de energia."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças de guarda e grande porte",
+      "Propriedades rurais, fazendas ou casas com quintais muito amplos e bem murados",
+      "Pessoas que buscam o máximo em segurança e proteção residencial",
+      "Famílias que desejam um cão extremamente leal e protetor com os pequenos",
+      "Proprietários que vivem em climas tropicais (ele é perfeitamente adaptado ao calor brasileiro)"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige uma liderança muito firme e compreensão da raça)",
+      "Moradores de apartamentos ou áreas urbanas densas",
+      "Pessoas que recebem muitos visitantes desconhecidos em casa com frequência",
+      "Proprietários que buscam um cão para socializar livremente com outros cães em parques",
+      "Tutores que planejam deixar o cão isolado e sem contato com a família (ele é muito apegado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Displasia de Quadril e Cotovelo",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Problemas cardíacos",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Monitoramento constante para sinais de torção gástrica. É fundamental manter o cão magro durante o crescimento para não danificar as articulações massivas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e lisa é muito simples, exigindo apenas uma escovação semanal. Banhos devem ser mensais ou conforme a necessidade. É importante limpar as dobras da face e verificar as orelhas pendentes. As unhas devem ser mantidas curtas para suportar o peso do cão.",
+    "exercicios": "Necessita de exercícios moderados. Longas caminhadas e a oportunidade de patrulhar o território são fundamentais para sua saúde mental. O Fila não é um cão para corridas de alta intensidade, mas sim para resistência e vigilância.",
+    "treinamento": "O adestramento deve ser baseado em respeito mútuo e liderança calma. O Fila é inteligente e aprende comandos básicos rapidamente, mas é independente. A socialização precoce é CRÍTICA, não para eliminar a ojeriza, mas para garantir que o cão seja equilibrado e sob controle do tutor.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições por dia para prevenir a torção gástrica. Evite exercícios pesados antes e depois de comer."
   },
   "seo": {
-    "title": "Fila Brasileiro - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Fila Brasileiro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Fila Brasileiro: O Guardião Fiel e Poderoso do Brasil - Guia de Raça",
+    "description": "Descubra o Fila Brasileiro: conheça o temperamento leal, a história nas fazendas coloniais e os cuidados essenciais com este icônico cão de guarda nacional.",
     "keywords": [
-      "fila-brasileiro",
-      "fila brasileiro",
-      "médio",
-      "brasil"
+      "Fila Brasileiro",
+      "cão de guarda",
+      "fiel como um fila",
+      "ojeriza",
+      "raças de cães brasileiras",
+      "raças de cães grandes",
+      "cuidados com Fila Brasileiro",
+      "temperamento Fila"
     ]
   },
   "imagem_principal": "/images/breeds/fila-brasileiro.jpg",
@@ -75,11 +92,54 @@
     "/images/breeds/fila-brasileiro-2.jpg",
     "/images/breeds/fila-brasileiro-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=fila-brasileiro",
-  "popularidade": 7659,
-  "ranking_brasil": 62,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Fila Brasileiro - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-filabrasileiro",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-filabrasileiro/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Ojeriza e a Guarda do Fila Brasileiro",
+      "url": "https://www.youtube.com/watch?v=example-fila-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "13:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-ingles",
+    "bloodhound",
+    "bulldog-ingles",
+    "rottweiler",
+    "rafeiro-do-alentejo"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Fawn) em todos os tons",
+    "Tigrado (Brindle) com fundo dourado, cinza ou preto",
+    "Preto (não aceito em algumas confederações como o CAFIB)"
+  ],
+  "marcacoes": [
+    "Máscara preta (frequente)",
+    "Pequenas manchas brancas permitidas no peito, patas e ponta da cauda"
+  ],
+  "curiosidades_historicas": "O Fila Brasileiro desempenhou um papel polêmico e sombrio no Brasil Imperial, sendo usado para capturar escravos que tentavam fugir das fazendas (capitães do mato). Com o fim da escravidão, a raça foi inteiramente redirecionada para a guarda de gado e propriedades, mantendo sua tenacidade mas focando na proteção do lar brasileiro.",
+  "referencias_externas": [
+    {
+      "titulo": "CAFIB - Clube de Aprimoramento do Fila Brasileiro",
+      "url": "http://www.cafib.org.br/",
+      "descricao": "Entidade dedicada à preservação do Fila Brasileiro puro e funcional."
+    },
+    {
+      "titulo": "CBKC - Padrão do Fila Brasileiro",
+      "url": "https://cbkc.org/breeds/padrao/225",
+      "descricao": "Padrão oficial da raça pela Confederação Brasileira de Cinofilia."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 10,
   "custo_mensal_estimado": [
-    397,
-    755
+    500,
+    1500
   ]
 }

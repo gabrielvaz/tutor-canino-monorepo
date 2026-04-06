@@ -5,69 +5,84 @@
   "nome_en": "Dandie Dinmont Terrier",
   "apelidos": [
     "Dandie",
-    "Terrier"
+    "Terrier de Topete"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "51 cm",
-    "peso_macho": "20.8 kg",
-    "peso_femea": "18.9 kg",
+    "origem": "Escócia / Inglaterra (Fronteira)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "20 - 28 cm",
+    "altura_femea": "20 - 28 cm",
+    "peso_macho": "8 - 11 kg",
+    "peso_femea": "8 - 11 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1984
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 1,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dandie Dinmont Terrier é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dandie Dinmont Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dandie Dinmont Terrier é uma das raças mais exóticas e charmosas do mundo dos terriers, conhecido por seu corpo longo 'em forma de doninha', pernas curtas e um magnífico 'topete' de pelos sedosos no topo da cabeça. Diferente da maioria dos terriers que possuem linhas retas, o Dandie é composto por curvas suaves, com um dorso arqueado e uma cauda em forma de cimitarra. Sua expressão é de uma sabedoria gentil, com olhos grandes, escuros e muito expressivos. É um cão dotado de uma dignidade silenciosa, sendo muito mais calmo e menos 'agitado' do que a média dos terriers, mas que mantém uma coragem inabalável e uma persistência lendária se provocado.",
+    "historia": "A raça surgiu nas colinas de Cheviot, na fronteira entre a Escócia e a Inglaterra, por volta de 1700. Originalmente usados por fazendeiros e ciganos para caçar lontras, texugos e ratos, esses cães ganharam fama mundial após a publicação do livro 'Guy Mannering' de Sir Walter Scott em 1815. O personagem Dandie Dinmont possuía uma matilha desses cães, e o nome do personagem acabou batizando a raça. As cores da pelagem também levam nomes literários: 'Pimenta' (cinza-azulado) e 'Mostarda' (marrom-avermelhado). É uma das poucas raças que manteve sua morfologia praticamente inalterada por mais de dois séculos.",
     "curiosidades": [
-      "Dandie Dinmont Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dandie Dinmont é a única raça canina batizada em homenagem a um personagem de ficção literária.",
+      "O topete sedoso na cabeça é conhecido como 'top-knot' e é uma característica obrigatória da raça.",
+      "Eles possuem um latido surpreendentemente profundo para o seu tamanho, muitas vezes confundido com o de um cão de grande porte.",
+      "Diferente de outros terriers de pernas curtas, o Dandie é conhecido por sua natureza 'filosófica' e por ser um excelente cão de companhia para interiores calmos.",
+      "A rainha Vitória possuía um Dandie Dinmont Terrier e foi uma das grandes entusiastas da raça no século XIX."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e casas menores",
+      "Tutores que buscam um terrier com temperamento mais calmo e menos agressivo",
+      "Pessoas que apreciam cães com aparência única e história literária",
+      "Idosos que buscam um companheiro leal e de moderada necessidade de exercício",
+      "Famílias com crianças maiores que saibam respeitar o animal"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Ambientes com muitas escadas (devido ao corpo longo e risco de problemas de coluna)",
+      "Tutores que não podem dedicar tempo à manutenção regular do topete e pelagem",
+      "Casas com pequenos animais domésticos como hamsters (instinto de caça de roedores ainda presente)",
+      "Proprietários que buscam obediência cega (ele é independente e pode ser teimoso)",
+      "Tutores sedentários que não ofereçam pelo menos uma boa caminhada diária"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "IVDD (Doença do Disco Intervertebral) - devido ao corpo longo",
+      "Glaucoma e Problemas de Córnea",
+      "Hipotireoidismo",
+      "Câncer (especialmente Linfomas em idade avançada)",
+      "Problemas dentários"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso da saúde da coluna. Check-ups oftalmológicos anuais são indispensáveis devido à propensão ao glaucoma. Atenção à saúde bucal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada a alta. Exige escovação semanal profunda para evitar nós. O 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional duas vezes ao ano para manter a textura correta. O topete exige cuidados especiais para não cair nos olhos. Banhos devem ser mensais.",
+    "exercicios": "Necessita de exercícios moderados. Uma caminhada diária de 30 a 45 minutos e sessões de brincadeira em casa são suficientes. Evite saltos de locais altos para proteger sua coluna vertebral.",
+    "treinamento": "Inteligente mas independente. O adestramento deve ser baseado em paciência, reforço positivo e motivação constante. Eles não respondem bem a repetições monótonas ou severidade. A socialização precoce com estranhos e outros animais é importante.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle do peso é crítico para evitar sobrecarga na coluna longa desta raça."
   },
   "seo": {
-    "title": "Dandie Dinmont Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dandie Dinmont Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dandie Dinmont Terrier: O Terrier Literário e Gentil - Guia de Raça",
+    "description": "Descubra o Dandie Dinmont Terrier: conheça sua história com Sir Walter Scott, sua aparência única de topete e seu temperamento calmo e leal.",
     "keywords": [
-      "dandie-dinmont-terrier",
-      "dandie dinmont terrier",
-      "médio",
-      "escócia"
+      "Dandie Dinmont Terrier",
+      "Dandie",
+      "terrier escocês",
+      "cão de Sir Walter Scott",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Dandie Dinmont",
+      "temperamento Dandie"
     ]
   },
   "imagem_principal": "/images/breeds/dandie-dinmont-terrier.jpg",
@@ -76,11 +91,53 @@
     "/images/breeds/dandie-dinmont-terrier-2.jpg",
     "/images/breeds/dandie-dinmont-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dandie-dinmont-terrier",
-  "popularidade": 13347,
-  "ranking_brasil": 21,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dandie Dinmont Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-dandie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dandie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Aparência Única do Dandie Dinmont",
+      "url": "https://www.youtube.com/watch?v=example-dandie-look",
+      "canal": "Pet Style",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "skye-terrier",
+    "scottish-terrier",
+    "bedlington-terrier",
+    "cesky-terrier"
+  ],
+  "cores_disponiveis": [
+    "Pimenta (Pepper - Cinza-azulado escuro)",
+    "Mostarda (Mustard - Marrom-avermelhado)"
+  ],
+  "marcacoes": [
+    "Topete creme ou branco",
+    "Franjas nas orelhas",
+    "Partes inferiores mais claras"
+  ],
+  "curiosidades_historicas": "O Dandie Dinmont Terrier é considerado uma raça em perigo de extinção no Reino Unido, classificado pelo Kennel Club como uma 'Raça Nativa Vulnerável'. Entusiastas em todo o mundo trabalham para preservar este cão histórico, que já foi um dos pilares da cultura das fronteiras escocesas.",
+  "referencias_externas": [
+    {
+      "titulo": "Dandie Dinmont Terrier Club of America",
+      "url": "https://www.ddtca.org/",
+      "descricao": "Clube oficial de raça nos EUA com vasto material sobre saúde e histórico."
+    },
+    {
+      "titulo": "The Dandie Dinmont Terrier Club (UK)",
+      "url": "http://www.ddtc.co.uk/",
+      "descricao": "O clube de raça mais antigo do mundo, fundado em 1875 na Escócia."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    405,
-    966
+    300,
+    700
   ]
 }

@@ -2,70 +2,88 @@
   "id": "dobermann",
   "nome": "Dobermann",
   "slug": "dobermann",
-  "nome_en": "Dobermann",
-  "apelidos": [],
+  "nome_en": "Doberman Pinscher",
+  "apelidos": [
+    "Dobie",
+    "Cão de Gendarme"
+  ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "62 cm",
-    "altura_femea": "56 cm",
-    "peso_macho": "30.9 kg",
-    "peso_femea": "29.2 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "68 - 72 cm",
+    "altura_femea": "63 - 68 cm",
+    "peso_macho": "40 - 45 kg",
+    "peso_femea": "32 - 35 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1964
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 1,
+    "queda_pelo": 2,
     "latido": 2,
-    "afeicao_familia": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 5,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Dobermann é uma raça de porte grande originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dobermann originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dobermann é o epítome do cão de guarda elegante, poderoso e inteligente. Com sua silhueta atlética, postura nobre e movimentos fluidos e rápidos, ele exala uma aura de autoridade e vigilância. Sua pelagem é curta, densa e lisa, geralmente preta ou marrom com marcações ferrugem (tan) bem definidas. Os olhos escuros e amendoados transmitem uma expressão de inteligência penetrante e determinação. Diferente dos mitos populares, o Dobermann moderno é um cão equilibrado, extremamente afetuoso com sua família e dotado de uma sensibilidade aguçada, sendo muitas vezes chamado de 'cão de velcro' por seu desejo constante de estar próximo aos seus tutores.",
+    "historia": "A raça foi criada na Alemanha por volta de 1890 por Karl Friedrich Louis Dobermann, um coletor de impostos que também trabalhava como apreendedor de cães. Ele buscava um cão de guarda pessoal ideal para protegê-lo em suas rondas por áreas perigosas. Para isso, cruzou diversas raças, incluindo o antigo Pastor Alemão, o Rottweiler, o Pinscher Alemão e o Greyhound. O resultado foi um cão que combinava força, velocidade, inteligência e um instinto de proteção inigualável. Após a morte de Louis Dobermann, a raça foi refinada por outros criadores e ganhou fama mundial durante as Grandes Guerras como o cão oficial de serviço do Corpo de Fuzileiros Navais dos EUA.",
     "curiosidades": [
-      "Dobermann possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dobermann ocupa a 5ª posição no ranking de inteligência canina de Stanley Coren, sendo um dos cães mais fáceis de treinar do mundo.",
+      "Eles são conhecidos por terem um 'olhar de águia', sendo capazes de detectar movimentos a longas distâncias com precisão cirúrgica.",
+      "Diferente de muitas raças de guarda, o Dobermann não é um cão de 'ataque cego', mas sim um guardião estratégico que prefere intimidar e cercar antes de agir.",
+      "Antigamente, o corte de orelhas e cauda era padrão para evitar ferimentos em combate, mas hoje a tendência mundial (e lei em muitos países) é a preservação do aspecto natural com orelhas caídas e cauda longa.",
+      "Existe uma variedade rara chamada 'Dobermann Branco' (albino), mas sua criação é desencorajada devido a graves problemas de saúde e fotossensibilidade."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que buscam o máximo em proteção e guarda pessoal/residencial",
+      "Famílias ativas que praticam esportes ou caminhadas vigorosas",
+      "Pessoas interessadas em adestramento avançado e esportes caninos (IPO, Agility)",
+      "Quem vive em casas com quintais seguros e bem murados",
+      "Proprietários que desejam um companheiro leal e muito inteligente que participe da rotina da casa"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores iniciantes ou inexperientes com raças dominantes",
+      "Pessoas sedentárias ou que ficam muito tempo fora de casa",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Proprietários que planejam deixar o cão isolado no quintal (ele precisa de interação humana para ser equilibrado)",
+      "Ambientes onde o cão não receba limites claros e liderança firme e calma"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Cardiomiopatia Dilatada (DCM) - um problema cardíaco grave e comum na raça",
+      "Doença de Von Willebrand (distúrbio de coagulação sanguínea)",
+      "Síndrome de Wobbler (problema nas vértebras cervicais)",
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual (Ecocardiograma e Holter) é MANDATÓRIO. Testes de DNA para Von Willebrand antes de qualquer cirurgia. Check-ups ortopédicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. É importante manter as unhas curtas, pois o Dobermann é um cão muito ativo e o comprimento das unhas afeta sua postura e saúde articular.",
+    "exercicios": "Necessita de muito exercício físico e, crucialmente, estímulo mental. Pelo menos 1 a 2 horas de atividade vigorosa diária são necessárias. O Dobermann adora 'trabalhar', então treinos de obediência, jogos de faro e desafios cognitivos são fundamentais para seu equilíbrio emocional.",
+    "treinamento": "O adestramento é um prazer, pois o Dobermann aprende comandos com uma rapidez impressionante. No entanto, ele exige um líder calmo, firme e coerente. Use reforço positivo e mantenha os treinos desafiadores. A socialização precoce e contínua é VITAL para garantir que sua natureza protetora não se torne agressividade ou medo injustificado.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães ativos de grande porte. É importante dividir a alimentação em pelo menos duas refeições diárias para reduzir o risco de torção gástrica. Controle o peso rigorosamente para não sobrecarregar o coração."
   },
   "seo": {
-    "title": "Dobermann - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dobermann: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dobermann: O Nobre Guardião Inteligente - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Dobermann: conheça sua inteligência brilhante, história de proteção e os cuidados vitais com a saúde e adestramento deste cão imponente.",
     "keywords": [
-      "dobermann",
-      "dobermann",
-      "grande",
-      "alemanha"
+      "Dobermann",
+      "Doberman Pinscher",
+      "cão de guarda",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Dobermann",
+      "temperamento Dobermann",
+      "DCM em Dobermann"
     ]
   },
   "imagem_principal": "/images/breeds/dobermann.jpg",
@@ -74,11 +92,55 @@
     "/images/breeds/dobermann-2.jpg",
     "/images/breeds/dobermann-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dobermann",
-  "popularidade": 36141,
-  "ranking_brasil": 124,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Doberman Pinscher - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-dobermann",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dobermann/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento Real do Dobermann",
+      "url": "https://www.youtube.com/watch?v=example-dobermann-life",
+      "canal": "Mundo Canino",
+      "duracao": "13:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "rottweiler",
+    "pinscher-alemao",
+    "beauceron",
+    "weimaraner"
+  ],
+  "cores_disponiveis": [
+    "Preto e Tan (Ferrugem)",
+    "Marrom (Chocolate) e Tan",
+    "Azul e Tan (raro)",
+    "Isabela (Fawn) e Tan (raro)"
+  ],
+  "marcacoes": [
+    "Marcações tan sobre os olhos",
+    "Marcações tan no focinho, peito e pernas",
+    "Padrão tan bem definido e simétrico"
+  ],
+  "curiosidades_historicas": "Durante a Batalha de Guam na Segunda Guerra Mundial, 25 Dobermanns sacrificaram suas vidas servindo como sentinelas, batedores e mensageiros. Existe um monumento nacional chamado 'Always Faithful' (Sempre Fiel) no cemitério militar de cães de guerra em Guam, com a estátua de um Dobermann em bronze, honrando o heroísmo da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "Doberman Pinscher Club of America",
+      "url": "https://dpca.org/",
+      "descricao": "Clube oficial de raça com vastas informações sobre saúde, genética e padrão."
+    },
+    {
+      "titulo": "FCI - Dobermann Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/DOBERMANN-143.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 22,
   "custo_mensal_estimado": [
-    473,
-    574
+    500,
+    1200
   ]
 }

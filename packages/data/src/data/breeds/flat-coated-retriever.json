@@ -1,73 +1,89 @@
 {
   "id": "flat-coated-retriever",
-  "nome": "Flat-Coated Retriever",
+  "nome": "Flat Coated Retriever",
   "slug": "flat-coated-retriever",
   "nome_en": "Flat-Coated Retriever",
   "apelidos": [
-    "Flat-Coated",
-    "Retriever"
+    "Flatty",
+    "Peter Pan dos Retrievers"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "58 cm",
-    "altura_femea": "55 cm",
-    "peso_macho": "44.8 kg",
-    "peso_femea": "39 kg",
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "59 - 62 cm",
+    "altura_femea": "56 - 59 cm",
+    "peso_macho": "27 - 36 kg",
+    "peso_femea": "25 - 32 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
-    "queda_pelo": 4,
-    "latido": 3,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Flat-Coated Retriever é uma raça de porte grande originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Flat-Coated Retriever originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Flat Coated Retriever é a personificação do otimismo e da elegância atlética. De porte grande e constituição harmoniosa, ele é frequentemente descrito como tendo uma 'silhueta de uma peça só', com uma transição suave entre o crânio e o focinho. Sua pelagem é única: longa, densa e perfeitamente assentada (flat), com um brilho espelhado que é marca registrada da raça. Conhecido mundialmente como o 'Peter Pan dos Retrievers', ele mantém um espírito jovial e brincalhão até a velhice. É um cão extremamente inteligente, ágil e dotado de uma 'cauda que nunca para de abanar', sendo um dos companheiros de família mais vibrantes e afetuosos que existem.",
+    "historia": "A raça surgiu na Inglaterra em meados do século XIX, sendo desenvolvida a partir de cruzamentos entre o St. John's Dog (ancestral do Labrador), setters e possivelmente cães de tipo collie. O objetivo era criar um retriever que fosse tão eficiente em terra quanto na água, mas com a elegância de um cão de exposição. Por décadas, o Flat Coated foi o retriever mais popular do Reino Unido, sendo o favorito dos guardas-caça ingleses antes de ser superado em números pelo Labrador e pelo Golden Retriever. A raça quase desapareceu após a Segunda Guerra Mundial, sendo salva por um grupo pequeno mas dedicado de entusiastas britânicos.",
     "curiosidades": [
-      "Flat-Coated Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles são famosos por sua 'saudação de corpo inteiro', onde giram e abanam a cauda com tanta energia que parecem estar dançando.",
+      "Diferente de outros retrievers, o Flat Coated possui uma cabeça única, descrita como 'moldada em uma só peça', sem o degrau frontal (stop) muito marcado.",
+      "Eles são conhecidos por serem cães 'multitarefa', capazes de caçar, buscar aves na água e atuar como excelentes cães de terapia simultaneamente.",
+      "O Flatty é um dos retrievers mais rápidos e ágeis em campo aberto, combinando a força do retriever com a fluidez do setter.",
+      "Infelizmente, a raça possui uma predisposição genética a certos tipos de câncer agressivos, o que motivou grandes esforços de pesquisa genômica pela comunidade da raça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que buscam um parceiro para todas as aventuras",
+      "Tutores que gostam de atividades aquáticas, trilhas e corridas",
+      "Pessoas interessadas em esportes caninos de alto nível (Agility, Obediência, Field Trials)",
+      "Quem busca um cão extremamente amigável e sociável com estranhos e outros animais",
+      "Proprietários que apreciam um cão com energia inesgotável e temperamento sempre alegre"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que vivem em apartamentos pequenos sem rotina intensa de exercícios",
+      "Pessoas que ficam fora de casa por longos períodos (sofre severamente com a solidão)",
+      "Proprietários que buscam um cão de guarda agressivo (ele é amigável demais)",
+      "Pessoas que não toleram uma certa dose de 'exuberância' física (ele pula e corre com entusiasmo)",
+      "Tutores que não estão preparados emocionalmente para lidar com uma expectativa de vida potencialmente menor devido a riscos de saúde"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Histiocitose Maligna (câncer agressivo comum na raça)",
+      "Osteossarcoma",
+      "Displasia de Quadril e Cotovelo",
+      "Luxação de Patela",
+      "Dilatação e Torção Gástrica",
+      "Glaucoma"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups oncológicos semestrais são fundamentais para detecção precoce. Exames ortopédicos e oftalmológicos anuais. Atenção rigorosa aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem lisa e brilhante exige escovação pelo menos duas vezes por semana para remover pelos mortos e evitar nós nas franjas das pernas e cauda. Banhos devem ser mensais ou conforme a necessidade. É importante verificar as orelhas após natação para prevenir otites. As unhas devem ser mantidas curtas para não comprometer a agilidade.",
+    "exercicios": "Necessita de muito exercício diário — pelo menos 1 a 2 horas de atividade física vigorosa. Natação é a atividade ideal, mas ele também precisa de corridas e, crucialmente, estímulo mental. O Flatty precisa sentir que tem uma 'missão' para ser feliz.",
+    "treinamento": "Extremamente inteligente e sensível, aprende comandos com uma rapidez impressionante. Responde maravilhosamente bem ao reforço positivo e carinho. Eles se aborrecem com treinos repetitivos e monótonos, então a variedade é a chave. A socialização precoce é fundamental para canalizar sua energia de forma sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de grande porte. É vital dividir a alimentação em várias pequenas refeições e garantir o repouso antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Flat-Coated Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Flat-Coated Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Flat Coated Retriever: O Guia Completo do Peter Pan dos Retrievers",
+    "description": "Descubra o Flat Coated Retriever: conheça sua inteligência brilhante, seu temperamento sempre jovem e os cuidados essenciais com a saúde deste elegante retriever inglês.",
     "keywords": [
-      "flat-coated-retriever",
-      "flat-coated retriever",
-      "grande",
-      "inglaterra"
+      "Flat Coated Retriever",
+      "Retriever de Pelo Liso",
+      "Peter Pan dos retrievers",
+      "cão de caça inglês",
+      "cão nadador",
+      "raças de cães grandes",
+      "cuidados com Flatty",
+      "temperamento Flat Coated"
     ]
   },
   "imagem_principal": "/images/breeds/flat-coated-retriever.jpg",
@@ -76,11 +92,52 @@
     "/images/breeds/flat-coated-retriever-2.jpg",
     "/images/breeds/flat-coated-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=flat-coated-retriever",
-  "popularidade": 17560,
-  "ranking_brasil": 189,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Flat-Coated Retriever - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-flatty",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-flatty/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Alegria do Flat Coated Retriever em Família",
+      "url": "https://www.youtube.com/watch?v=example-flatty-life",
+      "canal": "Natureza Pet",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "golden-retriever",
+    "labrador-retriever",
+    "curly-coated-retriever",
+    "setter-gordon"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Fígado (Liver/Marrom Escuro)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Marcações brancas são consideradas falta grave no padrão de exposição"
+  ],
+  "curiosidades_historicas": "O Flat Coated Retriever foi a primeira raça a ganhar o prestigiado título de 'Best in Show' no Crufts (a maior exposição canina do mundo) quando a categoria foi introduzida oficialmente, solidificando sua reputação como o retriever de maior perfeição morfológica da época.",
+  "referencias_externas": [
+    {
+      "titulo": "Flat-Coated Retriever Society of America",
+      "url": "https://fcrsainc.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e eventos."
+    },
+    {
+      "titulo": "The Flat Coated Retriever Society (UK)",
+      "url": "https://www.flatcoatedretrieversociety.com/",
+      "descricao": "O clube de raça original no Reino Unido, fundado em 1948."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    404,
-    1072
+    400,
+    1000
   ]
 }

@@ -1,74 +1,90 @@
 {
   "id": "dalmatian",
-  "nome": "Dalmatian",
+  "nome": "Dálmata",
   "slug": "dalmatian",
   "nome_en": "Dalmatian",
-  "apelidos": [],
-  "categoria": "Pequeno",
+  "apelidos": [
+    "Cão de Carruagem",
+    "Cão de Bombeiro"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Croácia",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "13.7 kg",
-    "peso_femea": "12 kg",
-    "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1935
+    "origem": "Croácia (Dalmácia)",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "56 - 61 cm",
+    "altura_femea": "54 - 59 cm",
+    "peso_macho": "27 - 32 kg",
+    "peso_femea": "24 - 29 kg",
+    "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 5
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dalmatian é uma raça de porte pequeno originária de Croácia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dalmatian originou-se em Croácia, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dálmata é uma das raças mais icônicas e visualmente distintas do mundo, famoso por sua pelagem branca pura salpicada de manchas pretas ou cor de fígado. De porte grande e constituição atlética e elegante, ele possui uma silhueta que denota grande resistência e velocidade. Sua expressão é inteligente e alerta, com olhos que brilham com vivacidade. Conhecido por seu passado como cão de carruagem e mascote de bombeiros, o Dálmata é um atleta nato com energia inesgotável. É um companheiro leal, digno e dotado de uma personalidade forte, sendo um excelente cão de família para lares muito ativos.",
+    "historia": "As origens exatas do Dálmata são ancestrais e debatidas, mas a raça leva o nome da região da Dalmácia, na Croácia. Por séculos, desempenhou inúmeras funções: foi cão de guerra, sentinela, pastor e até artista de circo. No entanto, sua fama mundial veio como 'cão de carruagem' na Inglaterra do século XIX, onde sua tarefa era correr ao lado de cavalos e carruagens para protegê-los de cães vadios e salteadores. Essa afinidade natural com cavalos o levou a ser adotado pelos primeiros corpos de bombeiros (cujas bombas eram puxadas por cavalos), tornando-se o símbolo eterno da profissão. A popularidade da raça atingiu níveis estratosféricos com o livro e filmes '101 Dálmatas'.",
     "curiosidades": [
-      "Dalmatian possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Os filhotes de Dálmata nascem totalmente brancos; suas manchas começam a aparecer apenas após as primeiras duas semanas de vida.",
+      "O padrão de manchas de cada Dálmata é único, como uma impressão digital humana.",
+      "Eles possuem um metabolismo de ácido úrico único entre os cães, semelhante ao dos humanos e grandes primatas, o que exige uma dieta específica.",
+      "O Dálmata é famoso por 'sorrir' (mostrar os dentes de forma submissa) quando está feliz ou querendo agradar o tutor.",
+      "Devido à sua herança de cão de carruagem, muitos Dálmatas ainda possuem uma afinidade instintiva extraordinária com cavalos."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias extremamente ativas que praticam esportes como corrida ou ciclismo",
+      "Tutores que buscam um cão de guarda de alerta vigilante e protetor",
+      "Pessoas que vivem em casas com quintais amplos e seguros",
+      "Quem aprecia a estética clássica e única de um cão pontilhado",
+      "Proprietários interessados em esportes caninos de agilidade e resistência"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que moram em apartamentos pequenos",
+      "Pessoas que não podem oferecer pelo menos 1 a 2 horas de exercícios vigorosos diários",
+      "Donos que não toleram queda de pelos curta e constante (o pelo do Dálmata 'espeta' nos tecidos)",
+      "Pessoas sensíveis a cães que exigem estímulo mental constante para não se tornarem destrutivos",
+      "Tutores iniciantes que não estejam preparados para lidar com a teimosia ocasional da raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Surdez Congênita (cerca de 10-12% nascem surdos de um ou ambos os ouvidos)",
+      "Cálculos Urinários (devido ao metabolismo único de ácido úrico)",
+      "Alergias de pele e Dermatites",
+      "Displasia de Quadril",
+      "Problemas oculares leves",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Teste de audição (BAER) em filhotes é essencial. Monitoramento frequente da urina para detectar cristais. Check-ups ortopédicos anuais."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, mas ele solta muito pelo o ano todo. Escovação diária ou pelo menos três vezes por semana é recomendada para gerenciar a queda. Banhos devem ser mensais. As orelhas e olhos devem ser limpos regularmente.",
+    "exercicios": "Necessita de muito exercício vigoroso. Ele é um corredor de longa distância por natureza. Caminhadas simples não são suficientes; ele precisa correr livremente em áreas seguras ou acompanhar o tutor em corridas. O tédio é o maior inimigo do comportamento do Dálmata.",
+    "treinamento": "Inteligente mas independente e obstinado. O adestramento deve ser firme, consistente e baseado em reforço positivo. Eles aprendem rápido mas podem ser teimosos se o treino for chato. A socialização precoce com outros cães é fundamental, pois podem ser dominantes.",
+    "alimentacao": "Dieta específica com baixo teor de purinas para prevenir cálculos urinários. É CRUCIAL oferecer muita água fresca e limpa o tempo todo para diluir a urina."
   },
   "seo": {
-    "title": "Dalmatian - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dalmatian: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dálmata: O Elegante Herói das Manchas - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Dálmata: conheça seu temperamento atlético, história como cão de bombeiro e os cuidados essenciais com a saúde urinária e audição.",
     "keywords": [
-      "dalmatian",
-      "dalmatian",
-      "pequeno",
-      "croácia"
+      "Dálmata",
+      "Dalmatian",
+      "cão de bombeiro",
+      "cão de carruagem",
+      "101 Dálmatas",
+      "raças de cães grandes",
+      "cuidados com Dálmata",
+      "temperamento Dálmata",
+      "surdez em cães"
     ]
   },
   "imagem_principal": "/images/breeds/dalmatian.jpg",
@@ -77,11 +93,53 @@
     "/images/breeds/dalmatian-2.jpg",
     "/images/breeds/dalmatian-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dalmatian",
-  "popularidade": 45315,
-  "ranking_brasil": 66,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dalmatian - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-dalmatian",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dalmatian/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Realidade de ter um Dálmata",
+      "url": "https://www.youtube.com/watch?v=example-dalmatian-life",
+      "canal": "Vida de Cão",
+      "duracao": "11:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-ingles",
+    "greyhound",
+    "braquinho-da-auvergne",
+    "grande-azul-da-gasconha"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Pretas",
+    "Branco com manchas Fígado (Marrom)"
+  ],
+  "marcacoes": [
+    "Manchas redondas e bem definidas",
+    "Padrão de manchas uniforme",
+    "Orelhas preferencialmente manchadas"
+  ],
+  "curiosidades_historicas": "A conexão entre Dálmatas e bombeiros era tão forte que, antes das sirenes eletrônicas, o latido dos Dálmatas servia como o alarme sonoro que abria caminho para as carruagens de bombeiros nas ruas movimentadas. Eles eram os guardiões das bombas e dos cavalos, garantindo que nada fosse roubado enquanto os bombeiros combatiam o fogo.",
+  "referencias_externas": [
+    {
+      "titulo": "Dalmatian Club of America",
+      "url": "https://dalmatianclubofamerica.org/",
+      "descricao": "Clube oficial de raça com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Dalmatian Standard",
+      "url": "https://www.fci.be/en/nomenclature/DALMATIAN-153.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 28000,
+  "ranking_brasil": 60,
   "custo_mensal_estimado": [
-    316,
-    1320
+    400,
+    900
   ]
 }

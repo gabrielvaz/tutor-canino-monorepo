@@ -5,70 +5,85 @@
   "nome_en": "Dogo Argentino",
   "apelidos": [
     "Dogo",
-    "Argentino"
+    "Mastiff Argentino"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Argentina",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "56 cm",
-    "altura_femea": "51 cm",
-    "peso_macho": "25.7 kg",
-    "peso_femea": "21.4 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "62 - 68 cm",
+    "altura_femea": "60 - 65 cm",
+    "peso_macho": "40 - 45 kg",
+    "peso_femea": "35 - 40 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1985
+    "ano_reconhecimento_fci": 1973
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 3,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 4,
-    "afeicao_familia": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
+    "bom_com_outros_caes": 2,
     "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Dogo Argentino é uma raça de porte grande originária de Argentina. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dogo Argentino originou-se em Argentina, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dogo Argentino é uma obra-prima da cinofilia sul-americana, um cão de porte grande, musculatura atlética e uma brancura imaculada que o torna inconfundível. Construído para ser um atleta de elite, ele combina força, velocidade e uma resistência extraordinária. Sua cabeça é massiva e poderosa, com um olhar focado que reflete sua coragem inabalável. Apesar de sua aparência intimidadora e de ser um caçador de grandes animais, o Dogo é surpreendentemente carinhoso e leal à sua família, comportando-se como um verdadeiro protetor silencioso e um companheiro afetuoso que adora o contato próximo com seus tutores.",
+    "historia": "A raça foi criada em 1928 pelo Dr. Antonio Nores Martinez, em Córdoba, na Argentina. Ele buscava um cão de caça maior versátil, capaz de abater animais como javalis e pumas, mas que também pudesse ser um companheiro de família confiável. A base da raça foi o antigo Cão de Briga de Córdoba, que foi cruzado estrategicamente com o Bulldog Inglês, Great Dane, Mastiff dos Pirineus, Bull Terrier, Boxer, Pointer Inglês, Irish Wolfhound e Dogue de Bordeaux. O resultado foi um cão branco (para fácil localização na caça), dotado de um faro aguçado e uma força física sem precedentes. O Dogo Argentino tornou-se a primeira raça argentina reconhecida internacionalmente pela FCI.",
     "curiosidades": [
-      "Dogo Argentino possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A cor branca pura é obrigatória para que o cão seja visível para o caçador a longas distâncias em terrenos variados.",
+      "Eles possuem uma mordida de 'estilo presa', o que significa que, uma vez que seguram o animal, não o soltam até que o caçador chegue.",
+      "Diferente de muitos molossos de guarda, o Dogo Argentino é extremamente ágil e pode saltar grandes alturas.",
+      "Eles são conhecidos por terem um 'umbral de dor' muito elevado, herança de seu passado de luta e caça perigosa.",
+      "Apesar da força, muitos Dogos Argentinos adoram se comportar como cães de colo, tentando se acomodar sobre seus tutores no sofá."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que entendem a psicologia de cães de presa e guarda",
+      "Famílias muito ativas que praticam esportes ou trilhas",
+      "Pessoas que vivem em casas com quintais amplos e muros altos e seguros",
+      "Quem busca o máximo em proteção residencial combinado com lealdade familiar",
+      "Proprietários interessados em treinamento de obediência avançado"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores de primeira viagem (ele exige uma liderança muito firme e coerente)",
+      "Moradores de apartamentos pequenos (devido ao tamanho e necessidade de movimento)",
+      "Pessoas que não podem oferecer pelo menos 1,5 a 2 horas de exercícios vigorosos diários",
+      "Casas com muitos cães desconhecidos sem socialização profunda",
+      "Proprietários que não toleram uma certa independência no temperamento (o Dogo pensa por si mesmo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Surdez Congênita (em torno de 10% da raça devido ao gene da cor branca)",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Entrópio e Catarata)",
+      "Dilatação e Torção Gástrica",
+      "Sensibilidade ao sol (devido à pele clara)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Teste de audição (BAER) é essencial em filhotes. Check-ups ortopédicos semestrais. Uso de protetor solar em áreas expostas da pele branca."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, bastando uma escovação semanal. Banhos devem ser mensais para manter a brancura. É importante proteger a pele do sol direto e verificar as orelhas. As unhas devem ser mantidas curtas para não comprometer a pisada poderosa.",
+    "exercicios": "Necessita de muito exercício físico e mental. Caminhadas vigorosas, corridas e sessões de trabalho ou treinamento são fundamentais. Ele precisa de espaço para correr e se expressar fisicamente para não se tornar frustrado e destrutivo.",
+    "treinamento": "O adestramento é obrigatório e deve começar cedo. O Dogo é inteligente mas dominante e requer um líder calmo e inquestionável. Use reforço positivo, mas seja muito consistente com as regras. A socialização precoce com pessoas e outros animais é CRÍTICA.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições por dia. Evite exercícios pesados antes e depois de comer devido ao alto risco de torção gástrica em cães de peito profundo."
   },
   "seo": {
-    "title": "Dogo Argentino - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dogo Argentino: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dogo Argentino: O Atleta Branco da Guarda - Guia Completo da Raça",
+    "description": "Conheça o Dogo Argentino: descubra sua força, coragem e lealdade inabalável. Guia completo de cuidados, história na caça e saúde desta raça poderosa.",
     "keywords": [
-      "dogo-argentino",
-      "dogo argentino",
-      "grande",
-      "argentina"
+      "Dogo Argentino",
+      "Dogo",
+      "cão de guarda",
+      "caça de javali",
+      "raças de cães brancas",
+      "raças de cães grandes",
+      "cuidados com Dogo Argentino",
+      "temperamento Dogo"
     ]
   },
   "imagem_principal": "/images/breeds/dogo-argentino.jpg",
@@ -77,11 +92,51 @@
     "/images/breeds/dogo-argentino-2.jpg",
     "/images/breeds/dogo-argentino-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dogo-argentino",
-  "popularidade": 15140,
-  "ranking_brasil": 71,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dogo Argentino - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-dogo",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dogo/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Força do Dogo Argentino no Trabalho",
+      "url": "https://www.youtube.com/watch?v=example-dogo-work",
+      "canal": "Mundo Molosso",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "cane-corso",
+    "bull-terrier",
+    "great-dane",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Mancha preta pequena na cabeça (permitida mas não desejável)",
+    "Pele pode ter manchas escuras visíveis apenas quando molhado"
+  ],
+  "curiosidades_historicas": "O Dr. Antonio Nores Martinez, criador da raça, costumava levar seus Dogos para demonstrações públicas onde os cães enfrentavam pumas para provar que a raça tinha a coragem necessária para a caça comercial argentina, um método controverso hoje, mas que moldou a tenacidade lendária da raça.",
+  "referencias_externas": [
+    {
+      "titulo": "Club del Dogo Argentino",
+      "url": "http://www.dogoargentino.com.ar/",
+      "descricao": "Clube oficial de origem da raça na Argentina."
+    },
+    {
+      "titulo": "FCI - Dogo Argentino Standard",
+      "url": "https://www.fci.be/en/nomenclature/DOGO-ARGENTINO-292.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 20000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    493,
-    1357
+    500,
+    1300
   ]
 }

@@ -5,72 +5,84 @@
   "nome_en": "Glen of Imaal Terrier",
   "apelidos": [
     "Glen",
-    "Terrier"
+    "Terrier de Glen"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Irlanda",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "21 cm",
-    "peso_macho": "13.7 kg",
-    "peso_femea": "7.9 kg",
+    "origem": "Irlanda (Condado de Wicklow)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "30 - 35 cm",
+    "altura_femea": "30 - 35 cm",
+    "peso_macho": "14 - 16 kg",
+    "peso_femea": "14 - 16 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1917
+    "ano_reconhecimento_fci": 1975
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Glen of Imaal Terrier é uma raça de porte pequeno originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Glen of Imaal Terrier originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Glen of Imaal Terrier é um dos segredos mais bem guardados da Irlanda, um cão pequeno mas de uma substância e força impressionantes. Caracteriza-se por seu corpo longo, pernas curtas e ligeiramente arqueadas, e uma pelagem dupla áspera e resistente. Sua cabeça é larga com orelhas semi-caídas e olhos amendoados que transmitem uma expressão de doçura sábia e determinação. Diferente de muitos terriers que são 'elétricos', o Glen é conhecido por ser um cão de 'baixo perfil' — calmo, silencioso e muito menos reativo, mas dotado de uma coragem absoluta e uma persistência férrea se for desafiado ou estiver em trabalho.",
+    "historia": "A raça originou-se no vale isolado de Glen of Imaal, no Condado de Wicklow, na Irlanda. Eles foram desenvolvidos por fazendeiros locais para serem trabalhadores multifuncionais: caçavam ratos, texugos e raposas, além de desempenharem uma tarefa única na história canina: atuar como 'turnspit dogs'. Eles corriam em uma roda de madeira para girar a carne sobre o fogo na cozinha. Essa tarefa exigia pernas fortes e um temperamento resiliente. Devido ao isolamento geográfico de sua terra natal, o Glen permaneceu quase desconhecido fora de Wicklow até o século XX, sendo reconhecido oficialmente pelo Kennel Club irlandês em 1934 e pela FCI em 1975.",
     "curiosidades": [
-      "Glen of Imaal Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Glen of Imaal Terrier é famoso pela 'Glen Sit', uma posição sentada onde ele se equilibra sobre as patas traseiras com o tronco ereto, de forma similar aos humanos.",
+      "Eles são conhecidos como 'caçadores silenciosos', pois foram criados para não latirem enquanto perseguiam a presa nas tocas, para não alertar o animal antes do ataque.",
+      "A raça possui uma densidade óssea incomum para o seu tamanho, sendo muito mais pesado do que aparenta visualmente.",
+      "Suas patas dianteiras são propositalmente voltadas para fora, uma adaptação anatômica que facilitava o trabalho nas rodas de cozinha e a escavação em terrenos rochosos.",
+      "É considerado uma 'Raça Nativa Vulnerável' no Reino Unido e Irlanda devido ao baixo número de registros anuais."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias que buscam um terrier com temperamento calmo e equilibrado",
+      "Moradores de apartamentos e casas menores (ele é muito silencioso em interiores)",
+      "Tutores que apreciam cães com aparência rústica e personalidade digna",
+      "Quem deseja um companheiro leal que não exige atividade física frenética",
+      "Famílias com crianças, com quem ele costuma ser resiliente e gentil"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que buscam obediência cega e execução rápida de truques (ele é independente)",
+      "Pessoas que não toleram um cão que pode ser teimoso se não respeitar a liderança",
+      "Casas com pequenos animais de estimação como porquinhos-da-índia (instinto de caça de roedores ainda presente)",
+      "Ambientes com calor tropical extremo sem cuidados (a pelagem dupla retém calor)",
+      "Tutores que não podem dedicar tempo à manutenção da pelagem (hand-stripping)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina) - teste genético disponível",
+      "Problemas nas articulações das pernas dianteiras (devido ao arqueamento)",
+      "Alergias de pele",
+      "Problemas dentários (acúmulo de tártaro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais. Monitoramento ortopédico cuidadoso durante o crescimento. Testes genéticos para PRA são essenciais antes da reprodução."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada. Escovação semanal profunda é necessária para evitar nós e remover pelos mortos. O 'hand-stripping' (remoção manual) deve ser feito por um profissional duas vezes ao ano para manter a textura áspera correta. Banhos devem ser ocasionais. A limpeza da barba e das franjas é importante.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos são suficientes para mantê-lo em forma. Evite saltos de grandes alturas para proteger suas articulações dianteiras e coluna.",
+    "treinamento": "Inteligente mas independente e 'filosófico'. O adestramento deve ser baseado em reforço positivo e paciência. Eles aprendem bem mas decidem se vale a pena obedecer. A socialização precoce é fundamental para garantir que ele seja amigável com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos/médios. O controle das porções é vital, pois o Glen tem facilidade para engordar, o que sobrecarrega suas pernas curtas e articulações."
   },
   "seo": {
-    "title": "Glen of Imaal Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Glen of Imaal Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Glen of Imaal Terrier: O Terrier Silencioso e Gentil - Guia de Raça",
+    "description": "Descubra o Glen of Imaal Terrier: conheça sua história única como cão de cozinha, sua aparência rústica e seu temperamento calmo e leal. Guia completo.",
     "keywords": [
-      "glen-of-imaal-terrier",
-      "glen of imaal terrier",
-      "pequeno",
-      "irlanda"
+      "Glen of Imaal Terrier",
+      "Terrier de Glen",
+      "cão turnspit",
+      "terrier irlandês",
+      "cachorro para apartamento",
+      "raças de cães raras",
+      "cuidados com Glen of Imaal",
+      "temperamento Glen"
     ]
   },
   "imagem_principal": "/images/breeds/glen-of-imaal-terrier.jpg",
@@ -79,11 +91,53 @@
     "/images/breeds/glen-of-imaal-terrier-2.jpg",
     "/images/breeds/glen-of-imaal-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=glen-of-imaal-terrier",
-  "popularidade": 27266,
-  "ranking_brasil": 19,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Glen of Imaal Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-glen",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-glen/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento do Glen of Imaal",
+      "url": "https://www.youtube.com/watch?v=example-glen-life",
+      "canal": "Mundo Terrier",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "dandie-dinmont-terrier",
+    "sealyham-terrier",
+    "scottish-terrier",
+    "irish-terrier"
+  ],
+  "cores_disponiveis": [
+    "Trigo (Wheaten)",
+    "Azul-acinzentado (Blue Brindle)"
+  ],
+  "marcacoes": [
+    "Máscara escura leve (opcional)",
+    "Pode ter pelos pretos dispersos no trigo",
+    "Topete mais macio na cabeça"
+  ],
+  "curiosidades_historicas": "O uso de cães para girar o espeto na cozinha (turnspit dogs) era comum na Europa medieval, mas o Glen of Imaal Terrier foi uma das poucas raças de trabalho rústico que sobreviveu à obsolescência tecnológica da cozinha, transformando-se em um companheiro de fazenda indispensável devido à sua versatilidade.",
+  "referencias_externas": [
+    {
+      "titulo": "Glen of Imaal Terrier Club of America",
+      "url": "https://www.gleneagle.org/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Glen of Imaal Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/GLEN-OF-IMAAL-TERRIER-302.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    321,
-    1403
+    300,
+    700
   ]
 }

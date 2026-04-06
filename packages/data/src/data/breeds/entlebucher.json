@@ -2,70 +2,89 @@
   "id": "entlebucher",
   "nome": "Entlebucher",
   "slug": "entlebucher",
-  "nome_en": "Entlebucher Mountain Dog",
-  "apelidos": [],
-  "categoria": "Grande",
+  "nome_en": "Entlebucher Sennenhund",
+  "apelidos": [
+    "Entle",
+    "Entlebucher Mountain Dog",
+    "Cão de Montanha de Entlebuch"
+  ],
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Suíça",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "65 cm",
-    "altura_femea": "59 cm",
-    "peso_macho": "34.1 kg",
-    "peso_femea": "32.6 kg",
+    "expectativa_vida": "11 - 15 anos",
+    "altura_macho": "44 - 52 cm",
+    "altura_femea": "42 - 50 cm",
+    "peso_macho": "22 - 30 kg",
+    "peso_femea": "20 - 28 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1923
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 1,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Entlebucher é uma raça de porte grande originária de Suíça. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Entlebucher originou-se em Suíça, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Entlebucher Sennenhund é o menor, mais ágil e mais enérgico dos quatro cães de montanha suíços. De porte médio e constituição robusta e compacta, ele é um atleta incansável com uma pelagem tricolor (preto, fogo e branco) curta e brilhante. Sua cabeça é forte com uma expressão de inteligência alerta e astúcia. Diferente de seus primos maiores e mais calmos como o Bernese, o Entlebucher é um cão de 'alta voltagem', dotado de uma vivacidade extraordinária e um desejo intenso de estar sempre ocupado. É um guardião atento, um pastor dedicado e um companheiro familiar que forma laços indestrutíveis com seus tutores.",
+    "historia": "A raça tem origem no vale de Entlebuch, na Suíça, onde era usada por séculos como cão de pastoreio de gado em terrenos montanhosos e como guarda de fazendas. O primeiro padrão da raça foi escrito em 1889, mas por muito tempo o Entlebucher não foi distinguido do Appenzeller. Foi o Professor Albert Heim quem lutou pelo reconhecimento e preservação desta variedade específica de cão de montanha no início do século XX. O Entlebucher é hoje apreciado mundialmente como um cão de trabalho rústico e um parceiro excepcional para esportes caninos devido à sua agilidade e inteligência prática.",
     "curiosidades": [
-      "Entlebucher possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Entlebucher é conhecido como o 'cão que ri' devido à forma como abrem a boca e mostram alegria ao interagir com a família.",
+      "Eles possuem um latido muito potente e ressonante para o seu tamanho, herança de seu passado como guardiões de fazendas alpinas.",
+      "Muitos Entlebuchers nascem com uma cauda naturalmente curta (stumpy tail), embora caudas longas também sejam comuns.",
+      "Eles são famosos por sua habilidade de 'fazer o que for preciso' para concluir uma tarefa, demonstrando uma persistência típica de cães de trabalho suíços.",
+      "Apesar de serem pastores de gado, eles se adaptam maravilhosamente a esportes como Flyball e Agility, onde sua velocidade e foco brilham."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam trilhas, corridas e esportes ao ar livre",
+      "Tutores interessados em adestramento avançado e competições caninas",
+      "Pessoas que vivem em casas com quintais seguros e espaço para correr",
+      "Quem busca um cão de guarda atento e vigilante mas dócil com a família",
+      "Proprietários experientes que saibam estabelecer uma liderança firme e divertida"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores sedentários ou que buscam um cão passivo para ficar no sofá",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de exercícios externos",
+      "Pessoas que ficam fora de casa o dia todo (ele exige companhia e estímulo mental constante)",
+      "Tutores de primeira viagem que podem se sentir sobrecarregados pela intensidade da raça",
+      "Proprietários que não toleram um cão vocal que utiliza o latido para se comunicar"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina)",
+      "Ectopia Ureteral (problema congênito no sistema urinário)",
+      "Catarata",
+      "Hipotireoidismo",
+      "Problemas cardíacos (ocasionais)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Testes de DNA para PRA e monitoramento renal são recomendados. É importante manter o cão magro para preservar as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal para remover pelos mortos. Durante as trocas sazonais, a queda de pelo é moderada e a escovação pode ser feita com mais frequência. Banhos devem ser ocasionais. As unhas devem ser mantidas curtas e os dentes escovados regularmente.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade física vigorosa aliada a desafios mentais. O Entlebucher precisa de um 'trabalho' ou propósito para não se tornar destrutivo por tédio. Ele adora jogos de busca, trilhas e sessões de treinamento complexas.",
+    "treinamento": "Extremamente inteligente e ansioso para aprender, o Entlebucher aprende comandos com facilidade. No entanto, sua natureza de pastor de gado o torna independente e persistente. O adestramento deve ser baseado em reforço positivo, paciência e firmeza. A socialização precoce é VITAL para evitar a desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães ativos de médio porte. Deve-se controlar rigorosamente a ingestão calórica, pois o Entlebucher tem facilidade para engordar, o que sobrecarrega suas articulações atléticas."
   },
   "seo": {
-    "title": "Entlebucher - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Entlebucher: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Entlebucher Sennenhund: O Ágil e Inteligente Boiadeiro Suíço - Guia de Raça",
+    "description": "Descubra o Entlebucher: o menor e mais vibrante dos cães de montanha suíços. Conheça sua história, temperamento leal e dicas essenciais de exercícios e saúde.",
     "keywords": [
-      "entlebucher",
-      "entlebucher",
-      "grande",
-      "suíça"
+      "Entlebucher",
+      "Entlebucher Sennenhund",
+      "Cão de Montanha Suíço",
+      "Boiadeiro de Entlebuch",
+      "cão de pastoreio",
+      "raças de cães médias",
+      "cuidados com Entlebucher",
+      "temperamento Entlebucher"
     ]
   },
   "imagem_principal": "/images/breeds/entlebucher.jpg",
@@ -74,11 +93,52 @@
     "/images/breeds/entlebucher-2.jpg",
     "/images/breeds/entlebucher-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=entlebucher",
-  "popularidade": 9785,
-  "ranking_brasil": 186,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Entlebucher Sennenhund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-entle",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-entle/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Entlebucher",
+      "url": "https://www.youtube.com/watch?v=example-entle-agility",
+      "canal": "Swiss Dogs",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "appenzeller-sennenhund",
+    "bernese-mountain-dog",
+    "grande-cao-da-montanha-suica",
+    "pastor-australiano"
+  ],
+  "cores_disponiveis": [
+    "Preto Tricolor (Preto com marcações Fogo e Branco)"
+  ],
+  "marcacoes": [
+    "Manchas fogo (tan) simétricas sobre os olhos e bochechas",
+    "Peito branco (chama)",
+    "Ponta da cauda e patas brancas (desejável)"
+  ],
+  "curiosidades_historicas": "O Entlebucher foi essencialmente um cão 'fantasma' por décadas, sendo erroneamente classificado como Appenzeller até que o Professor Albert Heim o identificou como uma raça distinta em 1913. Sua população foi severamente reduzida durante a Primeira Guerra Mundial, mas a dedicação de um punhado de criadores salvou este pequeno gigante das montanhas da extinção.",
+  "referencias_externas": [
+    {
+      "titulo": "National Entlebucher Mountain Dog Association",
+      "url": "https://www.nemda.org/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde, ética e criação."
+    },
+    {
+      "titulo": "FCI - Entlebucher Sennenhund Standard",
+      "url": "https://www.fci.be/en/nomenclature/ENTLEBUCHER-SENNENHUND-47.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    278,
-    1341
+    350,
+    850
   ]
 }

@@ -5,69 +5,84 @@
   "nome_en": "English Foxhound",
   "apelidos": [
     "Foxhound",
-    "Inglês"
+    "Hound Inglês"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "44 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "19.4 kg",
-    "peso_femea": "16.7 kg",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "58 - 64 cm",
+    "altura_femea": "58 - 64 cm",
+    "peso_macho": "29 - 34 kg",
+    "peso_femea": "27 - 32 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
     "ano_reconhecimento_fci": 1951
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
+    "energia": 5,
+    "inteligencia": 4,
     "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 5,
+    "latido": 5,
+    "afeicao_familia": 4,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 4,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Foxhound Inglês é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Foxhound Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Foxhound Inglês é o epítome do cão de matilha aristocrático, um atleta de resistência extraordinária e beleza funcional. De porte grande e constituição poderosa e simétrica, ele possui pernas perfeitamente retas, orelhas pendentes e um olhar gentil mas determinado. Sua pelagem é curta, densa e brilhante, geralmente no padrão tricolor clássico. Construído para correr por horas em perseguição a raposas através do campo inglês, ele exala uma aura de força e vitalidade. Embora seja um animal de temperamento dócil e muito sociável, sua mente e corpo são inteiramente voltados para o trabalho em grupo e o seguimento de trilhas de odor.",
+    "historia": "A raça foi meticulosamente desenvolvida na Inglaterra a partir do século XVI, sendo o resultado de séculos de seleção baseada puramente na performance em campo. Seus ancestrais incluem o antigo Greyhound (pela velocidade), o Staghound e o Bloodhound (pelo faro e resistência). O Foxhound Inglês foi criado para trabalhar em matilhas grandes, acompanhado por caçadores a cavalo, uma tradição que se tornou um pilar da cultura rural britânica. Diferente de outras raças que foram modificadas para a vida doméstica, o Foxhound Inglês manteve-se quase inalterado em sua função e morfologia por centenas de anos.",
     "curiosidades": [
-      "Foxhound Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Os Foxhounds Ingleses são criados em matilhas registradas em 'Stud Books' que datam de mais de 200 anos, mantendo uma linhagem de pureza incomparável.",
+      "Eles possuem o que os caçadores chamam de 'vozes de sino', uivos melódicos que permitem ao caçador identificar a posição do cão mesmo sem vê-lo na floresta.",
+      "Diferente da maioria dos cães domésticos, um Foxhound Inglês pode se sentir muito infeliz se for mantido como um cão único, pois seu instinto social de matilha é extremamente forte.",
+      "Eles possuem um faro 'quente', o que significa que são especialistas em seguir rastros frescos em alta velocidade.",
+      "Os joelhos da raça são posicionados de forma a permitir um movimento de galope incansável, cobrindo grandes distâncias com o mínimo esforço."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que vivem em áreas rurais extensas ou fazendas",
+      "Pessoas que possuem outros cães de rastro (ele prospera em matilhas)",
+      "Atletas de maratona ou ciclistas que buscam um parceiro de resistência extrema",
+      "Proprietários interessados na preservação de raças de trabalho históricas",
+      "Casas com grandes jardins muito bem cercados"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer exercícios diários vigorosos",
+      "Proprietários que buscam um cão de colo passivo",
+      "Tutores que exigem obediência perfeita (ele é independente e focado no nariz)",
+      "Pessoas que se incomodam com queda de pelo curta e constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Doença Renal Crônica (incidência ocasional)",
+      "Otites (infecções de ouvido devido ao formato abafado)",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares leves"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Limpeza semanal profunda das orelhas pendentes. Atenção aos sinais de problemas renais em cães seniores."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, bastando uma escovação semanal. Banhos devem ser mensais ou após atividades em campo. As orelhas exigem atenção constante para evitar acúmulo de cera e umidade. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercício físico intenso e diário. O Foxhound Inglês não se satisfaz com passeios no quarteirão; ele precisa de horas de atividade ou a oportunidade de correr livremente em áreas seguras. Sem gasto de energia, ele pode desenvolver ansiedade e comportamentos destrutivos.",
+    "treinamento": "O adestramento exige paciência e persistência. Eles são inteligentes, mas motivados por instintos de caça, não pelo desejo de agradar o tutor. Use reforço positivo e petiscos. O 'recall' é extremamente difícil de treinar nesta raça se houver um cheiro interessante por perto.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições. É importante não exercitar o cão logo após comer para reduzir o risco de torção gástrica, comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Foxhound Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Foxhound Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Foxhound Inglês: O Guia Completo do Atleta das Matilhas Reais",
+    "description": "Descubra o Foxhound Inglês: conheça sua história na caça britânica, seu uivo melódico e as dicas essenciais de exercícios para esta raça incansável.",
     "keywords": [
-      "foxhound-ingles",
-      "foxhound inglês",
-      "médio",
-      "inglaterra"
+      "Foxhound Inglês",
+      "English Foxhound",
+      "cão de matilha",
+      "cão farejador",
+      "sabujo inglês",
+      "raças de cães grandes",
+      "cuidados com Foxhound",
+      "temperamento Foxhound"
     ]
   },
   "imagem_principal": "/images/breeds/foxhound-ingles.jpg",
@@ -76,11 +91,54 @@
     "/images/breeds/foxhound-ingles-2.jpg",
     "/images/breeds/foxhound-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=foxhound-ingles",
-  "popularidade": 23184,
-  "ranking_brasil": 128,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Foxhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-efoxhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-efoxhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Matilha de Foxhounds em Ação",
+      "url": "https://www.youtube.com/watch?v=example-foxhound-pack",
+      "canal": "British Countryside",
+      "duracao": "10:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "foxhound-americano",
+    "beagle",
+    "harrier",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Preto, Branco e Fogo)",
+    "Bicolor (Branco e Limão)",
+    "Branco e Fogo"
+  ],
+  "marcacoes": [
+    "Manta preta ou sela no dorso",
+    "Manchas irregulares",
+    "Ponta da cauda branca (obrigatória no trabalho)"
+  ],
+  "curiosidades_historicas": "O Foxhound Inglês é considerado o 'Deus da Caça' na Inglaterra. Historicamente, os mestres de matilha selecionavam os cães não apenas pela eficiência, mas pela beleza do seu uivo, visando criar uma 'música' que pudesse ser ouvida e apreciada à distância pelos cavaleiros.",
+  "referencias_externas": [
+    {
+      "titulo": "Masters of Foxhounds Association (UK)",
+      "url": "https://mfha.org.uk/",
+      "descricao": "Associação oficial que mantém os Stud Books históricos da raça no Reino Unido."
+    },
+    {
+      "titulo": "FCI - English Foxhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-FOXHOUND-159.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    416,
-    629
+    400,
+    900
   ]
 }

@@ -4,72 +4,89 @@
   "slug": "dogue-alemao",
   "nome_en": "Great Dane",
   "apelidos": [
-    "Dogue",
-    "Alemão",
-    "Great Dane"
+    "Apolo dos Cães",
+    "Gigante Gentil",
+    "Cão de Scooby-Doo"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "75 cm",
-    "altura_femea": "69 cm",
-    "peso_macho": "46.2 kg",
-    "peso_femea": "45.1 kg",
+    "expectativa_vida": "7 - 10 anos",
+    "altura_macho": "80 - 90 cm",
+    "altura_femea": "72 - 84 cm",
+    "peso_macho": "54 - 90 kg",
+    "peso_femea": "45 - 59 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1998
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 3,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dogue Alemão é uma raça de porte gigante originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dogue Alemão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dogue Alemão, conhecido como o 'Apolo dos Cães', é uma das maiores e mais majestosas raças do mundo. De porte gigante e constituição atlética, ele combina força massiva com uma elegância e dignidade supremas. Sua cabeça é longa e expressiva, com um olhar que transmite doçura e calma. Apesar de seu tamanho que pode intimidar qualquer um, o Dogue Alemão é famoso por ser um 'gigante gentil'. Ele é extremamente afetuoso, paciente e dotado de uma natureza pacífica, desejando intensamente a companhia de sua família e muitas vezes esquecendo-se do seu próprio tamanho ao tentar se acomodar no colo de seus tutores.",
+    "historia": "As origens da raça remontam à Alemanha, onde por séculos foram usados como cães de caça de grandes animais, especialmente o javali europeu. Eles descendem de cruzamentos entre mastiffs ingleses e wolfhounds irlandeses, visando unir a força de um com a velocidade do outro. Na Idade Média, eram cães de luxo que viviam dentro dos castelos, protegendo os príncipes alemães enquanto dormiam. O nome 'Great Dane' é um mistério histórico, pois a raça é puramente alemã e não dinamarquesa. Em 1880, a raça foi declarada o Cão Nacional da Alemanha, e desde então seu padrão foi refinado para o companheiro familiar dócil que conhecemos hoje.",
     "curiosidades": [
-      "Dogue Alemão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Dogue Alemão detém quase todos os recordes mundiais de 'Cão Mais Alto do Mundo' no Guinness World Records, com exemplares ultrapassando 1,10 metros de altura na cernelha.",
+      "Scooby-Doo, o famoso cão dos desenhos animados, é um Dogue Alemão (embora com características físicas não ideais para o padrão).",
+      "Eles são conhecidos por serem 'cães de sofá', preferindo descansar em superfícies macias do que no chão frio devido ao seu baixo percentual de gordura.",
+      "O Dogue Alemão possui uma 'pose' característica de se sentar em cadeiras e sofás como humanos, mantendo as patas traseiras no chão e o tronco sobre o assento.",
+      "Devido ao seu tamanho massivo, o crescimento de um filhote de Dogue Alemão é um dos mais rápidos e exigentes de todo o reino animal."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um babá excepcional e muito paciente)",
+      "Tutores que possuem casas com amplos espaços internos",
+      "Pessoas que buscam um companheiro calmo, silencioso e extremamente afetuoso",
+      "Quem deseja um cão de guarda dissuasivo apenas pela sua presença imponente",
+      "Proprietários que apreciam uma relação de profunda lealdade e proximidade física"
     ],
     "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+      "Moradores de apartamentos pequenos ou casas com muitas escadas",
+      "Tutores sedentários que não possam oferecer caminhadas diárias para manter o tônus muscular",
+      "Pessoas que não estão preparadas para uma expectativa de vida mais curta",
+      "Tutores que não podem arcar com os altos custos de alimentação e veterinária",
+      "Proprietários extremamente zelosos com a limpeza absoluta (Dogue Alemão baba consideravelmente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - causa número um de morte na raça",
+      "Cardiomiopatia Dilatada",
+      "Osteossarcoma (câncer ósseo)",
+      "Displasia de Quadril e Cotovelo",
+      "Hipotireoidismo",
+      "Síndrome de Wobbler",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é vital. Atenção extrema à alimentação para evitar a torção gástrica (refeições fracionadas e tigelas elevadas). Check-ups ortopédicos constantes durante o crescimento."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade, exigindo um local espaçoso. Prepare-se para limpar babas de móveis e paredes. As unhas devem ser cortadas regularmente para não afetar a postura pesada.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em ritmo constante são suficientes para mantê-lo saudável. Evite exercícios de alto impacto, especialmente em filhotes em crescimento, para não danificar as articulações e ossos em desenvolvimento.",
+    "treinamento": "O adestramento deve começar muito cedo, pois um Dogue Alemão adulto sem controle é um desafio físico. Ele é inteligente e dócil, respondendo muito bem ao reforço positivo e carinho. A socialização precoce é fundamental para garantir que ele seja confiante e calmo em diferentes situações.",
+    "alimentacao": "Dieta de altíssima qualidade formulada especificamente para cães gigantes. É CRUCIAL não superalimentar filhotes para evitar o crescimento rápido demais. O repouso absoluto após as refeições é obrigatório para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Dogue Alemão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dogue Alemão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dogue Alemão: O Guia Completo do Gigante Gentil - Saúde e Cuidados",
+    "description": "Tudo sobre o Dogue Alemão (Great Dane): conheça o temperamento amoroso, a história majestosa e os cuidados essenciais com a saúde deste gigante do mundo canino.",
     "keywords": [
-      "dogue-alemao",
-      "dogue alemão",
-      "gigante",
-      "alemanha"
+      "Dogue Alemão",
+      "Great Dane",
+      "cão mais alto do mundo",
+      "gigante gentil",
+      "Scooby-Doo cão",
+      "raças de cães gigantes",
+      "cuidados com Dogue Alemão",
+      "temperamento Dogue Alemão",
+      "torção gástrica em cães"
     ]
   },
   "imagem_principal": "/images/breeds/dogue-alemao.jpg",
@@ -78,11 +95,57 @@
     "/images/breeds/dogue-alemao-2.jpg",
     "/images/breeds/dogue-alemao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dogue-alemao",
-  "popularidade": 34806,
-  "ranking_brasil": 117,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Great Dane - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-greatdane",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-greatdane/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é Viver com um Dogue Alemão",
+      "url": "https://www.youtube.com/watch?v=example-doguealemao-life",
+      "canal": "Mundo Gigante",
+      "duracao": "14:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-ingles",
+    "irish-wolfhound",
+    "sao-bernardo",
+    "dogue-de-bordeaux"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Fawn)",
+    "Tigrado (Brindle)",
+    "Azul",
+    "Preto",
+    "Arlequim (Harlequin)",
+    "Manto (Mantel)"
+  ],
+  "marcacoes": [
+    "Máscara preta (no dourado e tigrado)",
+    "Manchas pretas irregulares no branco (Arlequim)",
+    "Manto preto com pescoço e peito brancos"
+  ],
+  "curiosidades_historicas": "Na Alemanha do século XIX, o Dogue Alemão era tão valorizado que era comum os cães dormirem aos pés dos seus tutores aristocratas para protegê-los de assassinos. Eles eram considerados 'corpos de guarda' vivos, dotados de uma coragem que não hesitava em dar a vida por seu senhor.",
+  "referencias_externas": [
+    {
+      "titulo": "Great Dane Club of America",
+      "url": "https://gdca.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde, genética e padrão nos EUA."
+    },
+    {
+      "titulo": "DDC - Deutscher Doggen-Club 1888 (Alemanha)",
+      "url": "https://www.doggen.de/",
+      "descricao": "O clube de origem da raça, fundado na Alemanha em 1888."
+    }
+  ],
+  "popularidade": 42000,
+  "ranking_brasil": 35,
   "custo_mensal_estimado": [
-    335,
-    847
+    600,
+    1800
   ]
 }

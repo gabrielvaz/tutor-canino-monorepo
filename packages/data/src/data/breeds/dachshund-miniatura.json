@@ -2,75 +2,90 @@
   "id": "dachshund-miniatura",
   "nome": "Dachshund Miniatura",
   "slug": "dachshund-miniatura",
-  "nome_en": "Dachshund Miniature",
+  "nome_en": "Miniature Dachshund",
   "apelidos": [
-    "Dachshund",
-    "Miniatura"
+    "Teckel Mini",
+    "Salsicha Miniatura",
+    "Doxie"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "22 cm",
-    "altura_femea": "16 cm",
-    "peso_macho": "2.7 kg",
-    "peso_femea": "-0.2 kg",
+    "expectativa_vida": "12 - 16 anos",
+    "altura_macho": "13 - 18 cm",
+    "altura_femea": "13 - 18 cm",
+    "peso_macho": "4 - 5 kg",
+    "peso_femea": "4 - 5 kg",
+    "perimetro_toracico": "30 a 35 cm",
     "grupo_fci": "Grupo 4 - Dachshunds",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 1
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Dachshund Miniatura é uma raça de porte toy originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Dachshund Miniatura originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 4. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Dachshund Miniatura é um cão pequeno em estatura mas gigantesco em personalidade. De corpo longo e pernas curtas, ele mantém a mesma dignidade e rusticidade de seus parentes maiores, mas em um formato mais compacto ideal para a vida moderna. Caracteriza-se por seu tórax proeminente, orelhas longas e pendentes e um olhar astuto e cheio de vivacidade. Disponível nas variedades de pelo curto, longo e duro, o Miniatura é um companheiro extremamente adaptável, afetuoso e dotado de um senso de humor que diverte qualquer família. Ele é a prova viva de que a bravura não depende do tamanho, agindo frequentemente como o 'grande protetor' da casa.",
+    "historia": "O Dachshund (ou Teckel) é uma raça alemã com séculos de história, originalmente criada para caçar texugos sob a terra. A variedade Miniatura surgiu da necessidade de um cão que pudesse entrar em tocas menores, como as de coelhos e lebres, onde o Dachshund padrão era grande demais. Através da seleção cuidadosa dos menores exemplares de linhagens de caça, os criadores alemães desenvolveram um cão que mantinha a força de mandíbula e a determinação da raça, mas com um peso reduzido. Embora tenha mantido suas habilidades de caçador, o Miniatura tornou-se imensamente popular como cão de companhia em toda a Europa e Américas a partir do início do século XX.",
     "curiosidades": [
-      "Dachshund Miniatura possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente da maioria das raças, o tamanho de um Dachshund não é definido pela altura, mas pelo perímetro torácico aos 15 meses de idade.",
+      "Eles possuem um faro tão apurado que são capazes de seguir trilhas de odor deixadas há horas, mesmo em terrenos urbanos.",
+      "A variedade de pelo duro é conhecida por ter um temperamento mais 'terrier', sendo muitas vezes o mais destemido das três pelagens.",
+      "O Dachshund é um dos cães mais retratados por artistas e cartunistas devido à sua silhueta icônica de 'salsicha'.",
+      "Waldi, o Dachshund, foi a primeira mascote oficial de uma Olimpíada (Munique 1972), simbolizando a resistência e agilidade da raça."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e casas urbanas",
+      "Famílias com crianças que saibam respeitar o espaço do animal",
+      "Tutores que buscam um companheiro leal e sempre presente",
+      "Pessoas que apreciam cães com personalidade forte e um toque de independência",
+      "Idosos que buscam companhia afetuosa e de moderada necessidade de exercício"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Famílias com crianças muito pequenas e brutas (devido à sensibilidade da coluna)",
+      "Tutores que não toleram latidos de alerta frequentes",
+      "Ambientes onde o cão precisará subir e descer muitas escadas diariamente",
+      "Pessoas sedentárias que não possam oferecer estímulo mental e caminhadas diárias",
+      "Tutores que buscam obediência absoluta e imediata (ele é independente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "IVDD (Doença do Disco Intervertebral) - risco muito alto na raça",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Problemas dentários (acúmulo de tártaro)",
+      "Obesidade (extremamente crítica para a coluna)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso da coluna vertebral e do peso corporal. Check-ups odontológicos anuais. É vital evitar saltos de locais altos e o uso de escadas frequentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção depende da variedade: o pelo curto exige escovação semanal; o pelo longo precisa de escovação três vezes por semana; o pelo duro exige stripping manual duas vezes por ano. As orelhas pendentes devem ser limpas semanalmente para evitar infecções. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e tempo para explorar cheiros em áreas seguras são ideais. O estímulo mental através de brinquedos de inteligência ajuda a gastar sua energia cognitiva.",
+    "treinamento": "Inteligente mas independente. O adestramento deve ser baseado em reforço positivo, paciência e ser muito recompensador. Eles podem ser teimosos se o treino for monótono. A socialização precoce é essencial para evitar a reatividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade com controle RIGOROSO de calorias. Cada grama extra coloca uma pressão perigosa sobre a coluna vertebral longa do Dachshund."
   },
   "seo": {
-    "title": "Dachshund Miniatura - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Dachshund Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Dachshund Miniatura: O Guia Completo do Pequeno Salsicha - Cuidados e Saúde",
+    "description": "Descubra o Dachshund Miniatura: conheça seu temperamento audaz, história como caçador e as dicas vitais de cuidados com a coluna e alimentação.",
     "keywords": [
-      "dachshund-miniatura",
-      "dachshund miniatura",
-      "toy",
-      "alemanha"
+      "Dachshund Miniatura",
+      "Teckel Mini",
+      "cão salsicha",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Dachshund",
+      "temperamento Teckel",
+      "IVDD em cães"
     ]
   },
   "imagem_principal": "/images/breeds/dachshund-miniatura.jpg",
@@ -79,11 +94,56 @@
     "/images/breeds/dachshund-miniatura-2.jpg",
     "/images/breeds/dachshund-miniatura-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=dachshund-miniatura",
-  "popularidade": 15941,
-  "ranking_brasil": 44,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Miniature Dachshund - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-minidachshund",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-minidachshund/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Dachshund Miniatura",
+      "url": "https://www.youtube.com/watch?v=example-mini-teckel",
+      "canal": "Mundo Teckel",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "dachshund-kaninchen",
+    "dachshund-padrao",
+    "basset-hound",
+    "corgi-pembroke"
+  ],
+  "cores_disponiveis": [
+    "Vermelho",
+    "Preto e Tan",
+    "Chocolate e Tan",
+    "Arlequim (Dapple)",
+    "Javali (comum no pelo duro)"
+  ],
+  "marcacoes": [
+    "Marcações fogo (tan) bem definidas",
+    "Padrão Merle (no arlequim)",
+    "Pode ter mancha branca no peito"
+  ],
+  "curiosidades_historicas": "O Dachshund Miniatura tornou-se um dos cães de companhia mais populares entre a burguesia alemã e britânica no final do século XIX. A Rainha Vitória era uma grande admiradora da raça, possuindo vários exemplares, o que ajudou a transformar a imagem do Dachshund de um cão de trabalho rústico em um animal de estimação de prestígio social.",
+  "referencias_externas": [
+    {
+      "titulo": "Dachshund Club of America",
+      "url": "https://www.dachshundclubofamerica.org/",
+      "descricao": "Clube oficial de raça com vasto material sobre saúde e genética."
+    },
+    {
+      "titulo": "FCI - Teckel Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/DACHSHUND-148.html",
+      "descricao": "Padrão oficial que engloba as três variedades de tamanho."
+    }
+  ],
+  "popularidade": 48000,
+  "ranking_brasil": 8,
   "custo_mensal_estimado": [
-    253,
-    1069
+    250,
+    650
   ]
 }
