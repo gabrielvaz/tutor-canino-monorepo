@@ -5,69 +5,83 @@
   "nome_en": "Lagotto Romagnolo",
   "apelidos": [
     "Lagotto",
-    "Romagnolo"
+    "Cão Trufeiro Italiano"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Itália",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "19.5 kg",
-    "peso_femea": "17.3 kg",
+    "origem": "Itália (Romagna)",
+    "expectativa_vida": "15 - 17 anos",
+    "altura_macho": "43 - 48 cm",
+    "altura_femea": "41 - 46 cm",
+    "peso_macho": "13 - 16 kg",
+    "peso_femea": "11 - 14 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1945
+    "ano_reconhecimento_fci": 1995
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 1,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Lagotto Romagnolo é uma raça de porte médio originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Lagotto Romagnolo originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Lagotto Romagnolo é um cão de porte médio, beleza rústica e inteligência fenomenal, famoso por ser a única raça do mundo especializada na busca de trufas. Caracteriza-se por sua pelagem densa e encaracolada que lembra a de um carneiro, composta por pelos que não caem e possuem uma textura lanosa. Sua expressão é atenta e curiosa, com olhos redondos e grandes. O Lagotto é um trabalhador incansável com um faro prodigioso, mas em casa ele se revela um companheiro extraordinariamente doce, afetuoso e profundamente conectado à sua família. É um cão dotado de uma alegria contagiante e uma longevidade admirável.",
+    "historia": "A raça tem origens antiquíssimas nas zonas pantanosas de Romagna, no norte da Itália. Originalmente, era um cão d'água usado para buscar aves aquáticas. No entanto, no século XIX, quando os pântanos foram drenados para a agricultura, a função da raça mudou radicalmente: seus tutores notaram que seu faro excepcional era perfeito para localizar trufas (fungos valiosos escondidos sob a terra). Através de uma seleção cuidadosa focada inteiramente no olfato e na obediência, o Lagotto evoluiu para o mestre trufeiro que é hoje. Foi reconhecido oficialmente pela FCI apenas em 1995, ganhando rapidamente o posto de cão de companhia de luxo e hipoalergênico em todo o mundo.",
     "curiosidades": [
-      "Lagotto Romagnolo possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Lagotto' deriva do dialeto romagnolo 'Càn Lagòt', que significa literalmente 'cão de lago' ou 'cão d'água'.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem não cai; o pelo morto fica preso nos cachos e deve ser removido manualmente ou através de tosa.",
+      "Diferente de outros cães de caça, o Lagotto teve seu instinto de perseguição de presas (aves e coelhos) deliberadamente reduzido através da criação para que ele não se distraísse durante a busca pelas trufas.",
+      "Eles são famosos por amarem cavar, uma habilidade instintiva necessária para desenterrar as trufas.",
+      "O Lagotto Romagnolo possui uma capacidade de foco e concentração que é considerada uma das mais altas entre todas as raças caninas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e brincalhão)",
+      "Pessoas com alergias a pelos de cães",
+      "Tutores interessados em adestramento, jogos de faro ou esportes como Agility",
+      "Moradores de apartamentos ou casas urbanas (desde que exercitado mentalmente)",
+      "Quem busca um companheiro leal, silencioso e de vida longa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não toleram um cão que goste de cavar no jardim",
+      "Pessoas sedentárias que não possam oferecer estímulo mental diário (ele precisa usar o nariz)",
+      "Proprietários que não podem dedicar tempo ou recursos para a manutenção da pelagem (tosa profissional obrigatória)",
+      "Tutores que buscam um cão de guarda agressivo (ele é amigável, embora vigilante)",
+      "Ambientes onde o cão ficará isolado por longos períodos (sofre com a solidão)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "JE (Epilepsia Juvenil Benigna) - específica da raça, com teste genético",
+      "LSD (Doença de Armazenamento Lisossômico - neurológica)",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Distiquíase e Catarata)",
+      "Otites (devido ao crescimento de pelos dentro do conduto auditivo)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Testes genéticos para JE e LSD são MANDATÓRIOS para reprodutores. Check-ups ortopédicos anuais. Limpeza rigorosa e remoção de pelos dos ouvidos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é específica: o pelo não deve ser escovado excessivamente para não desmanchar os cachos naturais. A tosa profissional uniforme (tosa de cordeiro) deve ser feita a cada 3 a 4 meses. É essencial remover os pelos que crescem dentro dos ouvidos para prevenir otites. Banhos devem ser mensais com secagem natural ou morna. Escovação dental diária.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Mais importante que o exercício físico é o estímulo olfativo. Esconda petiscos ou brinquedos para ele encontrar; isso o deixará muito mais satisfeito do que uma caminhada longa. Ele adora nadar e explorar áreas verdes.",
+    "treinamento": "Extremamente inteligente e ávido por aprender. O Lagotto é um dos cães mais fáceis de adestrar devido ao seu foco natural. Use reforço positivo e mantenha os desafios constantes. Ele aprende truques complexos com rapidez impressionante.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Lagotto tem tendência a engordar se não for estimulado mentalmente, o que deve ser evitado para preservar sua longevidade excepcional."
   },
   "seo": {
-    "title": "Lagotto Romagnolo - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Lagotto Romagnolo: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Lagotto Romagnolo: O Mestre Trufeiro e Doce Companheiro - Guia de Raça",
+    "description": "Conheça o Lagotto Romagnolo: descubra sua habilidade única de buscar trufas, sua pelagem hipoalergênica e seu temperamento inteligente. Guia completo de cuidados.",
     "keywords": [
-      "lagotto-romagnolo",
-      "lagotto romagnolo",
-      "médio",
-      "itália"
+      "Lagotto Romagnolo",
+      "cão trufeiro",
+      "cão hipoalergênico",
+      "cão d'água italiano",
+      "raças de cães médias",
+      "cuidados com Lagotto",
+      "temperamento Lagotto Romagnolo"
     ]
   },
   "imagem_principal": "/images/breeds/lagotto-romagnolo.jpg",
@@ -76,11 +90,56 @@
     "/images/breeds/lagotto-romagnolo-2.jpg",
     "/images/breeds/lagotto-romagnolo-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=lagotto-romagnolo",
-  "popularidade": 40851,
-  "ranking_brasil": 89,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Lagotto Romagnolo - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-lagotto",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-lagotto/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Busca de Trufas com o Lagotto",
+      "url": "https://www.youtube.com/watch?v=example-lagotto-truffle",
+      "canal": "Italy Travel",
+      "duracao": "08:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-medio",
+    "cao-dagua-portugues",
+    "cao-dagua-espanhol",
+    "barbet"
+  ],
+  "cores_disponiveis": [
+    "Off-White (Branco Sujo)",
+    "Marrom (Chocolate)",
+    "Laranja Sólido",
+    "Marrom com Branco",
+    "Laranja com Branco"
+  ],
+  "marcacoes": [
+    "Padrão particolor",
+    "Máscara marrom ou laranja (permitida)",
+    "Ruão (Roan)"
+  ],
+  "curiosidades_historicas": "O Lagotto Romagnolo foi essencial para a sobrevivência de muitas famílias italianas durante as crises econômicas do século XX, pois uma única trufa branca de alta qualidade encontrada pelo cão podia valer o equivalente a vários meses de salário de um trabalhador comum.",
+  "referencias_externas": [
+    {
+      "titulo": "Lagotto Romagnolo Club of America",
+      "url": "https://www.lagottous.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e eventos."
+    },
+    {
+      "titulo": "FCI - Lagotto Romagnolo Standard",
+      "url": "https://www.fci.be/en/nomenclature/LAGOTTO-ROMAGNOLO-298.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    215,
-    853
+    300,
+    750
   ]
 }

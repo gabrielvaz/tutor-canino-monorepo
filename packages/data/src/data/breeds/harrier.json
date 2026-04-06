@@ -3,68 +3,86 @@
   "nome": "Harrier",
   "slug": "harrier",
   "nome_en": "Harrier",
-  "apelidos": [],
+  "apelidos": [
+    "Hare Hound",
+    "Pequeno Foxhound"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "16.9 kg",
-    "peso_femea": "14.6 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "48 - 55 cm",
+    "altura_femea": "48 - 55 cm",
+    "peso_macho": "20 - 27 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1946
+    "ano_reconhecimento_fci": 1974
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 2,
+    "inteligencia": 4,
     "queda_pelo": 3,
     "latido": 5,
     "afeicao_familia": 5,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 4
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Harrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Harrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Harrier é um sabujo de porte médio, frequentemente descrito como um 'Foxhound em miniatura', embora possua características próprias e uma história distinta. De constituição atlética, musculosa e bem balanceada, ele foi projetado para a resistência extrema e velocidade em terrenos variados. Sua pelagem é curta, densa e brilhante, geralmente no padrão tricolor dos hounds. Com orelhas pendentes aveludadas e uma expressão doce e inteligente, o Harrier exala uma aura de vivacidade e prontidão. É um cão extremamente sociável, dotado de um uivo musical e uma energia inesgotável, sendo um companheiro de família alegre para lares que amam a vida ao ar livre.",
+    "historia": "A raça surgiu na Inglaterra por volta do século XIII, sendo um dos sabujos mais antigos do país. O nome deriva da palavra 'hare' (lebre), sua presa principal original. Eles foram desenvolvidos para serem cães de matilha que podiam ser seguidos a pé pelos caçadores, ao contrário dos Foxhounds que exigiam cavalos rápidos. Acredita-se que o Harrier seja o resultado de cruzamentos entre o antigo Talbot Hound, o Bloodhound e possivelmente o Greyhound. No século XIX, a raça foi refinada com a introdução de sangue de Foxhound Inglês para aumentar sua velocidade. Embora seja uma raça histórica e fundamental na canicultura, o Harrier permanece relativamente raro como animal de estimação doméstico.",
     "curiosidades": [
-      "Harrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Harrier é tão parecido com o Foxhound Inglês e o Beagle que muitas vezes é chamado de 'Beagle com esteroides' ou 'Foxhound que encolheu'.",
+      "Eles possuem o que os caçadores chamam de 'nariz frio', sendo capazes de seguir rastros de odor com várias horas de existência em superfícies difíceis.",
+      "Como a maioria dos hounds de matilha, o Harrier possui um instinto social fortíssimo e prefere viver com pelo menos um outro companheiro canino.",
+      "Eles são famosos por seu uivo longo e melódico, que usam para se comunicar com a matilha e com o caçador à distância.",
+      "Apesar de ser um caçador nato, em casa o Harrier é conhecido por ser um 'acumulador' de travesseiros e cobertores, adorando criar ninhos confortáveis para dormir."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam trilhas, corridas e atividades ao ar livre",
+      "Tutores que possuem outros cães (ele prospera em grupo)",
+      "Pessoas que vivem em áreas rurais ou casas com grandes terrenos bem cercados",
+      "Proprietários interessados na preservação de raças de trabalho históricas",
+      "Quem busca um companheiro alegre, resiliente e muito afetuoso"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente)",
+      "Tutores sedentários que não possam oferecer pelo menos 1 a 2 horas de exercícios diários",
+      "Casas sem áreas muito bem cercadas (ele é um artista da fuga guiado pelo nariz)",
+      "Proprietários que buscam obediência cega (ele é independente e obstinado)",
+      "Pessoas sensíveis a barulho (ele é um cão muito vocal)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente)",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (menos comum que em hounds maiores, mas possível)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Limpeza semanal profunda das orelhas pendentes para evitar acúmulo de cera e umidade."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. Unhas devem ser mantidas curtas para não comprometer a agilidade. Os ouvidos devem ser verificados e limpos regularmente.",
+    "exercicios": "Necessita de MUITO exercício diário. O Harrier é um atleta de maratona que precisa gastar energia física e mental. Caminhadas longas, corridas em áreas seguras e, crucialmente, atividades que usem seu nariz (jogos de faro) são fundamentais para seu equilíbrio.",
+    "treinamento": "O adestramento exige paciência e persistência. Eles são inteligentes, mas focados em seguir cheiros. Use reforço positivo, muitos petiscos e mantenha as sessões variadas e divertidas. O treinamento de 'recall' é o maior desafio e nunca deve ser totalmente confiado em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Atenção às porções para manter o peso ideal e evitar sobrecarga nas articulações. Dividir a alimentação em duas vezes ao dia é recomendado."
   },
   "seo": {
-    "title": "Harrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Harrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Harrier: O Sabujo Veloz e Alegre das Colinas - Guia de Raça",
+    "description": "Descubra o Harrier: conheça sua história na caça inglesa, seu temperamento sociável e os cuidados essenciais com este atleta de faro incansável.",
     "keywords": [
-      "harrier",
-      "harrier",
-      "médio",
-      "inglaterra"
+      "Harrier",
+      "Hare Hound",
+      "cão farejador",
+      "sabujo inglês",
+      "cão de matilha",
+      "raças de cães médias",
+      "cuidados com Harrier",
+      "temperamento Harrier"
     ]
   },
   "imagem_principal": "/images/breeds/harrier.jpg",
@@ -73,11 +91,55 @@
     "/images/breeds/harrier-2.jpg",
     "/images/breeds/harrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=harrier",
-  "popularidade": 8451,
-  "ranking_brasil": 157,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Harrier Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-harrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-harrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho da Matilha de Harriers",
+      "url": "https://www.youtube.com/watch?v=example-harrier-work",
+      "canal": "Countryside Life",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "beagle",
+    "foxhound-ingles",
+    "beagle-harrier",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Preto, Branco e Fogo)",
+    "Bicolor (Branco e Limão)",
+    "Branco e Fogo",
+    "Grisalho (Mottle)"
+  ],
+  "marcacoes": [
+    "Manta preta ou sela no dorso",
+    "Manchas irregulares",
+    "Ponta da cauda branca (comum)"
+  ],
+  "curiosidades_historicas": "No Reino Unido medieval, possuir uma matilha de Harriers era considerado o passatempo ideal para a pequena nobreza rural (gentry) que não tinha recursos para manter as imensas matilhas de Foxhounds dos grandes duques, tornando a raça o símbolo da vida campestre democrática.",
+  "referencias_externas": [
+    {
+      "titulo": "Harrier Club of America",
+      "url": "https://www.harrierclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Harrier Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/HARRIER-295.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    459,
-    1097
+    300,
+    750
   ]
 }

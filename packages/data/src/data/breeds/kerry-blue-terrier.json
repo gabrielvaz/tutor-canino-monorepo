@@ -5,72 +5,85 @@
   "nome_en": "Kerry Blue Terrier",
   "apelidos": [
     "Kerry",
-    "Terrier"
+    "Terrier Azul de Kerry",
+    "Irish Blue Terrier"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Irlanda",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "20 cm",
-    "peso_macho": "12.6 kg",
-    "peso_femea": "6.7 kg",
+    "origem": "Irlanda (Condado de Kerry)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "46 - 50 cm",
+    "altura_femea": "44 - 48 cm",
+    "peso_macho": "15 - 18 kg",
+    "peso_femea": "13 - 16 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1939
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 3,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 4
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Kerry Blue Terrier é uma raça de porte pequeno originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Kerry Blue Terrier originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Kerry Blue Terrier é uma das raças mais impressionantes e versáteis da Irlanda, um terrier de médio porte que combina força, agilidade e uma beleza singular. Sua característica mais famosa é a pelagem sedosa, densa e ondulada que varia do cinza-azulado profundo ao azul-ardósia claro. Com um corpo musculoso e bem balanceado, ele possui uma cabeça longa com barba e sobrancelhas proeminentes que lhe conferem uma expressão de inteligência alerta e determinação. O Kerry Blue é um cão dotado de uma personalidade forte, corajosa e intensamente leal, sendo um guardião vigilante e um companheiro afetuoso que deseja ser parte integral da vida de seus tutores.",
+    "historia": "A raça surgiu no Condado de Kerry, no sudoeste da Irlanda, no século XVIII. Por gerações, foi o cão multifuncional dos camponeses irlandeses: caçava ratos e lontras, buscava caça na água, pastoreava gado e protegia a propriedade. Acredita-se que o Kerry Blue seja o resultado de cruzamentos entre o antigo Terrier Irlandês e possivelmente o Cão d'Água Português ou o Soft Coated Wheaten Terrier. Tornou-se um símbolo do nacionalismo irlandês e foi o primeiro cão a ser registrado no Kennel Club Irlandês em 1922. Michael Collins, o líder revolucionário irlandês, era um grande entusiasta da raça e tentou torná-la o cão nacional da Irlanda.",
     "curiosidades": [
-      "Kerry Blue Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Os filhotes de Kerry Blue nascem pretos; a cor azul característica surge apenas entre os 6 e 18 meses de idade, em um processo chamado 'clearing'.",
+      "Eles são considerados cães hipoalergênicos porque seu pelo sedoso não cai e quase não possui odor.",
+      "O Kerry Blue é conhecido por ser um cão 'pau para toda obra', destacando-se em quase todas as funções, desde guarda e caça até esportes caninos modernos.",
+      "Na Irlanda antiga, eles eram chamados de 'Terrier dos Camponeses', pois a nobreza preferia os cães de rastro e galgos.",
+      "Eles possuem um senso de humor apurado e são famosos por inventarem suas próprias brincadeiras para entreter a família."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que buscam um companheiro leal e protetor",
+      "Pessoas com alergias a pelos de cães que buscam um terrier de médio porte",
+      "Tutores interessados em adestramento avançado e esportes caninos (Agility, Obediência)",
+      "Quem vive em casas com quintais seguros e bem cercados",
+      "Proprietários experientes que saibam estabelecer liderança firme e carinhosa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo",
+      "Pessoas que não podem dedicar tempo à manutenção rigorosa da pelagem (tosa profissional)",
+      "Casas com muitos cães do mesmo sexo sem socialização profunda (pode ser dominante)",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de exercícios externos",
+      "Tutores de primeira viagem que não entendam o temperamento forte dos terriers de trabalho"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "PNA (Abiotrofia Neural Progressiva) - problema neurológico hereditário",
+      "Problemas oculares (Entrópio e Catarata)",
+      "Displasia de Quadril",
+      "Problemas de pele (Cistos Sebáceos e Verrugas)",
+      "Hipotireoidismo",
+      "Fator XI (distúrbio de coagulação sanguínea)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Testes de DNA para PNA antes da reprodução. Limpeza regular dos ouvidos e monitoramento de cistos cutâneos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós. A tosa profissional completa deve ser realizada a cada 6 a 8 semanas para manter o padrão e a saúde do pelo. Banhos devem ser mensais. A barba exige limpeza frequente após as refeições.",
+    "exercicios": "Necessita de muito exercício físico e mental diário. Caminhadas vigorosas, corridas e sessões de brincadeira que desafiem sua inteligência são fundamentais. Ele adora ter um 'trabalho' ou aprender truques complexos.",
+    "treinamento": "Extremamente inteligente mas pode ser teimoso e independente. O adestramento deve ser baseado em reforço positivo, paciência e firmeza. Eles respondem mal a métodos agressivos. A socialização precoce e contínua com outros cães é MANDATÓRIA para evitar tendências de dominância.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Kerry Blue Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Kerry Blue Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Kerry Blue Terrier: O Inteligente e Valente Terrier Azul - Guia de Raça",
+    "description": "Descubra o Kerry Blue Terrier: conheça seu temperamento leal, sua pelagem azul hipoalergênica e sua história heróica na Irlanda. Guia completo de cuidados.",
     "keywords": [
-      "kerry-blue-terrier",
-      "kerry blue terrier",
-      "pequeno",
-      "irlanda"
+      "Kerry Blue Terrier",
+      "Terrier Azul de Kerry",
+      "cão hipoalergênico",
+      "cão nacional irlandês",
+      "raças de cães médias",
+      "cuidados com Kerry Blue",
+      "temperamento Kerry Blue Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/kerry-blue-terrier.jpg",
@@ -79,11 +92,54 @@
     "/images/breeds/kerry-blue-terrier-2.jpg",
     "/images/breeds/kerry-blue-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=kerry-blue-terrier",
-  "popularidade": 20758,
-  "ranking_brasil": 37,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Kerry Blue Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-kerryblue",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-kerryblue/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Tosa e Aparência do Kerry Blue",
+      "url": "https://www.youtube.com/watch?v=example-kerry-groom",
+      "canal": "Estética Canina",
+      "duracao": "15:10"
+    }
+  ],
+  "racas_relacionadas": [
+    "airedale-terrier",
+    "soft-coated-wheaten-terrier",
+    "irish-terrier",
+    "lakeland-terrier"
+  ],
+  "cores_disponiveis": [
+    "Azul Ardósia (Slate Blue)",
+    "Cinza-azulado",
+    "Azul Prateado"
+  ],
+  "marcacoes": [
+    "Totalmente azul (variando o tom)",
+    "Barba e sobrancelhas abundantes",
+    "Pode ter pontas pretas permitidas apenas até os 18 meses"
+  ],
+  "curiosidades_historicas": "Durante o período de independência da Irlanda, Michael Collins tinha um Kerry Blue chamado 'Convict 224', que era usado para passar mensagens secretas entre os revolucionários, aproveitando o fato de que os soldados britânicos raramente suspeitavam que um terrier de aparência luxuosa pudesse ser um 'agente secreto'.",
+  "referencias_externas": [
+    {
+      "titulo": "United States Kerry Blue Terrier Club",
+      "url": "https://uskbtc.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e padrão."
+    },
+    {
+      "titulo": "FCI - Kerry Blue Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/KERRY-BLUE-TERRIER-3.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    491,
-    516
+    350,
+    800
   ]
 }

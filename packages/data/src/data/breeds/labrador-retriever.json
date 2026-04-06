@@ -5,70 +5,87 @@
   "nome_en": "Labrador Retriever",
   "apelidos": [
     "Labrador",
-    "Retriever",
-    "Lab"
+    "Lab",
+    "Cão Sorridente"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Canadá",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "56 cm",
-    "altura_femea": "54 cm",
-    "peso_macho": "28.8 kg",
-    "peso_femea": "25.2 kg",
+    "origem": "Canadá (Terra Nova)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "57 - 62 cm",
+    "altura_femea": "54 - 60 cm",
+    "peso_macho": "30 - 36 kg",
+    "peso_femea": "25 - 32 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1978
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 3,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 2,
     "afeicao_familia": 5,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Labrador Retriever é uma raça de porte grande originária de Canadá. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Labrador Retriever originou-se em Canadá, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Labrador Retriever é, indiscutivelmente, uma das raças mais populares e versáteis do planeta. De porte grande e constituição atlética e robusta, ele é famoso por sua natureza amigável, inteligência brilhante e um desejo insaciável de agradar. Suas características físicas mais marcantes incluem a pelagem curta e densa que repele a água, e a 'cauda de lontra' (otter tail), grossa e potente, que funciona como um leme na natação. Com uma expressão de doçura e prontidão, o Labrador é o companheiro de família por excelência, destacando-se também como cão de serviço, guia para cegos, farejador de elite e exímio retriever de caça.",
+    "historia": "Apesar do nome, a raça não se originou na região de Labrador, mas sim na vizinha ilha de Terra Nova (Newfoundland), no Canadá, no início do século XIX. Eles descendem do antigo 'St. John's Dog', um cão de trabalho usado por pescadores locais para buscar redes e peixes que escapavam. Nobres ingleses levaram esses cães para o Reino Unido na década de 1830, onde foram refinados para a caça comercial. O segundo Conde de Malmesbury e o Duque de Buccleuch foram fundamentais para preservar a pureza da linhagem. O Labrador Retriever foi reconhecido oficialmente pelo Kennel Club inglês em 1903 e, desde então, conquistou o posto de cão favorito em lares de todo o mundo.",
     "curiosidades": [
-      "Labrador Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Labrador Retriever ocupa o 7º lugar no ranking de inteligência canina de Stanley Coren.",
+      "Eles possuem membranas interdigitais (peles entre os dedos) que os tornam nadadores excepcionalmente potentes e rápidos.",
+      "A raça possui três cores oficiais: Preto, Amarelo e Chocolate. Curiosamente, todas as três cores podem nascer em uma mesma ninhada.",
+      "Eles são conhecidos como 'estômagos com quatro patas' devido ao seu apetite lendário e falta de senso de saciedade.",
+      "O Labrador possui o que os treinadores chamam de 'boca macia', sendo capaz de carregar uma ave ferida (ou até um ovo cru) sem causar o menor dano."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças de todas as idades (ele é extremamente paciente)",
+      "Tutores de primeira viagem que buscam um cão dócil e altamente treinável",
+      "Pessoas que buscam um parceiro para natação, trilhas e atividades físicas intensas",
+      "Casas com outros cães ou animais de estimação (ele é muito sociável)",
+      "Quem deseja um cão para treinamento de assistência ou trabalho de faro"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não podem oferecer pelo menos 1 a 2 horas de exercícios diários",
+      "Pessoas extremamente zelosas com a limpeza da casa (ele solta muito pelo e adora pular em poças de água)",
+      "Proprietários que buscam um cão de guarda agressivo (ele costuma receber estranhos com entusiasmo)",
+      "Tutores que não podem dedicar tempo à socialização e treinamento de boas maneiras (ele pode ser muito 'trator' quando jovem)",
+      "Ambientes onde o cão ficará confinado por longos períodos sozinho (sofre com ansiedade de separação)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência alta)",
+      "EIC (Colapso Induzido por Exercício)",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Obesidade (um dos maiores riscos para a raça)",
+      "Problemas cardíacos (como TVD)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Testes genéticos para EIC e PRA. O controle RIGOROSO do peso é vital para a longevidade da raça."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é densa e possui um subpelo impermeável. Exige escovação semanal profunda para remover pelos mortos e gerenciar a queda abundante. Banhos devem ser mensais ou conforme a necessidade (especialmente após natação em água clorada ou salgada). É importante secar bem as orelhas pendentes para prevenir otites. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário. Caminhadas longas não são suficientes; ele precisa de sessões de natação ou jogos intensos de busca (fetch). O Labrador é um atleta de alta energia que se torna destrutivo se não gastar sua vitalidade física e mental.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo. Ele é motivado por comida e pelo desejo de agradar. Use reforço positivo, paciência e variedade. O treinamento de não pular nas pessoas é essencial devido ao seu entusiasmo físico.",
+    "alimentacao": "Dieta de alta qualidade com controle estrito de porções. O Labrador comerá até passar mal se for permitido. A obesidade é uma epidemia na raça e deve ser combatida com disciplina alimentar."
   },
   "seo": {
-    "title": "Labrador Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Labrador Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Labrador Retriever: O Guia Completo do Melhor Amigo do Homem",
+    "description": "Tudo sobre o Labrador Retriever: conheça seu temperamento amigável, inteligência brilhante e história heróica. Dicas vitais de saúde, alimentação e exercícios.",
     "keywords": [
-      "labrador-retriever",
-      "labrador retriever",
-      "grande",
-      "canadá"
+      "Labrador Retriever",
+      "Labrador",
+      "cão de família",
+      "cão inteligente",
+      "cão nadador",
+      "raças de cães grandes",
+      "cuidados com Labrador",
+      "temperamento Labrador",
+      "saúde do Labrador"
     ]
   },
   "imagem_principal": "/images/breeds/labrador-retriever.jpg",
@@ -77,11 +94,54 @@
     "/images/breeds/labrador-retriever-2.jpg",
     "/images/breeds/labrador-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=labrador-retriever",
-  "popularidade": 35374,
-  "ranking_brasil": 108,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Labrador Retriever - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-labrador",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-labrador/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Labrador Retriever",
+      "url": "https://www.youtube.com/watch?v=example-lab-intel",
+      "canal": "Mundo Animal",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "golden-retriever",
+    "flat-coated-retriever",
+    "chesapeake-bay-retriever",
+    "newfoundland"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Amarelo (variando de creme a raposa vermelha)",
+    "Chocolate"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pequena mancha branca no peito permitida",
+    "Não deve haver marcações de outras cores"
+  ],
+  "curiosidades_historicas": "O Labrador Retriever é a raça que detém o recorde de permanência no 1º lugar de popularidade do AKC nos Estados Unidos, mantendo-se no topo por impressionantes 31 anos consecutivos (até ser superado pelo Bulldog Francês em 2022), provando sua posição inabalável no coração das famílias modernas.",
+  "referencias_externas": [
+    {
+      "titulo": "Labrador Retriever Club of America",
+      "url": "https://thelabradorclub.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações sobre saúde e genética."
+    },
+    {
+      "titulo": "FCI - Labrador Retriever Standard",
+      "url": "https://www.fci.be/en/nomenclature/LABRADOR-RETRIEVER-122.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 1,
   "custo_mensal_estimado": [
-    272,
-    896
+    400,
+    1000
   ]
 }

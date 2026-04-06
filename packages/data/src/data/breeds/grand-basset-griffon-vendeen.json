@@ -4,70 +4,86 @@
   "slug": "grand-basset-griffon-vendeen",
   "nome_en": "Grand Basset Griffon Vendéen",
   "apelidos": [
-    "Grand",
-    "Vendéen"
+    "GBGV",
+    "Basset da Vendeia"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "15.6 kg",
-    "peso_femea": "14.4 kg",
+    "origem": "França (Vendeia)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "40 - 45 cm",
+    "altura_femea": "39 - 44 cm",
+    "peso_macho": "18 - 20 kg",
+    "peso_femea": "18 - 20 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1916
+    "ano_reconhecimento_fci": 1967
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 5,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 5,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Grand Basset Griffon Vendéen é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Grand Basset Griffon Vendéen originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Grand Basset Griffon Vendéen (GBGV) é a personificação da alegria e entusiasmo francês. De porte médio e constituição robusta e ligeiramente alongada, ele é um sabujo de pernas curtas mas de movimento surpreendentemente ágil e potente. Sua característica mais marcante é a pelagem 'griffon' — dura, áspera e de aparência despenteada — complementada por sobrancelhas espessas, barba e bigodes que lhe conferem uma expressão de eterna curiosidade e humor. Conhecido como o 'hound feliz', o GBGV é um cão vibrante, sociável e dotado de uma energia inesgotável para explorar o mundo através do seu nariz privilegiado.",
+    "historia": "A raça surgiu na região da Vendeia, no oeste da França, descendendo diretamente do Grand Griffon Vendéen. No século XIX, caçadores selecionaram os exemplares de pernas mais curtas (bassets) para criar um cão que pudesse caçar lebres em terrenos densos e espinhosos onde cães maiores tinham dificuldade. O GBGV foi desenvolvido para ser o mais rápido de todos os bassets franceses. Por muito tempo, ele e o Petit Basset (PBGV) eram considerados a mesma raça, diferenciados apenas pelo tamanho na mesma ninhada. A separação formal ocorreu na década de 1950, consolidando o GBGV como uma raça distinta, valorizada por sua rusticidade e eficiência em matilha.",
     "curiosidades": [
-      "Grand Basset Griffon Vendéen possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome da raça descreve perfeitamente o cão: 'Grand' (Grande), 'Basset' (Baixo), 'Griffon' (Pelo duro/aramado) e 'Vendéen' (da região da Vendeia).",
+      "Eles possuem um uivo musical e muito potente, que era essencial para que o caçador pudesse localizá-los na vegetação densa.",
+      "O GBGV é conhecido por ter um 'botão de desligar' inexistente em campo, mas é capaz de ser um companheiro calmo em casa se suas necessidades de exercício forem supridas.",
+      "Diferente de muitos bassets, o Grand Basset é um excelente saltador e possui uma agilidade atlética notável.",
+      "Eles são famosos por sua sociabilidade extrema, sentindo-se muito infelizes se não tiverem a companhia de outros cães ou de sua família humana."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam trilhas e caminhadas em áreas naturais",
+      "Tutores que possuem outros cães (ele é um cão de matilha nato)",
+      "Pessoas que vivem em casas com grandes quintais muito bem cercados",
+      "Quem busca um companheiro alegre, sociável e difícil de intimidar",
+      "Proprietários que apreciam o visual rústico e natural dos cães de pelo duro"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer pelo menos 1 a 2 horas de atividade diária",
+      "Proprietários que buscam obediência cega (ele é independente e segue o nariz)",
+      "Pessoas que se incomodam com um cão que traz sujeira e galhos presos na pelagem rústica",
+      "Casas com pequenos animais domésticos soltos (instinto de caça de lebres muito forte)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente e abafado)",
+      "Problemas oculares (Glaucoma e Catarata)",
+      "Hipotireoidismo",
+      "Epilepsia (ocasional)",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Limpeza semanal profunda das orelhas. Monitoramento do peso para não sobrecarregar a coluna longa. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica exige escovação pelo menos duas vezes por semana para remover pelos mortos e detritos. O 'hand-stripping' (remoção manual de pelos velhos) é recomendado duas vezes ao ano para manter a textura correta do pelo. Banhos devem ser ocasionais para não amolecer a proteção natural. A limpeza da barba após as refeições é essencial.",
+    "exercicios": "Necessita de muito exercício vigoroso. Caminhadas longas e, acima de tudo, a oportunidade de usar o faro em áreas seguras são fundamentais. O estímulo mental através de jogos de busca e treinamento variado é vital para seu equilíbrio.",
+    "treinamento": "Inteligente mas independente e muitas vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e senso de humor. Eles se aborrecem com repetições e podem ser distraídos por qualquer cheiro. A socialização precoce é fundamental para garantir sua natureza amigável.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para prevenir a torção gástrica. Evite o excesso de peso, que é prejudicial para a estrutura de basset."
   },
   "seo": {
-    "title": "Grand Basset Griffon Vendéen - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Grand Basset Griffon Vendéen: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Grand Basset Griffon Vendéen: O Hound Feliz da Vendeia - Guia de Raça",
+    "description": "Conheça o Grand Basset Griffon Vendéen: descubra sua história na caça francesa, seu temperamento alegre e os cuidados essenciais com este rústico sabujo.",
     "keywords": [
-      "grand-basset-griffon-vendeen",
-      "grand basset griffon vendéen",
-      "médio",
-      "frança"
+      "Grand Basset Griffon Vendéen",
+      "GBGV",
+      "Basset da Vendeia",
+      "cão de caça francês",
+      "sabujo de pelo duro",
+      "raças de cães médias",
+      "cuidados com Grand Basset",
+      "temperamento GBGV"
     ]
   },
   "imagem_principal": "/images/breeds/grand-basset-griffon-vendeen.jpg",
@@ -76,11 +92,55 @@
     "/images/breeds/grand-basset-griffon-vendeen-2.jpg",
     "/images/breeds/grand-basset-griffon-vendeen-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=grand-basset-griffon-vendeen",
-  "popularidade": 23278,
-  "ranking_brasil": 185,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Grand Basset Griffon Vendéen - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-gbgv",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-gbgv/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do GBGV em Campo",
+      "url": "https://www.youtube.com/watch?v=example-gbgv-work",
+      "canal": "Natureza Viva",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "petit-basset-griffon-vendeen",
+    "basset-fauve-de-bretagne",
+    "basset-hound",
+    "otterhound"
+  ],
+  "cores_disponiveis": [
+    "Branco com marcações Laranja",
+    "Branco com marcações Pretas",
+    "Branco com marcações Fogo (Tan)",
+    "Tricolor"
+  ],
+  "marcacoes": [
+    "Padrão particolor (branco dominante)",
+    "Marcações em tons de cinza ou lebre permitidas",
+    "Sobrancelhas e barba proeminentes"
+  ],
+  "curiosidades_historicas": "O Grand Basset Griffon Vendéen é famoso na França por ser um dos poucos sabujos capazes de caçar em matilhas que misturam diferentes variedades de bassets, demonstrando uma diplomacia canina e um espírito de cooperação que é marca registrada da criação da Vendeia.",
+  "referencias_externas": [
+    {
+      "titulo": "Grand Basset Griffon Vendéen Club of America",
+      "url": "https://gbgvca.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e histórico."
+    },
+    {
+      "titulo": "FCI - Grand Basset Griffon Vendéen Standard",
+      "url": "https://www.fci.be/en/nomenclature/GRAND-BASSET-GRIFFON-VENDEEN-33.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    433,
-    873
+    350,
+    800
   ]
 }

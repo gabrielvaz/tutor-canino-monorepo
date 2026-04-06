@@ -4,70 +4,88 @@
   "slug": "irish-wolfhound",
   "nome_en": "Irish Wolfhound",
   "apelidos": [
-    "Irish",
-    "Wolfhound"
+    "Lobero Irlandês",
+    "Gigante Gentil",
+    "Cão Lobo da Irlanda"
   ],
-  "categoria": "Médio",
+  "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Irlanda",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "14.1 kg",
-    "peso_femea": "10.6 kg",
+    "expectativa_vida": "6 - 10 anos",
+    "altura_macho": "81 - 90 cm",
+    "altura_femea": "71 - 86 cm",
+    "peso_macho": "54 - 70 kg",
+    "peso_femea": "40 - 55 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1978
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 4,
-    "latido": 5,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Irish Wolfhound é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Irish Wolfhound originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Irish Wolfhound é o cão mais alto do mundo, uma figura majestosa e escultural que combina a força de um mastiff com a velocidade de um galgo. De porte gigante e constituição imponente, ele possui uma pelagem dura e aramada que lhe confere um visual rústico e ancestral. Sua cabeça é longa com uma expressão de doçura e sabedoria melancólica. Conhecido mundialmente como o 'gigante gentil', o Wolfhound é o exemplo máximo de temperamento equilibrado: é um cão pacífico, extremamente paciente com crianças e profundamente afetuoso com sua família, movendo-se com uma dignidade silenciosa que cativa todos ao seu redor.",
+    "historia": "A raça tem origens que remontam à Antiguidade, sendo mencionada por cônsules romanos em 391 d.C. como objetos de admiração e espanto. Na Irlanda, eram os cães da alta nobreza, usados para caçar o alce irlandês gigante e para proteger os rebanhos contra lobos. Eles eram tão valorizados que seu número era limitado por lei dependendo do status social do dono. A raça quase se extinguiu no século XIX após o desaparecimento do lobo na Irlanda, mas foi salva pelo Capitão George Augustus Graham, que buscou os últimos exemplares puros e os cruzou estrategicamente com o Deerhound Escocês e o Great Dane para restaurar o tamanho e vigor da linhagem original.",
     "curiosidades": [
-      "Irish Wolfhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Irish Wolfhound detém o recorde de raça canina mais alta, com muitos machos ultrapassando a altura de um pônei pequeno na cernelha.",
+      "Apesar do tamanho, eles são cães de 'baixa voltagem' dentro de casa, preferindo se esticar preguiçosamente em grandes sofás ou camas macias.",
+      "Eles possuem um senso de humor discreto e são conhecidos por 'cutucar' seus tutores com o focinho longo para pedir carinho.",
+      "Diferente de muitos cães de guarda, o Wolfhound é um cão de discernimento; ele raramente late, agindo apenas se sentir uma ameaça real e imediata à sua família.",
+      "Um provérbio irlandês antigo descreve a raça perfeitamente: 'Gentil quando acariciado, feroz quando provocado'."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um dos gigantes mais confiáveis e pacientes)",
+      "Tutores que possuem casas com amplos espaços internos e quintais grandes",
+      "Pessoas que buscam um companheiro calmo, silencioso e muito afetuoso",
+      "Quem aprecia a estética de cães históricos e de aparência primitiva",
+      "Proprietários que podem dedicar tempo para caminhadas diárias em ritmo constante"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou casas com muitas escadas (devido ao peso e tamanho massivo)",
+      "Pessoas sedentárias que não possam oferecer exercícios moderados para manter a musculatura",
+      "Tutores que não estão preparados emocionalmente para uma das menores expectativas de vida entre os cães",
+      "Proprietários que não podem arcar com os altos custos de alimentação e cuidados veterinários de uma raça gigante",
+      "Ambientes com calor tropical extremo sem cuidados rigorosos (ele sofre muito com altas temperaturas)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - causa principal de morte na raça",
+      "Cardiomiopatia Dilatada (DCM)",
+      "Osteossarcoma (câncer ósseo)",
+      "Displasia de Quadril e Cotovelo",
+      "Shunt Portossistêmico (em filhotes)",
+      "Pneumonia por aspiração",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco semestral é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups ortopédicos constantes durante o crescimento acelerado. Triagem para shunt em filhotes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é simples, exigindo apenas uma escovação semanal profunda para remover pelos mortos. Banhos devem ser mensais, exigindo um espaço adequado para o tamanho do animal. As unhas devem ser mantidas curtas para suportar o peso gigante e evitar problemas posturais. Prepare-se para oferecer camas muito acolchoadas para proteger as articulações.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Caminhadas longas em terreno plano são ideais. É crucial evitar exercícios de alto impacto ou corridas intensas em filhotes até os 2 anos de idade, para não danificar o desenvolvimento ósseo e articular complexo da raça.",
+    "treinamento": "Inteligente mas sensível e independente. O adestramento deve ser baseado em reforço positivo, paciência e calma. Eles respondem mal a métodos bruscos. A socialização precoce é fundamental para garantir que o cão seja confiante em diferentes ambientes urbanos, dado o seu tamanho que atrai muita atenção.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL não superalimentar filhotes para evitar o crescimento rápido demais. O repouso absoluto após as refeições e o fracionamento em 3 vezes ao dia são obrigatórios para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Irish Wolfhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Irish Wolfhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Irish Wolfhound: O Gigante Gentil da Irlanda - Guia Completo da Raça",
+    "description": "Conheça o Irish Wolfhound (Lobero Irlandês): o cão mais alto do mundo. Descubra sua história majestosa, temperamento dócil e cuidados vitais com a saúde desta raça gigante.",
     "keywords": [
-      "irish-wolfhound",
-      "irish wolfhound",
-      "médio",
-      "irlanda"
+      "Irish Wolfhound",
+      "Lobero Irlandês",
+      "cão mais alto do mundo",
+      "gigante gentil",
+      "cão de guerra irlandês",
+      "raças de cães gigantes",
+      "cuidados com Wolfhound",
+      "temperamento Wolfhound"
     ]
   },
   "imagem_principal": "/images/breeds/irish-wolfhound.jpg",
@@ -76,11 +94,57 @@
     "/images/breeds/irish-wolfhound-2.jpg",
     "/images/breeds/irish-wolfhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=irish-wolfhound",
-  "popularidade": 44833,
-  "ranking_brasil": 105,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Irish Wolfhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-irishwolfhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-irishwolfhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Gigante: Irish Wolfhound",
+      "url": "https://www.youtube.com/watch?v=example-wolfhound-life",
+      "canal": "Mundo Gigante",
+      "duracao": "13:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "scottish-deerhound",
+    "great-dane",
+    "greyhound",
+    "borzoi"
+  ],
+  "cores_disponiveis": [
+    "Cinza",
+    "Tigrado (Brindle)",
+    "Vermelho",
+    "Preto",
+    "Branco Puro",
+    "Fawn (Fulvo)"
+  ],
+  "marcacoes": [
+    "Pelagem rústica e dura",
+    "Franjas nas pernas e cauda",
+    "Barba característica"
+  ],
+  "curiosidades_historicas": "O Irish Wolfhound era o cão oficial das lendas celtas, frequentemente associado a heróis e reis. Diz-se que o famoso herói Cú Chulainn ganhou seu nome (que significa 'Cão de Culann') após matar em legítima defesa um desses cães gigantes que guardava a casa de um ferreiro, provando o status quase mítico da raça na cultura gaélica.",
+  "referencias_externas": [
+    {
+      "titulo": "Irish Wolfhound Club of America",
+      "url": "https://iwclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Irish Wolfhound Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-WOLFHOUND-160.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    329,
-    967
+    600,
+    1800
   ]
 }

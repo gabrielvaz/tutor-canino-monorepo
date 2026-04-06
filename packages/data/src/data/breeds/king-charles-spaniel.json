@@ -2,76 +2,89 @@
   "id": "king-charles-spaniel",
   "nome": "King Charles Spaniel",
   "slug": "king-charles-spaniel",
-  "nome_en": "King Charles Spaniel",
+  "nome_en": "English Toy Spaniel",
   "apelidos": [
-    "King",
-    "Spaniel"
+    "Charlies",
+    "English Toy Spaniel",
+    "Prince Charles Spaniel"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "28 cm",
-    "altura_femea": "23 cm",
-    "peso_macho": "9 kg",
-    "peso_femea": "7.5 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "3.6 - 6.3 kg",
+    "peso_femea": "3.6 - 6.3 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 2,
     "inteligencia": 4,
-    "queda_pelo": 5,
-    "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "King Charles Spaniel é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O King Charles Spaniel originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O King Charles Spaniel, conhecido nos EUA como English Toy Spaniel, é um cão de companhia aristocrático, famoso por sua face achatada e olhos grandes e expressivos que lhe conferem uma aparência de eterna doçura. De porte pequeno e construção compacta, ele possui orelhas muito longas e fofas e uma pelagem sedosa e abundante. Diferente de seu primo mais popular, o Cavalier King Charles, o 'Charlie' possui um crânio em forma de cúpula e um focinho muito curto (braquicefálico). É um cão dotado de uma dignidade silenciosa, sendo extremamente afetuoso, calmo e preferindo muito mais o conforto do colo de seus tutores do que qualquer atividade física intensa.",
+    "historia": "A raça compartilha origens com os pequenos spaniels retratados na corte britânica dos séculos XVI e XVII. No entanto, no século XIX, a moda mudou para cães de focinho mais curto, possivelmente influenciada pelo cruzamento com o Pug e o Chin Japonês, o que diferenciou o King Charles Spaniel do tipo original de spaniel de caça. Eles foram nomeados em homenagem ao Rei Charles II, que era raramente visto sem um desses pequenos cães. Por séculos, foram os favoritos da nobreza britânica, sendo criados quase exclusivamente para a companhia em palácios e mansões luxuosas.",
     "curiosidades": [
-      "King Charles Spaniel possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "No Reino Unido, a raça é oficialmente chamada de King Charles Spaniel, enquanto o tipo de focinho longo é o Cavalier King Charles Spaniel. Nos EUA, o King Charles é chamado de English Toy Spaniel.",
+      "As quatro cores da raça possuem nomes históricos: Blenheim (branco e vermelho), Prince Charles (tricolor), King Charles (preto e canela) e Ruby (vermelho sólido).",
+      "Eles são conhecidos por terem um temperamento mais reservado e 'exclusivista' do que o Cavalier, escolhendo muitas vezes uma pessoa favorita na casa.",
+      "O Charlie possui um andar muito elegante e refinado, movendo-se com uma graça natural que reflete seu passado palaciano.",
+      "Devido ao formato do crânio, eles podem produzir ruídos respiratórios engraçados e são famosos por seus roncos profundos durante o sono."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas que buscam um companheiro calmo, silencioso e muito afetuoso",
+      "Idosos que buscam uma companhia de colo de baixo impacto físico",
+      "Tutores que apreciam cães com aparência exótica e aristocrática",
+      "Quem busca um cão que exige pouca atividade física externa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito pequenas e barulhentas (ele é sensível e prefere ambientes calmos)",
+      "Ambientes com calor extremo sem refrigeração (devido ao focinho curto e sensibilidade respiratória)",
+      "Tutores que buscam um cão para atividades físicas intensas como trilhas ou corridas",
+      "Pessoas que não podem dedicar tempo à manutenção regular das orelhas e pelagem",
+      "Proprietários que ficam fora de casa por longos períodos (sofre com a solidão)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Problemas cardíacos (Doença da Válvula Mitral) - muito comum",
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Siringomielia (doença neurológica grave)",
+      "Problemas oculares (Catarata e Entrópio)",
+      "Luxação de Patela",
+      "Dificuldades no parto (distocia)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é MANDATÓRIO. Check-ups oftalmológicos regulares. Atenção rigorosa à respiração em climas quentes. Limpeza semanal profunda das orelhas pendentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa exige escovação pelo menos duas a três vezes por semana para evitar nós, especialmente nas orelhas e axilas. Banhos devem ser mensais com bons condicionadores. Não é necessário tosar o pelo, apenas aparar as franjas das patas. A limpeza diária dos olhos e das dobras faciais é essencial para evitar infecções.",
+    "exercicios": "Necessita de muito pouco exercício formal. Caminhadas curtas e agradáveis nos horários frescos são suficientes. Ele se adapta perfeitamente a um estilo de vida sedentário, desde que receba atenção e carinho constantes.",
+    "treinamento": "Inteligente mas sensível e às vezes teimoso. O adestramento deve ser baseado inteiramente em reforço positivo, suavidade e paciência. Eles não respondem bem a métodos bruscos ou tons de voz elevados. A socialização precoce é importante para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade controlada. O King Charles tem uma tendência enorme a engordar, o que é extremamente perigoso para seu coração e respiração já comprometidos pela anatomia da raça."
   },
   "seo": {
-    "title": "King Charles Spaniel - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre King Charles Spaniel: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "King Charles Spaniel: O Aristocrata de Colo e Coração Doce - Guia de Raça",
+    "description": "Descubra o King Charles Spaniel: conheça sua história na corte real, seu temperamento calmo e os cuidados vitais com a saúde cardíaca e respiratória desta raça rara.",
     "keywords": [
-      "king-charles-spaniel",
-      "king charles spaniel",
-      "pequeno",
-      "inglaterra"
+      "King Charles Spaniel",
+      "English Toy Spaniel",
+      "cão real",
+      "spaniel de companhia",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com King Charles",
+      "temperamento King Charles"
     ]
   },
   "imagem_principal": "/images/breeds/king-charles-spaniel.jpg",
@@ -80,11 +93,55 @@
     "/images/breeds/king-charles-spaniel-2.jpg",
     "/images/breeds/king-charles-spaniel-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=king-charles-spaniel",
-  "popularidade": 15608,
-  "ranking_brasil": 153,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Toy Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-kingcharles",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-kingcharles/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre King Charles e Cavalier",
+      "url": "https://www.youtube.com/watch?v=example-spaniel-diff",
+      "canal": "Mundo Pet",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "cavalier-king-charles-spaniel",
+    "pug",
+    "pequines",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Black and Tan (King Charles)",
+    "Tricolor (Prince Charles)",
+    "Branco e Vermelho (Blenheim)",
+    "Vermelho Sólido (Ruby)"
+  ],
+  "marcacoes": [
+    "Marcações fogo simétricas",
+    "Chama branca na face",
+    "Orelhas longas e fofas"
+  ],
+  "curiosidades_historicas": "Historicamente, o King Charles Spaniel era tão pequeno que diziam que as damas da corte podiam carregá-los dentro das suas mangas bufantes para mantê-los aquecidos e por perto durante os longos jantares reais, o que contribuiu para o seu papel como o cão de colo supremo da história britânica.",
+  "referencias_externas": [
+    {
+      "titulo": "English Toy Spaniel Club of America",
+      "url": "https://etsca.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes de saúde e preservação."
+    },
+    {
+      "titulo": "The King Charles Spaniel Club (UK)",
+      "url": "https://www.kingcharlesspanielclub.co.uk/",
+      "descricao": "O clube de raça original fundado no Reino Unido."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    213,
-    1133
+    300,
+    800
   ]
 }

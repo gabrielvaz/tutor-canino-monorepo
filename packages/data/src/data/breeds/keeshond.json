@@ -3,68 +3,88 @@
   "nome": "Keeshond",
   "slug": "keeshond",
   "nome_en": "Keeshond",
-  "apelidos": [],
+  "apelidos": [
+    "Wolfspitz",
+    "Cão Sorridente Holandês",
+    "Cão das Barcaças"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Holanda",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "12.3 kg",
-    "peso_femea": "8.5 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "44 - 48 cm",
+    "altura_femea": "43 - 46 cm",
+    "peso_macho": "16 - 20 kg",
+    "peso_femea": "14 - 18 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
     "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
+    "energia": 3,
+    "inteligencia": 5,
     "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Keeshond é uma raça de porte médio originária de Holanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Keeshond originou-se em Holanda, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Keeshond é um cão de porte médio, de beleza estonteante e temperamento extraordinário, famoso por seu 'sorriso' característico e por ser um dos cães de companhia mais empáticos do mundo. Como um clássico Spitz, ele possui orelhas eretas, uma cauda farta que se enrola graciosamente sobre o dorso e uma pelagem dupla profusa e densa em tons de cinza e prata com pontas pretas. Sua característica facial mais marcante são os 'óculos' — marcações de pelos escuros que saem dos olhos em direção às orelhas, conferindo-lhe uma expressão de inteligência alerta e doçura. É um cão extremamente sociável, que deseja participar de cada momento da vida familiar, sendo muitas vezes chamado de 'cão-sombra' devido ao seu apego aos tutores.",
+    "historia": "A raça tem raízes antigas na Holanda, onde por séculos serviu como o cão de guarda e companhia favorito dos marinheiros que viviam em barcaças nos canais holandeses. No final do século XVIII, o Keeshond tornou-se o símbolo do Partido Patriota Holandês durante os levantes políticos contra a Casa de Orange. O nome da raça deriva de 'Kees' de Gyselaer, o líder dos patriotas, que possuía um exemplar da raça chamado Cornelis. Após a derrota dos patriotas, a raça quase desapareceu devido à sua associação política negativa, sendo salva no início do século XX por entusiastas que reconheceram seu valor inestimável como cão de família e sentinela vigilante.",
     "curiosidades": [
-      "Keeshond possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Keeshond é frequentemente chamado de 'Smiling Dutchman' (Holandês Sorridente) devido ao brilho feliz em seus olhos e ao formato da boca quando está animado.",
+      "As marcações faciais em forma de óculos são únicas e obrigatórias para a raça, servindo como uma de suas assinaturas visuais.",
+      "Diferente de muitos cães de trabalho, o Keeshond nunca foi criado para caçar ou matar; sua única função histórica foi a de guarda de alerta e companhia constante.",
+      "Eles possuem um faro de alerta aguçado, sendo capazes de detectar mudanças sutis no ambiente muito antes de outros cães.",
+      "Apesar da pelagem densa, os Keeshonds não possuem o 'odor de cachorro' pronunciado, mantendo-se relativamente limpos por conta própria."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um dos cães mais pacientes e protetores com os pequenos)",
+      "Tutores que buscam um companheiro extremamente afetuoso e que esteja sempre por perto",
+      "Pessoas que vivem em apartamentos (ele é calmo em interiores, desde que exercitado)",
+      "Quem deseja um cão de guarda de alerta vigilante que avisa sobre qualquer aproximação",
+      "Proprietários que apreciam o adestramento e a inteligência canina"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que ficam fora de casa o dia todo (ele sofre severamente com a solidão)",
+      "Pessoas que não suportam queda de pelos abundante (ele troca de casaco intensamente)",
+      "Ambientes com calor tropical extremo sem ar-condicionado constante",
+      "Moradores de locais onde latidos frequentes de alerta possam incomodar vizinhos",
+      "Tutores que não podem dedicar tempo à escovação semanal rigorosa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "PHPT (Hiperparatireoidismo Primário) - doença hormonal específica da raça",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (PRA e Catarata)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Cardiopatias (ocasionais)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "É fundamental adquirir filhotes de linhagens testadas negativamente para o gene do PHPT. Check-ups hormonais e ortopédicos anuais são recomendados. Monitoramento da saúde cardíaca."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta devido à densidade do subpelo. Exige escovação profunda pelo menos duas vezes por semana para remover pelos mortos e evitar nós. Durante as trocas sazonais ( shedding ), a escovação deve ser diária. Banhos devem ser mensais, com secagem total do subpelo. O pelo ao redor das patas deve ser aparado para evitar escorregões.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e tempo para brincadeiras interativas são suficientes. O Keeshond não é um atleta de alto desempenho, mas adora participar de atividades familiares ao ar livre.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o Keeshond é um dos cães mais fáceis de treinar. Eles aprendem comandos novos com rapidez e se destacam em obediência. Use apenas reforço positivo, pois eles são sensíveis e respondem mal à severidade.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Keeshond tem uma facilidade enorme para engordar, o que pode mascarar problemas de saúde e sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Keeshond - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Keeshond: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Keeshond: O Sorridente Guardião Holandês - Guia Completo da Raça",
+    "description": "Descubra o Keeshond: conheça seu temperamento amoroso, sua história nas barcaças da Holanda e as dicas vitais de cuidados com sua pelagem magnífica.",
     "keywords": [
-      "keeshond",
-      "keeshond",
-      "médio",
-      "holanda"
+      "Keeshond",
+      "Wolfspitz",
+      "cão sorridente holandês",
+      "cão de barcaça",
+      "cão de guarda de alerta",
+      "raças de cães médias",
+      "cuidados com Keeshond",
+      "temperamento Keeshond"
     ]
   },
   "imagem_principal": "/images/breeds/keeshond.jpg",
@@ -73,11 +93,55 @@
     "/images/breeds/keeshond-2.jpg",
     "/images/breeds/keeshond-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=keeshond",
-  "popularidade": 35675,
-  "ranking_brasil": 155,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Keeshond - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-keeshond",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-keeshond/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar do Pelo do Keeshond",
+      "url": "https://www.youtube.com/watch?v=example-keeshond-groom",
+      "canal": "Estética Canina",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "samoieda",
+    "elkhound-noruegues",
+    "spitz-alemao",
+    "lulu-da-pomerania"
+  ],
+  "cores_disponiveis": [
+    "Sombreado de Cinza (Silver-Grey)",
+    "Prata com pontas Pretas",
+    "Cinza-azulado"
+  ],
+  "marcacoes": [
+    "Óculos (marcações escuras nos olhos)",
+    "Juba de pelos ao redor do pescoço",
+    "Calças de pelos nas pernas traseiras",
+    "Cauda enrolada branca por baixo"
+  ],
+  "curiosidades_historicas": "O Keeshond foi por muito tempo o símbolo do nacionalismo holandês. Durante os períodos de turbulência política, os donos de Keeshonds eram vistos como patriotas orgulhosos, enquanto os defensores da monarquia preferiam o Pug (o favorito da Casa de Orange), tornando a escolha de um cão uma declaração política explícita na Holanda do século XVIII.",
+  "referencias_externas": [
+    {
+      "titulo": "Keeshond Club of America",
+      "url": "https://keeshond.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Keeshond (Wolfspitz) Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SPITZ-97.html",
+      "descricao": "Padrão oficial que engloba o Keeshond como o maior dos Spitz alemães."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    321,
-    1142
+    350,
+    850
   ]
 }

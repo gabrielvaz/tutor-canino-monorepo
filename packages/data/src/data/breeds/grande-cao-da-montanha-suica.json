@@ -4,69 +4,87 @@
   "slug": "grande-cao-da-montanha-suica",
   "nome_en": "Greater Swiss Mountain Dog",
   "apelidos": [
-    "Grande",
-    "Suíça"
+    "Swissie",
+    "Grande Boiadeiro Suíço",
+    "Greater Swiss"
   ],
-  "categoria": "Médio",
+  "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Suíça",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "19.2 kg",
-    "peso_femea": "14.3 kg",
+    "expectativa_vida": "8 - 11 anos",
+    "altura_macho": "65 - 72 cm",
+    "altura_femea": "60 - 68 cm",
+    "peso_macho": "48 - 63 kg",
+    "peso_femea": "35 - 50 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1925
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
+    "energia": 3,
+    "inteligencia": 4,
     "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Grande Cão da Montanha Suíça é uma raça de porte médio originária de Suíça. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Grande Cão da Montanha Suíça originou-se em Suíça, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Grande Cão da Montanha Suíça, ou 'Swissie', é o maior e o mais antigo dos quatro boiadeiros suíços. De porte gigante e constituição poderosa, ele é a personificação da força e da determinação alpina. Caracteriza-se por sua pelagem curta e densa em três cores marcantes (preto, fogo e branco) e uma cabeça larga com expressão de inteligência bondosa. Apesar de sua força física massiva, o Swissie é conhecido como um 'gigante dócil' dentro de casa, dotado de um temperamento calmo, confiável e extremamente apegado à sua família. É um cão de trabalho rústico, construído para a tração e guarda, que exala uma aura de majestade e prontidão silenciosa.",
+    "historia": "A raça descende dos antigos mastiffs de tipo molosso levados para os Alpes pelas legiões romanas. Por séculos, o Grande Cão da Montanha Suíça foi o motor das fazendas suíças: ele guardava a propriedade, pastoreava o gado e, mais famosamente, puxava grandes carroças carregadas de carne e laticínios para os mercados. No final do século XIX, acreditava-se que a raça estava extinta devido à mecanização agrícola. Foi o Professor Albert Heim quem, em 1908, identificou um exemplar em uma exposição e liderou o esforço para resgatar e padronizar o 'Greater Swiss' como a raça distinta e imponente que conhecemos hoje.",
     "curiosidades": [
-      "Grande Cão da Montanha Suíça possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Swissie é conhecido como o 'cavalo do homem pobre' devido à sua força extraordinária para puxar cargas pesadas.",
+      "Eles possuem um latido curto, profundo e sonoro que usam apenas para alertar sobre algo realmente importante.",
+      "Diferente do Bernese, o Grande Suíço possui pelagem curta e dupla, o que facilitava seu trabalho em terrenos com neve derretida e lama.",
+      "Eles amadurecem lentamente, tanto física quanto mentalmente, agindo como filhotes gigantes até os 3 anos de idade.",
+      "O Swissie é famoso por seu 'discernimento social', sendo capaz de distinguir rapidamente entre uma visita bem-vinda e uma ameaça real à propriedade."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente protetor e gentil com os pequenos)",
+      "Tutores que buscam um cão de guarda dissuasivo e vigilante para grandes propriedades",
+      "Pessoas que apreciam um companheiro calmo e silencioso dentro de casa",
+      "Quem busca um cão para atividades de tração (carting) ou trilhas em climas frescos",
+      "Proprietários que desejam um cão leal que participe de todas as atividades da família"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (devido ao peso massivo)",
+      "Tutores que vivem em climas tropicais extremos sem ar-condicionado (ele sofre muito com o calor)",
+      "Pessoas sedentárias que não possam oferecer caminhadas diárias constantes",
+      "Tutores que não toleram queda de pelos curta e abundante (ele troca de casaco duas vezes ao ano)",
+      "Proprietários de primeira viagem que podem se sentir intimidados pela força física da raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Torção Esplênica (torção do baço - comum na raça)",
+      "Displasia de Quadril e Cotovelo",
+      "Incontinência Urinária (em algumas fêmeas castradas)",
+      "Problemas oculares (Entrópio e Distiquíase)",
+      "Epilepsia (ocasional)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Atenção total aos sinais de torção gástrica ou esplênica. É vital manter o cão magro para preservar as articulações durante o crescimento rápido."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal para remover pelos mortos. Durante as trocas sazonais, a queda é intensa e a escovação deve ser diária. Banhos devem ser mensais ou conforme a necessidade. As unhas devem ser mantidas curtas para suportar o peso gigante e evitar problemas posturais.",
+    "exercicios": "Necessita de exercícios moderados mas consistentes. Longas caminhadas em ritmo constante e oportunidades para puxar objetos (com treinamento adequado) satisfazem sua necessidade de trabalho. Evite exercícios de alto impacto para proteger as articulações pesadas.",
+    "treinamento": "Inteligente mas independente e obstinado. O adestramento deve ser baseado em reforço positivo, paciência e firmeza. Eles respondem bem a desafios que façam sentido para seu instinto de trabalho. A socialização precoce é MANDATÓRIA para garantir um temperamento equilibrado.",
+    "alimentacao": "Dieta de alta qualidade específica para raças gigantes. É essencial dividir a alimentação em várias pequenas refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica e esplênica."
   },
   "seo": {
-    "title": "Grande Cão da Montanha Suíça - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Grande Cão da Montanha Suíça: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Grande Cão da Montanha Suíça: O Gigante das Carroças - Guia de Raça",
+    "description": "Descubra o Grande Cão da Montanha Suíça (Swissie): conheça sua força lendária, seu temperamento dócil e os cuidados essenciais com este nobre cão de montanha.",
     "keywords": [
-      "grande-cao-da-montanha-suica",
-      "grande cão da montanha suíça",
-      "médio",
-      "suíça"
+      "Grande Cão da Montanha Suíça",
+      "Greater Swiss Mountain Dog",
+      "Swissie",
+      "cão de montanha suíço",
+      "cão de tração",
+      "raças de cães gigantes",
+      "cuidados com Swissie",
+      "temperamento Greater Swiss"
     ]
   },
   "imagem_principal": "/images/breeds/grande-cao-da-montanha-suica.jpg",
@@ -75,11 +93,54 @@
     "/images/breeds/grande-cao-da-montanha-suica-2.jpg",
     "/images/breeds/grande-cao-da-montanha-suica-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=grande-cao-da-montanha-suica",
-  "popularidade": 20926,
-  "ranking_brasil": 61,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Greater Swiss Mountain Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-swissie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-swissie/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho de Tração do Grande Cão Suíço",
+      "url": "https://www.youtube.com/watch?v=example-swissie-work",
+      "canal": "Swiss Heritage",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "bernese-mountain-dog",
+    "appenzeller-sennenhund",
+    "entlebucher",
+    "sao-bernardo",
+    "rottweiler"
+  ],
+  "cores_disponiveis": [
+    "Preto Tricolor (Preto com marcações Fogo e Branco)"
+  ],
+  "marcacoes": [
+    "Manchas fogo simétricas sobre os olhos e bochechas",
+    "Peito branco (chama)",
+    "Ponta da cauda e patas brancas",
+    "Simetria de cores é altamente valorizada"
+  ],
+  "curiosidades_historicas": "O Greater Swiss foi fundamental para o transporte de suprimentos militares suíços durante as Guerras Mundiais em terrenos onde cavalos e veículos motorizados não conseguiam operar. Sua resistência ao frio e força no peito salvaram inúmeras missões logísticas nas altas montanhas dos Alpes.",
+  "referencias_externas": [
+    {
+      "titulo": "Greater Swiss Mountain Dog Club of America",
+      "url": "https://gsmdca.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e eventos."
+    },
+    {
+      "titulo": "FCI - Greater Swiss Mountain Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/GREATER-SWISS-MOUNTAIN-DOG-58.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    383,
-    558
+    500,
+    1300
   ]
 }

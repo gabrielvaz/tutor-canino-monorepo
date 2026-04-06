@@ -3,68 +3,87 @@
   "nome": "Kuvasz",
   "slug": "kuvasz",
   "nome_en": "Kuvasz",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Kuv",
+    "Gigante Branco Húngaro"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "21.8 kg",
-    "peso_femea": "19.7 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "71 - 76 cm",
+    "altura_femea": "66 - 70 cm",
+    "peso_macho": "45 - 52 kg",
+    "peso_femea": "32 - 42 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1991
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Kuvasz é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Kuvasz originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Kuvasz é um molosso de montanha de beleza escultural e força imponente, a personificação da nobreza e vigilância húngara. De porte grande e constituição poderosa, ele possui uma pelagem branca dupla, ondulada e densa que lhe confere um visual majestoso. Sua cabeça é refinada com uma expressão de inteligência orgulhosa e olhos amendoados escuros. Diferente de outros guardiões de rebanho que podem ser mais rústicos, o Kuvasz possui uma elegância natural em seus movimentos. É um cão dotado de uma lealdade inabalável e um instinto protetor aguçado, agindo como um guardião corajoso que avalia ameaças com discernimento antes de agir.",
+    "historia": "Uma das raças mais antigas da Europa, o Kuvasz acompanhou as tribos húngaras (Magiares) em suas migrações há mais de mil anos. Originalmente, sua função era proteger rebanhos contra lobos e ursos. No século XV, a raça atingiu o auge de seu prestígio na corte do Rei Matthias Corvinus, que confiava mais em seus Kuvaszok do que em seus guardas humanos, usando-os como guarda-costas pessoais e cães de caça maior. O nome deriva provavelmente do termo turco 'ku-asz', que significa 'guarda da nobreza'. A raça quase foi extinta durante a Segunda Guerra Mundial, com apenas cerca de 30 exemplares sobreviventes sendo usados para reconstruir a linhagem moderna.",
     "curiosidades": [
-      "Kuvasz possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Kuvasz é a única raça de guarda húngara de pelagem branca que não é cordada, diferente do Komondor.",
+      "Eles possuem uma 'memória de elefante', sendo capazes de reconhecer amigos e rotinas mesmo após anos de separação.",
+      "A cor branca era funcional: permitia que o pastor distinguisse o cão dos lobos durante a noite ou no meio da mata fechada.",
+      "Diferente de muitos cães de guarda, o Kuvasz é conhecido por ter um senso de humor peculiar e ser muito brincalhão com sua família nuclear.",
+      "Eles são famosos por sua independência; um Kuvasz treinado para guardar um rebanho pode tomar decisões estratégicas sem qualquer comando humano."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que entendem a psicologia de cães de guarda independentes",
+      "Propriedades rurais ou casas com quintais muito amplos e bem cercados",
+      "Quem busca um cão de guarda dissuasivo mas equilibrado e dócil com a família",
+      "Pessoas que vivem em climas mais frios ou temperados",
+      "Tutores que valorizam a história e a nobreza de raças ancestrais"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige liderança firme, calma e consistente)",
+      "Moradores de apartamentos ou áreas urbanas densas (ele precisa de espaço para patrulhar)",
+      "Pessoas que buscam obediência cega e execução rápida de truques (ele é um livre-pensador)",
+      "Famílias que recebem muitos estranhos sem uma rotina clara de introdução",
+      "Proprietários que não toleram queda de pelos abundante durante o ano todo"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Problemas oculares (PRA e Catarata)",
+      "Osteocondrite Dissecante (OCD)",
+      "Hipotireoidismo",
+      "Surdez (ocasional)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Monitoramento constante para sinais de torção gástrica. É vital manter o cão em um peso saudável durante o crescimento rápido do filhote."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca é moderada. Exige escovação pelo menos duas vezes por semana para remover pelos mortos e manter a pele saudável. Durante as trocas sazonais, a queda é muito intensa e a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural do pelo. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Longas caminhadas e a oportunidade de patrulhar seu território são fundamentais. Ele não é um cão para exercícios frenéticos, mas precisa gastar energia para não se tornar frustrado e vocal.",
+    "treinamento": "O adestramento é um desafio gratificante. O Kuvasz é inteligente mas independente. Use reforço positivo e nunca tente métodos punitivos, pois o cão perderá o respeito pelo tutor. A socialização precoce e contínua com diferentes pessoas e sons é MANDATÓRIA.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para prevenir a torção gástrica. O controle rigoroso do peso é fundamental para preservar as articulações desta raça gigante."
   },
   "seo": {
-    "title": "Kuvasz - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Kuvasz: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Kuvasz: O Nobre Guardião Húngaro de Matthias Corvinus - Guia de Raça",
+    "description": "Conheça o Kuvasz: descubra a força, a história real e o temperamento leal deste imponente cão de guarda branco da Hungria. Guia completo de cuidados.",
     "keywords": [
-      "kuvasz",
-      "kuvasz",
-      "médio",
-      "hungria"
+      "Kuvasz",
+      "cão de guarda",
+      "cão húngaro",
+      "gigante branco",
+      "cão de montanha",
+      "raças de cães grandes",
+      "cuidados com Kuvasz",
+      "temperamento Kuvasz"
     ]
   },
   "imagem_principal": "/images/breeds/kuvasz.jpg",
@@ -73,11 +92,54 @@
     "/images/breeds/kuvasz-2.jpg",
     "/images/breeds/kuvasz-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=kuvasz",
-  "popularidade": 45647,
-  "ranking_brasil": 136,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Kuvasz - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-kuvasz",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-kuvasz/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vigilância e Lealdade do Kuvasz",
+      "url": "https://www.youtube.com/watch?v=example-kuvasz-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "komondor",
+    "grande-pireneus",
+    "pastor-maremmano-abruzes",
+    "akbash",
+    "cao-da-serra-da-estrela"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Marfim"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pele bem pigmentada de escuro sob o pelo branco",
+    "Lábios e bordas dos olhos pretos"
+  ],
+  "curiosidades_historicas": "O Rei Matthias Corvinus da Hungria dizia que o Kuvasz era o único ser na terra em quem ele podia confiar cegamente para não ser traído. O amor do rei pela raça era tal que ele presenteava apenas os nobres mais fiéis com filhotes de sua criação real, transformando o Kuvasz no maior prêmio diplomático da época.",
+  "referencias_externas": [
+    {
+      "titulo": "Kuvasz Club of America",
+      "url": "https://kuvaszclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Kuvasz Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/KUVASZ-54.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    247,
-    1453
+    400,
+    1100
   ]
 }

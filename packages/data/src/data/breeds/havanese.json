@@ -3,74 +3,88 @@
   "nome": "Havanese",
   "slug": "havanese",
   "nome_en": "Havanese",
-  "apelidos": [],
+  "apelidos": [
+    "Bichon Havanês",
+    "Cão de Seda de Havana",
+    "Havanês"
+  ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Cuba",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "29 cm",
-    "altura_femea": "25 cm",
-    "peso_macho": "9.4 kg",
-    "peso_femea": "4.9 kg",
+    "origem": "Cuba / Mediterrâneo",
+    "expectativa_vida": "14 - 16 anos",
+    "altura_macho": "23 - 27 cm",
+    "altura_femea": "23 - 27 cm",
+    "peso_macho": "4.5 - 6 kg",
+    "peso_femea": "3 - 5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1974
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
-    "queda_pelo": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 1,
     "latido": 2,
-    "afeicao_familia": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 3,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 2,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Havanese é uma raça de porte pequeno originária de Cuba. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Havanese originou-se em Cuba, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Havanese, ou Bichon Havanês, é o cão nacional de Cuba e um dos companheiros mais encantadores e adaptáveis do mundo. De porte pequeno e construção retangular, ele é famoso por sua pelagem longa, sedosa e profusa que parece flutuar enquanto ele se move com um andar 'saltitante' e alegre. Sua expressão é de uma curiosidade inteligente, com olhos escuros e expressivos. O Havanese é um cão dotado de uma alegria contagiante, sendo frequentemente chamado de 'cão velcro' por seu desejo constante de estar próximo aos seus tutores. É um animal extremamente sociável, inteligente e que adora aprender truques para ser o centro das atenções.",
+    "historia": "A raça descende dos antigos 'Bichons do Mediterrâneo' levados para Cuba por capitães de navios espanhóis no século XVIII e XIX. Em Havana, esses cães foram refinados e tornaram-se o símbolo de status da aristocracia açucareira cubana, sendo conhecidos como 'Cães de Seda de Havana'. Após a Revolução Cubana em 1959, a raça quase se extinguiu em sua terra natal, mas sobreviveu graças a algumas famílias que levaram seus cães para os Estados Unidos. A partir de apenas 11 cães ancestrais, a raça foi meticulosamente reconstruída e hoje é uma das mais populares raças pequenas em todo o mundo.",
     "curiosidades": [
-      "Havanese possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Havanese é a única raça canina nativa de Cuba.",
+      "Eles possuem um andar elástico único devido às pernas dianteiras serem ligeiramente mais curtas que as traseiras, o que lhes confere um visual saltitante.",
+      "Diferente de muitos cães pequenos, o Havanese é muito silencioso dentro de casa, preferindo observar em vez de latir excessivamente.",
+      "Eles são conhecidos por serem cães 'anti-depressivos', tendo uma sensibilidade aguçada para consolar seus tutores quando percebem tristeza.",
+      "Apesar da abundância de pelos, a pelagem do Havanese é muito leve e funciona como um isolante térmico contra o sol forte, não devendo ser tosada rente no verão."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas com alergias a pelos de cães (ele quase não solta pelo)",
+      "Famílias com crianças (ele é extremamente paciente e brincalhão)",
+      "Tutores de primeira viagem que buscam um cão equilibrado e sociável",
+      "Pessoas que trabalham em casa e querem um companheiro constante"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que ficam fora de casa o dia todo (sofre severamente com a solidão)",
+      "Proprietários que não podem dedicar tempo à escovação regular da pelagem longa",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável com todos)",
+      "Ambientes onde o cão será tratado de forma bruta (ele é sensível ao tom de voz)",
+      "Tutores que desejam um cão de baixa manutenção estética"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e Atrofia Progressiva da Retina)",
+      "Shunt Portossistêmico (problema hepático congênito)",
+      "Surdez (ocasional)",
+      "Problemas cardíacos (em idade avançada)",
+      "Problemas dentários"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde bucal e ortopédica. Monitoramento oftalmológico regular. Testes de audição em filhotes são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente. Exige escovação pelo menos três vezes por semana para evitar nós na pelagem fina e sedosa. Banhos devem ser mensais com produtos de alta qualidade para manter o brilho. O pelo ao redor dos olhos e patas deve ser aparado. A escovação dental diária é MANDATÓRIA devido à propensão a tártaro.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias curtas e muito tempo de brincadeira interativa satisfazem suas necessidades. Ele adora aprender truques e participar de jogos de inteligência.",
+    "treinamento": "Muito inteligente e extremamente ansioso para agradar, o Havanese é fácil de treinar. Use apenas reforço positivo, elogios e petiscos. Eles podem ser sensíveis a correções severas. A socialização precoce com diferentes pessoas e animais é fundamental para manter sua natureza extrovertida.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial, pois o excesso de peso prejudica as articulações e a saúde geral desta raça longeva."
   },
   "seo": {
-    "title": "Havanese - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Havanese: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Havanese: O Alegre Cão Real de Cuba - Guia Completo da Raça",
+    "description": "Descubra o Havanese: conheça seu temperamento doce, sua história de luxo em Havana e as dicas vitais de cuidados com a pelagem hipoalergênica.",
     "keywords": [
-      "havanese",
-      "havanese",
-      "pequeno",
-      "cuba"
+      "Havanese",
+      "Bichon Havanês",
+      "cão real de Cuba",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Havanese",
+      "temperamento Havanese"
     ]
   },
   "imagem_principal": "/images/breeds/havanese.jpg",
@@ -79,11 +93,58 @@
     "/images/breeds/havanese-2.jpg",
     "/images/breeds/havanese-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=havanese",
-  "popularidade": 15547,
-  "ranking_brasil": 101,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Havanese - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-havanese",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-havanese/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como é ter um Havanese em casa",
+      "url": "https://www.youtube.com/watch?v=example-havanese-life",
+      "canal": "Vida de Cão Mini",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "maltes",
+    "bichon-frise",
+    "coton-de-tulear",
+    "bolognese"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações permitidas",
+    "Creme",
+    "Fawn (Fulvo)",
+    "Chocolate",
+    "Preto e Branco",
+    "Sable"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Particolor",
+    "Marcações fogo (tan)",
+    "Belton (mosqueado)"
+  ],
+  "curiosidades_historicas": "Ernest Hemingway, que viveu em Cuba por muitos anos, era um grande admirador da raça e costumava ser visto em Havana acompanhado por seus Havaneses, contribuindo para a aura boêmia e intelectual que muitas vezes é associada à raça.",
+  "referencias_externas": [
+    {
+      "titulo": "Havanese Club of America",
+      "url": "https://havaneseclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Havanese Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/HAVANESE-250.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 80,
   "custo_mensal_estimado": [
-    271,
-    1092
+    300,
+    750
   ]
 }

@@ -5,70 +5,87 @@
   "nome_en": "Jack Russell Terrier",
   "apelidos": [
     "Jack",
-    "Terrier"
+    "JRT",
+    "Terrorista Branco"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "29 cm",
-    "altura_femea": "26 cm",
-    "peso_macho": "5.7 kg",
-    "peso_femea": "0.8 kg",
+    "expectativa_vida": "13 - 16 anos",
+    "altura_macho": "25 - 30 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "6 - 8 kg",
+    "peso_femea": "5 - 7 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1978
+    "ano_reconhecimento_fci": 2000
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 2,
-    "queda_pelo": 1,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
     "latido": 4,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Jack Russell Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Jack Russell Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Jack Russell Terrier é uma 'pilha elétrica' em forma de cão, um terrier de trabalho autêntico que transborda inteligência, coragem e uma alegria de viver inesgotável. De porte pequeno e constituição atlética e flexível, ele possui uma pelagem predominantemente branca com marcações em preto ou castanho. Disponível em três tipos de pelo (liso, quebrado ou duro), o Jack Russell é famoso por sua agilidade fenomenal e por sua personalidade de 'grande cão em corpo pequeno'. É um companheiro extremamente leal e divertido, mas que exige um tutor ativo que saiba canalizar sua inteligência brilhante e sua energia quase infinita.",
+    "historia": "A raça foi desenvolvida na Inglaterra no início do século XIX pelo Reverendo John Russell, um entusiasta da caça à raposa conhecido como 'Jack'. Ele buscava um terrier que fosse capaz de acompanhar as matilhas de hounds por longas distâncias e que tivesse a coragem necessária para entrar em tocas e forçar a raposa a sair, sem matá-la. O Reverendo Russell priorizava a funcionalidade e o temperamento sobre a estética, resultando em um cão rústico e extremamente eficiente. A raça permaneceu como um cão de trabalho por mais de um século antes de se tornar um dos cães de companhia e estrelas de cinema mais populares do mundo.",
     "curiosidades": [
-      "Jack Russell Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Um Jack Russell chamado 'Bothy' fez história em 1982 ao se tornar o primeiro cão a visitar tanto o Polo Norte quanto o Polo Sul.",
+      "Eles são saltadores extraordinários, sendo capazes de pular até 5 vezes a sua própria altura.",
+      "A raça ganhou fama mundial através do cinema e TV, com cães como 'Moose' (o Eddie da série Frasier) e 'Uggie' (do filme O Artista).",
+      "Jack Russells possuem um instinto de escavação fortíssimo e são capazes de limpar um jardim de toupeiras e ratos em tempo recorde.",
+      "Diferente de muitas raças, o Jack Russell Terrier possui uma das maiores variedades genéticas, o que contribui para sua excelente saúde e longevidade."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias muito ativas que gostam de jogos, caminhadas e esportes",
+      "Tutores interessados em adestramento avançado e truques complexos",
+      "Pessoas que vivem em casas com quintais seguros e bem cercados",
+      "Quem busca um companheiro leal, corajoso e com grande senso de humor",
+      "Proprietários que podem dedicar várias horas diárias ao estímulo físico e mental do pet"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão de colo passivo",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de exercícios externos",
+      "Casas com pequenos animais domésticos como hamsters ou gatos (instinto de caça é extremo)",
+      "Pessoas que não toleram latidos de alerta ou escavações no jardim",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Lente Primária (PLL)",
+      "Luxação de Patela",
+      "Surdez (ocasional em exemplares predominantemente brancos)",
+      "Ataxia Cerebelar",
+      "Doença de Legg-Calve-Perthes",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Testes genéticos para PLL são recomendados para a linhagem. Atenção à saúde bucal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção depende da pelagem: o pelo liso exige escovação semanal; o pelo duro e quebrado exige 'hand-stripping' manual duas vezes por ano para manter a textura rústica. Eles soltam pelo moderadamente. Banhos devem ser mensais. As unhas devem ser mantidas curtas para não comprometer a agilidade. Limpeza semanal das orelhas.",
+    "exercicios": "Necessita de MUITO exercício. O Jack Russell não é um cão para apenas 'passear'; ele precisa correr, caçar brinquedos e ter desafios mentais. Sem gasto de energia, ele se torna um 'terrorista' doméstico, roendo móveis e latindo excessivamente.",
+    "treinamento": "Extremamente inteligente e aprende truques mais rápido do que quase qualquer outra raça. No entanto, é independente e pode ser teimoso se o treinamento for chato. Use reforço positivo, rapidez e muita variedade. A socialização precoce é fundamental para evitar a agressividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Jack Russell Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Jack Russell Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Jack Russell Terrier: O Pequeno Gigante da Energia - Guia de Raça",
+    "description": "Tudo sobre o Jack Russell Terrier: conheça seu temperamento audaz, sua inteligência brilhante e as dicas essenciais de exercícios e cuidados para este terrier incansável.",
     "keywords": [
-      "jack-russell-terrier",
-      "jack russell terrier",
-      "pequeno",
-      "inglaterra"
+      "Jack Russell Terrier",
+      "Jack Russell",
+      "JRT",
+      "cão inteligente",
+      "cão de cinema",
+      "raças de cães pequenas",
+      "cuidados com Jack Russell",
+      "temperamento Jack Russell",
+      "cão caçador"
     ]
   },
   "imagem_principal": "/images/breeds/jack-russell-terrier.jpg",
@@ -77,11 +94,54 @@
     "/images/breeds/jack-russell-terrier-2.jpg",
     "/images/breeds/jack-russell-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=jack-russell-terrier",
-  "popularidade": 2274,
-  "ranking_brasil": 119,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Jack Russell Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-jackrussell",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-jackrussell/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Jack Russell Terrier",
+      "url": "https://www.youtube.com/watch?v=example-jack-intel",
+      "canal": "Mundo Terrier",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "parson-russell-terrier",
+    "fox-terrier-pelo-liso",
+    "rat-terrier",
+    "beagle"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Castanhas (Tan)",
+    "Branco com manchas Pretas",
+    "Tricolor (Branco, Preto e Castanho)"
+  ],
+  "marcacoes": [
+    "Branco deve ser a cor predominante (mínimo 51%)",
+    "Manchas na cabeça e base da cauda são clássicas",
+    "Pode ter manchas no corpo"
+  ],
+  "curiosidades_historicas": "O Reverendo John Russell era tão respeitado que ajudou a fundar o Kennel Club inglês em 1873, mas ele se recusava a registrar seus próprios Jack Russells nas exposições de beleza, acreditando que a raça deveria ser julgada apenas por sua capacidade de trabalho e coragem nas tocas.",
+  "referencias_externas": [
+    {
+      "titulo": "Jack Russell Terrier Club of America",
+      "url": "https://www.therealjrtca.com/",
+      "descricao": "Clube oficial dedicado à preservação do Jack Russell como cão de trabalho funcional."
+    },
+    {
+      "titulo": "FCI - Jack Russell Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/JACK-RUSSELL-TERRIER-345.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 12,
   "custo_mensal_estimado": [
-    428,
-    883
+    300,
+    700
   ]
 }

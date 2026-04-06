@@ -4,70 +4,88 @@
   "slug": "italian-greyhound",
   "nome_en": "Italian Greyhound",
   "apelidos": [
-    "Italian",
-    "Greyhound"
+    "Pequeno Lebrel Italiano",
+    "Iggy",
+    "Galguinho Italiano"
   ],
-  "categoria": "Médio",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Itália",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "39 cm",
-    "peso_macho": "13.6 kg",
-    "peso_femea": "9.7 kg",
+    "origem": "Itália / Bacia do Mediterrâneo",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "32 - 38 cm",
+    "altura_femea": "32 - 38 cm",
+    "peso_macho": "3 - 5 kg",
+    "peso_femea": "3 - 5 kg",
     "grupo_fci": "Grupo 10 - Lebréis",
-    "ano_reconhecimento_fci": 1961
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
     "energia": 4,
     "inteligencia": 4,
-    "queda_pelo": 4,
-    "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 2,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 3,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Italian Greyhound é uma raça de porte médio originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Italian Greyhound originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 10. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Italian Greyhound, ou Pequeno Lebrel Italiano, é a personificação da graça, elegância e fragilidade aparente em um pacote minúsculo. Como uma versão miniaturizada do Greyhound, ele possui a mesma silhueta aerodinâmica, com pernas longas e finas, peito profundo e cintura estreita. Sua pelagem é curta, fina e sedosa ao tato, apresentando-se em uma variedade de cores sólidas. É um cão dotado de uma sensibilidade extraordinária e um temperamento afetuoso, muitas vezes descrito como um 'cão de velcro' por seu desejo constante de estar em contato físico com seus tutores. Apesar de sua aparência aristocrática, ele é um atleta ágil capaz de atingir velocidades surpreendentes para o seu tamanho.",
+    "historia": "A raça é antiquíssima, com vestígios arqueológicos de cães similares encontrados na Turquia e Grécia datando de mais de 2.000 anos. Durante o Renascimento, o Galguinho tornou-se o favorito absoluto da nobreza italiana, sendo retratado em inúmeras pinturas de mestres como Giotto e Ticiano. Rainhas como Vitória da Inglaterra, Catarina a Grande da Rússia e Ana da Dinamarca foram grandes entusiastas da raça. O Italian Greyhound passou de um caçador de pequenos roedores e aves a um acessório de luxo indispensável nos palácios europeus, mantendo sua tipicidade refinada através dos séculos.",
     "curiosidades": [
-      "Italian Greyhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Italian Greyhound é considerado um cão de 'visão', o que significa que ele caça e se orienta prioritariamente pelos olhos, não pelo faro.",
+      "Eles possuem o hábito curioso de 'escalar' seus tutores, preferindo sentar nos ombros ou pescoço como se fossem gatos ou papagaios.",
+      "Devido à ossatura extremamente fina das pernas dianteiras, os exemplares jovens são propensos a fraturas se saltarem de locais altos de forma desajeitada.",
+      "Eles são extremamente limpos e quase não possuem o 'odor de cachorro' característico, detestando lama ou chuva.",
+      "A raça é famosa por sua 'tremedeira' característica, que pode indicar frio, ansiedade ou apenas excesso de energia acumulada."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Pessoas que buscam um companheiro extremamente carinhoso e discreto",
+      "Tutores que podem levar o cão para quase todos os lugares",
+      "Proprietários que apreciam a estética refinada e elegante dos galgos",
+      "Idosos que buscam uma companhia afetuosa de baixo impacto físico"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito pequenas e brutas (risco alto de lesões ósseas no cão)",
+      "Tutores sedentários que não ofereçam pelo menos caminhadas diárias e brincadeiras",
+      "Pessoas que ficam fora de casa por muitas horas (ele sofre severamente com a solidão)",
+      "Ambientes com climas muito frios sem o uso constante de roupas de proteção",
+      "Ambientes onde o cão precise ser passeado sem guia (seu instinto de perseguição é inato)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Fraturas de rádio e ulna (especialmente em jovens)",
+      "Problemas dentários graves (doença periodontal precoce)",
+      "Luxação de Patela",
+      "Problemas oculares (PRA e Catarata)",
+      "Sensibilidade extrema a anestésicos",
+      "Hipotireoidismo",
+      "Alopecia por diluição de cor (em exemplares azuis/cinzas)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos regulares. Higiene bucal diária é MANDATÓRIA para evitar perda de dentes. Atenção total a protocolos anestésicos para lebréis."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é mínima, exigindo apenas uma massagem semanal com luva macia para remover pelos mortos. Banhos devem ser ocasionais e sempre com água morna. É vital manter os dentes escovados e as unhas curtas. Devido à pele fina, proteja o cão de superfícies ásperas ou cortantes.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e oportunidades para correr em áreas seguras e macias (gramados) são ideais. Ele adora jogos de perseguição interna e brincadeiras que estimulem sua agilidade natural.",
+    "treinamento": "Inteligente mas sensível e independente. O adestramento deve ser baseado em reforço positivo, paciência e tons de voz suaves. Eles se fecham se forem tratados com rispidez. O treinamento de higiene (casa) pode ser um desafio e exige persistência.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial, pois qualquer excesso de peso compromete sua silhueta elegante e sobrecarrega as articulações finas."
   },
   "seo": {
-    "title": "Italian Greyhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Italian Greyhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Italian Greyhound (Galguinho Italiano): Elegância e Doçura - Guia de Raça",
+    "description": "Descubra o Italian Greyhound: conheça seu temperamento afetuoso, sua história na realeza e os cuidados vitais com a saúde e ossatura deste elegante galgo pequeno.",
     "keywords": [
-      "italian-greyhound",
-      "italian greyhound",
-      "médio",
-      "itália"
+      "Italian Greyhound",
+      "Pequeno Lebrel Italiano",
+      "Galguinho Italiano",
+      "cão de companhia",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Italian Greyhound",
+      "temperamento Iggy"
     ]
   },
   "imagem_principal": "/images/breeds/italian-greyhound.jpg",
@@ -76,11 +94,55 @@
     "/images/breeds/italian-greyhound-2.jpg",
     "/images/breeds/italian-greyhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=italian-greyhound",
-  "popularidade": 44695,
-  "ranking_brasil": 28,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Italian Greyhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-iggy",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-iggy/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar de um Galguinho Italiano",
+      "url": "https://www.youtube.com/watch?v=example-iggy-care",
+      "canal": "Mundo Pet Mini",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "whippet",
+    "greyhound",
+    "galgo-espanhol",
+    "chihuahua"
+  ],
+  "cores_disponiveis": [
+    "Cinza (Slate)",
+    "Preto",
+    "Isabela (Fawn)",
+    "Creme",
+    "Azul"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Manchas brancas permitidas apenas no peito e patas"
+  ],
+  "curiosidades_historicas": "O amor pela raça na corte prussiana era tamanho que o Rei Frederico, o Grande, foi enterrado ao lado de seus amados Galguinhos Italianos no Palácio de Sanssouci, cumprindo um desejo testamental de permanecer para sempre na companhia de seus 'amigos mais fiéis e silenciosos'.",
+  "referencias_externas": [
+    {
+      "titulo": "Italian Greyhound Club of America",
+      "url": "http://www.italiangreyhound.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Italian Greyhound Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-GREYHOUND-200.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 35,
   "custo_mensal_estimado": [
-    409,
-    806
+    300,
+    750
   ]
 }

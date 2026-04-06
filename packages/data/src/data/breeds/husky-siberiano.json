@@ -5,69 +5,86 @@
   "nome_en": "Siberian Husky",
   "apelidos": [
     "Husky",
-    "Siberiano"
+    "Siberiano",
+    "Lobo do Ártico"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Sibéria",
-    "expectativa_vida": "12 - 12 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "15 kg",
-    "peso_femea": "13.6 kg",
+    "origem": "Rússia (Sibéria)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "53 - 60 cm",
+    "altura_femea": "50 - 56 cm",
+    "peso_macho": "20 - 27 kg",
+    "peso_femea": "16 - 23 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1922
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 5,
-    "queda_pelo": 2,
-    "latido": 1,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Husky Siberiano é uma raça de porte médio originária de Sibéria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Husky Siberiano originou-se em Sibéria, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Husky Siberiano é um dos cães mais belos e resilientes do mundo, um verdadeiro atleta das neves dotado de uma resistência física lendária. De porte médio e constituição equilibrada, ele possui uma pelagem dupla densa e macia que o protege de temperaturas negativas extremas. Suas características mais marcantes são os olhos, que podem ser azuis, castanhos ou um de cada cor (heterocromia), e sua máscara facial distinta. É um cão extremamente sociável, amigável e dotado de uma independência de espírito que muitas vezes o torna um desafio para o adestramento convencional. O Husky não é um cão de guarda, mas sim um parceiro de aventuras entusiasmado e um membro de família muito afetuoso.",
+    "historia": "A raça foi desenvolvida pelo povo Chukchi, no nordeste da Sibéria, há milhares de anos. Eles precisavam de um cão capaz de puxar cargas leves em velocidades moderadas por distâncias imensas através do gelo, enquanto consumiam o mínimo de alimento possível. No início do século XX, a raça foi levada para o Alasca para participar de corridas de trenó. O Husky Siberiano ganhou fama mundial heróica em 1925, durante a 'Corrida do Soro' para Nome, onde matilhas de huskies (lideradas por cães como Balto e Togo) percorreram centenas de quilômetros em condições climáticas terríveis para entregar o medicamento que salvou a cidade de uma epidemia de difteria.",
     "curiosidades": [
-      "Husky Siberiano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Huskies Siberianos raramente latem; em vez disso, eles são famosos por 'uivar' e fazer vocalizações complexas que soam como se estivessem tentando falar com seus tutores.",
+      "Eles possuem um metabolismo único que permite que corram por horas sem esgotar suas reservas de glicogênio, algo que intriga cientistas até hoje.",
+      "A raça é conhecida como 'artista da fuga', sendo capaz de pular cercas altas, cavar buracos profundos ou até abrir trincos para sair e explorar.",
+      "Huskies têm pouco 'odor de cachorro' e se limpam constantemente, de forma similar aos felinos.",
+      "Eles podem ter heterocromia (um olho de cada cor) ou até 'parti-eyes' (mais de uma cor no mesmo olho), o que é perfeitamente normal para a raça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam esportes ao ar livre como corrida ou trilhas",
+      "Tutores que apreciam um cão com personalidade independente e livre",
+      "Pessoas que vivem em casas com quintais extremamente seguros e bem cercados",
+      "Quem busca um companheiro sociável que se dá bem com outros cães",
+      "Proprietários que vivem em climas mais frios ou que tenham ar-condicionado em locais quentes"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele testará os limites e a liderança constantemente)",
+      "Pessoas sedentárias ou que buscam um cão para ficar apenas no quintal",
+      "Moradores de apartamentos sem uma rotina exaustiva de exercícios externos",
+      "Tutores que não toleram queda de pelos abundante (ele troca de casaco intensamente duas vezes ao ano)",
+      "Casas com pequenos animais domésticos como gatos (seu instinto de caça é muito forte)",
+      "Ambientes onde o silêncio absoluto é exigido (ele uiva e é muito vocal)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (Catarata juvenil e Atrofia Progressiva da Retina)",
+      "Dermatose responsiva ao zinco (problema de pele)",
+      "Hipotireoidismo",
+      "Epilepsia (ocasional)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis. Check-ups ortopédicos. Atenção à dieta para garantir a absorção adequada de zinco."
   },
   "cuidados": {
-    "higiene": "Dupla, Densa",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente apenas durante as trocas sazonais, onde a escovação deve ser diária para gerenciar a imensa quantidade de pelos mortos. No restante do ano, duas escovações semanais bastam. Banhos devem ser raros para não remover a oleosidade protetora natural da pelagem ártica. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade vigorosa. O Husky precisa correr e ter estímulo mental para não se tornar frustrado e destrutivo. Ele adora trilhas, jogos de tração e qualquer atividade que envolva movimento constante.",
+    "treinamento": "O adestramento é um desafio. O Husky é inteligente mas independente e só obedece se vir um propósito ou se respeitar profundamente o tutor. Use reforço positivo, paciência e mantenha os treinos curtos e interessantes. O treinamento de 'recall' (vir quando chamado) raramente é 100% confiável em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade. Curiosamente, o Husky exige menos comida proporcionalmente ao seu tamanho e nível de atividade do que outras raças similares, herança de seu passado de escassez na Sibéria."
   },
   "seo": {
-    "title": "Husky Siberiano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Husky Siberiano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Husky Siberiano: O Espírito Livre do Ártico - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Husky Siberiano: conheça sua história heróica, seu temperamento independente e as dicas vitais de cuidados com exercícios e pelagem.",
     "keywords": [
-      "husky-siberiano",
-      "husky siberiano",
-      "médio",
-      "sibéria"
+      "Husky Siberiano",
+      "Siberian Husky",
+      "cão de trenó",
+      "lobo doméstico",
+      "cão de olhos azuis",
+      "raças de cães médias",
+      "cuidados com Husky",
+      "temperamento Husky"
     ]
   },
   "imagem_principal": "/images/breeds/husky-siberiano.jpg",
@@ -76,11 +93,56 @@
     "/images/breeds/husky-siberiano-2.jpg",
     "/images/breeds/husky-siberiano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=husky-siberiano",
-  "popularidade": 42774,
-  "ranking_brasil": 196,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Siberian Husky - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-husky",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-husky/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Realidade de ter um Husky em casa",
+      "url": "https://www.youtube.com/watch?v=example-husky-life",
+      "canal": "Mundo Husky",
+      "duracao": "15:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "malamute-do-alasca",
+    "samoieda",
+    "akita-inu",
+    "shiba-inu"
+  ],
+  "cores_disponiveis": [
+    "Preto e Branco",
+    "Cinza e Branco",
+    "Vermelho e Branco",
+    "Sable e Branco",
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Máscara facial distinta",
+    "Padrão de olhos (capa)",
+    "Heterocromia (olhos de cores diferentes)"
+  ],
+  "curiosidades_historicas": "O Husky Siberiano 'Togo' percorreu o trecho mais longo e perigoso da Corrida do Soro de 1925, liderando sua matilha por 420 quilômetros através de temperaturas de -40°C. Embora Balto tenha levado a fama por percorrer o trecho final, Togo é considerado pelos especialistas como o maior herói da jornada, tendo salvo a equipe em várias ocasiões críticas.",
+  "referencias_externas": [
+    {
+      "titulo": "Siberian Husky Club of America",
+      "url": "https://shca.org/",
+      "descricao": "Clube oficial de raça nos EUA com vastas informações sobre saúde e ética."
+    },
+    {
+      "titulo": "FCI - Siberian Husky Standard",
+      "url": "https://www.fci.be/en/nomenclature/SIBERIAN-HUSKY-270.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    291,
-    580
+    400,
+    900
   ]
 }

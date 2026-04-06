@@ -5,75 +5,86 @@
   "nome_en": "Brussels Griffon",
   "apelidos": [
     "Griffon",
-    "Bruxelas"
+    "Cão Macaco",
+    "Diabotin Moustachu"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Bélgica",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "10.2 kg",
-    "peso_femea": "6.8 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "18 - 20 cm",
+    "altura_femea": "18 - 20 cm",
+    "peso_macho": "3.5 - 6 kg",
+    "peso_femea": "3.5 - 6 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1999
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
     "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
+    "bom_com_criancas": 3,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Griffon de Bruxelas é uma raça de porte pequeno originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Griffon de Bruxelas originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Griffon de Bruxelas é um cão pequeno com a expressão facial mais 'humana' de todo o reino canino. Famoso por sua face que lembra a de um macaquinho e sua barba proeminente, ele exala uma aura de importância cômica e inteligência astuta. A raça apresenta duas variedades de pelagem: o pelo duro (áspero e aramado) e o pelo liso (conhecido como Petit Brabançon). É um cão compacto, de ossatura forte para o tamanho, e dotado de olhos grandes e pretos que transbordam curiosidade. O Griffon é um companheiro intensamente afetuoso, muitas vezes descrito como um 'cão-velcro' que deseja participar de cada segundo da vida de seus tutores.",
+    "historia": "A raça surgiu em Bruxelas, na Bélgica, no século XIX, descendendo de um pequeno cão de tipo terrier chamado 'Smousje', usado para caçar ratos em estábulos. Para refinar a aparência e o temperamento, os criadores cruzaram o Smousje com o Pug, o King Charles Spaniel e o Affenpinscher. A raça ganhou popularidade real quando a Rainha Marie Henriette da Bélgica apaixonou-se por eles na década de 1870. O Griffon de Bruxelas passou de um rústico caçador de roedores a um animal de luxo da realeza belga. Ganhou fama mundial moderna após o filme 'As Good as It Gets' (Melhor é Impossível), estrelando um Griffon chamado Verdell ao lado de Jack Nicholson.",
     "curiosidades": [
-      "Griffon de Bruxelas possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles são chamados na Bélgica de 'Diabotin Moustachu' (diabinho bigodudo) devido ao seu temperamento travesso e barba característica.",
+      "O Griffon de Bruxelas possui uma habilidade quase felina de escalar móveis para observar o ambiente de lugares altos.",
+      "Diferente de muitas raças pequenas, o Griffon é conhecido por ter um senso de autovalorização muito alto, exigindo ser tratado com dignidade.",
+      "Eles são capazes de uma ampla gama de expressões faciais, sendo considerados um dos cães mais 'expressivos' do mundo.",
+      "Historicamente, os cocheiros de Bruxelas mantinham esses cães em seus estábulos para proteção contra ratos e para servirem como sentinelas que avisavam sobre ladrões."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos pequenos",
+      "Tutores que buscam um companheiro constante e extremamente apegado",
+      "Pessoas que apreciam cães com personalidade forte e cômica",
+      "Famílias com crianças maiores que saibam respeitar o espaço do animal",
+      "Idosos que buscam uma companhia vigilante e afetuosa"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que ficam fora de casa o dia todo (ele sofre severamente com a solidão)",
+      "Famílias com crianças muito pequenas e barulhentas (ele é sensível e pode ser tímido)",
+      "Pessoas que não toleram um cão que exige atenção social constante",
+      "Tutores que buscam um cão para atividades rústicas ao ar livre (ele é sensível ao calor e esforço extremo)",
+      "Proprietários que não podem dedicar tempo à manutenção da barba e pelagem"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Siringomielia (doença neurológica devido ao formato do crânio)",
+      "Problemas oculares (Catarata, PRA e Úlceras de Córnea)",
+      "Luxação de Patela",
+      "Problemas cardíacos",
+      "Dificuldades no parto (distocia)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups neurológicos e cardíacos anuais. Monitoramento rigoroso da respiração em climas quentes. Limpeza diária dos olhos grandes e proeminentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A variedade de pelo duro exige escovação semanal e 'hand-stripping' (remoção manual de pelos mortos) duas vezes ao ano para manter a textura. A variedade de pelo liso exige apenas escovação ocasional. A barba deve ser limpa e seca após as refeições para evitar odores e fungos. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de pouco exercício formal. Caminhadas curtas e sessões de brincadeira dentro de casa satisfazem plenamente suas necessidades. O estímulo mental através de truques e jogos de inteligência é muito importante para sua mente ativa.",
+    "treinamento": "Inteligente mas sensível e por vezes teimoso. O adestramento deve ser baseado inteiramente em reforço positivo, paciência e diversão. Eles se fecham se forem tratados com rispidez. A socialização precoce é VITAL para evitar a timidez excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial, pois o excesso de peso agrava os problemas respiratórios e cardíacos típicos de raças braquicefálicas."
   },
   "seo": {
-    "title": "Griffon de Bruxelas - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Griffon de Bruxelas: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Griffon de Bruxelas: O Cão Macaco da Realeza Belga - Guia de Raça",
+    "description": "Conheça o Griffon de Bruxelas: descubra seu temperamento cômico, sua história nos palácios e os cuidados essenciais com este expressivo e leal companheiro.",
     "keywords": [
-      "griffon-de-bruxelas",
-      "griffon de bruxelas",
-      "pequeno",
-      "bélgica"
+      "Griffon de Bruxelas",
+      "Brussels Griffon",
+      "cão macaco",
+      "cão de melhor é impossível",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Griffon",
+      "temperamento Griffon"
     ]
   },
   "imagem_principal": "/images/breeds/griffon-de-bruxelas.jpg",
@@ -82,11 +93,55 @@
     "/images/breeds/griffon-de-bruxelas-2.jpg",
     "/images/breeds/griffon-de-bruxelas-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=griffon-de-bruxelas",
-  "popularidade": 6761,
-  "ranking_brasil": 111,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Brussels Griffon - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-griffon",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-griffon/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Griffon de Bruxelas",
+      "url": "https://www.youtube.com/watch?v=example-griffon-life",
+      "canal": "Mundo Pet Mini",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "affenpinscher",
+    "pug",
+    "king-charles-spaniel",
+    "yorkshire-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red)",
+    "Beige (Preto e Vermelho misturados)",
+    "Preto e Tan",
+    "Preto Sólido"
+  ],
+  "marcacoes": [
+    "Barba e bigodes proeminentes (no pelo duro)",
+    "Máscara escura (no pelo liso)",
+    "Marcações fogo simétricas"
+  ],
+  "curiosidades_historicas": "A Rainha Marie Henriette da Bélgica era tão apaixonada por seus Griffons que ela mesma ajudava a cuidar dos filhotes e organizava 'chás' onde os cães da nobreza de Bruxelas podiam socializar, elevando o status da raça de um simples caçador de ratos para o cão mais aristocrático do país.",
+  "referencias_externas": [
+    {
+      "titulo": "American Brussels Griffon Association",
+      "url": "https://www.abga.club/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Brussels Griffon Standard",
+      "url": "https://www.fci.be/en/nomenclature/BRUSSELS-GRIFFON-80.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    360,
-    1239
+    300,
+    750
   ]
 }

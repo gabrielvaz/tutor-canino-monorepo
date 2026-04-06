@@ -4,73 +4,86 @@
   "slug": "irish-terrier",
   "nome_en": "Irish Terrier",
   "apelidos": [
-    "Irish",
-    "Terrier"
+    "Daredevil",
+    "Terrier Irlandês",
+    "Sentinela Vermelha"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Irlanda",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "31 cm",
-    "altura_femea": "27 cm",
-    "peso_macho": "7.9 kg",
-    "peso_femea": "5.6 kg",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "45 - 48 cm",
+    "altura_femea": "45 - 48 cm",
+    "peso_macho": "11 - 12 kg",
+    "peso_femea": "11 - 12 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1995
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 4,
+    "energia": 5,
     "inteligencia": 5,
     "queda_pelo": 1,
-    "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 5,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Irish Terrier é uma raça de porte pequeno originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Irish Terrier originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Irish Terrier é um cão de porte médio, elegante e dotado de uma coragem que lhe rendeu o apelido de 'Daredevil' (Demolidor/Atrevido). De constituição atlética e ativa, ele possui uma silhueta graciosa com uma pelagem dupla dura, aramada e invariavelmente de um tom vermelho vibrante ou cor de trigo. Sua cabeça é longa com uma barba e bigodes que acentuam sua expressão de inteligência alerta e determinação. É um cão extremamente leal, afetuoso com sua família e dotado de um espírito indomável, sendo famoso por sua disposição de enfrentar qualquer desafio para proteger aqueles que ama.",
+    "historia": "Uma das raças mais antigas da Irlanda, o Irish Terrier era originalmente usado por camponeses como um cão de utilidade versátil: caçava ratos e coelhos, protegia o gado e atuava como um cão de guarda vigilante. Diferente de outros terriers, ele foi selecionado pela agilidade e resistência em campo aberto. Durante a Primeira Guerra Mundial, os Irish Terriers serviram com distinção heróica como mensageiros e sentinelas nas trincheiras, sendo elogiados por sua bravura sob fogo cruzado. A raça foi padronizada no final do século XIX, mantendo-se fiel à sua essência de cão de trabalho rústico e corajoso.",
     "curiosidades": [
-      "Irish Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O apelido 'Daredevil' surgiu devido à sua temeridade absoluta; o Irish Terrier é conhecido por não recuar diante de nenhum oponente, independentemente do tamanho.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem quase não cai, sendo necessária a remoção manual dos pelos mortos.",
+      "O Irish Terrier é famoso por ser um 'cão de pessoas', possuindo uma conexão emocional com seus tutores muito mais intensa do que a maioria dos outros terriers.",
+      "Apesar da coragem, eles são conhecidos por terem um 'coração de ouro' com crianças da família, sendo protetores gentis.",
+      "Eles possuem um andar muito leve e ágil, descrito como se estivessem sempre prontos para um sprint."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que gostam de caminhadas, corridas e aventuras ao ar livre",
+      "Tutores que buscam um cão de guarda de médio porte muito eficiente e corajoso",
+      "Pessoas interessadas em adestramento avançado e esportes caninos (Agility, IPO)",
+      "Proprietários que apreciam um cão com personalidade forte e lealdade inabalável",
+      "Casas com quintais seguros e bem cercados"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar no sofá",
+      "Casas com outros cães do mesmo sexo sem socialização rigorosa (ele não costuma levar desaforo para casa)",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de exercícios externos",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança firme",
+      "Casas com pequenos animais domésticos soltos (instinto de caça de roedores é fortíssimo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Hiperceratose Digital (espessamento das almofadas das patas - hoje raro devido à seleção)",
+      "Cistinúria (problema metabólico renal)",
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Problemas oculares leves"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Monitoramento urinário para detecção de cristais (Cistinúria). Verificação regular das almofadas das patas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é exigente para manter o visual da raça. Exige escovação semanal e o 'hand-stripping' (remoção manual de pelos mortos) feito por um profissional pelo menos duas a três vezes por ano. Banhos devem ser ocasionais. A limpeza da barba após as refeições é importante. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício físico e mental diário. O Irish Terrier é uma 'pilha elétrica' que precisa correr, saltar e ter desafios constantes. Se ficar entediado, ele pode se tornar excessivamente cavador e destrutivo por pura energia acumulada.",
+    "treinamento": "Extremamente inteligente e aprende muito rápido, mas possui uma vontade própria forte. O adestramento deve ser baseado em reforço positivo, rapidez e muita variedade para manter o interesse. Eles não respondem bem a métodos punitivos. A socialização precoce com outros cães é VITAL.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo musculoso e atlético, evitando o sobrepeso que prejudica sua agilidade natural."
   },
   "seo": {
-    "title": "Irish Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Irish Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Irish Terrier: O Atrevido e Fiel Daredevil Irlandês - Guia de Raça",
+    "description": "Descubra o Irish Terrier: conheça sua história heróica nas guerras, seu temperamento corajoso e os cuidados essenciais com este leal terrier vermelho.",
     "keywords": [
-      "irish-terrier",
-      "irish terrier",
-      "pequeno",
-      "irlanda"
+      "Irish Terrier",
+      "Terrier Irlandês",
+      "Daredevil dog",
+      "cão herói de guerra",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Irish Terrier",
+      "temperamento Irish Terrier"
     ]
   },
   "imagem_principal": "/images/breeds/irish-terrier.jpg",
@@ -79,11 +92,54 @@
     "/images/breeds/irish-terrier-2.jpg",
     "/images/breeds/irish-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=irish-terrier",
-  "popularidade": 41551,
-  "ranking_brasil": 136,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Irish Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-irishterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-irishterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Coragem do Terrier Irlandês",
+      "url": "https://www.youtube.com/watch?v=example-irish-work",
+      "canal": "Mundo Terrier",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "airedale-terrier",
+    "lakeland-terrier",
+    "welsh-terrier",
+    "kerry-blue-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho Brilhante",
+    "Vermelho-trigo",
+    "Dourado-avermelhado"
+  ],
+  "marcacoes": [
+    "Pode ter pequena mancha branca no peito",
+    "Barba e bigodes proeminentes",
+    "Orelhas em forma de V que caem para frente"
+  ],
+  "curiosidades_historicas": "O Irish Terrier foi o único terrier a ser recrutado em massa pelo Exército Britânico como 'Messenger Dogs' na Primeira Guerra Mundial. O Coronel Richardson, comandante da escola de cães de guerra, escreveu que 'nenhum outro cão possui tal combinação de inteligência, velocidade e coragem inabalável sob fogo'.",
+  "referencias_externas": [
+    {
+      "titulo": "Irish Terrier Club of America",
+      "url": "https://itca.info/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde e histórico heróico."
+    },
+    {
+      "titulo": "FCI - Irish Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-TERRIER-139.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 155,
   "custo_mensal_estimado": [
-    293,
-    656
+    300,
+    750
   ]
 }
