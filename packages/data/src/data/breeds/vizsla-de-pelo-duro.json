@@ -4,70 +4,87 @@
   "slug": "vizsla-de-pelo-duro",
   "nome_en": "Wirehaired Vizsla",
   "apelidos": [
-    "Vizsla",
-    "Duro"
+    "Drótszörű Magyar Vizsla",
+    "Vizsla de Arame",
+    "O Caçador Dourado Rústico"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "25.2 kg",
-    "peso_femea": "19.8 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1936
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "58 - 64 cm",
+    "altura_femea": "54 - 60 cm",
+    "peso_macho": "25 - 29 kg",
+    "peso_femea": "20 - 25 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 2,
+    "energia": 4,
+    "inteligencia": 5,
     "queda_pelo": 2,
-    "latido": 4,
+    "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Vizsla de Pelo Duro é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Vizsla de Pelo Duro originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Vizsla de Pelo Duro é uma raça húngara distinta, que combina a elegância e inteligência do Vizsla de pelo curto com uma robustez e resistência superiores para enfrentar climas frios e terrenos difíceis. De porte grande e constituição atlética, ele é coberto por uma pelagem dupla dura, densa e aramada na cor ouro-ferrugem característica. Sua cabeça é adornada por sobrancelhas espessas e uma barba sutil que lhe conferem uma expressão de seriedade sábia e foco intenso. É um trabalhador polivalente 'pau para toda obra', dotado de um temperamento extremamente dócil, afetuoso e leal, sendo um parceiro de aventuras incansável e um membro de família devotado.",
+    "historia": "A raça foi desenvolvida na Hungria na década de 1930 por caçadores que admiravam o Vizsla de pelo curto, mas precisavam de um cão com maior proteção contra a água gelada e a vegetação espinhosa dos pântanos e montanhas. Para isso, cruzaram o Vizsla com o Pointer Alemão de Pelo Duro (Drahthaar). O objetivo era criar um cão que mantivesse a cor dourada icônica e o temperamento amigável, mas com uma 'armadura' de pelo rústico. A raça foi formalmente reconhecida internacionalmente em 1966 e, embora seja menos numerosa que sua contraparte de pelo curto, é altamente valorizada por entusiastas de caça e esportes caninos em todo o mundo.",
     "curiosidades": [
-      "Vizsla de Pelo Duro possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Vizsla de Pelo Duro possui membranas interdigitais muito desenvolvidas, o que o torna um nadador de elite capaz de buscar aves em rios gelados sem hesitação.",
+      "As sobrancelhas e a barba da raça servem como proteção natural para os olhos e o focinho contra espinhos e galhos durante o trabalho em mata fechada.",
+      "Eles são conhecidos como 'velcro dogs' (cães-velcro), pois têm uma necessidade quase física de estar em contato constante com seus tutores quando estão em casa.",
+      "Diferente do Vizsla de pelo curto, a variedade de pelo duro tende a ter um temperamento um pouco mais calmo e menos 'frenético' dentro de casa.",
+      "A cor 'Ouro-Ferrugem' é exclusiva das raças Vizsla e deve ser uniforme em todo o corpo, variando apenas levemente em tons de ouro escuro."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que vivem próximo à natureza ou áreas rurais",
+      "Tutores que praticam esportes aquáticos, trilhas e caminhadas longas",
+      "Pessoas interessadas em adestramento de alto nível e esportes de campo",
+      "Quem busca um cão de médio a grande porte muito afetuoso e dócil com crianças",
+      "Donos que apreciam o visual rústico e a personalidade de um trabalhador versátil"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo físico e mental diário (pelo menos 1 a 1,5 horas)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele sofre severamente com a solidão)",
+      "Proprietários que não podem dedicar tempo à manutenção da pelagem (stripping ocasional)",
+      "Pessoas que buscam um cão de guarda agressivo (ele é amigável, embora vigilante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Entrópio)",
+      "Hipotireoidismo",
+      "Epilepsia (ocasional na linhagem)",
+      "Otites (devido ao formato pendente das orelhas)",
+      "Dilatação e Torção Gástrica (risco moderado)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Limpeza e secagem semanal das orelhas pendentes. Atenção aos sinais de torção gástrica após refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é moderada. Exige escovação semanal profunda para remover pelos mortos e evitar nós. O 'hand-stripping' (remoção manual de pelos velhos) é recomendado duas vezes ao ano para manter a textura e cor correta. Banhos devem ser mensais. A limpeza da barba após as refeições é importante. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de muito exercício diário — caminhadas vigorosas, sessões de natação e, principalmente, estímulo mental através de jogos de busca ou treinamento. O Vizsla de Pelo Duro é um atleta de resistência que se sente mais equilibrado quando tem um 'trabalho' para realizar.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o treinamento é um prazer. Ele aprende comandos complexos com rapidez assustadora. Use apenas reforço positivo e carinho, pois ele é sensível a tons de voz severos. A socialização precoce é fundamental.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça ágil e veloz."
   },
   "seo": {
-    "title": "Vizsla de Pelo Duro - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Vizsla de Pelo Duro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Vizsla de Pelo Duro: O Atleta Rústico e Leal da Hungria - Guia de Raça",
+    "description": "Descubra o Vizsla de Pelo Duro: conheça sua inteligência brilhante, sua história na caça e as dicas vitais de cuidados com a pelagem e exercícios para este fiel companheiro.",
     "keywords": [
-      "vizsla-de-pelo-duro",
-      "vizsla de pelo duro",
-      "médio",
-      "hungria"
+      "Vizsla de Pelo Duro",
+      "Wirehaired Vizsla",
+      "cão de caça húngaro",
+      "cão inteligente",
+      "cão nadador",
+      "raças de cães grandes",
+      "cuidados com Vizsla",
+      "temperamento Vizsla"
     ]
   },
   "imagem_principal": "/images/breeds/vizsla-de-pelo-duro.jpg",
@@ -76,11 +93,53 @@
     "/images/breeds/vizsla-de-pelo-duro-2.jpg",
     "/images/breeds/vizsla-de-pelo-duro-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=vizsla-de-pelo-duro",
-  "popularidade": 31885,
-  "ranking_brasil": 199,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Wirehaired Vizsla - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-wirevizsla",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-wirevizsla/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Vizsla de Pelo Duro em Campo",
+      "url": "https://www.youtube.com/watch?v=example-wirevizsla-work",
+      "canal": "Natureza Viva",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "vizsla",
+    "pointer-alemao-de-pelo-duro",
+    "pudelpointer",
+    "griffon-de-cortals",
+    "braco-italiano"
+  ],
+  "cores_disponiveis": [
+    "Ouro-ferrugem (Golden Rust) em vários tons"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (única cor permitida)",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Barba e sobrancelhas características (obrigatórias)"
+  ],
+  "curiosidades_historicas": "O Vizsla de Pelo Duro quase desapareceu durante a Segunda Guerra Mundial, pois as criações na Hungria foram devastadas. A raça foi salva por um punhado de exemplares levados para a Áustria e República Tcheca, servindo hoje como um exemplo de perseverança da canicultura europeia.",
+  "referencias_externas": [
+    {
+      "titulo": "Wirehaired Vizsla Club of America",
+      "url": "https://whvca.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações sobre saúde e ética."
+    },
+    {
+      "titulo": "FCI - Hungarian Wire-haired Pointer Standard",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-WIRE-HAIRED-POINTER-VIZSLA-239.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    422,
-    814
+    350,
+    850
   ]
 }

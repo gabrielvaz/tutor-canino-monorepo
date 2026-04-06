@@ -4,70 +4,87 @@
   "slug": "treeing-walker-coonhound",
   "nome_en": "Treeing Walker Coonhound",
   "apelidos": [
-    "Treeing",
-    "Coonhound"
+    "Walker",
+    "People's Choice",
+    "Sabujo de Walker"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Estados Unidos",
-    "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "16.9 kg",
-    "peso_femea": "11.6 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "56 - 69 cm",
+    "altura_femea": "51 - 64 cm",
+    "peso_macho": "23 - 32 kg",
+    "peso_femea": "20 - 27 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1992
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
     "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 5,
-    "latido": 1,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Treeing Walker Coonhound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Treeing Walker Coonhound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Treeing Walker Coonhound é considerado a 'escolha do povo' entre os sabujos americanos, um cão de porte grande que combina uma velocidade de lebrél com o faro de um bloodhound. De constituição atlética, musculosa e extremamente ágil, ele possui uma pelagem curta, densa e brilhante, quase sempre no padrão tricolor (branco, preto e tan). Com orelhas pendentes aveludadas e olhos que brilham com inteligência e entusiasmo, o Walker é um trabalhador incansável, dotado de uma voz musical poderosa e uma agilidade que lhe permite literalmente 'escalar' árvores atrás de presas. É um companheiro intensamente amigável, sociável e equilibrado para famílias extremamente ativas.",
+    "historia": "A raça desenvolveu-se nos Estados Unidos no século XIX a partir do Foxhound Inglês levado pelos colonos. Thomas Walker foi um dos grandes responsáveis pelo refinamento da linhagem original. No entanto, o ponto de virada da raça ocorreu quando um cão de rastro de origem desconhecida mas excepcional habilidade, chamado 'Tennessee Lead', foi cruzado com a linhagem Walker, introduzindo a velocidade e o drive de 'treeing' (encurralar na árvore) que define a raça hoje. O Treeing Walker Coonhound foi oficialmente reconhecido pelo AKC apenas em 2012, mas já era a raça mais popular em competições de campo nos EUA por décadas.",
     "curiosidades": [
-      "Treeing Walker Coonhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Treeing' refere-se à habilidade instintiva do cão de rastrear a presa (como guaxinins ou pumas), forçá-la a subir em uma árvore e latir para 'marcar' o local até o caçador chegar.",
+      "Eles possuem o que os caçadores chamam de 'nariz quente', sendo especialistas em seguir rastros frescos em alta velocidade, muitas vezes ignorando obstáculos geográficos difíceis.",
+      "O Treeing Walker é famoso por seu uivo 'claro como um sino', capaz de ser ouvido a quilômetros de distância através das florestas densas.",
+      "Apesar da aparência rústica, os Walkers são conhecidos por serem extremamente sensíveis e afetuosos, buscando constantemente aprovação e contato físico com seus tutores.",
+      "Eles são atletas de maratona, capazes de percorrer distâncias imensas em terrenos montanhosos sem demonstrar sinais significativos de exaustão."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam trilhas, corridas e aventuras ao ar livre",
+      "Tutores que residem em áreas rurais ou propriedades com grandes quintais muito bem cercados",
+      "Pessoas interessadas em atividades de faro, busca e salvamento ou esportes de pista",
+      "Quem possui outros cães (ele é um cão de matilha nato e adora socializar)",
+      "Proprietários que buscam um companheiro leal, inteligente e muito comunicativo"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer pelo menos 1,5 a 2 horas de exercícios vigorosos",
+      "Casas sem cercas de altíssima segurança (ele seguirá um rastro por quilômetros sem hesitação)",
+      "Proprietários que buscam obediência cega (ele é inteligente mas independente e focado em objetivos)",
+      "Pessoas que se incomodam com um cão vocal que 'conversa' sobre tudo o que vê"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente)",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Lesões musculares por esforço"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Limpeza semanal profunda das orelhas pendentes para evitar acúmulo de cera. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade após atividades em campo. As orelhas são o ponto crítico e devem ser mantidas limpas e secas. Unhas devem ser mantidas bem curtas para não comprometer sua agilidade atlética.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1,5 a 2 horas de atividade física vigorosa e estímulo olfativo. Caminhadas simples não bastam; o Walker precisa correr e usar seu nariz. O tédio mental é o maior inimigo desta raça brilhante, podendo levar a comportamentos obsessivos.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas com uma forte independência de hound. O adestramento deve ser baseado em reforço positivo, paciência e petiscos de alto valor. O comando de 'recall' deve ser treinado exaustivamente desde filhote. A socialização precoce é fundamental para garantir sua natureza amigável.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas de grande porte. É vital dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Treeing Walker Coonhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Treeing Walker Coonhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Treeing Walker Coonhound: O Ágil Atleta 'Escalador' - Guia de Raça",
+    "description": "Descubra o Treeing Walker Coonhound: conheça sua história na caça americana, sua inteligência brilhante e as dicas vitais de cuidados e exercícios para este leal sabujo.",
     "keywords": [
-      "treeing-walker-coonhound",
-      "treeing walker coonhound",
-      "médio",
-      "estados unidos"
+      "Treeing Walker Coonhound",
+      "Walker Coonhound",
+      "sabujo americano",
+      "cão farejador",
+      "cão que escala árvore",
+      "raças de cães grandes",
+      "cuidados com Treeing Walker",
+      "temperamento Walker"
     ]
   },
   "imagem_principal": "/images/breeds/treeing-walker-coonhound.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/treeing-walker-coonhound-2.jpg",
     "/images/breeds/treeing-walker-coonhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=treeing-walker-coonhound",
-  "popularidade": 21956,
-  "ranking_brasil": 138,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Treeing Walker Coonhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-walkerhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-walkerhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Faro e Trabalho do Walker Coonhound",
+      "url": "https://www.youtube.com/watch?v=example-walker-work",
+      "canal": "Hound Country",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "foxhound-americano",
+    "beagle",
+    "bluetick-coonhound",
+    "redbone-coonhound",
+    "bloodhound"
+  ],
+  "cores_disponiveis": [
+    "Tricolor (Branco, Preto e Tan)",
+    "Bicolor (Branco e Tan)",
+    "Branco e Preto"
+  ],
+  "marcacoes": [
+    "Marcações brancas são predominantes na variedade 'Walker'",
+    "Manchas irregulares no corpo",
+    "Ponta da cauda branca valorizada"
+  ],
+  "curiosidades_historicas": "O Treeing Walker Coonhound é descendente dos 'Virginia Hounds', que eram os cães de rastro mais caros e cobiçados dos Estados Unidos coloniais. Eles eram os cavalos de corrida do mundo canino da época, e sua genética foi preservada com o mesmo rigor dedicado aos puro-sangue ingleses.",
+  "referencias_externas": [
+    {
+      "titulo": "Treeing Walker Breeders & Fanciers Association",
+      "url": "https://twbfa.com/",
+      "descricao": "Organização dedicada à preservação e fomento do Treeing Walker Coonhound."
+    },
+    {
+      "titulo": "FCI - Treeing Walker Coonhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/TREEING-WALKER-COONHOUND-359.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    317,
-    1039
+    400,
+    950
   ]
 }

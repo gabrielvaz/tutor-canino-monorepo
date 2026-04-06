@@ -4,75 +4,88 @@
   "slug": "terrier-tibetano",
   "nome_en": "Tibetan Terrier",
   "apelidos": [
-    "Terrier",
-    "Tibetano"
+    "TT",
+    "Cão Sagrado do Tibete",
+    "Tsang Apso"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Tibete",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "32 cm",
-    "altura_femea": "29 cm",
-    "peso_macho": "10 kg",
-    "peso_femea": "4.6 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "36 - 41 cm",
+    "altura_femea": "35 - 40 cm",
+    "peso_macho": "9 - 14 kg",
+    "peso_femea": "8 - 12 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1952
+    "ano_reconhecimento_fci": 1957
   },
   "caracteristicas": {
     "energia": 4,
     "inteligencia": 5,
     "queda_pelo": 1,
-    "latido": 5,
+    "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 4,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Terrier Tibetano é uma raça de porte pequeno originária de Tibete. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Terrier Tibetano originou-se em Tibete, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Terrier Tibetano, ou 'TT', é uma das raças mais sagradas e fascinantes do Oriente, um cão de porte médio que exala uma aura de sabedoria e vivacidade. Famoso por sua pelagem longa e profusa que lembra a do Old English Sheepdog, ele possui uma característica anatômica única: grandes patas redondas e planas conhecidas como 'pés de raquete de neve', que lhe conferem uma agilidade incrível em terrenos montanhosos. Diferente do nome sugere, ele não é um terrier de caça, mas sim um cão de companhia e guarda de alerta. É um animal extremamente inteligente, afetuoso e dotado de uma sensibilidade emocional profunda, sendo um membro de família leal que participa de todas as atividades com entusiasmo.",
+    "historia": "A raça tem raízes milenares nos mosteiros budistas do Tibete, onde eram conhecidos como 'Tsang Apso'. Os monges os consideravam 'Cães Sagrados' e 'Portadores de Sorte'. Eles nunca eram vendidos, apenas presenteados como sinal de gratidão ou amizade profunda. Além da companhia, os TTs agiam como sentinelas nos mosteiros e ajudavam os pastores a conduzir rebanhos nas altas montanhas do Himalaia. A raça chegou à Europa na década de 1920, através da Dra. Agnes Greig, uma médica britânica que recebeu um filhote como presente de uma família tibetana grata por seus serviços médicos, iniciando assim a criação da linhagem ocidental.",
     "curiosidades": [
-      "Terrier Tibetano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Terrier Tibetano não é tecnicamente um terrier; o nome foi dado por viajantes ocidentais devido ao seu tamanho e vivacidade, mas a raça compartilha mais genética com o Lhasa Apso e o Shih-Tzu.",
+      "Seus pés são únicos: são largos, redondos e possuem pelos abundantes entre os dedos, funcionando como raquetes de neve naturais que impedem o cão de afundar na neve fofa do Tibete.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem, tecnicamente cabelo humano em textura, quase não cai.",
+      "No Tibete, os TTs eram frequentemente chamados de 'Pessoas Pequenas', devido à sua inteligência que parecia quase humana e à sua habilidade de se comunicar através de olhares expressivos.",
+      "Eles são saltadores e escaladores excepcionais, sendo capazes de subir em móveis ou rochas com uma facilidade que lembra a de um gato."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é extremamente paciente, brincalhão e resiliente)",
+      "Pessoas com alergias a pelos de cães que buscam um cão de médio porte",
+      "Tutores interessados em adestramento, truques e enriquecimento mental",
+      "Moradores de apartamentos ou casas urbanas (desde que exercitados diariamente)",
+      "Quem busca um companheiro leal que participe de 100% da rotina familiar"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à manutenção rigorosa da pelagem longa",
+      "Pessoas sedentárias que não ofereçam pelo menos uma hora de atividade física e mental diária",
+      "Famílias que ficam fora de casa o dia todo (sofre severamente com a solidão e tédio)",
+      "Proprietários que buscam um cão passivo e silencioso (ele é um vigia alerta e vocal)",
+      "Ambientes com calor tropical extremo sem refrigeração (a pelagem densa retém muito calor)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "PRA (Atrofia Progressiva da Retina) - teste genético disponível",
+      "Luxação de Lente Primária (PLL)",
+      "LL (Lipofuscinose Ceróide Neuronal - doença neurológica hereditária)",
+      "Displasia de Quadril",
+      "Luxação de Patela",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis. Testes de DNA para PRA, PLL e NCL são MANDATÓRIOS antes da criação. Check-ups ortopédicos regulares."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa e densa é muito alta. Exige escovação profunda pelo menos três vezes por semana até a pele para evitar nós e dermatites. Muitos tutores optam por tosas mais curtas (tosa bebê) para facilidade doméstica. Banhos devem ser mensais com bons condicionadores. É vital limpar os olhos e as orelhas semanalmente. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários consistentes. Caminhadas vigorosas, jogos de busca e, principalmente, estímulos mentais como jogos de inteligência e aprendizado de truques são ideais. O TT adora explorar novos ambientes e se sente feliz quando desafiado cognitivamente.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas com uma dose de independência tibetana. O adestramento deve ser baseado em reforço positivo, paciência e variedade. Eles se aborrecem com repetições monótonas. A socialização precoce é fundamental para garantir sua natureza confiante e sociável.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é importante para evitar o sobrepeso, o que prejudica as articulações desta raça ágil e saltadora."
   },
   "seo": {
-    "title": "Terrier Tibetano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Terrier Tibetano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Terrier Tibetano (TT): O Inteligente e Sagrado Portador de Sorte - Guia de Raça",
+    "description": "Descubra o Terrier Tibetano: conheça sua inteligência superior, sua história nos mosteiros e as dicas vitais de cuidados com a pelagem hipoalergênica e saúde.",
     "keywords": [
-      "terrier-tibetano",
-      "terrier tibetano",
-      "pequeno",
-      "tibete"
+      "Terrier Tibetano",
+      "Tibetan Terrier",
+      "TT dog",
+      "cão sagrado do Tibete",
+      "cão hipoalergênico",
+      "cão inteligente médio",
+      "raças de cães médias",
+      "cuidados com Terrier Tibetano",
+      "temperamento TT"
     ]
   },
   "imagem_principal": "/images/breeds/terrier-tibetano.jpg",
@@ -81,11 +94,59 @@
     "/images/breeds/terrier-tibetano-2.jpg",
     "/images/breeds/terrier-tibetano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=terrier-tibetano",
-  "popularidade": 28988,
-  "ranking_brasil": 80,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Tibetan Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-tibetanterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-tibetanterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Terrier Tibetano",
+      "url": "https://www.youtube.com/watch?v=example-tt-life",
+      "canal": "Mundo Canino",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "lhasa-apso",
+    "pastor-polones-da-planicie",
+    "bearded-collie",
+    "shih-tzu",
+    "soft-coated-wheaten-terrier"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e manchas permitidas (exceto chocolate)",
+    "Dourado",
+    "Preto",
+    "Branco",
+    "Cinza",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Marcações brancas irregulares comuns",
+    "Franjas abundantes nas orelhas e cauda",
+    "Pés de raquete de neve característicos"
+  ],
+  "curiosidades_historicas": "No Tibete antigo, era considerado um crime grave maltratar um Terrier Tibetano, pois acreditava-se que a sorte de toda a aldeia dependia do bem-estar destes cães sagrados. Se um cão fosse presenteado, a pessoa que o recebia devia cuidar dele como se fosse um filho para garantir a continuidade da prosperidade espiritual.",
+  "referencias_externas": [
+    {
+      "titulo": "Tibetan Terrier Club of America",
+      "url": "https://ttca.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Tibetan Terrier Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/TIBETAN-TERRIER-209.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    333,
-    983
+    300,
+    800
   ]
 }
