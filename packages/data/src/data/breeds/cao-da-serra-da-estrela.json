@@ -4,70 +4,84 @@
   "slug": "cao-da-serra-da-estrela",
   "nome_en": "Estrela Mountain Dog",
   "apelidos": [
-    "Cão",
-    "Estrela"
+    "Serra da Estrela",
+    "Cão de Montanha Português"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Portugal",
-    "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "50 cm",
-    "peso_macho": "21.9 kg",
-    "peso_femea": "17.3 kg",
-    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1905
+    "origem": "Portugal (Serra da Estrela)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "65 - 73 cm",
+    "altura_femea": "62 - 69 cm",
+    "peso_macho": "45 - 60 kg",
+    "peso_femea": "30 - 45 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
+    "energia": 3,
+    "inteligencia": 4,
     "queda_pelo": 4,
     "latido": 3,
-    "afeicao_familia": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Cão da Serra da Estrela é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão da Serra da Estrela originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão da Serra da Estrela é uma das raças mais emblemáticas de Portugal, um molossóide de montanha dotado de uma força tranquila e uma majestade rústica. De porte grande e constituição poderosa, ele foi talhado pelas condições severas da Serra da Estrela para ser o guardião supremo de rebanhos e propriedades. Sua cabeça é forte e volumosa, com uma expressão inteligente e vigilante. Disponível em duas variedades de pelo (comprido ou curto), sua pelagem é densa e áspera, assemelhando-se à textura de pelos de cabra. É um cão de temperamento equilibrado, profundamente apegado aos seus tutores e dotado de uma coragem lendária para enfrentar qualquer ameaça.",
+    "historia": "Esta é uma das raças mais antigas da Península Ibérica. Por séculos, o Serra da Estrela foi o companheiro inseparável dos pastores nômades portugueses, defendendo as ovelhas contra ataques de lobos e salteadores. Sua seleção foi puramente funcional: apenas os cães mais fortes, inteligentes e leais sobreviviam e procriavam. O isolamento geográfico da Serra da Estrela permitiu que a raça permanecesse pura por muito tempo. O primeiro padrão oficial foi estabelecido em 1933, e desde então, o Serra da Estrela deixou de ser apenas um cão de pastoreio para se tornar um dos cães de guarda familiar mais valorizados em Portugal e no exterior.",
     "curiosidades": [
-      "Cão da Serra da Estrela possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Serra da Estrela possui uma cauda em forma de cimitarra, frequentemente com um gancho na ponta, que ele usa para se equilibrar em terrenos íngremes.",
+      "Eles são conhecidos por serem cães 'economizadores de energia', mantendo-se calmos e imóveis por horas, mas reagindo com velocidade explosiva ao menor sinal de perigo.",
+      "A variedade de pelo comprido é a mais popular, mas a variedade de pelo curto é a mais antiga e rústica, ainda muito usada por pastores.",
+      "Eles possuem um latido muito profundo e cavernoso que serve como um aviso inicial poderoso para intrusos.",
+      "Apesar de serem gigantes, eles costumam ser extremamente cuidadosos e delicados com crianças pequenas da família."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores que buscam um cão de guarda incorruptível e intimidador",
+      "Famílias que vivem em casas com grandes espaços externos e climas frescos",
+      "Pessoas que apreciam um companheiro leal, mas independente e digno",
+      "Tutores experientes que entendem a psicologia de cães de montanha",
+      "Quem busca um cão que não exige atividade física frenética, mas sim patrulha territorial"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores de primeira viagem (ele exige liderança firme e calma)",
+      "Moradores de apartamentos ou espaços urbanos sem área livre",
+      "Pessoas que buscam obediência cega e execução de truques (ele é independente)",
+      "Ambientes com calor tropical extremo sem cuidados rigorosos",
+      "Proprietários que não toleram queda de pelos abundante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares leves",
+      "Cardiopatias (ocasionais)",
+      "Calos de apoio"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Monitoramento rigoroso do peso para não sobrecarregar as articulações. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A variedade de pelo comprido exige escovação profunda pelo menos três vezes por semana para evitar nós e gerenciar a queda intensa. A variedade de pelo curto precisa de escovação semanal. Banhos devem ser ocasionais. É importante verificar regularmente as orelhas pendentes para prevenir infecções.",
+    "exercicios": "Necessita de exercícios moderados. Longas caminhadas e, acima de tudo, a oportunidade de patrulhar um grande quintal são ideais para sua saúde mental. Ele gosta de estar ao ar livre em climas frios.",
+    "treinamento": "O treinamento deve ser focado em respeito mútuo e socialização precoce. O Serra da Estrela é inteligente, mas decide se o comando faz sentido. Ele não responde bem a métodos agressivos. A socialização com estranhos é fundamental para que seu instinto de guarda seja equilibrado.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições. Evite exercícios pesados antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Cão da Serra da Estrela - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão da Serra da Estrela: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão da Serra da Estrela: O Nobre Guardião de Portugal - Guia de Raça",
+    "description": "Descubra o Cão da Serra da Estrela: conheça a força, o temperamento leal e a história milenar do protetor dos pastores portugueses. Guia completo de cuidados.",
     "keywords": [
-      "cao-da-serra-da-estrela",
-      "cão da serra da estrela",
-      "médio",
-      "portugal"
+      "Cão da Serra da Estrela",
+      "Serra da Estrela",
+      "cão de guarda",
+      "cão pastor português",
+      "raças de cães grandes",
+      "cuidados com Serra da Estrela",
+      "temperamento Serra da Estrela"
     ]
   },
   "imagem_principal": "/images/breeds/cao-da-serra-da-estrela.jpg",
@@ -76,11 +90,54 @@
     "/images/breeds/cao-da-serra-da-estrela-2.jpg",
     "/images/breeds/cao-da-serra-da-estrela-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-da-serra-da-estrela",
-  "popularidade": 41833,
-  "ranking_brasil": 131,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cão da Serra da Estrela - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=example-serra",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-serra/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Cão da Serra da Estrela no Pastoreio",
+      "url": "https://www.youtube.com/watch?v=example-serra-work",
+      "canal": "Portugal Rural",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-maremmano-abruzes",
+    "leonberger",
+    "sao-bernardo",
+    "mastiff-espanhol"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn)",
+    "Amarelo",
+    "Cinza (Lobo)",
+    "Brindle (Tigrado)"
+  ],
+  "marcacoes": [
+    "Máscara preta no focinho (típica)",
+    "Pode ter pequenas manchas brancas no peito e patas"
+  ],
+  "curiosidades_historicas": "Historicamente, os pastores colocavam colares de couro com pregos de ferro (carlancas) nos seus cães da Serra da Estrela. Estes colares protegiam a garganta do cão contra as mordidas fatais dos lobos durante os confrontos, garantindo a sobrevivência do guardião do rebanho.",
+  "referencias_externas": [
+    {
+      "titulo": "LICSE - Liga dos Insufladores do Cão da Serra da Estrela",
+      "url": "https://www.licse.pt/",
+      "descricao": "Clube oficial de criadores e preservação da raça em Portugal."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Serra da Estrela",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/cao-da-serra-da-estrela/",
+      "descricao": "Padrão oficial da raça no seu país de origem."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 145,
   "custo_mensal_estimado": [
-    479,
-    536
+    400,
+    1000
   ]
 }

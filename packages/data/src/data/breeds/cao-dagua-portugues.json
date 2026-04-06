@@ -4,70 +4,87 @@
   "slug": "cao-dagua-portugues",
   "nome_en": "Portuguese Water Dog",
   "apelidos": [
-    "Cão",
-    "Português"
+    "Portie",
+    "Cão d'Água",
+    "Algarvio"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Portugal",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "14.6 kg",
-    "peso_femea": "12 kg",
+    "origem": "Portugal (Algarve)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "50 - 57 cm",
+    "altura_femea": "43 - 52 cm",
+    "peso_macho": "19 - 25 kg",
+    "peso_femea": "16 - 22 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
     "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
+    "energia": 5,
+    "inteligencia": 5,
     "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Cão d'Água Português é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão d'Água Português originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão d'Água Português é um atleta aquático excepcional, dotado de uma inteligência brilhante e uma energia inesgotável. De porte médio e constituição robusta e musculosa, ele foi desenvolvido para ser o companheiro inseparável dos pescadores portugueses. Possui uma pelagem densa e resistente, sem subpelo, que pode ser encaracolada ou ondulada. Sua expressão é focada e inteligente, refletindo uma prontidão constante para o trabalho ou para a brincadeira. É um cão extremamente afetuoso, que adora estar no centro das atividades familiares e é famoso por sua natureza 'humana' e sua capacidade de aprender tarefas complexas com facilidade.",
+    "historia": "A raça tem origens antiquíssimas na costa de Portugal, especialmente no Algarve. Por séculos, esses cães foram ferramentas de trabalho vitais para os pescadores: eles levavam mensagens entre barcos, buscavam redes e equipamentos perdidos na água, e agiam como cães de guarda nos portos. Com a modernização da pesca, a raça quase se extinguiu na década de 1930, sendo salva pelo empresário Vasco Bensaúde. O Cão d'Água Português ganhou fama mundial sem precedentes quando a família de Barack Obama, ex-presidente dos EUA, escolheu dois exemplares da raça (Bo e Sunny) para serem os 'Primeiros Cães' da Casa Branca.",
     "curiosidades": [
-      "Cão d'Água Português possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles possuem membranas interdigitais (peles entre os dedos) que agem como nadadeiras naturais, tornando-os nadadores incrivelmente velozes.",
+      "A 'tosa de leão' (lion cut), onde o terço posterior é tosado rente, não é estética: servia para dar mobilidade às patas traseiras na natação enquanto protegia o peito e pulmões do frio.",
+      "É considerado um cão hipoalergênico pois seu pelo não cai e tem uma textura semelhante ao cabelo humano.",
+      "Eles são conhecidos por serem cães 'falantes', emitindo uma ampla variedade de sons, resmungos e vocalizações para se comunicar.",
+      "O Cão d'Água Português é capaz de mergulhar a vários metros de profundidade para recuperar objetos no fundo do mar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam esportes aquáticos e trilhas",
+      "Pessoas com alergias a pelos de cães que buscam um companheiro de médio porte",
+      "Tutores interessados em adestramento avançado e esportes como Agility e Obediência",
+      "Quem vive em casas com piscina ou próximo a praias e lagos",
+      "Proprietários que buscam um cão leal e muito inteligente que participe de tudo"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que buscam um cão calmo para ficar em casa",
+      "Pessoas que não podem oferecer pelo menos 1 a 2 horas de exercícios vigorosos diários",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de atividades externas",
+      "Proprietários que não têm paciência para o treinamento mental constante (ele fica entediado fácil)",
+      "Famílias que ficam fora de casa o dia todo (ele exige companhia humana constante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Cardiomiopatia Dilatada Juvenil (doença cardíaca genética)",
+      "Doença de Armazenamento de Glicogênio (GSD II)",
+      "Hipotireoidismo",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Testes genéticos para PRA e Cardiomiopatia Dilatada Juvenil são essenciais. Check-ups ortopédicos anuais e monitoramento cardíaco regular."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "Embora não solte pelo, a pelagem exige manutenção rigorosa. Escovação semanal profunda é necessária para evitar nós. A tosa profissional (seja de leão ou uniforme de cordeiro) deve ser feita a cada 6-8 semanas. Os ouvidos devem ser limpos e secos cuidadosamente após qualquer atividade na água.",
+    "exercicios": "Necessita de muito exercício físico e mental. Natação é a sua atividade favorita, mas ele também precisa de caminhadas longas, corridas e muito estímulo cognitivo. Se não for desafiado, ele encontrará sua própria 'diversão', que pode ser destrutiva.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o treinamento é muito prazeroso. Eles aprendem comandos novos muito rápido. Use reforço positivo, variedade e desafios crescentes. A socialização precoce é fundamental para um temperamento sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle do peso é importante para manter sua agilidade e não sobrecarregar as articulações."
   },
   "seo": {
-    "title": "Cão d'Água Português - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão d'Água Português: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão d'Água Português: O Inteligente Auxiliar dos Pescadores - Guia de Raça",
+    "description": "Descubra o Cão d'Água Português: o cão da Casa Branca. Conheça sua inteligência brilhante, pelagem hipoalergênica e habilidades de natação incomparáveis.",
     "keywords": [
-      "cao-dagua-portugues",
-      "cão d'água português",
-      "médio",
-      "portugal"
+      "Cão d'Água Português",
+      "Portuguese Water Dog",
+      "cão hipoalergênico",
+      "Bo Obama dog",
+      "cão nadador",
+      "raças de cães médias",
+      "cuidados com Cão d'Água",
+      "temperamento Portie"
     ]
   },
   "imagem_principal": "/images/breeds/cao-dagua-portugues.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/cao-dagua-portugues-2.jpg",
     "/images/breeds/cao-dagua-portugues-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-dagua-portugues",
-  "popularidade": 46824,
-  "ranking_brasil": 196,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Portuguese Water Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pwd",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pwd/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Cão d'Água Português",
+      "url": "https://www.youtube.com/watch?v=example-pwd-work",
+      "canal": "Natureza Pet",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-padrao",
+    "irish-water-spaniel",
+    "spanish-water-dog",
+    "barbet"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Branco",
+    "Marrom",
+    "Preto e Branco",
+    "Marrom e Branco"
+  ],
+  "marcacoes": [
+    "Marcações brancas no peito, patas e focinho",
+    "Pode ser totalmente sólido"
+  ],
+  "curiosidades_historicas": "Durante séculos, o Cão d'Água Português era considerado um membro oficial da tripulação dos barcos de pesca algarvios. Ele recebia sua própria 'porção de peixe' como salário pelo seu trabalho árduo, demonstrando o respeito e a dependência que os pescadores tinham desses cães incríveis.",
+  "referencias_externas": [
+    {
+      "titulo": "Portuguese Water Dog Club of America",
+      "url": "https://www.pwdca.org/",
+      "descricao": "Clube oficial com diretrizes extensas sobre saúde, criação e eventos."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Cão d'Água Português",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/cao-dagua-portugues/",
+      "descricao": "Padrão oficial da raça no seu país de origem."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    273,
-    758
+    400,
+    1000
   ]
 }

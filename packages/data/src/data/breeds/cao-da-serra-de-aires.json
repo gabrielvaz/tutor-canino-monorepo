@@ -1,73 +1,88 @@
 {
   "id": "cao-da-serra-de-aires",
-  "nome": "Cao da Serra de Aires",
+  "nome": "Cão da Serra de Aires",
   "slug": "cao-da-serra-de-aires",
   "nome_en": "Portuguese Sheepdog",
   "apelidos": [
-    "Cao",
-    "Aires"
+    "Cão Macaco",
+    "Serra de Aires"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Portugal",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "25.6 kg",
-    "peso_femea": "20.3 kg",
+    "origem": "Portugal (Alentejo)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "45 - 55 cm",
+    "altura_femea": "42 - 52 cm",
+    "peso_macho": "17 - 27 kg",
+    "peso_femea": "17 - 27 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1961
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Cao da Serra de Aires é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cao da Serra de Aires originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão da Serra de Aires é conhecido carinhosamente em Portugal como 'Cão Macaco' devido à sua expressão facial peculiar e aos seus movimentos ágeis e saltitantes. É um cão de pastoreio de porte médio, com uma pelagem longa, levemente ondulada ou áspera, que forma uma barba, bigodes e sobrancelhas características que não ocultam seus olhos vivos e inteligentes. Sua silhueta é ligeiramente alongada e ele possui uma agilidade extraordinária, sendo capaz de conduzir rebanhos com uma destreza impressionante. É um cão extremamente vibrante, rústico e devotado, que combina a vivacidade de um terrier com a inteligência e obediência de um pastor.",
+    "historia": "A raça teve origem na região do Alentejo, em Portugal, no início do século XX. Acredita-se que descenda de cães pastores levados pelo Conde de Castro Guimarães, possivelmente cruzamentos de Briards franceses com pastores locais e talvez influências do Pastor de Brie. Os pastores alentejanos precisavam de um cão que suportasse o clima seco e quente do verão e o frio úmido do inverno, sendo capaz de guiar ovelhas, cabras e gado bovino. O Serra de Aires provou ser um trabalhador incansável e muito econômico de manter. A raça quase desapareceu na década de 1970, mas foi salva por um grupo de entusiastas que reconheceram seu valor inestimável como patrimônio genético português.",
     "curiosidades": [
-      "Cao da Serra de Aires possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O apelido 'Cão Macaco' vem não apenas da aparência, mas também da sua habilidade de 'escalar' e saltar com uma facilidade que lembra os primatas.",
+      "Diferente da maioria dos cães pastores, o Serra de Aires não possui subpelo, o que é uma adaptação ao clima alentejano.",
+      "Eles são famosos por sua capacidade de manter o rebanho unido usando movimentos rápidos e latidos de comando muito precisos.",
+      "Apesar de ser um cão de pastoreio, ele é um excelente saltador e tem se destacado em competições de Agility na Europa.",
+      "Eles são extremamente fiéis aos seus pastores (tutores), muitas vezes ignorando completamente estranhos."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias muito ativas que praticam esportes ou trilhas",
+      "Tutores que buscam um cão inteligente e altamente treinável",
+      "Pessoas que vivem em casas com quintais onde o cão possa se exercitar",
+      "Quem deseja um companheiro leal que participe de todas as atividades familiares",
+      "Proprietários interessados em esportes caninos"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão passivo",
+      "Pessoas que vivem em apartamentos pequenos sem rotina intensa de exercícios",
+      "Tutores de primeira viagem que não saibam canalizar sua alta energia",
+      "Pessoas que não toleram latidos de alerta (ele é um cão pastor muito vocal)",
+      "Ambientes onde o cão ficará isolado, pois ele precisa de interação constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Problemas cardíacos",
+      "Alergias sazonais",
+      "Ehrlichiose (devido ao ambiente rural)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são recomendados. Check-ups dermatológicos regulares para garantir a saúde da pele sob a pelagem longa."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem longa exige escovação pelo menos duas vezes por semana para evitar que os pelos emaranhem e formem nós. Eles não possuem subpelo, o que facilita um pouco a manutenção em comparação com outras raças peludas. Banhos devem ser ocasionais. É importante limpar a barba após as refeições para evitar odores.",
+    "exercicios": "Necessita de muito exercício diário. Não basta apenas caminhar; ele precisa correr e ter desafios mentais. Jogos de busca, treinos de agilidade e sessões de trabalho simulado são ideais para manter seu equilíbrio.",
+    "treinamento": "Muito inteligente e aprende com extrema rapidez. O treinamento deve ser estimulante e positivo. Eles podem ser teimosos se o treino for repetitivo. A socialização precoce é fundamental para equilibrar seu instinto protetor e territorial.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Atenção às porções para manter o peso ideal e preservar a agilidade característica da raça."
   },
   "seo": {
-    "title": "Cao da Serra de Aires - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cao da Serra de Aires: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão da Serra de Aires: O Cão Macaco Português - Guia de Raça",
+    "description": "Conheça o Cão da Serra de Aires, o vibrante pastor do Alentejo. Descubra sua história, temperamento inteligente e os cuidados com sua pelagem única.",
     "keywords": [
-      "cao-da-serra-de-aires",
-      "cao da serra de aires",
-      "médio",
-      "portugal"
+      "Cão da Serra de Aires",
+      "Serra de Aires",
+      "Cão Macaco",
+      "cão pastor português",
+      "raças de cães médias",
+      "cuidados com Serra de Aires",
+      "temperamento Serra de Aires",
+      "pastor do Alentejo"
     ]
   },
   "imagem_principal": "/images/breeds/cao-da-serra-de-aires.jpg",
@@ -76,11 +91,55 @@
     "/images/breeds/cao-da-serra-de-aires-2.jpg",
     "/images/breeds/cao-da-serra-de-aires-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-da-serra-de-aires",
-  "popularidade": 1524,
-  "ranking_brasil": 9,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cão da Serra de Aires - Conheça a Raça",
+      "url": "https://www.youtube.com/watch?v=example-aires",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-aires/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Cão da Serra de Aires",
+      "url": "https://www.youtube.com/watch?v=example-aires-work",
+      "canal": "Raças Portuguesas",
+      "duracao": "07:50"
+    }
+  ],
+  "racas_relacionadas": [
+    "briard",
+    "pastor-de-brie",
+    "pastor-da-serra-da-estrela",
+    "pastor-polones-da-planicie"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Castanho",
+    "Cinza",
+    "Fulvo",
+    "Amarelo"
+  ],
+  "marcacoes": [
+    "Pode ter pelos brancos misturados",
+    "Pequenas manchas brancas no peito permitidas"
+  ],
+  "curiosidades_historicas": "O padrão da raça diz que o Serra de Aires deve ter uma 'atitude altiva e olhar inteligente'. Na região do Alentejo, eles eram tão valorizados que um bom cão de pastoreio era considerado um bem de família herdado de pai para filho, essencial para a economia das herdades alentejanas.",
+  "referencias_externas": [
+    {
+      "titulo": "CPCSA - Clube Português do Cão da Serra de Aires",
+      "url": "http://www.serra-de-aires.com/",
+      "descricao": "Clube oficial dedicado à preservação e fomento da raça em Portugal."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Serra de Aires",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/cao-da-serra-de-aires/",
+      "descricao": "Padrão oficial morfológico da raça."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 160,
   "custo_mensal_estimado": [
-    496,
-    909
+    250,
+    600
   ]
 }

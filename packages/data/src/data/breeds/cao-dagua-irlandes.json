@@ -4,70 +4,87 @@
   "slug": "cao-dagua-irlandes",
   "nome_en": "Irish Water Spaniel",
   "apelidos": [
-    "Cão",
-    "Irlandês"
+    "IWS",
+    "Rat Tail Spaniel",
+    "Palhaço dos Spaniels"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Irlanda",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "32 cm",
-    "peso_macho": "26.3 kg",
-    "peso_femea": "20.3 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "56 - 61 cm",
+    "altura_femea": "51 - 56 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "20 - 26 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1945
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
+    "energia": 5,
+    "inteligencia": 5,
     "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Cão d'Água Irlandês é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão d'Água Irlandês originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão d'Água Irlandês é o maior e um dos mais antigos de todos os spaniels, uma raça distinta que parece uma mistura de spaniel com poodle, mas com uma personalidade única. Caracteriza-se por sua pelagem densa de cachos cor de fígado (chocolate) com um brilho arroxeado, um 'topete' de cachos longos na cabeça e uma 'cauda de rato' (rat tail) curiosamente nua de pelos. Sua expressão é inteligente e alerta, muitas vezes descrita como travessa. É um cão robusto, atlético e um nadador incansável, dotado de uma inteligência aguçada e um senso de humor que o tornou famoso como o 'palhaço da família canina'.",
+    "historia": "A raça moderna foi estabelecida na Irlanda na década de 1830, principalmente através do trabalho de Justin McCarthy e seu famoso cão 'Boatswain'. Acredita-se que seus ancestrais incluam o Poodle, o Barbet e o extinto English Water Spaniel. O Cão d'Água Irlandês foi desenvolvido para ser um retriever de aves aquáticas de elite, capaz de trabalhar nas águas geladas e turbulentas do Mar do Norte e dos rios irlandeses. Sua eficiência e aparência exótica rapidamente ganharam admiradores, tornando-se uma das primeiras raças a serem exibidas em exposições caninas no Reino Unido e nos Estados Unidos no final do século XIX.",
     "curiosidades": [
-      "Cão d'Água Irlandês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A característica mais bizarra da raça é a cauda: grossa na base e coberta de cachos curtos nos primeiros centímetros, tornando-se fina e quase sem pelos no restante da extensão.",
+      "Eles possuem membranas interdigitais muito desenvolvidas, o que os torna nadadores excepcionalmente potentes.",
+      "O Cão d'Água Irlandês é considerado um cão hipoalergênico porque seu pelo encaracolado quase não cai, sendo uma boa opção para alérgicos.",
+      "Eles são conhecidos por pensarem de forma independente, muitas vezes encontrando maneiras criativas (e engraçadas) de evitar cumprir ordens repetitivas.",
+      "A cor oficial da pelagem é descrita como 'fígado com um brilho de ameixa' (puccoon), um tom de marrom profundo muito específico."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam natação, trilhas e atividades ao ar livre",
+      "Tutores interessados em adestramento avançado e esportes caninos desafiadores",
+      "Pessoas com alergias que buscam um cão de grande porte que não solta pelo",
+      "Quem vive em casas com quintais amplos e, se possível, acesso à água",
+      "Tutores que apreciam um cão com personalidade forte e senso de humor"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que buscam um cão passivo e de baixo consumo de energia",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Pessoas que não podem dedicar tempo e dinheiro para a manutenção rigorosa da pelagem",
+      "Tutores de primeira viagem que podem se sentir sobrecarregados pela inteligência e teimosia da raça",
+      "Ambientes onde o cão ficará sozinho por longos períodos (sofre com a solidão)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares (Entrópio e PRA)",
+      "Hipotireoidismo",
+      "Sensibilidade ao medicamento Ivermectina (ocasional)",
+      "Cânceres (especialmente em cães seniores)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Monitoramento rigoroso da função tireoidiana e exames oftalmológicos regulares. Atenção extrema a sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Escovação semanal profunda é necessária para evitar nós. A tosa profissional deve ser feita a cada 6-8 semanas para manter o formato característico e a saúde do pelo. As orelhas pendentes devem ser limpas e secas cuidadosamente após natação para evitar otites graves.",
+    "exercicios": "Necessita de muito exercício físico diário. Natação é a atividade ideal, mas ele também precisa de caminhadas vigorosas e jogos de busca. Sem gasto de energia, ele pode se tornar excessivamente agitado e destrutivo.",
+    "treinamento": "Muito inteligente mas pode ser teimoso. O treinamento deve ser baseado em motivação, variedade e reforço positivo. Eles se aborrecem com repetições monótonas e podem tentar 'negociar' comandos. A socialização precoce é fundamental para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições para reduzir o risco de torção gástrica. Deve-se controlar o peso para não sobrecarregar as articulações desta raça atlética."
   },
   "seo": {
-    "title": "Cão d'Água Irlandês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão d'Água Irlandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão d'Água Irlandês: O Palhaço Elegante e Poderoso - Guia de Raça",
+    "description": "Descubra o Cão d'Água Irlandês: conheça sua história na Irlanda, sua famosa cauda de rato e seu temperamento brincalhão. Guia completo de cuidados e saúde.",
     "keywords": [
-      "cao-dagua-irlandes",
-      "cão d'água irlandês",
-      "médio",
-      "irlanda"
+      "Cão d'Água Irlandês",
+      "Irish Water Spaniel",
+      "cão hipoalergênico",
+      "spaniel irlandês",
+      "cauda de rato canina",
+      "raças de cães grandes",
+      "cuidados com cão d'água",
+      "temperamento IWS"
     ]
   },
   "imagem_principal": "/images/breeds/cao-dagua-irlandes.jpg",
@@ -76,11 +93,52 @@
     "/images/breeds/cao-dagua-irlandes-2.jpg",
     "/images/breeds/cao-dagua-irlandes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-dagua-irlandes",
-  "popularidade": 44752,
-  "ranking_brasil": 38,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Irish Water Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-iws",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-iws/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Habilidade Aquática do Cão d'Água Irlandês",
+      "url": "https://www.youtube.com/watch?v=example-iws-swim",
+      "canal": "Wild Irish Dogs",
+      "duracao": "08:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "poodle-padrao",
+    "cao-dagua-portugues",
+    "barbet",
+    "cao-dagua-americano"
+  ],
+  "cores_disponiveis": [
+    "Fígado (Liver) com brilho purpúreo"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Topete de cachos na cabeça",
+    "Focinho e cauda nus de pelos longos"
+  ],
+  "curiosidades_historicas": "Justin McCarthy, o criador que estabilizou a raça, era tão protetor de sua linhagem que se recusava a vender filhotes fêmeas para qualquer um que não prometesse nunca cruzá-las com outra raça. Ele guardava os segredos de sua criação tão rigorosamente que, após sua morte, muito do conhecimento sobre as origens exatas do IWS foi levado com ele para o túmulo.",
+  "referencias_externas": [
+    {
+      "titulo": "Irish Water Spaniel Club of America",
+      "url": "https://www.iwsc.org/",
+      "descricao": "Clube oficial com diretrizes de saúde, genética e padrão da raça."
+    },
+    {
+      "titulo": "The Irish Water Spaniel Association UK",
+      "url": "https://www.iwsa.co.uk/",
+      "descricao": "Organização dedicada à preservação da raça no Reino Unido e Irlanda."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 175,
   "custo_mensal_estimado": [
-    331,
-    861
+    400,
+    1000
   ]
 }

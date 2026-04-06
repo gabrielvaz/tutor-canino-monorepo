@@ -4,70 +4,85 @@
   "slug": "cao-de-canaa",
   "nome_en": "Canaan Dog",
   "apelidos": [
-    "Cão",
-    "Canaã"
+    "Cão de Israel",
+    "Kelef Kna'ani"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Israel",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "20.7 kg",
-    "peso_femea": "17.8 kg",
+    "origem": "Israel / Palestina",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "50 - 60 cm",
+    "altura_femea": "50 - 60 cm",
+    "weight_macho": "18 - 25 kg",
+    "weight_femea": "18 - 25 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1935
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 1,
-    "latido": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 4,
     "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Cão de Canaã é uma raça de porte médio originária de Israel. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão de Canaã originou-se em Israel, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão de Canaã é a raça nacional de Israel, um cão primitivo de beleza austera e agilidade notável. De porte médio e constituição quadrada, ele possui orelhas eretas e expressivas e uma cauda peluda que se enrola sobre o dorso. Sua expressão é de uma inteligência selvagem e vigilância constante. Como um cão que sobreviveu por milênios no deserto, ele possui sentidos extremamente aguçados e um instinto de preservação muito forte. É um animal digno, independente e intensamente leal ao seu grupo familiar, mas que mantém uma desconfiança natural e cautelosa em relação a estranhos, o que o torna um dos cães de guarda de alerta mais eficientes do mundo.",
+    "historia": "As raízes do Cão de Canaã remontam aos tempos bíblicos, tendo vivido como cão de guarda e pastoreio dos antigos israelitas. Após a dispersão do povo judeu pelos romanos, a maioria desses cães tornou-se feral, sobrevivendo por quase dois milênios no deserto de Negev. Na década de 1930, a Dra. Rudolphina Menzel 'redescobriu' a raça e começou um programa de domesticação e treinamento, percebendo que sua inteligência e sentidos aguçados os tornavam ideais para o trabalho militar e de serviço (guarda, mensageiros e detecção de minas). O Cão de Canaã é hoje celebrado como um símbolo vivo da resiliência e história da região.",
     "curiosidades": [
-      "Cão de Canaã possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Eles são considerados uma das poucas 'raças naturais' do mundo, tendo evoluído através da seleção natural no deserto antes da intervenção humana moderna.",
+      "O Cão de Canaã possui um 'latido de sentinela' muito específico, que muda de tom dependendo da proximidade e do tipo de ameaça detectada.",
+      "Devido ao seu passado no deserto, eles são capazes de cavar tocas profundas na areia ou terra para se manterem frescos durante o dia.",
+      "Eles são extremamente limpos e possuem pouco cheiro característico de cachorro, assemelhando-se aos gatos em seus hábitos de higiene.",
+      "A raça é famosa por sua 'visão noturna' e audição excepcionais, herança necessária para a sobrevivência contra predadores noturnos."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que entendem e respeitam a natureza de cães primitivos",
+      "Pessoas que buscam um cão de guarda de alerta vigilante e incorruptível",
+      "Quem vive em casas com quintais bem cercados (eles são artistas da fuga)",
+      "Proprietários que buscam um companheiro leal e reservado",
+      "Pessoas que apreciam cães com baixa incidência de doenças genéticas"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores de primeira viagem (ele exige uma liderança muito clara e paciência)",
+      "Pessoas que buscam um cão extremamente sociável e 'festeiro' com estranhos",
+      "Moradores de apartamentos com vizinhos sensíveis a ruídos (ele late para alertar sobre tudo)",
+      "Tutores que utilizam métodos de treinamento baseados em força ou punição",
+      "Famílias que buscam um cão que aprenda truques apenas para agradar (ele precisa de um propósito)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril (baixa incidência)",
+      "Problemas oculares (PRA e Atrofia Progressiva da Retina)",
+      "Hipotireoidismo",
+      "Luxação de Patela",
+      "Epilepsia (rara)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Esta é uma das raças mais saudáveis que existem devido à seleção natural milenar. Check-ups anuais preventivos e exames oftalmológicos são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem dupla é rústica e curta, exigindo pouco cuidado. Uma escovação semanal é suficiente para remover pelos mortos. Durante as trocas sazonais, a queda de pelo pode ser intensa, exigindo escovação diária por um curto período. Banhos devem ser raros.",
+    "exercicios": "Necessita de exercícios diários moderados a intensos. Longas caminhadas e, principalmente, estímulos mentais como jogos de faro ou treinamento de agilidade são ideais para gastar sua energia inteligente.",
+    "treinamento": "O adestramento deve começar cedo. Eles são inteligentes e aprendem rápido, mas são independentes e podem se entediar com facilidade. Use reforço positivo e respeite a inteligência do cão. A socialização precoce é MANDATÓRIA para evitar que a desconfiança natural se torne agressividade.",
+    "alimentacao": "Dieta balanceada. O Cão de Canaã costuma ser um comedor econômico e não tem tendência à obesidade se tiver uma rotina de exercícios adequada."
   },
   "seo": {
-    "title": "Cão de Canaã - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão de Canaã: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão de Canaã: O Primitivo Guardião do Deserto - Guia de Raça",
+    "description": "Conheça o Cão de Canaã, a raça nacional de Israel. Descubra sua história bíblica, seu temperamento vigilante e os cuidados essenciais com este cão rústico.",
     "keywords": [
-      "cao-de-canaa",
-      "cão de canaã",
-      "médio",
-      "israel"
+      "Cão de Canaã",
+      "Canaan Dog",
+      "cão de Israel",
+      "cão primitivo",
+      "cão de guarda de alerta",
+      "raças de cães médias",
+      "cuidados com Cão de Canaã",
+      "temperamento Canaã"
     ]
   },
   "imagem_principal": "/images/breeds/cao-de-canaa.jpg",
@@ -76,11 +91,56 @@
     "/images/breeds/cao-de-canaa-2.jpg",
     "/images/breeds/cao-de-canaa-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-de-canaa",
-  "popularidade": 46733,
-  "ranking_brasil": 158,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Canaan Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-canaan",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-canaan/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Cão de Canaã no Deserto de Negev",
+      "url": "https://www.youtube.com/watch?v=example-canaan-desert",
+      "canal": "Cultura Israel",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "basenji",
+    "dingo-australiano",
+    "shiba-inu",
+    "jindo-coreano"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Areia",
+    "Preto",
+    "Vermelho-acastanhado",
+    "Fígado"
+  ],
+  "marcacoes": [
+    "Máscara simétrica (preferível)",
+    "Padrão particolor",
+    "Totalmente sólido"
+  ],
+  "curiosidades_historicas": "A Dra. Rudolphina Menzel, que salvou a raça, era uma renomada psicóloga animal que fugiu da Áustria para a Palestina em 1934. Ela descobriu que o Cão de Canaã era a única raça capaz de trabalhar sob o sol escaldante do deserto sem sucumbir à exaustão, tornando-os fundamentais para a segurança dos primeiros assentamentos modernos.",
+  "referencias_externas": [
+    {
+      "titulo": "Canaan Dog Club of America",
+      "url": "https://www.canaandogclub.com/",
+      "descricao": "Clube oficial dedicado à preservação e educação sobre a raça."
+    },
+    {
+      "titulo": "FCI - Canaan Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/CANAAN-DOG-273.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    203,
-    835
+    300,
+    700
   ]
 }

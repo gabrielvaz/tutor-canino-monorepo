@@ -5,70 +5,85 @@
   "nome_en": "Cairn Terrier",
   "apelidos": [
     "Cairn",
-    "Terrier"
+    "Toto"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "35 cm",
-    "altura_femea": "30 cm",
-    "peso_macho": "9.2 kg",
-    "peso_femea": "7 kg",
+    "origem": "Escócia (Terras Altas)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "28 - 31 cm",
+    "altura_femea": "28 - 31 cm",
+    "peso_macho": "6 - 7.5 kg",
+    "peso_femea": "6 - 7.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1937
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 5,
+    "inteligencia": 4,
     "queda_pelo": 2,
-    "latido": 3,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Cairn Terrier é uma raça de porte pequeno originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cairn Terrier originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cairn Terrier é o epítome de um 'grande cão em um corpo pequeno'. Originário das Highlands escocesas, este pequeno terrier é rústico, resistente e transborda personalidade. Caracteriza-se por sua pelagem áspera e resistente às intempéries, cabeça curta e larga com orelhas pontiagudas e eretas, e olhos escuros e brilhantes que transmitem uma expressão de inteligência e malícia. Diferente de alguns de seus primos terriers mais 'refinados', o Cairn mantém um visual levemente despenteado que reflete sua natureza prática de trabalhador. É um companheiro extremamente leal, alegre e corajoso, famoso por sua adaptabilidade e por ser um dos terriers mais amigáveis com crianças.",
+    "historia": "Uma das raças mais antigas da Escócia, o Cairn Terrier era originalmente parte de um grupo genérico de terriers de trabalho usados para caçar lontras, raposas e texugos entre as pilhas de rochas conhecidas como 'cairns'. Esses cães precisavam ser pequenos, ágeis e dotados de uma coragem destemida para enfrentar presas em espaços apertados. Por séculos, ele foi essencial para a sobrevivência das fazendas escocesas contra pragas. A raça foi formalmente separada de seus primos (como o Westie e o Scottish Terrier) e reconhecida pelo Kennel Club inglês em 1912. O Cairn Terrier tornou-se eternamente famoso mundialmente ao interpretar 'Toto' no filme 'O Mágico de Oz' de 1939.",
     "curiosidades": [
-      "Cairn Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Toto, o cão de Dorothy no filme 'O Mágico de Oz', era uma fêmea de Cairn Terrier chamada Terry.",
+      "Eles são conhecidos por serem 'cavadores natos'; se deixados sem supervisão num jardim, podem criar seu próprio sistema de túneis rapidamente.",
+      "A pelagem do Cairn Terrier pode mudar de cor várias vezes ao longo de sua vida, muitas vezes escurecendo com a idade.",
+      "Eles possuem patas dianteiras ligeiramente maiores que as traseiras e voltadas para fora, uma adaptação anatômica para dar mais estabilidade ao cavar em terrenos rochosos.",
+      "O lema oficial do clube da raça é 'O melhor amiguinho do mundo'."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias com crianças (ele é muito robusto e brincalhão)",
+      "Pessoas que vivem em apartamentos ou casas menores",
+      "Tutores que gostam de caminhadas diárias e jogos interativos",
+      "Quem busca um cão alerta e vigilante que avisa sobre qualquer aproximação",
+      "Proprietários que apreciam um cão com personalidade independente e divertida"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Pessoas obcecadas com um jardim impecável (ele adora cavar)",
+      "Tutores que buscam obediência cega (ele tem mente própria e pode ser teimoso)",
+      "Ambientes com pequenos roedores de estimação (instinto de caça fortíssimo)",
+      "Pessoas que se incomodam com latidos de alerta frequentes",
+      "Tutores que não podem dedicar tempo ao estímulo mental diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "CMT (Craniomandibular Osteopathy) - crescimento ósseo anormal na mandíbula",
+      "Luxação de Patela",
+      "Problemas oculares (Glaucoma, Catarata)",
+      "Displasia de Quadril",
+      "Hipotireoidismo",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento dental frequente. Check-ups ortopédicos anuais. É importante estar atento a sinais de dor na mandíbula durante o crescimento do filhote."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem dupla é fácil de cuidar mas exige regularidade. Escovação semanal é suficiente para remover fios mortos. Para manter a textura áspera natural, o 'hand-stripping' (remoção manual) é preferível à tosa com máquina. Banhos devem ser raros para não amolecer o pelo protetor.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias e muito tempo de brincadeira com bolinhas ou jogos de inteligência são essenciais para mantê-lo satisfeito e evitar comportamentos destrutivos.",
+    "treinamento": "Inteligente mas independente. O treinamento deve ser baseado em reforço positivo, paciência e ser transformado em um jogo. Eles aprendem rápido mas podem decidir ignorar comandos se acharem algo mais interessante. A socialização precoce é fundamental para um bom convívio com outros animais.",
+    "alimentacao": "Dieta balanceada para cães pequenos ativos. Tendem a ganhar peso com facilidade, então o controle das porções e de petiscos é necessário."
   },
   "seo": {
-    "title": "Cairn Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cairn Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cairn Terrier: O Pequeno Caçador do Toto - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Cairn Terrier: o corajoso cão das Highlands. Conheça seu temperamento alegre, história como caçador e cuidados essenciais com este terrier incrível.",
     "keywords": [
-      "cairn-terrier",
-      "cairn terrier",
-      "pequeno",
-      "escócia"
+      "Cairn Terrier",
+      "Cairn",
+      "cão do Mágico de Oz",
+      "Toto",
+      "terrier escocês",
+      "cachorro para apartamento",
+      "cuidados com Cairn Terrier",
+      "temperamento Cairn"
     ]
   },
   "imagem_principal": "/images/breeds/cairn-terrier.jpg",
@@ -77,11 +92,56 @@
     "/images/breeds/cairn-terrier-2.jpg",
     "/images/breeds/cairn-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cairn-terrier",
-  "popularidade": 20098,
-  "ranking_brasil": 57,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cairn Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-cairn",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-cairn/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Cairn Terrier",
+      "url": "https://www.youtube.com/watch?v=example-cairn-life",
+      "canal": "Mundo Terrier",
+      "duracao": "08:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "west-highland-white-terrier",
+    "scottish-terrier",
+    "norwich-terrier",
+    "border-terrier"
+  ],
+  "cores_disponiveis": [
+    "Creme",
+    "Trigo (Wheaten)",
+    "Cinza",
+    "Preto",
+    "Vermelho",
+    "Tigrado (Brindle)"
+  ],
+  "marcacoes": [
+    "Máscara escura no focinho",
+    "Orelhas escuras"
+  ],
+  "curiosidades_historicas": "O Cairn Terrier foi originalmente exibido como 'Skye Terrier de Pelo Curto'. Os criadores de Skye Terrier protestaram, e o nome foi mudado para Cairn Terrier em homenagem às pilhas de pedras memoriais escocesas onde esses cães trabalhavam tão eficientemente.",
+  "referencias_externas": [
+    {
+      "titulo": "Cairn Terrier Club of America",
+      "url": "https://cairnterrier.org/",
+      "descricao": "Principal recurso para entusiastas e criadores da raça nos EUA."
+    },
+    {
+      "titulo": "The Cairn Terrier Club UK",
+      "url": "https://www.thecairnterrierclub.co.uk/",
+      "descricao": "O clube de raça original, fundado na Escócia."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 65,
   "custo_mensal_estimado": [
-    391,
-    931
+    250,
+    600
   ]
 }

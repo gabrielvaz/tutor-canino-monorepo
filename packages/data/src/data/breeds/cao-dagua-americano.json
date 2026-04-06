@@ -4,70 +4,85 @@
   "slug": "cao-dagua-americano",
   "nome_en": "American Water Spaniel",
   "apelidos": [
-    "Cão",
-    "Americano"
+    "AWS",
+    "Spaniel d'Água"
   ],
-  "categoria": "Médio",
+  "category": "Médio",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "13.1 kg",
-    "peso_femea": "12 kg",
+    "origem": "Estados Unidos (Wisconsin)",
+    "expectativa_vida": "10 - 14 anos",
+    "altura_macho": "38 - 46 cm",
+    "altura_femea": "38 - 46 cm",
+    "peso_macho": "13 - 20 kg",
+    "peso_femea": "11 - 18 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1989
+    "ano_reconhecimento_fci": 1979
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Cão d'Água Americano é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão d'Água Americano originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão d'Água Americano é uma raça rara e versátil, desenvolvida especificamente para ser o companheiro ideal do caçador nos pântanos e rios do centro-oeste americano. De porte médio e constituição musculosa, ele possui uma pelagem encaracolada e densa que o protege das águas geladas. Sua característica mais marcante é a cor fígado ou chocolate profundo e a cauda em forma de 'balancim' que o ajuda na natação. É um cão extremamente inteligente, ágil e dotado de um entusiasmo contagiante para o trabalho e para a vida em família. Embora seja um exímio retriever, ele mantém o temperamento afetuoso e dócil típico dos spaniels.",
+    "historia": "A raça surgiu no vale do Rio Fox e do Rio Wolf, em Wisconsin, durante o século XIX. Os caçadores locais precisavam de um cão que fosse pequeno o suficiente para caber em pequenas canoas (skiffs), mas forte o bastante para buscar aves aquáticas em águas geladas e terrenos difíceis. Acredita-se que descenda do extinto English Water Spaniel, do Irish Water Spaniel e do Curly Coated Retriever. O Cão d'Água Americano permaneceu um segredo bem guardado por décadas até ser oficialmente reconhecido pelo AKC em 1940. Em 1985, foi designado o cão oficial do estado de Wisconsin, refletindo sua importância histórica na região.",
     "curiosidades": [
-      "Cão d'Água Americano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "É uma das poucas raças americanas desenvolvidas inteiramente para a caça que permanece fiel à sua função original até hoje.",
+      "Sua pelagem possui uma oleosidade natural que a torna quase impermeável, agindo como um traje de mergulho térmico.",
+      "Eles possuem um latido muito distinto, quase um 'grunhido' de felicidade quando estão animados.",
+      "Diferente de muitos spaniels, o American Water Spaniel é conhecido por ser um excelente cão de alerta, sendo muito atento ao que acontece ao redor de casa.",
+      "A raça é considerada rara, com poucos registros anuais mesmo em seu país de origem."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que gostam de atividades aquáticas e trilhas",
+      "Tutores que buscam um cão de médio porte inteligente e versátil",
+      "Caçadores e entusiastas de esportes caninos como Field Trials ou Dock Diving",
+      "Pessoas que vivem em casas com acesso a quintais seguros e, preferencialmente, água",
+      "Tutores experientes que apreciam a personalidade de um spaniel de trabalho"
     ],
     "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+      "Tutores sedentários que não podem prover o exercício diário necessário",
+      "Moradores de apartamentos pequenos sem rotina intensa de passeios",
+      "Pessoas que se incomodam com o cheiro característico de cães d'água (oleosidade natural)",
+      "Famílias que ficam fora de casa por longos períodos (propenso a ansiedade de separação)",
+      "Tutores que não toleram uma pelagem que exige escovação e manutenção regular"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (Catarata e PRA)",
+      "Hipotireoidismo",
+      "Alergias de pele",
+      "Epilepsia (ocasional)",
+      "Diabetes Mellitus"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento regular da saúde da pele e ouvidos, especialmente após natação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem encaracolada exige escovação semanal profunda para remover pelos mortos e evitar nós. Banhos devem ser dados apenas quando necessário para não remover a oleosidade protetora natural. As orelhas pendentes devem ser limpas e secas cuidadosamente após qualquer atividade na água para prevenir otites.",
+    "exercicios": "Necessita de muito exercício diário. Natação é a sua atividade favorita, mas ele também adora caminhadas longas e jogos de busca. O estímulo mental através de treinos de obediência ou jogos de faro é essencial.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas pode ter um lado independente. O treinamento deve ser baseado em reforço positivo, diversão e consistência. Eles se aborrecem com repetições excessivas, então as sessões devem ser variadas.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. Atenção às porções para evitar o sobrepeso, que é prejudicial para suas articulações atléticas."
   },
   "seo": {
-    "title": "Cão d'Água Americano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão d'Água Americano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão d'Água Americano: O Versátil Caçador de Wisconsin - Guia de Raça",
+    "description": "Descubra o Cão d'Água Americano: conheça seu incrível instinto de busca, sua pelagem impermeável e seu temperamento leal. Tudo sobre esta rara raça americana.",
     "keywords": [
-      "cao-dagua-americano",
-      "cão d'água americano",
-      "médio",
-      "estados unidos"
+      "Cão d'Água Americano",
+      "American Water Spaniel",
+      "cão de caça aquática",
+      "spaniel americano",
+      "raças de cães médias",
+      "cuidados com cão d'água",
+      "temperamento AWS"
     ]
   },
   "imagem_principal": "/images/breeds/cao-dagua-americano.jpg",
@@ -76,11 +91,53 @@
     "/images/breeds/cao-dagua-americano-2.jpg",
     "/images/breeds/cao-dagua-americano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-dagua-americano",
-  "popularidade": 33948,
-  "ranking_brasil": 9,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "American Water Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-aws",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-aws/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Cão d'Água Americano",
+      "url": "https://www.youtube.com/watch?v=example-aws-work",
+      "canal": "Wild Life Pets",
+      "duracao": "07:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "irish-water-spaniel",
+    "cao-dagua-portugues",
+    "boykin-spaniel",
+    "curly-coated-retriever"
+  ],
+  "cores_disponiveis": [
+    "Fígado (Liver)",
+    "Chocolate",
+    "Marrom Escuro"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pode ter pequenas manchas brancas no peito e dedos"
+  ],
+  "curiosidades_historicas": "O American Water Spaniel foi o primeiro cão desenvolvido nos Estados Unidos capaz de caçar aves aquáticas e caça de terra com a mesma eficiência. Sua criação foi motivada pela necessidade prática dos primeiros colonos de Wisconsin de terem um único cão 'pau para toda obra' que não ocupasse muito espaço nas suas canoas de transporte.",
+  "referencias_externas": [
+    {
+      "titulo": "American Water Spaniel Club",
+      "url": "https://www.americanwaterspanielclub.org/",
+      "descricao": "Clube oficial de raça com guias de saúde, criação e eventos de campo."
+    },
+    {
+      "titulo": "FCI - American Water Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-WATER-SPANIEL-301.html",
+      "descricao": "Padrão oficial da Federação Cinológica Internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 195,
   "custo_mensal_estimado": [
-    398,
-    647
+    300,
+    700
   ]
 }

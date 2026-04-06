@@ -2,72 +2,87 @@
   "id": "cane-corso",
   "nome": "Cane Corso",
   "slug": "cane-corso",
-  "nome_en": "Cane Corso",
+  "nome_en": "Cane Corso Italiano",
   "apelidos": [
-    "Cane",
+    "Mastiff Italiano",
     "Corso"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Itália",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "25.2 kg",
-    "peso_femea": "23.6 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "64 - 70 cm",
+    "altura_femea": "60 - 66 cm",
+    "peso_macho": "45 - 50 kg",
+    "peso_femea": "40 - 45 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1977
+    "ano_reconhecimento_fci": 1996
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 4,
     "inteligencia": 5,
     "queda_pelo": 2,
-    "latido": 4,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Cane Corso é uma raça de porte grande originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cane Corso originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cane Corso é a personificação do poder, nobreza e vigilância. Este mastiff italiano de porte grande e musculatura atlética possui uma presença física imponente, complementada por uma cabeça larga e um olhar penetrante que impõe respeito instantâneo. Diferente de muitos mastiffs mais pesados e lentos, o Cane Corso é ágil, rápido e possui uma elegância bruta em seus movimentos. É um cão extremamente leal e protetor, que forma um vínculo profundo com sua família e atua como um guardião silencioso e atento, raramente latindo sem um motivo real. Sua pelagem é curta, brilhante e muito densa, com uma textura quase vítrea.",
+    "historia": "A linhagem do Cane Corso remonta aos antigos cães 'Canis Pugnax' usados pelas legiões romanas em batalhas. Após o colapso do Império Romano, a raça adaptou-se à vida civil no sul da Itália (especialmente na Puglia), tornando-se um cão de fazenda multifuncional: guardava a propriedade, pastoreava o gado e caçava javalis. O nome deriva do latim 'Cohors', que significa 'protetor' ou 'guardião do pátio'. A raça quase desapareceu em meados do século XX devido à mecanização agrícola, mas foi resgatada por entusiastas italianos nas décadas de 70 e 80, recuperando sua popularidade mundial como um dos melhores cães de guarda e companhia da atualidade.",
     "curiosidades": [
-      "Cane Corso possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Cane Corso é frequentemente descrito como tendo um 'temperamento de sombra', preferindo estar sempre na mesma sala que seus tutores.",
+      "Eles possuem um senso de discernimento aguçado, sendo capazes de ler as intenções das pessoas através da linguagem corporal e do tom de voz.",
+      "Apesar do tamanho, são cães muito sensíveis e podem ficar profundamente magoados se forem ignorados por sua família.",
+      "Na Itália antiga, dizia-se que um Cane Corso era capaz de enfrentar um lobo sozinho para proteger o rebanho.",
+      "Eles são conhecidos por serem cães 'observadores', que passam horas monitorando seu território de um ponto estratégico."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças de guarda e grande porte",
+      "Famílias que buscam um protetor leal e afetuoso dentro de casa",
+      "Pessoas que vivem em casas com quintais amplos e muros seguros",
+      "Proprietários dispostos a investir em socialização pesada e adestramento constante",
+      "Quem busca um cão que seja um guardião natural sem ser excessivamente latidor"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores de primeira viagem (ele testará os limites e a liderança)",
+      "Pessoas que vivem em apartamentos pequenos (devido ao tamanho e necessidade de patrulha)",
+      "Proprietários que não têm tempo para exercícios físicos e estímulo mental diário",
+      "Famílias que recebem muitos estranhos em casa sem controle rigoroso",
+      "Tutores que usam métodos de treinamento baseados em força física ou medo"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Sarna Demodécica",
+      "Problemas cardíacos (Cardiomiopatia Hipertrófica)",
+      "Epilepsia"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e cardíacos semestrais são fundamentais. O controle do peso é crítico para não sobrecarregar as articulações durante o crescimento rápido do filhote."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é fácil de manter, bastando uma escovação semanal com luva de borracha. Banhos devem ser dados conforme a necessidade. É importante verificar as dobras da face e manter as unhas curtas para evitar problemas posturais.",
+    "exercicios": "Necessita de exercícios diários moderados a intensos. Caminhadas longas, sessões de treinamento e brincadeiras que estimulem sua agilidade são essenciais. Ele precisa de desafios mentais tanto quanto físicos para se manter equilibrado.",
+    "treinamento": "O adestramento de obediência é OBRIGATÓRIO e deve começar o mais cedo possível. O Cane Corso é inteligente e ansioso para aprender, mas exige um líder calmo, firme e coerente. A socialização precoce com diferentes pessoas e animais é a chave para um cão adulto sociável.",
+    "alimentacao": "Dieta de alta qualidade formulada para cães de grande porte. É vital dividir a alimentação em pelo menos duas ou três refeições e evitar exercícios pesados antes e depois de comer devido ao risco de torção gástrica."
   },
   "seo": {
-    "title": "Cane Corso - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cane Corso: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cane Corso: O Guardião Romano Majestoso - Guia de Raça e Cuidados",
+    "description": "Tudo sobre o Cane Corso: descubra a força, lealdade e instinto de guarda deste mastiff italiano. Guia completo de temperamento, saúde e adestramento.",
     "keywords": [
-      "cane-corso",
-      "cane corso",
-      "grande",
-      "itália"
+      "Cane Corso",
+      "Mastiff Italiano",
+      "cão de guarda",
+      "raças de cães grandes",
+      "cuidados com Cane Corso",
+      "temperamento Cane Corso Italiano",
+      "adestramento de Cane Corso"
     ]
   },
   "imagem_principal": "/images/breeds/cane-corso.jpg",
@@ -76,11 +91,57 @@
     "/images/breeds/cane-corso-2.jpg",
     "/images/breeds/cane-corso-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cane-corso",
-  "popularidade": 8443,
-  "ranking_brasil": 143,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cane Corso - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-canecorso",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-canecorso/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência e o Trabalho do Cane Corso",
+      "url": "https://www.youtube.com/watch?v=example-canecorso-work",
+      "canal": "Mundo Molosso",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-napolitano",
+    "rottweiler",
+    "bullmastiff",
+    "dogo-argentino"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Cinza Chumbo",
+    "Cinza Ardósia",
+    "Cinza Claro",
+    "Fulvo (Fawn)",
+    "Vermelho Cervo"
+  ],
+  "marcacoes": [
+    "Máscara preta ou cinza (no fulvo e vermelho)",
+    "Pequena mancha branca no peito e patas permitida",
+    "Tigrado (Brindle) em várias tonalidades"
+  ],
+  "curiosidades_historicas": "Na década de 1970, o Cane Corso estava tão próximo da extinção que apenas alguns exemplares sobreviviam em fazendas remotas da Puglia. Graças ao trabalho hercúleo do Dr. Paolo Breber e outros entusiastas, a raça foi recuperada a partir desses poucos sobreviventes, mantendo a tipicidade que vemos hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "SACC - Società Amatori Cane Corso (Itália)",
+      "url": "http://www.canecorso.it/",
+      "descricao": "Sociedade oficial de amadores do Cane Corso na Itália."
+    },
+    {
+      "titulo": "AKC - Cane Corso Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/cane-corso/",
+      "descricao": "Padrão oficial e história da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 42,
   "custo_mensal_estimado": [
-    395,
-    1113
+    500,
+    1400
   ]
 }

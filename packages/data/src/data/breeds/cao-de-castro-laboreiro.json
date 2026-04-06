@@ -4,70 +4,85 @@
   "slug": "cao-de-castro-laboreiro",
   "nome_en": "Castro Laboreiro Dog",
   "apelidos": [
-    "Cão",
-    "Laboreiro"
+    "Castro Laboreiro",
+    "Cão de Castro"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Portugal",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "23.4 kg",
-    "peso_femea": "20.4 kg",
-    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1942
+    "origem": "Portugal (Castro Laboreiro)",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "58 - 64 cm",
+    "altura_femea": "55 - 61 cm",
+    "peso_macho": "30 - 40 kg",
+    "peso_femea": "25 - 35 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 5,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
     "latido": 4,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Cão de Castro Laboreiro é uma raça de porte médio originária de Portugal. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Cão de Castro Laboreiro originou-se em Portugal, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Cão de Castro Laboreiro é uma das raças mais antigas e nobres de Portugal, um molossóide de tipo lupóide que exala rusticidade e vigilância. De porte grande e constituição vigorosa, ele possui uma silhueta ligeiramente alongada e uma pelagem curta, densa e muito resistente, geralmente em tons de cinza ou tigrado (cor do monte). Sua expressão é austera e decidida, refletindo séculos de proteção contra lobos nas montanhas do Alto Minho. Um dos traços mais singulares da raça é o seu latido, que começa com um som profundo e termina em um agudo prolongado, uma característica única entre os cães de guarda.",
+    "historia": "A raça tem o nome da vila de Castro Laboreiro, no concelho de Melgaço, onde foi desenvolvida para proteger o gado bovino e ovino contra o ataque de lobos e outros predadores. Por séculos, devido ao isolamento geográfico da região montanhosa, o Cão de Castro Laboreiro permaneceu puro e adaptado à sobrevivência em terrenos íngremes e climas rigorosos. Foi o companheiro essencial dos pastores nas 'brandas' e 'inverneiras' (aldeias sazonais). Embora tenha sido um cão de pastoreio, sua função sempre foi prioritariamente a de guarda e proteção do rebanho, o que moldou seu caráter destemido e sua lealdade absoluta ao seu grupo.",
     "curiosidades": [
-      "Cão de Castro Laboreiro possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O latido do Castro Laboreiro é chamado de 'latido de falsete' devido à sua variação tonal única, sendo um aviso inconfundível nas montanhas portuguesas.",
+      "A cor ideal da pelagem é chamada de 'cor do monte', um padrão tigrado que serve como camuflagem perfeita entre as rochas e a vegetação rasteira da serra.",
+      "Eles possuem um andar muito leve e ágil, permitindo que se desloquem com rapidez em terrenos rochosos onde outros cães teriam dificuldade.",
+      "O Cão de Castro Laboreiro é considerado um dos melhores cães de guarda para propriedades rurais devido ao seu instinto territorial inato.",
+      "Apesar da aparência rústica, eles são conhecidos por terem 'pés de gato', com patas arredondadas e dedos bem fechados que lhes conferem grande resistência."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que buscam um cão de guarda sério e vigilante",
+      "Pessoas que vivem em áreas rurais ou casas com grandes terrenos",
+      "Famílias que buscam um companheiro leal que seja um protetor natural",
+      "Proprietários que vivem em climas mais frios ou temperados",
+      "Pessoas que apreciam a estética rústica e ancestral de cães de montanha"
     ],
     "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+      "Tutores iniciantes (exige liderança firme e socialização rigorosa)",
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao seu latido potente e necessidade de espaço)",
+      "Pessoas que buscam um cão para truques e obediência cega (ele é independente)",
+      "Famílias que recebem muitos estranhos sem uma rotina clara de introdução",
+      "Ambientes com calor tropical extremo sem cuidados especiais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica",
+      "Problemas oculares leves",
+      "Calos de apoio",
+      "Problemas dentários (se houver higiene insuficiente)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. O controle do peso é essencial para preservar as articulações desta raça grande e ativa. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é muito simples, bastando uma escovação semanal com escova de cerdas duras. Banhos devem ser ocasionais para manter a impermeabilidade natural do pelo. É importante verificar as orelhas e limpar os olhos regularmente.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Longas caminhadas e, se possível, a oportunidade de patrulhar o seu território são ideais. O Cão de Castro Laboreiro gosta de ter um 'propósito' e sentir que está vigiando algo importante.",
+    "treinamento": "O adestramento deve ser baseado em respeito mútuo. Ele é inteligente e entende bem o que lhe é pedido, mas pode ser teimoso se não respeitar o tutor como líder. A socialização precoce com pessoas e outros animais é CRÍTICA para evitar que seu instinto protetor se torne agressividade excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Evite exercícios pesados logo após as refeições."
   },
   "seo": {
-    "title": "Cão de Castro Laboreiro - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Cão de Castro Laboreiro: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Cão de Castro Laboreiro: O Guardião Ancestral do Alto Minho - Guia de Raça",
+    "description": "Descubra o Cão de Castro Laboreiro: conheça a história, o temperamento leal e o latido único deste nobre cão de montanha português. Guia completo de cuidados.",
     "keywords": [
-      "cao-de-castro-laboreiro",
-      "cão de castro laboreiro",
-      "médio",
-      "portugal"
+      "Cão de Castro Laboreiro",
+      "Castro Laboreiro",
+      "cão de guarda",
+      "cão de montanha português",
+      "raças de cães grandes",
+      "cuidados com Castro Laboreiro",
+      "temperamento Castro Laboreiro",
+      "cão do monte"
     ]
   },
   "imagem_principal": "/images/breeds/cao-de-castro-laboreiro.jpg",
@@ -76,11 +91,53 @@
     "/images/breeds/cao-de-castro-laboreiro-2.jpg",
     "/images/breeds/cao-de-castro-laboreiro-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=cao-de-castro-laboreiro",
-  "popularidade": 34214,
-  "ranking_brasil": 111,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Cão de Castro Laboreiro - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-castro",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-castro/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vigilância do Castro Laboreiro na Serra",
+      "url": "https://www.youtube.com/watch?v=example-castro-work",
+      "canal": "Portugal Selvagem",
+      "duracao": "08:50"
+    }
+  ],
+  "racas_relacionadas": [
+    "cao-da-serra-da-estrela",
+    "cao-de-fila-de-sao-miguel",
+    "rafeiro-do-alentejo",
+    "mastiff-espanhol"
+  ],
+  "cores_disponiveis": [
+    "Cor do Monte (Tigrado cinza)",
+    "Cinza Lobo",
+    "Tigrado Marrom"
+  ],
+  "marcacoes": [
+    "Padrão tigrado característico",
+    "Pode ter uma pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "Em Castro Laboreiro, o cão era tão respeitado que existia uma tradição onde ele era considerado 'o guardião das almas' da aldeia. Quando os pastores subiam para as brandas no verão, os cães eram os primeiros a avançar, limpando o caminho de qualquer presença indesejada antes que as famílias e o gado chegassem.",
+  "referencias_externas": [
+    {
+      "titulo": "APCCL - Associação Portuguesa do Cão de Castro Laboreiro",
+      "url": "https://www.castrolaboreiro.pt/",
+      "descricao": "Associação dedicada à preservação e fomento da raça em Portugal."
+    },
+    {
+      "titulo": "CPC - Clube Português de Canicultura - Castro Laboreiro",
+      "url": "https://www.cpc.pt/racas/racas-portuguesas/cao-de-castro-laboreiro/",
+      "descricao": "Padrão oficial da raça em Portugal."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 168,
   "custo_mensal_estimado": [
-    325,
-    1127
+    400,
+    950
   ]
 }
