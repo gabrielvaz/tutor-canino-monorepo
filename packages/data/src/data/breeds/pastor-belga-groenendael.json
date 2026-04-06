@@ -2,72 +2,90 @@
   "id": "pastor-belga-groenendael",
   "nome": "Pastor Belga Groenendael",
   "slug": "pastor-belga-groenendael",
-  "nome_en": "Belgian Groenendael",
+  "nome_en": "Belgian Sheepdog (Groenendael)",
   "apelidos": [
-    "Pastor",
-    "Groenendael"
+    "Groenendael",
+    "Belga Preto",
+    "Pastor Belga de Pelo Longo"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Bélgica",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "13.6 kg",
-    "peso_femea": "11.4 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "60 - 66 cm",
+    "altura_femea": "56 - 62 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "20 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 5,
-    "afeicao_familia": 2,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 3
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Belga Groenendael é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Belga Groenendael originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Belga Groenendael é a personificação da elegância, força e inteligência em um cão de pastoreio. Uma das quatro variedades de Pastores Belgas, o Groenendael destaca-se por sua pelagem longa, densa e invariavelmente de um preto azeviche profundo. De porte médio a grande e constituição atlética, ele possui uma silhueta harmoniosa e um olhar que transborda prontidão e sagacidade. É um cão extremamente versátil, dotado de uma energia inesgotável e uma lealdade profunda à sua família, sendo capaz de atuar com excelência tanto como guardião vigilante quanto como um parceiro de esportes caninos de alto nível.",
+    "historia": "A raça leva o nome do castelo de Groenendael, na Bélgica, onde Nicholas Rose começou a criar e padronizar esta variedade de pelo longo preto no final do século XIX. Nicholas Rose buscava um cão que unisse as habilidades de pastoreio rústico com uma estética nobre. Durante a Primeira Guerra Mundial, o Groenendael serviu com distinção como cão de guarda, mensageiro e de busca e salvamento em campos de batalha. Embora existam outras três variedades (Malinois, Tervuren e Laekenois), o Groenendael é frequentemente considerado o mais clássico e elegante da linhagem belga, sendo hoje um dos cães de trabalho mais valorizados no mundo.",
     "curiosidades": [
-      "Pastor Belga Groenendael possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente do Malinois, que é focado puramente na função policial, o Groenendael é conhecido por ter um temperamento ligeiramente mais sensível e apegado à vida doméstica.",
+      "Eles possuem o que é chamado de 'movimento de flutuação', parecendo deslizar sobre o solo com grande agilidade e rapidez.",
+      "O Groenendael é um dos cães mais inteligentes do mundo, capaz de aprender comandos novos com apenas algumas repetições.",
+      "A cor preta da pelagem era valorizada originalmente por permitir que o cão se camuflasse durante as patrulhas noturnas nas fazendas belgas.",
+      "Eles são famosos por sua sensibilidade emocional, sendo capazes de detectar mudanças sutis no humor de seus tutores e agir de forma empática."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias muito ativas que buscam um protetor leal e inteligente",
+      "Tutores interessados em adestramento avançado e competições de Agility ou Obediência",
+      "Pessoas que vivem em casas com quintais seguros e espaço para correr",
+      "Quem busca um cão de guarda vigilante que seja também um companheiro afetuoso",
+      "Donos que buscam um parceiro para atividades físicas intensas como corridas e trilhas"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo (ele se tornará destrutivo se entediado)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 a 3 horas de exercícios diários",
+      "Famílias que ficam fora de casa o dia todo (sofre severamente com a solidão e ansiedade)",
+      "Pessoas que não toleram queda de pelos abundante (ele troca de casaco intensamente)",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme, calma e consistente"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Epilepsia (ocasional na linhagem)",
+      "Sensibilidade a certos anestésicos",
+      "Hipotireoidismo",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Monitoramento neurológico em linhagens propensas à epilepsia. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas franjas do pescoço, pernas e cauda. Durante a troca de pelo ( shedding ), a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores para manter o brilho do preto. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício físico e mental. O Groenendael é um cão que precisa de 'trabalho' diário. Caminhadas simples não bastam; ele precisa correr, saltar e ter desafios cognitivos como treinos de obediência complexa ou jogos de busca. Sem gasto de energia, ele desenvolverá ansiedade e comportamentos obsessivos.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo devido à sua inteligência superior e desejo de agradar. Use apenas reforço positivo e mantenha os treinos rápidos e variados. Ele é sensível a tons de voz severos. A socialização precoce é MANDATÓRIA para evitar que seu instinto protetor se torne timidez ou reatividade excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Atenção ao peso para manter a agilidade atlética da raça."
   },
   "seo": {
-    "title": "Pastor Belga Groenendael - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Belga Groenendael: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Belga Groenendael: A Elegância Negra do Pastoreio - Guia de Raça",
+    "description": "Descubra o Pastor Belga Groenendael: conheça sua inteligência brilhante, sua história heróica nas guerras e as dicas vitais de cuidados com a pelagem e exercícios.",
     "keywords": [
-      "pastor-belga-groenendael",
-      "pastor belga groenendael",
-      "médio",
-      "bélgica"
+      "Pastor Belga Groenendael",
+      "Belgian Groenendael",
+      "pastor belga preto",
+      "cão inteligente",
+      "Agility dog",
+      "cão de guarda",
+      "raças de cães grandes",
+      "cuidados com Groenendael",
+      "temperamento Pastor Belga"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-belga-groenendael.jpg",
@@ -76,11 +94,53 @@
     "/images/breeds/pastor-belga-groenendael-2.jpg",
     "/images/breeds/pastor-belga-groenendael-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-belga-groenendael",
-  "popularidade": 36504,
-  "ranking_brasil": 194,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Belgian Sheepdog (Groenendael) - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-groenendael",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-groenendael/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Pastor Belga Groenendael",
+      "url": "https://www.youtube.com/watch?v=example-groenendael-work",
+      "canal": "Mundo Canino",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-malinois",
+    "pastor-belga-tervuren",
+    "pastor-alemao",
+    "pastor-holandes",
+    "beauceron"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido (Obrigatório)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (preto azeviche)",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Juba abundante de pelos no pescoço (colar)"
+  ],
+  "curiosidades_historicas": "Nicholas Rose, o criador original do Groenendael, era proprietário de um restaurante famoso em Bruxelas chamado 'Château de Groenendael'. Ele costumava usar seus cães pretos como guardas do castelo e para recepcionar os clientes nobres, o que rapidamente transformou a raça em um símbolo de prestígio e eficiência na alta sociedade belga.",
+  "referencias_externas": [
+    {
+      "titulo": "Belgian Sheepdog Club of America",
+      "url": "https://bsca.info/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Belgian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de Pastores Belgas."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    332,
-    1403
+    400,
+    900
   ]
 }

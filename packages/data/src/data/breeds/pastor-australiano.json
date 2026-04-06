@@ -4,71 +4,89 @@
   "slug": "pastor-australiano",
   "nome_en": "Australian Shepherd",
   "apelidos": [
-    "Pastor",
-    "Australiano"
+    "Aussie",
+    "Pastor das Estrelas",
+    "Cão de Fantasma"
   ],
-  "categoria": "Grande",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "34 kg",
-    "peso_femea": "29.5 kg",
+    "origem": "Estados Unidos (Desenvolvido por pastores Bascos)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "51 - 58 cm",
+    "altura_femea": "46 - 53 cm",
+    "peso_macho": "23 - 32 kg",
+    "peso_femea": "16 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1948
+    "ano_reconhecimento_fci": 1996
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
+    "energia": 5,
+    "inteligencia": 5,
     "queda_pelo": 4,
-    "latido": 1,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 3,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pastor Australiano é uma raça de porte grande originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Australiano originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Australiano, ou 'Aussie', é o epítome do cão de trabalho inteligente, ágil e versátil. De porte médio e constituição atlética, ele possui uma silhueta robusta e proporcional com uma pelagem dupla de comprimento médio, famosa pelo deslumbrante padrão merle. Seus olhos podem ser azuis, castanhos, âmbares ou uma combinação de cores (heterocromia), o que lhe confere um olhar hipnótico e focado. Diferente de muitos cães de pastoreio que são puramente instintivos, o Aussie é um cão que 'pensa' e resolve problemas, dotado de uma energia inesgotável e um desejo profundo de estar sempre trabalhando ao lado de seus tutores.",
+    "historia": "Apesar do nome, a raça não se originou na Austrália, mas foi inteiramente desenvolvida nos Estados Unidos, especialmente na Califórnia e no Colorado. No século XIX, pastores de origem basca imigraram para os EUA levando consigo cães de pastoreio que haviam passado pela Austrália. Os rancheiros americanos ficaram impressionados com a habilidade desses cães e refinaram a raça para o trabalho com gado bovino e ovino em terrenos acidentados e climas variados. O Aussie tornou-se um símbolo da cultura de rodeio e vida rural americana, ganhando reconhecimento mundial por sua performance impecável em esportes caninos e como cão de serviço.",
     "curiosidades": [
-      "Pastor Australiano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Muitos Pastores Australianos nascem com uma cauda naturalmente curta (bobtail), uma característica genética que foi preservada para evitar ferimentos durante o trabalho com gado.",
+      "Eles são conhecidos como 'Ghost-eyed dogs' (Cães de olhos fantasmagóricos) pelas tribos indígenas americanas, que acreditavam que esses cães eram sagrados e possuíam visão espiritual.",
+      "O Aussie não é um cão de 'uma única tarefa'; eles se destacam como cães de busca e salvamento, detecção de narcóticos, guias para cegos e cães de terapia.",
+      "Eles possuem um senso de humor peculiar e são famosos pelo 'Aussie Smile' (sorriso), onde mostram os dentes em sinal de submissão e alegria extrema.",
+      "A inteligência da raça é tão alta que eles são conhecidos por 'adestrar' seus próprios tutores para conseguirem o que querem através de rotinas e olhares focados."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias extremamente ativas que praticam esportes, trilhas e atividades intensas",
+      "Tutores interessados em adestramento de alto nível, Agility, Frisbee ou Obediência",
+      "Pessoas que vivem em casas com quintais seguros ou propriedades rurais",
+      "Quem busca um companheiro intensamente leal que queira participar de 100% da rotina",
+      "Donos que buscam um cão brilhante e que aprende comandos complexos em minutos"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão para ficar apenas no quintal (ele se tornará neurótico e destrutivo)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 a 3 horas de exercícios diários",
+      "Famílias que ficam fora de casa por longos períodos (sofre severamente com a solidão)",
+      "Pessoas que não suportam queda de pelos abundante (ele troca de casaco constantemente)",
+      "Tutores de primeira viagem que não saibam canalizar sua inteligência e energia 'viciada em trabalho'"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Catarata, Anomalia do Olho do Collie e Atrofia Progressiva da Retina)",
+      "Sensibilidade ao gene MDR1 (reação grave a certos medicamentos como Ivermectina)",
+      "Surdez e cegueira (especialmente em cruzamentos 'Double Merle' - NÃO recomendados)",
+      "Epilepsia",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes genéticos para MDR1 e CEA são OBRIGATÓRIOS. Exames oftalmológicos anuais. Check-ups ortopédicos regulares. Cuidado extremo com a linhagem genética para evitar o padrão merle duplo."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada a alta. Exige escovação pelo menos duas a três vezes por semana para remover pelos mortos e evitar nós no subpelo denso. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais. As franjas das orelhas e pernas devem ser aparadas ocasionalmente por higiene. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício físico e, principalmente, estímulo mental. O Aussie é um 'workaholic' nato. Caminhadas não são suficientes; ele precisa correr e ter um propósito, como treinos de agilidade, jogos de busca complexos ou pastoreio simulado. Sem trabalho mental, ele desenvolverá comportamentos obsessivos.",
+    "treinamento": "Um dos cães mais inteligentes e fáceis de treinar do mundo. Ele aprende comandos novos com uma rapidez assustadora. Use apenas reforço positivo, variedade e desafios crescentes. A socialização precoce é fundamental para evitar a timidez ou o instinto de pastorear pessoas e crianças (morder calcanhares).",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é vital para manter a forma atlética e não sobrecarregar as articulações desta raça saltadora e veloz."
   },
   "seo": {
-    "title": "Pastor Australiano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Australiano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Australiano: O Brilhante e Ágil 'Aussie' - Guia de Raça",
+    "description": "Tudo sobre o Pastor Australiano: conheça sua inteligência superior, sua história americana e as dicas vitais de cuidados com exercícios e saúde merle.",
     "keywords": [
-      "pastor-australiano",
-      "pastor australiano",
-      "grande",
-      "estados unidos"
+      "Pastor Australiano",
+      "Australian Shepherd",
+      "Aussie",
+      "cão inteligente",
+      "cão merle",
+      "Agility dog",
+      "raças de cães médias",
+      "cuidados com Pastor Australiano",
+      "temperamento Aussie",
+      "MDR1 em cães"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-australiano.jpg",
@@ -77,11 +95,55 @@
     "/images/breeds/pastor-australiano-2.jpg",
     "/images/breeds/pastor-australiano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-australiano",
-  "popularidade": 11912,
-  "ranking_brasil": 181,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Australian Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-aussie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-aussie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Pastor Australiano",
+      "url": "https://www.youtube.com/watch?v=example-aussie-agility",
+      "canal": "Agility Star",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "border-collie",
+    "pastor-de-shetland",
+    "pastor-belga-malinois",
+    "pastor-alemao"
+  ],
+  "cores_disponiveis": [
+    "Blue Merle",
+    "Red Merle",
+    "Preto Sólido",
+    "Vermelho Sólido"
+  ],
+  "marcacoes": [
+    "Marcações brancas na face, pescoço e pernas",
+    "Marcações fogo (tan) sobre os olhos e bochechas",
+    "Olhos de cores diferentes comuns (Heterocromia)"
+  ],
+  "curiosidades_historicas": "O Aussie tornou-se uma celebridade nos Estados Unidos nas décadas de 50 e 60 graças a Jay Sisler e seus cães treinados que se apresentavam em rodeios e estrelavam filmes da Disney como 'Run, Appaloosa, Run', demonstrando uma inteligência que parecia quase humana.",
+  "referencias_externas": [
+    {
+      "titulo": "Australian Shepherd Club of America (ASCA)",
+      "url": "https://www.asca.org/",
+      "descricao": "O maior e mais antigo clube de registro independente da raça no mundo."
+    },
+    {
+      "titulo": "FCI - Australian Shepherd Standard",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-SHEPHERD-342.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 35000,
+  "ranking_brasil": 40,
   "custo_mensal_estimado": [
-    269,
-    1489
+    350,
+    900
   ]
 }

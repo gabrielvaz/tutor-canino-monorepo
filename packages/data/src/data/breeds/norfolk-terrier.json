@@ -5,72 +5,85 @@
   "nome_en": "Norfolk Terrier",
   "apelidos": [
     "Norfolk",
-    "Terrier"
+    "Terrier de Orelhas Caídas"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "11 - 16 anos",
-    "altura_macho": "30 cm",
-    "altura_femea": "25 cm",
-    "peso_macho": "7.2 kg",
-    "peso_femea": "3.2 kg",
+    "origem": "Inglaterra (Norfolk)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "23 - 25 cm",
+    "altura_femea": "23 - 25 cm",
+    "peso_macho": "5 - 5.5 kg",
+    "peso_femea": "5 - 5.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1919
+    "ano_reconhecimento_fci": 1964
   },
   "caracteristicas": {
-    "energia": 5,
+    "energia": 4,
     "inteligencia": 5,
-    "queda_pelo": 5,
+    "queda_pelo": 2,
     "latido": 3,
-    "afeicao_familia": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 5
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Norfolk Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Norfolk Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Norfolk Terrier é um dos menores terriers de trabalho, um 'grande cão em um frasco pequeno' que transborda personalidade e coragem. De constituição compacta, baixa e robusta, ele possui uma pelagem dupla dura e aramada que o protege das intempéries. Sua característica física mais distintiva são as orelhas pequenas em forma de 'V' que caem para frente junto às bochechas. Diferente de muitos terriers que são solitários ou briguentos, o Norfolk é famoso por ser gregário, sociável e extremamente afetuoso com sua família. É um cão vibrante, inteligente e dotado de uma alegria de viver contagiante, sendo um companheiro de apartamento ideal para tutores ativos.",
+    "historia": "A raça desenvolveu-se no leste da Inglaterra, na região de Norfolk, no final do século XIX. Eles eram usados por fazendeiros e estudantes da Universidade de Cambridge para caçar ratos e outros pequenos animais de toca. Por muito tempo, o Norfolk e o Norwich Terrier foram considerados a mesma raça, diferenciados apenas pela posição das orelhas. O 'Cantab Terrier', como era chamado na época de Cambridge, tornou-se imensamente popular por sua eficiência e tamanho prático. Foi apenas em 1964 que o Kennel Club inglês reconheceu formalmente o Norfolk (orelhas caídas) como uma raça distinta do Norwich (orelhas eretas).",
     "curiosidades": [
-      "Norfolk Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Norfolk Terrier é frequentemente chamado de 'o terrier perfeito' devido ao seu temperamento excepcionalmente sociável com outros cães.",
+      "Eles possuem um andar elástico e rápido, dando a impressão de que estão sempre com pressa para a próxima aventura.",
+      "Apesar do tamanho minúsculo, o Norfolk mantém o instinto de caçador de ratos intacto e é capaz de limpar um estábulo em pouco tempo.",
+      "Eles são conhecidos por serem cães 'falantes', emitindo uma variedade de resmungos melódicos para se comunicarem com seus tutores.",
+      "O Norfolk Terrier é considerado uma raça rara mundialmente, com populações pequenas mas muito dedicadas à preservação de sua saúde e tipo rústico."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Famílias com crianças (ele é resistente e muito brincalhão)",
+      "Tutores que buscam um terrier mais sociável com outros cães",
+      "Pessoas que apreciam cães com inteligência brilhante e personalidade de 'líder'",
+      "Proprietários ativos que gostam de caminhadas e jogos de busca"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental diário",
+      "Casas com pequenos roedores de estimação como hamsters (instinto de caça é extremo)",
+      "Pessoas que não podem dedicar tempo à manutenção manual da pelagem (stripping)",
+      "Tutores que buscam um cão passivo e 100% submisso (ele tem mente própria)",
+      "Ambientes onde o cão ficará isolado por longos períodos (sofre com a solidão)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Mitral Valve Disease (doença cardíaca na válvula mitral)",
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e Glaucoma)",
+      "Hipotireoidismo",
+      "Problemas dentários (devido à boca pequena)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é vital. Check-ups ortopédicos e dentários regulares. Higiene bucal diária é essencial para evitar a perda precoce de dentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica é exigente para manter o visual correto. Exige escovação semanal profunda para remover pelos mortos. O 'hand-stripping' (remoção manual) deve ser feito por um profissional duas vezes ao ano para manter a textura dura. Banhos devem ser mensais. As orelhas pendentes devem ser verificadas semanalmente para evitar umidade e infecções.",
+    "exercicios": "Necessita de exercícios diários substanciais para o seu tamanho. Caminhadas vigorosas e muito tempo de brincadeira com brinquedos interativos são essenciais. O estímulo mental através de truques e desafios de faro ajuda a manter sua mente astuta equilibrada.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, o que o torna mais fácil de treinar do que muitos outros terriers. Use reforço positivo, paciência e mantenha os treinos curtos e divertidos. A socialização precoce com diferentes pessoas e sons é fundamental para sua natureza confiante.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é essencial, pois o Norfolk tem facilidade para engordar, o que sobrecarrega suas articulações finas e coração."
   },
   "seo": {
-    "title": "Norfolk Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Norfolk Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Norfolk Terrier: O Pequeno e Valente Terrier de Orelhas Caídas - Guia de Raça",
+    "description": "Descubra o Norfolk Terrier: conheça seu temperamento sociável, sua história na Inglaterra e as dicas vitais de cuidados com a saúde cardíaca e pelagem rústica.",
     "keywords": [
-      "norfolk-terrier",
-      "norfolk terrier",
-      "pequeno",
-      "inglaterra"
+      "Norfolk Terrier",
+      "Terrier de Norfolk",
+      "cão caçador de ratos",
+      "terrier de orelhas caídas",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Norfolk Terrier",
+      "temperamento Norfolk"
     ]
   },
   "imagem_principal": "/images/breeds/norfolk-terrier.jpg",
@@ -79,11 +92,55 @@
     "/images/breeds/norfolk-terrier-2.jpg",
     "/images/breeds/norfolk-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=norfolk-terrier",
-  "popularidade": 9167,
-  "ranking_brasil": 153,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Norfolk Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-norfolk",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-norfolk/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre Norfolk e Norwich Terrier",
+      "url": "https://www.youtube.com/watch?v=example-terrier-diff",
+      "canal": "Mundo Terrier",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "norwich-terrier",
+    "cairn-terrier",
+    "australian-terrier",
+    "border-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red) em todos os tons",
+    "Trigo (Wheaten)",
+    "Preto e Tan",
+    "Grisalho (Grizzle)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Marcações fogo simétricas",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "Na Universidade de Cambridge, no final do século XIX, era um símbolo de status entre os estudantes possuir um desses pequenos terriers, que eram levados escondidos para os dormitórios para caçar os ratos que infestavam os prédios históricos, ganhando o apelido carinhoso de 'Cantab Terriers'.",
+  "referencias_externas": [
+    {
+      "titulo": "Norfolk Terrier Club of America",
+      "url": "https://norfolkterrierclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Norfolk Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/NORFOLK-TERRIER-272.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    270,
-    1066
+    300,
+    700
   ]
 }

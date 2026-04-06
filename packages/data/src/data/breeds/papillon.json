@@ -3,74 +3,89 @@
   "nome": "Papillon",
   "slug": "papillon",
   "nome_en": "Papillon",
-  "apelidos": [],
+  "apelidos": [
+    "Cão Borboleta",
+    "Papi",
+    "Spaniel Anão Continental"
+  ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "38 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "6.4 kg",
-    "peso_femea": "1.1 kg",
+    "origem": "França / Bélgica",
+    "expectativa_vida": "13 - 16 anos",
+    "altura_macho": "20 - 28 cm",
+    "altura_femea": "20 - 28 cm",
+    "peso_macho": "2.5 - 4.5 kg",
+    "peso_femea": "1.5 - 4 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1980
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 4,
     "inteligencia": 5,
     "queda_pelo": 2,
     "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 5,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Papillon é uma raça de porte pequeno originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Papillon originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Papillon é a personificação da elegância e da vivacidade em um formato minúsculo. Famoso por suas orelhas grandes, eretas e bem franjadas que lembram as asas abertas de uma borboleta (papillon em francês), ele é um dos cães de companhia mais inteligentes e atléticos do mundo. De constituição leve e graciosa, possui uma pelagem longa, sedosa e flutuante, invariavelmente branca com manchas de cores variadas. Diferente de muitos cães toy que são apenas de colo, o Papillon possui a energia e o foco de um cão de trabalho, destacando-se em agilidade e obediência, sendo um companheiro vibrante e intensamente devotado aos seus tutores.",
+    "historia": "A raça descende dos antigos 'Spaniels de Companhia' que eram os favoritos da nobreza europeia desde o século XVI. Reis como Henrique III da França e a Rainha Maria Antonieta eram apaixonados por esses cães. Originalmente, a maioria possuía orelhas caídas (variedade hoje conhecida como Phalène ou Mariposa Noturna). Foi apenas no século XIX que a variedade de orelhas eretas tornou-se popular na França e Bélgica, ganhando o nome de Papillon. A raça evoluiu de um cão de luxo da corte francesa para um dos competidores mais premiados em esportes caninos modernos devido à sua inteligência superior.",
     "curiosidades": [
-      "Papillon possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Papillon ocupa a 8ª posição no ranking de inteligência de Stanley Coren, sendo a raça pequena mais inteligente depois do Poodle.",
+      "Eles são frequentemente retratados em pinturas de mestres como Rubens, Watteau e Van Dyck, provando seu status histórico na aristocracia.",
+      "Diferente da maioria dos cães pequenos, o Papillon não possui subpelo, o que facilita muito a manutenção e reduz o cheiro característico de cachorro.",
+      "Eles são conhecidos por serem cães 'multitarefa', capazes de aprender truques complexos e atuar como cães de terapia com grande sucesso.",
+      "A variedade de orelhas caídas, o Phalène, ainda nasce ocasionalmente nas ninhadas de Papillon, sendo considerada a mesma raça, mas com um aspecto visual de spaniel tradicional."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Tutores interessados em adestramento avançado e competições de Agility",
+      "Famílias com crianças (ele é resistente e muito brincalhão)",
+      "Idosos ativos que buscam um companheiro alerta e inteligente",
+      "Pessoas que desejam um cão pequeno mas com temperamento de 'grande aventureiro'"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Famílias com crianças muito brutas (ele possui ossatura fina e frágil)",
+      "Tutores sedentários que buscam um cão passivo para ficar apenas no colo",
+      "Ambientes com climas extremamente frios sem proteção (devido à falta de subpelo)",
+      "Pessoas que se incomodam com latidos de alerta frequentes (ele é um excelente vigia)",
+      "Famílias que ficam fora de casa por muitas horas (ele exige estímulo mental constante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina)",
+      "Hipoglicemia (em filhotes muito pequenos)",
+      "Fontanela aberta (moleira que não fecha totalmente)",
+      "Sensibilidade a anestésicos",
+      "Problemas dentários (acúmulo de tártaro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde ocular e articular. Higiene bucal diária é essencial. Cuidado extremo com quedas de locais altos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem sedosa é surpreendentemente fácil de cuidar, pois não tende a formar nós como outras raças de pelo longo. Escovação duas vezes por semana é suficiente. Banhos devem ser mensais com bons condicionadores. O pelo das orelhas e franjas das pernas exige mais atenção. A escovação dos dentes é MANDATÓRIA para evitar doenças periodontais.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e, crucialmente, sessões de brincadeira que desafiem sua inteligência. O Papillon adora jogos de busca e aprender truques novos.",
+    "treinamento": "Extremamente fácil de treinar. O Papillon vive para aprender e adora ser desafiado. Use apenas reforço positivo e mantenha os treinos rápidos e variados. Ele se destaca em qualquer modalidade de esporte canino devido ao seu foco e agilidade.",
+    "alimentacao": "Dieta de alta qualidade específica para raças toy. O controle das porções é vital, pois o excesso de peso prejudica as articulações finas e a vitalidade desta raça longeva."
   },
   "seo": {
-    "title": "Papillon - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Papillon: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Papillon: O Inteligente e Elegante Cão Borboleta - Guia de Raça",
+    "description": "Descubra o Papillon: conheça sua inteligência brilhante, sua história na realeza francesa e as dicas vitais de cuidados com este ágil e fiel companheiro.",
     "keywords": [
-      "papillon",
-      "papillon",
-      "pequeno",
-      "frança"
+      "Papillon",
+      "Cão Borboleta",
+      "Phalène",
+      "cão inteligente pequeno",
+      "Spaniel Anão Continental",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Papillon",
+      "temperamento Papillon"
     ]
   },
   "imagem_principal": "/images/breeds/papillon.jpg",
@@ -79,11 +94,56 @@
     "/images/breeds/papillon-2.jpg",
     "/images/breeds/papillon-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=papillon",
-  "popularidade": 11338,
-  "ranking_brasil": 73,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Papillon - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-papillon",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-papillon/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Papillon em Agility",
+      "url": "https://www.youtube.com/watch?v=example-papillon-agility",
+      "canal": "Agility World",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "phalene",
+    "poodle-toy",
+    "chihuahua",
+    "maltes",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Pretas",
+    "Branco com manchas Vermelhas (Red)",
+    "Tricolor",
+    "Sable e Branco"
+  ],
+  "marcacoes": [
+    "Chama branca na face (blaze)",
+    "Marcações simétricas nas orelhas e olhos",
+    "Branco deve ser a cor de fundo"
+  ],
+  "curiosidades_historicas": "Maria Antonieta, a última rainha da França antes da revolução, tinha um amado Papillon (na verdade um Phalène) chamado 'Thisbe', que diziam ter esperado por ela do lado de fora da prisão até sua execução, simbolizando a lealdade inabalável que os entusiastas da raça tanto celebram.",
+  "referencias_externas": [
+    {
+      "titulo": "Papillon Club of America",
+      "url": "https://papillonclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Continental Toy Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/CONTINENTAL-TOY-SPANIEL-77.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    412,
-    515
+    250,
+    650
   ]
 }

@@ -4,72 +4,88 @@
   "slug": "mastiff-napolitano",
   "nome_en": "Neapolitan Mastiff",
   "apelidos": [
-    "Mastiff",
-    "Napolitano"
+    "Mastino",
+    "Mastino Napoletano",
+    "Gigante das Rugas"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Itália",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "83 cm",
-    "altura_femea": "79 cm",
-    "peso_macho": "57.3 kg",
-    "peso_femea": "53.5 kg",
+    "expectativa_vida": "7 - 10 anos",
+    "altura_macho": "65 - 75 cm",
+    "altura_femea": "60 - 68 cm",
+    "peso_macho": "60 - 70 kg",
+    "peso_femea": "50 - 60 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
+    "energy": 2,
+    "inteligencia": 3,
     "queda_pelo": 3,
     "latido": 2,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Mastiff Napolitano é uma raça de porte gigante originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Mastiff Napolitano originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Mastiff Napolitano, ou Mastino Napoletano, é uma das raças mais visualmente impactantes e ancestrais do mundo canino. De porte gigante e constituição maciça, sua característica mais icônica é a pele extremamente solta e elástica, que forma dobras e rugas profundas por todo o corpo e uma barbela monumental no pescoço. Sua cabeça é massiva, com uma expressão de seriedade quase mística e olhos profundos. Apesar de sua aparência que parece saída de um épico romano, o Mastino é um guardião silencioso e dócil com sua família, dotado de uma lealdade inabalável e uma presença dissuasiva que raramente exige ação para garantir a segurança do lar.",
+    "historia": "A raça é um descendente direto dos antigos Molossos romanos usados como cães de guerra e gladiadores em arenas. Após a queda do Império Romano, esses cães foram preservados em fazendas no sul da Itália, especialmente na região de Nápoles, onde serviram como guardiões supremos de propriedades. A raça permaneceu como um segredo local até 1946, quando o jornalista Piero Scanziani a redescobriu em uma exposição e iniciou o processo de resgate e padronização. O Mastiff Napolitano é considerado um 'artefato vivo' da história romana, mantendo a força bruta e a dignidade dos cães dos generais imperiais.",
     "curiosidades": [
-      "Mastiff Napolitano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Mastiff Napolitano possui a maior quantidade de pele solta proporcionalmente ao corpo de qualquer raça canina.",
+      "Eles são famosos por seu andar 'pesado e balançante', similar ao de um urso ou de um leão em patrulha.",
+      "Na cinematografia moderna, o cão 'Canino' (Fang) dos filmes de Harry Potter é interpretado por um Mastiff Napolitano.",
+      "Devido às suas rugas, eles possuem um campo de visão periférica ligeiramente reduzido, o que os torna guardiões focados no que está à sua frente.",
+      "Eles são conhecidos por serem cães 'observadores', capazes de passar horas imóveis apenas monitorando seu território com um olhar atento."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças gigantes e molossos",
+      "Propriedades com amplos espaços internos e áreas de descanso macias",
+      "Quem busca um cão de guarda silencioso e de presença imponente",
+      "Famílias que desejam um companheiro leal que participe da rotina doméstica calma",
+      "Proprietários que apreciam a estética histórica e exótica de raças primitivas"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (exige liderança firme e socialização rigorosa)",
+      "Pessoas obcecadas com limpeza extrema (ele baba muito e espalha água ao beber)",
+      "Ambientes com calor tropical intenso sem refrigeração constante (sofre severamente com o calor)",
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (devido ao peso e problemas articulares)",
+      "Proprietários que não podem arcar com os custos elevados de alimentação e saúde preventiva"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico",
+      "Displasia de Quadril e Cotovelo (muito comum)",
+      "Entrópio e Ectrópio (problemas nas pálpebras devido ao excesso de pele)",
+      "Olho de Cereja (Cherry Eye)",
+      "Cardiopatias",
+      "Dermatites e fungos nas dobras da pele",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento ortopédico e cardíaco semestral. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento acelerado. Higiene rigorosa das dobras da pele."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, mas a higiene das rugas é complexa e diária. É vital limpar e secar entre todas as dobras da face e pescoço para evitar infecções. Banhos devem ser mensais, exigindo um local amplo e secagem minuciosa. Prepare-se para limpar babas de todas as superfícies da casa. As unhas devem ser mantidas curtas para suportar o peso massivo.",
+    "exercicios": "Necessita de pouco exercício físico formal. Caminhadas curtas em horários frescos são suficientes. O Mastino prefere patrulhar o seu território de forma lenta. É CRUCIAL evitar exercícios de alto impacto para proteger as articulações frágeis desta raça pesada.",
+    "treinamento": "O adestramento deve ser baseado em reforço positivo, paciência e liderança firme mas carinhosa. O Mastino pode ser teimoso e não responde bem a métodos bruscos. A socialização precoce e intensa com estranhos é MANDATÓRIA para garantir que ele seja um adulto equilibrado e sob controle.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É essencial oferecer refeições fracionadas (pelo menos 3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Mastiff Napolitano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Mastiff Napolitano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Mastiff Napolitano: O Majestoso Guardião das Rugas - Guia de Raça",
+    "description": "Descubra o Mastiff Napolitano (Mastino): conheça sua história heróica em Roma, sua aparência única e os cuidados vitais com a pele e saúde deste gigante leal.",
     "keywords": [
-      "mastiff-napolitano",
-      "mastiff napolitano",
-      "gigante",
-      "itália"
+      "Mastiff Napolitano",
+      "Mastino Napoletano",
+      "cão de guarda gigante",
+      "cão de Harry Potter",
+      "cão com rugas",
+      "raças de cães gigantes",
+      "cuidados com Mastiff Napolitano",
+      "temperamento Mastino"
     ]
   },
   "imagem_principal": "/images/breeds/mastiff-napolitano.jpg",
@@ -78,11 +94,57 @@
     "/images/breeds/mastiff-napolitano-2.jpg",
     "/images/breeds/mastiff-napolitano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=mastiff-napolitano",
-  "popularidade": 24616,
-  "ranking_brasil": 19,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Neapolitan Mastiff - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-mastinonapolitan",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-mastinonapolitan/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Guarda Silenciosa do Mastino",
+      "url": "https://www.youtube.com/watch?v=example-mastino-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "cane-corso",
+    "mastiff-ingles",
+    "dogue-de-bordeaux",
+    "bullmastiff",
+    "mastiff-espanhol"
+  ],
+  "cores_disponiveis": [
+    "Cinza (Azul)",
+    "Preto",
+    "Mogno",
+    "Fulvo",
+    "Tigrado (em qualquer cor anterior)"
+  ],
+  "marcacoes": [
+    "Máscara escura opcional",
+    "Pele solta e barbelas abundantes (característica racial)",
+    "Pode ter pequenas manchas brancas no peito e dedos"
+  ],
+  "curiosidades_historicas": "Os romanos apreciavam tanto o Mastino que criaram leis específicas que obrigavam os donos a manterem os cães acorrentados durante o dia para não assustarem os cidadãos, liberando-os apenas à noite para a guarda das vilas, o que reforçou seu papel histórico como o guardião noturno definitivo.",
+  "referencias_externas": [
+    {
+      "titulo": "United States Neapolitan Mastiff Club",
+      "url": "https://www.neapolitan.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e padrão."
+    },
+    {
+      "titulo": "FCI - Neapolitan Mastiff Standard",
+      "url": "https://www.fci.be/en/nomenclature/NEAPOLITAN-MASTIFF-197.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    478,
-    1021
+    600,
+    1800
   ]
 }

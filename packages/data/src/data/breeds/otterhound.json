@@ -3,68 +3,87 @@
   "nome": "Otterhound",
   "slug": "otterhound",
   "nome_en": "Otterhound",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Sabujo de Lontra",
+    "Otter"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "19.2 kg",
-    "peso_femea": "15.4 kg",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "61 - 69 cm",
+    "altura_femea": "58 - 66 cm",
+    "peso_macho": "36 - 52 kg",
+    "peso_femea": "30 - 45 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1972
+    "ano_reconhecimento_fci": 1974
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 5,
-    "queda_pelo": 4,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 4
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Otterhound é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Otterhound originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Otterhound é uma das raças de sabujos mais raras e distintas do mundo, um gigante rústico projetado especificamente para o trabalho árduo na água. De porte grande e constituição massiva e atlética, ele possui uma pelagem dupla extraordinariamente densa, áspera e oleosa que o torna quase impermeável. Sua característica física mais notável são os pés palmados (webbed feet), que o tornam um nadador de potência incomparável. Com orelhas longas e pendentes e uma expressão de sabedoria gentil, o Otterhound é conhecido por seu uivo musical profundo e por um temperamento amigável, boêmio e intensamente leal à sua família.",
+    "historia": "As origens da raça remontam à Inglaterra medieval, possivelmente descendendo do Bloodhound e de antigos cães de rastro franceses como o Griffon Nivernais. Por séculos, o Otterhound foi mantido pela nobreza britânica, incluindo o Rei Edward II e a Rainha Elizabeth I, especificamente para controlar as populações de lontras (otters) que dizimavam os peixes nos rios reais. Após a proibição da caça à lontra no Reino Unido em 1978 devido ao declínio da espécie, a função da raça desapareceu, levando-a a um estado crítico de conservação. O Otterhound é hoje considerado mais raro que o Panda Gigante, dependendo inteiramente de um pequeno grupo de entusiastas para sua sobrevivência.",
     "curiosidades": [
-      "Otterhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Otterhound possui pés totalmente palmados, com membranas interdigitais que se estendem até a ponta dos dedos, permitindo-lhes nadar por quilômetros sem exaustão.",
+      "Eles são famosos por terem um faro 'anfíbio', sendo capazes de seguir um rastro de odor na água por horas após o animal ter passado.",
+      "O Otterhound possui o que os especialistas chamam de 'voz de sabujo' — um uivo musical, profundo e prolongado que pode ser ouvido a grandes distâncias.",
+      "Apesar da aparência rústica, eles são conhecidos por serem cães 'clownish' (palhaços), com um senso de humor apurado e uma natureza muito afetuosa.",
+      "A pelagem do Otterhound é tão oleosa que, ao toque, pode parecer levemente gordurosa, uma proteção vital contra a hipotermia em águas geladas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores que residem em áreas rurais ou casas com grandes quintais e acesso a água",
+      "Famílias muito ativas que praticam natação, trilhas e atividades de faro",
+      "Tutores interessados na preservação de raças históricas e raras",
+      "Pessoas que apreciam um companheiro boêmio, independente e muito afetuoso",
+      "Quem não se importa com um pouco de sujeira e baba (o Otterhound é um cão rústico)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e tamanho)",
+      "Pessoas obcecadas com a limpeza absoluta da casa (a pelagem atrai detritos e água)",
+      "Tutores sedentários que não possam oferecer exercícios diários vigorosos",
+      "Proprietários que buscam obediência perfeita e imediata (ele é independente e obstinado)",
+      "Tutores que não podem lidar com um cão que solta pelo e possui o 'cheiro de sabujo' característico"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Displasia de Quadril e Cotovelo",
+      "Trombocitopatia (distúrbio plaquetário hereditário)",
+      "Otites (infecções de ouvido devido às orelhas longas e pesadas)",
+      "Hipotireoidismo",
+      "Problemas oculares leves"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Limpeza e secagem rigorosa das orelhas pendentes após qualquer natação. Testes de coagulação sanguínea são recomendados para a linhagem."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica é moderada. Exige escovação semanal profunda para remover pelos mortos e evitar nós na barba e pernas. O pelo não deve ser tosado, pois perde sua função protetora. Banhos devem ser ocasionais. A limpeza da barba após as refeições é essencial para evitar odores. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário. Natação é a sua atividade favorita e necessária para o seu equilíbrio emocional. Ele precisa de longas caminhadas exploratórias onde possa usar o seu faro privilegiado. O tédio mental é o maior inimigo desta raça inteligente.",
+    "treinamento": "O adestramento exige paciência infinita e senso de humor. O Otterhound é inteligente mas independente e focado em cheiros. Use reforço positivo e petiscos de alto valor. O comando de 'recall' (vir quando chamado) é extremamente difícil de garantir em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições por dia para reduzir o risco de torção gástrica. O controle do peso é vital para preservar suas articulações massivas."
   },
   "seo": {
-    "title": "Otterhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Otterhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Otterhound: O Raro e Heróico Sabujo de Lontra - Guia de Raça",
+    "description": "Descubra o Otterhound: conheça sua habilidade única de nado, sua história na nobreza inglesa e as dicas vitais de cuidados com a saúde e pelagem deste sabujo raro.",
     "keywords": [
-      "otterhound",
-      "otterhound",
-      "médio",
-      "inglaterra"
+      "Otterhound",
+      "Sabujo de Lontra",
+      "cão de pés palmados",
+      "cão nadador raro",
+      "sabujo inglês",
+      "raças de cães grandes",
+      "cuidados com Otterhound",
+      "temperamento Otterhound"
     ]
   },
   "imagem_principal": "/images/breeds/otterhound.jpg",
@@ -73,11 +92,56 @@
     "/images/breeds/otterhound-2.jpg",
     "/images/breeds/otterhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=otterhound",
-  "popularidade": 16198,
-  "ranking_brasil": 5,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Otterhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-otterhound",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-otterhound/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Raridade do Otterhound",
+      "url": "https://www.youtube.com/watch?v=example-otterhound-rare",
+      "canal": "Hound Heritage",
+      "duracao": "10:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "grand-basset-griffon-vendeen",
+    "spinone-italiano",
+    "airedale-terrier"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores de hounds são permitidas",
+    "Grisalho (Grizzle)",
+    "Tricolor",
+    "Trigo",
+    "Azul e Branco"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas abundantes",
+    "Manchas irregulares comuns",
+    "Nariz bem pigmentado"
+  ],
+  "curiosidades_historicas": "O Otterhound é tão raro que existem menos de 1.000 exemplares em todo o mundo. A raça é classificada como 'Criticamente Ameaçada' pelo Kennel Club britânico, o que significa que mais filhotes de pandas gigantes nascem anualmente do que de Otterhounds, tornando cada exemplar um verdadeiro patrimônio biológico.",
+  "referencias_externas": [
+    {
+      "titulo": "Otterhound Club of America",
+      "url": "https://otterhound.org/",
+      "descricao": "Clube oficial de raça nos EUA com vastas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Otterhound Standard",
+      "url": "https://www.fci.be/en/nomenclature/OTTERHOUND-294.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 250,
   "custo_mensal_estimado": [
-    492,
-    923
+    500,
+    1300
   ]
 }

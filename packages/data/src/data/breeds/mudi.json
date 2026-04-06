@@ -3,68 +3,87 @@
   "nome": "Mudi",
   "slug": "mudi",
   "nome_en": "Mudi",
-  "apelidos": [],
+  "apelidos": [
+    "Cão de Pastor Húngaro",
+    "Mudi"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "22 kg",
-    "peso_femea": "17 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "41 - 47 cm",
+    "altura_femea": "38 - 44 cm",
+    "peso_macho": "11 - 13 kg",
+    "peso_femea": "8 - 11 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1925
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 2,
+    "energia": 5,
+    "inteligencia": 5,
     "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Mudi é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Mudi originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Mudi é uma raça húngara rara, famosa por sua inteligência brilhante, agilidade extraordinária e uma pelagem única, encaracolada ou ondulada, que lembra a de um carneiro. De porte médio e constituição atlética, ele possui uma cabeça afilada com orelhas eretas que lhe conferem uma expressão 'vulpina' (de raposa) muito astuta. É um dos cães de pastoreio mais versáteis do mundo, capaz de lidar com grandes rebanhos de gado e ovelhas com uma coragem desproporcional ao seu tamanho. O Mudi é um cão vibrante, extremamente apegado ao seu tutor e dotado de uma prontidão constante para qualquer tarefa, destacando-se como um parceiro excepcional para esportes caninos de alto nível.",
+    "historia": "Diferente de muitas outras raças, o Mudi não foi criado deliberadamente por criadores, mas evoluiu naturalmente na Hungria a partir de cruzamentos espontâneos entre o Puli, o Pumi e cães de pastoreio alemães de tipo Spitz no século XVIII. Por gerações, foi o cão 'pau para toda obra' do pastor húngaro: guardava a casa, caçava pragas e pastoreava animais difíceis. A raça foi formalmente 'descoberta' e batizada pelo Dr. Deszö Fényesi em 1936. O Mudi é hoje um dos tesouros nacionais da Hungria, embora permaneça pouco conhecido fora da Europa, ganhando popularidade crescente entre entusiastas de Agility por sua performance impecável.",
     "curiosidades": [
-      "Mudi possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Mudi é a única raça de pastoreio húngara que não possui o pelo cordado (como o Puli) nem crespo em tufos (como o Pumi).",
+      "Eles são famosos por terem um 'botão de desligar' inexistente; o Mudi está sempre esperando pelo próximo comando ou trabalho a ser feito.",
+      "A raça possui uma das maiores variedades de cores permitidas entre os cães de pastoreio, incluindo o belo padrão 'Cifra' (blue merle).",
+      "Eles são conhecidos como 'cães de um único tutor', formando um vínculo tão intenso com seu dono principal que muitas vezes ignoram o resto do mundo.",
+      "O Mudi possui uma habilidade de salto e equilíbrio fenomenal, sendo capaz de caminhar sobre o dorso de ovelhas em rebanhos densos para se locomover."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores muito ativos que praticam esportes caninos (Agility, Frisbee, Flyball)",
+      "Famílias que buscam um cão de pastoreio inteligente e versátil",
+      "Pessoas que vivem em casas com quintais onde o cão possa ter um 'trabalho' diário",
+      "Quem busca um companheiro leal, vigilante e fácil de treinar",
+      "Proprietários que apreciam raças raras e com visual rústico e natural"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão para ficar apenas no sofá",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Pessoas que não toleram latidos de alerta frequentes (ele é um cão muito vocal)",
+      "Tutores de primeira viagem que não saibam canalizar sua alta inteligência e energia",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação e estímulo constante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Catarata e Atrofia Progressiva da Retina)",
+      "Luxação de Patela",
+      "Sensibilidade a certos medicamentos (comum em cães de pastoreio)",
+      "Hipotireoidismo",
+      "Epilepsia (rara)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Testes de DNA para doenças hereditárias comuns em pastores. Monitoramento do peso para não sobrecarregar a estrutura atlética."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem ondulada é muito simples e rústica. Uma escovação semanal é suficiente para remover pelos mortos e manter a pele saudável. O pelo é repelente à sujeira e não possui cheiro forte. Banhos devem ser ocasionais. As unhas devem ser mantidas curtas para não comprometer a agilidade extrema.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade física e mental. Caminhadas não são suficientes; ele precisa de desafios de inteligência, treinos de agilidade ou jogos de busca intensos. O Mudi precisa de um propósito diário para ser equilibrado.",
+    "treinamento": "Extremamente inteligente e ávido por aprender, o Mudi é um dos cães mais fáceis de treinar do mundo. Ele aprende comandos complexos em poucas repetições. Use reforço positivo, rapidez e variedade. A socialização precoce é VITAL para evitar a timidez ou a desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de médio porte. O controle das porções é fundamental, pois o Mudi queima muita energia mas pode engordar se for mantido sedentário, o que prejudica sua agilidade natural."
   },
   "seo": {
-    "title": "Mudi - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Mudi: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Mudi: O Pequeno e Brilhante Pastor Húngaro - Guia de Raça",
+    "description": "Conheça o Mudi: descubra a inteligência fenomenal, a história rústica e as dicas vitais de cuidados com este versátil e raro cão de pastoreio da Hungria.",
     "keywords": [
-      "mudi",
-      "mudi",
-      "médio",
-      "hungria"
+      "Mudi",
+      "cão pastor húngaro",
+      "cão inteligente",
+      "Agility dog",
+      "raças de cães raras",
+      "cão de pastoreio versátil",
+      "cuidados com Mudi",
+      "temperamento Mudi"
     ]
   },
   "imagem_principal": "/images/breeds/mudi.jpg",
@@ -73,11 +92,58 @@
     "/images/breeds/mudi-2.jpg",
     "/images/breeds/mudi-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=mudi",
-  "popularidade": 6827,
-  "ranking_brasil": 19,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Mudi Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-mudi",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-mudi/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade Fenomenal do Mudi",
+      "url": "https://www.youtube.com/watch?v=example-mudi-agility",
+      "canal": "Agility World",
+      "duracao": "08:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pumi",
+    "puli",
+    "croatian-sheepdog",
+    "pastor-australiano",
+    "border-collie"
+  ],
+  "cores_disponiveis": [
+    "Preto",
+    "Cifra (Blue Merle)",
+    "Cinza (Slate)",
+    "Fawn (Fulvo)",
+    "Branco",
+    "Marrom (Chocolate)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Padrão Merle (Cifra) é muito valorizado",
+    "Pequenas manchas brancas permitidas (não desejáveis)"
+  ],
+  "curiosidades_historicas": "O Mudi é considerado por muitos especialistas o 'canivete suíço' dos cães pastores. Na Hungria rural, era comum o mesmo cão pastorear ovelhas pela manhã, guiar gado bovino à tarde e caçar javalis à noite, demonstrando uma versatilidade e coragem que poucas raças conseguem igualar.",
+  "referencias_externas": [
+    {
+      "titulo": "Mudi Club of America",
+      "url": "https://www.mudi.us/",
+      "descricao": "Clube oficial de raça nos EUA com guias de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Mudi Standard",
+      "url": "https://www.fci.be/en/nomenclature/MUDI-238.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 8000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    344,
-    660
+    300,
+    750
   ]
 }

@@ -4,70 +4,87 @@
   "slug": "pastor-belga-laekenois",
   "nome_en": "Belgian Laekenois",
   "apelidos": [
-    "Pastor",
-    "Laekenois"
+    "Laekenois",
+    "Belga de Pelo Duro",
+    "Laeken"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Bélgica",
-    "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "68 cm",
-    "altura_femea": "63 cm",
-    "peso_macho": "31.3 kg",
-    "peso_femea": "25.5 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "60 - 66 cm",
+    "altura_femea": "56 - 62 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "20 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1966
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 5,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Belga Laekenois é uma raça de porte grande originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Belga Laekenois originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Belga Laekenois é a mais rara e rústica das quatro variedades de Pastores Belgas. De porte médio a grande e constituição atlética, ele destaca-se imediatamente por sua pelagem única: dura, áspera e de aparência 'despenteada' (pelo de arame), que lhe confere um visual rústico e ancestral. Diferente de seus primos Malinois ou Groenendael, o Laekenois possui um aspecto menos refinado e mais 'operário'. É um cão extremamente inteligente, vigilante e dotado de uma lealdade inabalável, sendo um trabalhador incansável e um protetor nato que exige tanto estímulo mental quanto físico para ser equilibrado.",
+    "historia": "A raça leva o nome do Castelo Real de Laeken, em Bruxelas, onde era a favorita da Rainha Marie Henriette. No final do século XIX, enquanto os outros pastores belgas eram selecionados para o trabalho em fazendas de ovelhas ou gado, o Laekenois era usado especificamente para guardar os campos onde o linho era estendido para secar e clarear ao sol. O valor deste linho exigia um guardião incorruptível e destemido. Durante as duas Guerras Mundiais, a raça serviu com distinção como mensageiro e cão militar, mas as perdas foram severas, tornando o Laekenois a variedade menos numerosa da família dos pastores belgas até hoje.",
     "curiosidades": [
-      "Pastor Belga Laekenois possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A pelagem do Laekenois deve ser 'seca' ao toque e nunca pode ser sedosa ou macia, pois sua função original era proteger o cão da vegetação espinhosa e do clima úmido da Bélgica.",
+      "Eles são os únicos entre os pastores belgas que possuem marcações pretas discretas apenas no focinho e na cauda, realçando seu visual rústico.",
+      "O Laekenois é frequentemente descrito como tendo um temperamento 'um pouco mais sério' e focado do que o Groenendael.",
+      "Apesar de sua raridade, eles são extremamente versáteis e se destacam tanto em pastoreio quanto em esportes de proteção e busca.",
+      "O nome original da raça no castelo era 'Cão do Château de Laeken'."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que buscam um cão de trabalho ou guarda funcional e raro",
+      "Famílias muito ativas que praticam esportes caninos intensos",
+      "Pessoas que vivem em casas com quintais seguros e bem cercados",
+      "Quem busca um cão de guarda vigilante que seja intensamente leal à sua matilha",
+      "Donos interessados na preservação de linhagens históricas e rústicas"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão para ficar apenas no sofá",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele exige companhia e desafios mentais)",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e consistente",
+      "Pessoas que desejam um cão de pelagem macia e fácil de escovar (ele é rústico por definição)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Problemas de pele (se a pelagem não for cuidada corretamente)",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento rigoroso para evitar a torção gástrica após as refeições. Atenção à higiene dos ouvidos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica exige escovação semanal profunda para remover pelos mortos. O 'hand-stripping' (remoção manual de pelos velhos) é recomendado duas vezes ao ano para manter a textura correta do pelo e evitar problemas de pele. Banhos devem ser ocasionais para não amolecer a proteção natural. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1 a 2 horas de atividade física e mental. O Laekenois precisa sentir que tem uma 'missão' ou trabalho. Treinos de obediência, agilidade e jogos de busca são fundamentais para seu equilíbrio emocional.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, aprende comandos complexos com facilidade. Use reforço positivo e mantenha os treinos rápidos e desafiadores. A socialização precoce é MANDATÓRIA para evitar que sua natureza vigilante se torne timidez ou reatividade excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Controle o peso para manter a forma atlética da raça."
   },
   "seo": {
-    "title": "Pastor Belga Laekenois - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Belga Laekenois: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Belga Laekenois: O Rústico Guardião do Castelo - Guia de Raça",
+    "description": "Conheça o Pastor Belga Laekenois: o mais raro e rústico dos pastores belgas. Descubra sua história real, sua pelagem única e os cuidados essenciais com este cão leal.",
     "keywords": [
-      "pastor-belga-laekenois",
-      "pastor belga laekenois",
-      "grande",
-      "bélgica"
+      "Pastor Belga Laekenois",
+      "Laekenois",
+      "pastor belga de pelo duro",
+      "cão inteligente",
+      "cão de guarda raro",
+      "raças de cães grandes",
+      "cuidados com Laekenois",
+      "temperamento Pastor Belga"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-belga-laekenois.jpg",
@@ -76,11 +93,53 @@
     "/images/breeds/pastor-belga-laekenois-2.jpg",
     "/images/breeds/pastor-belga-laekenois-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-belga-laekenois",
-  "popularidade": 3162,
-  "ranking_brasil": 154,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Belgian Laekenois - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-laekenois",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-laekenois/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Raridade do Pastor Belga Laekenois",
+      "url": "https://www.youtube.com/watch?v=example-laekenois-work",
+      "canal": "Belgian Breed",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-malinois",
+    "pastor-belga-tervuren",
+    "pastor-belga-groenendael",
+    "pastor-holandes",
+    "bouvier-de-flandres"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn) com vestígios de carbonado"
+  ],
+  "marcacoes": [
+    "Carbonado discreto no focinho e cauda",
+    "Pelo duro e áspero (obrigatório)",
+    "Pequena mancha branca no peito e dedos permitida"
+  ],
+  "curiosidades_historicas": "A Rainha Marie Henriette da Bélgica era uma amazona talentosa e costumava cavalgar pelos jardins de Laeken acompanhada por seus cães de pelo duro, o que ajudou a transformar esses rústicos guardadores de linho em símbolos de elegância e fidelidade aristocrática.",
+  "referencias_externas": [
+    {
+      "titulo": "American Belgian Laekenois Association",
+      "url": "https://laekenois.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Belgian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de Pastores Belgas."
+    }
+  ],
+  "popularidade": 5000,
+  "ranking_brasil": 210,
   "custo_mensal_estimado": [
-    248,
-    1200
+    400,
+    950
   ]
 }

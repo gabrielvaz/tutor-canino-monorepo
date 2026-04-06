@@ -4,71 +4,88 @@
   "slug": "mastiff-ingles",
   "nome_en": "Mastiff",
   "apelidos": [
-    "Mastiff",
-    "Inglês"
+    "Old English Mastiff",
+    "Gigante Gentil",
+    "Mastim"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "71 cm",
-    "altura_femea": "68 cm",
-    "peso_macho": "60 kg",
-    "peso_femea": "54.3 kg",
+    "expectativa_vida": "6 - 10 anos",
+    "altura_macho": "76 - 91 cm",
+    "altura_femea": "70 - 80 cm",
+    "peso_macho": "73 - 100 kg",
+    "peso_femea": "54 - 77 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 1,
+    "energia": 2,
+    "inteligencia": 3,
+    "queda_pelo": 3,
     "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 2,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Mastiff Inglês é uma raça de porte gigante originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Mastiff Inglês originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Mastiff Inglês é um dos maiores e mais antigos cães de guarda do mundo, uma figura monumental que combina força massiva com uma dignidade serena. De porte gigante e constituição pesada, ele possui uma cabeça larga e quadrada, focinho curto com máscara preta e orelhas pendentes. Sua pelagem é curta e rente ao corpo. Apesar de sua aparência intimidadora, o Mastiff é famoso por seu temperamento extraordinariamente gentil, paciente e protetor. Ele é o 'gigante dócil' por excelência, profundamente apegado à sua família e dotado de uma coragem silenciosa que prefere usar sua presença física esmagadora para dissuadir intrusos antes de qualquer ação agressiva.",
+    "historia": "A raça tem raízes que remontam aos antigos Molossos da Ásia levados para a Grã-Bretanha pelos fenícios há mais de 2.000 anos. Quando Júlio César invadiu a Britânia em 55 a.C., ele ficou impressionado com a bravura desses cães defendendo as praias e os levou para Roma para lutar em arenas contra leões e gladiadores. Na Idade Média e no Renascimento, o Mastiff tornou-se o guardião indispensável dos 'estates' ingleses, protegendo as propriedades rurais contra invasores e animais selvagens. A raça quase foi extinta após a Segunda Guerra Mundial devido à escassez de alimentos, sendo salva por exemplares levados anteriormente para o Canadá e Estados Unidos.",
     "curiosidades": [
-      "Mastiff Inglês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Mastiff Inglês detém o recorde de 'Cão Mais Pesado do Mundo' no Guinness World Records, com um exemplar chamado Zorba pesando incríveis 156 kg em 1989.",
+      "Eles possuem um latido profundo e cavernoso, mas raramente o usam, preferindo vigiar silenciosamente o seu território.",
+      "Apesar do tamanho massivo, o Mastiff é conhecido por ser um cão de 'baixo consumo de energia' dentro de casa, sendo muito calmo e preguiçoso.",
+      "Eles são famosos por babarem consideravelmente devido ao formato de seus lábios e bochechas pendentes.",
+      "O Mastiff Inglês é um dos ancestrais diretos de inúmeras raças de guarda modernas, incluindo o Bullmastiff e o Dogue Alemão."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças gigantes e de guarda",
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Pessoas que possuem casas com amplos espaços internos e quintais seguros",
+      "Quem busca um companheiro calmo, silencioso e profundamente leal",
+      "Proprietários que apreciam um cão de guarda dissuasivo pela presença monumental"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Pessoas obcecadas com limpeza extrema (devido à baba e roncos altos)",
+      "Tutores que não estão preparados para uma expectativa de vida mais curta",
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (difícil para as articulações)",
+      "Proprietários que não podem arcar com os custos altíssimos de alimentação e saúde preventiva",
+      "Tutores que buscam um parceiro para atividades físicas intensas como corridas"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico",
+      "Displasia de Quadril e Cotovelo (comum devido ao peso massivo)",
+      "Cardiomiopatia Dilatada e Estenose Aórtica",
+      "Osteossarcoma (câncer ósseo)",
+      "Problemas oculares (Entrópio e Ectrópio)",
+      "Hipotireoidismo",
+      "Calos de apoio graves nas articulações"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico semestral é vital. Atenção total a sinais de torção gástrica. Check-ups constantes durante o crescimento prolongado do filhote (até os 3 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, bastando uma escovação semanal. Banhos devem ser mensais, exigindo um espaço adequado para o tamanho monumental. É importante limpar as dobras faciais diariamente para evitar fungos e odores. Prepare-se para limpar baba das superfícies. As unhas devem ser mantidas curtas para suportar o peso.",
+    "exercicios": "Necessita de exercícios leves a moderados. Caminhadas diárias em ritmo calmo nos horários frescos são suficientes. Evite exercícios de alto impacto para proteger as articulações pesadas. O estímulo mental em casa é muito apreciado.",
+    "treinamento": "O adestramento deve ser baseado em reforço positivo, paciência e liderança firme mas carinhosa. O Mastiff é inteligente mas pode ser teimoso e sensível ao tom de voz. A socialização precoce é MANDATÓRIA para garantir um adulto confiante e equilibrado com estranhos.",
+    "alimentacao": "Dieta de altíssima qualidade específica para raças gigantes. É CRUCIAL oferecer refeições fracionadas (3 vezes ao dia) e garantir o repouso absoluto após comer para prevenir a torção gástrica. O controle rigoroso do peso é fundamental."
   },
   "seo": {
-    "title": "Mastiff Inglês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Mastiff Inglês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Mastiff Inglês: O Guia Completo do Gigante Nobre e Protetor",
+    "description": "Descubra o Mastiff Inglês: conheça sua força monumental, seu temperamento gentil e os cuidados essenciais com a saúde e o peso deste gigante histórico.",
     "keywords": [
-      "mastiff-ingles",
-      "mastiff inglês",
-      "gigante",
-      "inglaterra"
+      "Mastiff Inglês",
+      "Mastiff",
+      "cão mais pesado do mundo",
+      "gigante gentil",
+      "cão de guarda inglês",
+      "raças de cães gigantes",
+      "cuidados com Mastiff",
+      "temperamento Mastiff"
     ]
   },
   "imagem_principal": "/images/breeds/mastiff-ingles.jpg",
@@ -77,11 +94,55 @@
     "/images/breeds/mastiff-ingles-2.jpg",
     "/images/breeds/mastiff-ingles-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=mastiff-ingles",
-  "popularidade": 10867,
-  "ranking_brasil": 145,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Mastiff - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-englishmastiff",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-englishmastiff/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Mastiff Inglês",
+      "url": "https://www.youtube.com/watch?v=example-mastiff-life",
+      "canal": "Mundo Gigante",
+      "duracao": "13:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "bullmastiff",
+    "dogue-alemao",
+    "mastiff-napolitano",
+    "rottweiler",
+    "leonberger"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Fawn)",
+    "Damasco (Apricot)",
+    "Tigrado (Brindle)"
+  ],
+  "marcacoes": [
+    "Máscara preta obrigatória (focinho e olhos)",
+    "Orelhas pretas",
+    "Pode ter uma pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "Na Batalha de Agincourt em 1415, conta-se que uma cadela Mastiff defendeu sozinha o corpo de seu dono ferido, Sir Piers Legh, por horas contra os soldados franceses, até que os ingleses puderam resgatá-lo. Esta cadela tornou-se a ancestral da famosa linhagem 'Lyme Hall Mastiffs', fundamental para a raça moderna.",
+  "referencias_externas": [
+    {
+      "titulo": "Mastiff Club of America",
+      "url": "https://mastiff.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "The Old English Mastiff Club (UK)",
+      "url": "https://www.mastiffclub.com/",
+      "descricao": "O clube de raça original fundado na Inglaterra em 1883."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    328,
-    979
+    600,
+    1800
   ]
 }

@@ -3,67 +3,88 @@
   "nome": "Newfoundland",
   "slug": "newfoundland",
   "nome_en": "Newfoundland",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Terra Nova",
+    "Gigante Gentil",
+    "Cão Salva-Vidas"
+  ],
+  "categoria": "Gigante",
   "ficha_tecnica": {
-    "origem": "Canadá",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "18.3 kg",
-    "peso_femea": "14.3 kg",
+    "origem": "Canadá (Terra Nova)",
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "71 - 76 cm",
+    "altura_femea": "66 - 71 cm",
+    "peso_macho": "60 - 70 kg",
+    "peso_femea": "45 - 55 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1929
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 5,
-    "queda_pelo": 1,
-    "latido": 4,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Newfoundland é uma raça de porte médio originária de Canadá. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Newfoundland originou-se em Canadá, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Newfoundland, mundialmente conhecido como Terra Nova, é um dos gigantes mais amados e respeitados do mundo canino. De porte imponente e constituição massiva, ele é famoso por sua pelagem dupla extraordinariamente densa, oleosa e impermeável, projetada para protegê-lo nas águas geladas do Atlântico Norte. Sua cabeça é larga e poderosa, com uma expressão que transborda bondade, paciência e inteligência. O Terra Nova é a personificação do 'gigante gentil': um cão de temperamento calmo, extremamente cuidadoso com crianças e dotado de um instinto de salvamento aquático tão forte que ele é capaz de agir heroicamente para salvar vidas sem qualquer treinamento prévio.",
+    "historia": "A raça teve origem na ilha de Terra Nova, no Canadá, descendendo de cães levados por pescadores europeus (como o Mastiff e o Cão de Montanha dos Pirineus) cruzados com cães nativos. Por séculos, o Terra Nova foi o parceiro indispensável dos pescadores locais: ele ajudava a puxar redes pesadas, buscava objetos que caíam ao mar e salvava marinheiros de naufrágios. Sua fama de herói espalhou-se pela Europa no século XIX, tornando-se o favorito da aristocracia britânica. Lord Byron, o famoso poeta, imortalizou seu Terra Nova 'Boatswain' com um epitáfio que descreve o cão como tendo 'todas as virtudes do homem sem os seus vícios'.",
     "curiosidades": [
-      "Newfoundland possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Terra Nova possui membranas interdigitais (peles entre os dedos) muito desenvolvidas, o que o torna um dos nadadores mais potentes entre todas as raças caninas.",
+      "Eles possuem um estilo de natação único, similar ao 'nado de peito' humano, que lhes permite gerar mais propulsão e lidar com correntes fortes.",
+      "A raça é tão forte que um único exemplar adulto é capaz de arrastar um bote salva-vidas carregado com várias pessoas para a margem.",
+      "O cão de Nana, na história de Peter Pan, foi inspirado em um Terra Nova (embora em algumas versões cinematográficas seja retratado como um São Bernardo).",
+      "Eles são conhecidos por serem cães extremamente 'limpos' no mar, mas babam consideravelmente em terra firme devido ao formato de seus lábios pendentes."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é considerado um dos melhores 'cães-babá' do mundo)",
+      "Tutores que possuem casas com amplos espaços internos e, preferencialmente, acesso a água",
+      "Pessoas que buscam um companheiro extremamente calmo, dócil e afetuoso",
+      "Quem vive em climas frios ou temperados (ele sofre muito no calor)",
+      "Donos que não se importam com babas e muita manutenção de pelagem"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (difícil para as articulações)",
+      "Tutores sedentários que não possam oferecer caminhadas diárias e, ocasionalmente, natação",
+      "Ambientes com calor tropical extremo sem refrigeração constante",
+      "Pessoas obcecadas com a limpeza absoluta da casa (ele solta muito pelo e baba)",
+      "Tutores que não estão preparados emocionalmente para lidar com uma expectativa de vida mais curta"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Displasia de Quadril e Cotovelo (muito comum devido ao peso)",
+      "SAS (Estenose Aórtica Subvalvar - problema cardíaco genético)",
+      "Cistinúria (problema renal hereditário)",
+      "Problemas oculares (Entrópio e Ectrópio)",
+      "Calos de apoio e feridas articulares"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento acelerado do filhote."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é muito alta. Escovação profunda pelo menos três vezes por semana é obrigatória para evitar nós e gerenciar a queda abundante. Banhos devem ser mensais, exigindo um espaço adequado e secagem total do subpelo impermeável. É vital limpar as barbelas e dobras faciais diariamente. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em ritmo constante e, acima de tudo, a oportunidade de nadar são ideais para sua saúde física e mental. O Terra Nova não é um cão para corridas de alta velocidade, mas sim para resistência e trabalho calmo.",
+    "treinamento": "Muito inteligente e dócil, o Terra Nova aprende comandos com facilidade se for treinado com carinho e reforço positivo. Ele é sensível e deseja agradar. A socialização precoce é fundamental para garantir que sua força imensa seja controlada e que ele se torne um adulto confiante.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL oferecer refeições fracionadas e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica. O controle rigoroso do peso é vital para preservar suas articulações."
   },
   "seo": {
-    "title": "Newfoundland - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Newfoundland: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Terra Nova (Newfoundland): O Gigante Gentil Salva-Vidas - Guia de Raça",
+    "description": "Descubra o Terra Nova (Newfoundland): conheça sua história heróica no mar, seu temperamento dócil e as dicas vitais de cuidados com a saúde e pelagem deste gigante amado.",
     "keywords": [
-      "newfoundland",
-      "newfoundland",
-      "médio",
-      "canadá"
+      "Terra Nova",
+      "Newfoundland dog",
+      "cão salva-vidas",
+      "gigante gentil",
+      "cão nadador herói",
+      "raças de cães gigantes",
+      "cuidados com Terra Nova",
+      "temperamento Newfoundland"
     ]
   },
   "imagem_principal": "/images/breeds/newfoundland.jpg",
@@ -72,11 +93,56 @@
     "/images/breeds/newfoundland-2.jpg",
     "/images/breeds/newfoundland-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=newfoundland",
-  "popularidade": 39196,
-  "ranking_brasil": 139,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Newfoundland - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-newfoundland",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-newfoundland/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Salvamento Aquático do Terra Nova",
+      "url": "https://www.youtube.com/watch?v=example-newfie-swim",
+      "canal": "Rescue Dogs",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "landseer",
+    "sao-bernardo",
+    "leonberger",
+    "grande-pireneus",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Marrom (Chocolate)",
+    "Cinza (Azul)",
+    "Branco e Preto (Landseer no padrão AKC)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (preferível)",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Padrão de cores uniformes"
+  ],
+  "curiosidades_historicas": "O Terra Nova 'Seaman' foi um membro vital da Expedição de Lewis e Clark (1804-1806) através da América do Norte. Ele caçava alimento para os exploradores, servia como sentinela noturna contra ursos e salvou os membros da expedição de naufrágios em rios perigosos, sendo o único animal a completar toda a jornada histórica.",
+  "referencias_externas": [
+    {
+      "titulo": "Newfoundland Club of America",
+      "url": "https://ncanewfs.org/",
+      "descricao": "Clube oficial de raça nos EUA com vastas informações de saúde e eventos."
+    },
+    {
+      "titulo": "FCI - Newfoundland Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/NEWFOUNDLAND-50.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    329,
-    1444
+    600,
+    1800
   ]
 }

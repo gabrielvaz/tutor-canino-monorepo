@@ -4,71 +4,88 @@
   "slug": "pastor-alemao",
   "nome_en": "German Shepherd Dog",
   "apelidos": [
-    "Pastor",
-    "Alemão",
-    "Cão Lobo"
+    "Capa Preta",
+    "GSD",
+    "Pastor"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "61 cm",
-    "altura_femea": "55 cm",
-    "peso_macho": "27.3 kg",
-    "peso_femea": "23.9 kg",
+    "expectativa_vida": "10 - 13 anos",
+    "altura_macho": "60 - 65 cm",
+    "altura_femea": "55 - 60 cm",
+    "peso_macho": "30 - 40 kg",
+    "peso_femea": "22 - 32 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1902
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 5,
+    "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 4,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 2,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Alemão é uma raça de porte grande originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Alemão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Alemão é o cão de utilidade mais versátil e reconhecido do mundo, um verdadeiro símbolo de lealdade, coragem e inteligência. De porte grande e constituição atlética, ele possui uma silhueta harmoniosa caracterizada por linhas fluidas e uma postura sempre alerta. Sua pelagem é dupla, densa e dura, apresentando-se em cores variadas, sendo a mais icônica o preto com marcações avermelhadas ou douradas (capa preta). Com orelhas eretas e um olhar focado que transborda prontidão, o Pastor Alemão é um trabalhador incansável e um protetor nato, capaz de formar um vínculo de devoção absoluta com sua família.",
+    "historia": "A raça foi criada na Alemanha no final do século XIX pelo Capitão Max von Stephanitz, que buscou padronizar os diversos tipos de cães pastores alemães em um único trabalhador supremo. Von Stephanitz priorizou a inteligência e a utilidade acima da estética, com o lema 'utilidade e inteligência'. O primeiro exemplar registrado foi 'Horand von Grafrath' em 1899. Durante as Grandes Guerras, a raça provou seu valor inestimável como cão militar, mensageiro e de resgate, o que levou ao seu reconhecimento mundial. Hoje, além do pastoreio, ele brilha como cão policial (K9), guia para cegos e um dos cães de família mais amados do Brasil.",
     "curiosidades": [
-      "Pastor Alemão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor Alemão ocupa a 3ª posição no ranking de inteligência canina de Stanley Coren, sendo superado apenas pelo Border Collie e Poodle.",
+      "O primeiro cão-guia oficial do mundo para pessoas cegas foi um Pastor Alemão chamado Buddy, treinado em 1928.",
+      "Rin Tin Tin, um dos cães mais famosos do cinema, era um Pastor Alemão resgatado das trincheiras da Primeira Guerra Mundial por um soldado americano.",
+      "Eles possuem um faro extraordinário, sendo capazes de detectar substâncias ilícitas ou pessoas soterradas em situações onde a tecnologia falha.",
+      "A raça possui o que os especialistas chamam de 'instinto de proteção silenciosa', vigiando sua família sem necessariamente precisar de comandos."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias que buscam um protetor leal e afetuoso dentro de casa",
+      "Tutores que vivem em casas com quintais amplos e seguros",
+      "Pessoas interessadas em adestramento de alto nível e esportes caninos (Agility, Schutzhund)",
+      "Quem deseja um parceiro para atividades físicas intensas como corridas e trilhas",
+      "Donos que buscam um cão de trabalho multifuncional e inteligente"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e calma",
+      "Pessoas sedentárias que não possam oferecer estímulo mental e físico diário",
+      "Moradores de apartamentos muito pequenos sem rotina rigorosa de exercícios externos",
+      "Tutores que não toleram queda de pelos abundante (ele solta pelo o ano todo)",
+      "Ambientes onde o cão ficará isolado no quintal sem contato humano constante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (o problema mais conhecido da raça)",
+      "Mielopatia Degenerativa (doença neurológica progressiva)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Insuficiência Pancreática Exócrina (EPI)",
+      "Problemas oculares (Pannus e Catarata)",
+      "Alergias de pele e Hot Spots"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Monitoramento neurológico em cães adultos. É vital manter o cão magro para preservar as articulações."
   },
   "cuidados": {
-    "higiene": "Dupla, Média",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta devido à queda constante. Exige escovação profunda pelo menos três vezes por semana para remover subpelo morto. Banhos devem ser mensais ou conforme a necessidade. É importante verificar as orelhas eretas e manter as unhas curtas para não comprometer a pisada.",
+    "exercicios": "Necessita de MUITO exercício físico e mental. Caminhadas longas não são suficientes; o Pastor Alemão precisa de 'trabalho', como treinos de obediência, busca de objetos e desafios cognitivos. Sem gasto de energia, ele pode se tornar ansioso e excessivamente latidor.",
+    "treinamento": "Extremamente fácil de treinar e ansioso para aprender. O adestramento deve começar cedo e ser baseado em reforço positivo e consistência. Ele precisa respeitar o tutor como líder. A socialização precoce é MANDATÓRIA para garantir que seu instinto protetor não se torne reatividade.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Atenção ao peso, especialmente em cães com tendência à displasia."
   },
   "seo": {
-    "title": "Pastor Alemão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Alemão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Alemão: O Guia Completo do Cão de Guarda e Família Supremo",
+    "description": "Descubra tudo sobre o Pastor Alemão: conheça sua inteligência brilhante, história heróica e dicas essenciais de saúde e adestramento para esta raça icônica.",
     "keywords": [
-      "pastor-alemao",
-      "pastor alemão",
-      "grande",
-      "alemanha"
+      "Pastor Alemão",
+      "German Shepherd",
+      "cão de guarda",
+      "cão inteligente",
+      "capa preta",
+      "raças de cães grandes",
+      "cuidados com Pastor Alemão",
+      "temperamento Pastor Alemão",
+      "displasia em cães"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-alemao.jpg",
@@ -77,11 +94,56 @@
     "/images/breeds/pastor-alemao-2.jpg",
     "/images/breeds/pastor-alemao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-alemao",
-  "popularidade": 39421,
-  "ranking_brasil": 61,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "German Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-gsd",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-gsd/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Adestrar um Pastor Alemão",
+      "url": "https://www.youtube.com/watch?v=example-gsd-training",
+      "canal": "Mundo Canino",
+      "duracao": "14:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-malinois",
+    "beauceron",
+    "pastor-holandes",
+    "pastor-branco-suico"
+  ],
+  "cores_disponiveis": [
+    "Preto e Canela (Tan)",
+    "Preto e Vermelho",
+    "Preto Sólido",
+    "Cinza (Sable)",
+    "Bicolor"
+  ],
+  "marcacoes": [
+    "Capa Preta clássica",
+    "Máscara preta obrigatória",
+    "Marcações fogo bem definidas"
+  ],
+  "curiosidades_historicas": "Durante a Primeira Guerra Mundial, o Pastor Alemão provou ser tão eficaz como cão militar que os soldados aliados começaram a adotar e levar os cães capturados para casa após o fim do conflito, o que impulsionou a popularidade da raça fora da Alemanha e levou à mudança temporária de seu nome para 'Alsatian' no Reino Unido.",
+  "referencias_externas": [
+    {
+      "titulo": "German Shepherd Dog Club of America",
+      "url": "https://gsdca.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - German Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SHEPHERD-DOG-166.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 3,
   "custo_mensal_estimado": [
-    357,
-    1459
+    400,
+    1200
   ]
 }

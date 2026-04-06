@@ -5,72 +5,85 @@
   "nome_en": "Norwich Terrier",
   "apelidos": [
     "Norwich",
-    "Terrier"
+    "Terrier de Orelhas Erectas"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "Inglaterra",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "33 cm",
-    "altura_femea": "27 cm",
-    "peso_macho": "12.7 kg",
-    "peso_femea": "11.4 kg",
+    "origem": "Inglaterra (Norwich)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "24 - 26 cm",
+    "altura_femea": "24 - 26 cm",
+    "peso_macho": "5 - 5.5 kg",
+    "peso_femea": "5 - 5.5 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1987
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 5,
-    "latido": 1,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Norwich Terrier é uma raça de porte pequeno originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Norwich Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Norwich Terrier é um dos menores e mais vibrantes terriers de trabalho, um cão de porte pequeno que transborda autoconfiança e alegria. De constituição compacta, baixa e muito robusta, ele possui uma pelagem dupla dura e aramada que lhe confere um visual rústico. Sua característica física mais marcante são as orelhas pequenas e pontiagudas, mantidas firmemente eretas, o que lhe dá uma expressão constante de curiosidade e prontidão. Diferente de muitos terriers que podem ser briguentos, o Norwich é famoso por seu temperamento gregário e amigável, sendo um companheiro de família intensamente leal e dotado de um senso de humor inesgotável.",
+    "historia": "A raça desenvolveu-se na região de East Anglia, na Inglaterra, durante o século XIX. Eles eram os cães favoritos dos estudantes da Universidade de Cambridge, que os usavam para caçar ratos nos dormitórios e estábulos. O Norwich Terrier descende de pequenos terriers de trabalho locais e foi selecionado por sua bravura absoluta em enfrentar pragas. Por muito tempo, ele e o Norfolk Terrier foram considerados a mesma raça; a separação oficial ocorreu apenas em meados do século XX, com o Norwich mantendo as orelhas eretas originais. Hoje, é uma raça rara e muito valorizada como um companheiro de luxo mas rústico.",
     "curiosidades": [
-      "Norwich Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Norwich Terrier é conhecido como um dos menores terriers de trabalho do mundo, mas possui a força de mandíbula de um cão muito maior.",
+      "Eles possuem um andar elástico e vigoroso que demonstra sua grande energia física.",
+      "Diferente de outros terriers, o Norwich é conhecido por ser muito adaptável a outros cães, raramente iniciando brigas.",
+      "Eles são famosos por serem cães 'observadores', que gostam de se sentar em locais elevados para monitorar a movimentação da casa.",
+      "A raça é considerada hipoalergênica porque sua pelagem quase não cai, exigindo a remoção manual dos fios mortos para manter a saúde da pele."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Famílias ativas que buscam um cão pequeno mas resiliente",
+      "Tutores que apreciam cães com inteligência superior e facilidade de treinamento",
+      "Quem deseja um companheiro alerta e vigilante (ele é um excelente cão de aviso)",
+      "Pessoas interessadas em atividades de enriquecimento ambiental e truques"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer pelo menos uma hora de estímulo diário",
+      "Casas com pequenos roedores de estimação (instinto de caça é extremo)",
+      "Pessoas que não podem dedicar tempo à manutenção manual da pelagem (stripping)",
+      "Ambientes onde o cão ficará isolado por longos períodos (sofre com a solidão)",
+      "Tutores que buscam um cão passivo e 100% silencioso (ele gosta de se expressar vocalmente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Mitral Valve Disease (doença cardíaca)",
+      "Luxação de Patela",
+      "Problemas oculares (Catarata e Glaucoma)",
+      "Hipotireoidismo",
+      "Problemas dentários (acúmulo de tártaro)",
+      "Síndrome do Braquicefálico Superior (ocasional, apesar do focinho não ser tão curto)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco anual é indispensável. Check-ups ortopédicos e dentários regulares. Higiene bucal diária é essencial."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem rústica exige escovação semanal profunda para remover pelos mortos. O 'hand-stripping' (remoção manual) deve ser feito por um profissional duas vezes ao ano para manter a textura dura característica. Banhos devem ser mensais. As orelhas eretas exigem limpeza semanal leve. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais para o seu tamanho. Caminhadas vigorosas e muito tempo de brincadeira com brinquedos interativos são essenciais para evitar que ele se torne agitado em casa. O estímulo mental é fundamental para sua mente astuta.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, o Norwich é um dos terriers mais fáceis de treinar. Use reforço positivo, muitos petiscos e elogios. A socialização precoce é importante para garantir que ele seja um adulto confiante e sociável em diferentes ambientes.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é vital, pois o Norwich tem uma tendência enorme a engordar, o que sobrecarrega suas articulações finas e coração."
   },
   "seo": {
-    "title": "Norwich Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Norwich Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Norwich Terrier: O Pequeno e Valente Terrier de Orelhas Erectas - Guia de Raça",
+    "description": "Conheça o Norwich Terrier: descubra seu temperamento alegre, sua história na Universidade de Cambridge e as dicas essenciais de cuidados com a saúde e pelagem.",
     "keywords": [
-      "norwich-terrier",
-      "norwich terrier",
-      "pequeno",
-      "inglaterra"
+      "Norwich Terrier",
+      "Terrier de Norwich",
+      "cão caçador de ratos",
+      "terrier de orelhas eretas",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Norwich Terrier",
+      "temperamento Norwich"
     ]
   },
   "imagem_principal": "/images/breeds/norwich-terrier.jpg",
@@ -79,11 +92,55 @@
     "/images/breeds/norwich-terrier-2.jpg",
     "/images/breeds/norwich-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=norwich-terrier",
-  "popularidade": 45306,
-  "ranking_brasil": 12,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Norwich Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-norwich",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-norwich/hqdefault.jpg"
+    },
+    {
+      "titulo": "Norwich vs Norfolk Terrier: Qual a Diferença?",
+      "url": "https://www.youtube.com/watch?v=example-terrier-compare",
+      "canal": "Mundo Terrier",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "norfolk-terrier",
+    "cairn-terrier",
+    "australian-terrier",
+    "border-terrier"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red) em todos os tons",
+    "Trigo (Wheaten)",
+    "Preto e Tan",
+    "Grisalho (Grizzle)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Marcações fogo simétricas",
+    "Padrão de pelo rústico"
+  ],
+  "curiosidades_historicas": "O Norwich Terrier quase desapareceu após a Segunda Guerra Mundial devido à escassez de alimentos e ao foco em raças maiores. Foram os entusiastas americanos e britânicos que reconstruíram a raça a partir de apenas alguns exemplares de orelhas eretas, preservando o tipo rústico que os estudantes de Cambridge tanto amavam.",
+  "referencias_externas": [
+    {
+      "titulo": "Norwich Terrier Club of America",
+      "url": "https://norwichterrierclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Norwich Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/NORWICH-TERRIER-72.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    469,
-    1120
+    300,
+    750
   ]
 }

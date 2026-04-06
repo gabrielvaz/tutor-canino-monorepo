@@ -5,69 +5,87 @@
   "nome_en": "Parson Russell Terrier",
   "apelidos": [
     "Parson",
-    "Terrier"
+    "PRT",
+    "Terrier do Reverendo"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "43 cm",
-    "peso_macho": "12.1 kg",
-    "peso_femea": "8 kg",
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "34 - 38 cm",
+    "altura_femea": "31 - 35 cm",
+    "peso_macho": "6 - 8 kg",
+    "peso_femea": "6 - 8 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1932
+    "ano_reconhecimento_fci": 1990
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 5,
     "inteligencia": 5,
     "queda_pelo": 2,
     "latido": 4,
-    "afeicao_familia": 1,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Parson Russell Terrier é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Parson Russell Terrier originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Parson Russell Terrier é o epítome do terrier de trabalho inglês: um cão de porte médio, pernas longas e uma coragem inabalável. Frequentemente confundido com o Jack Russell, o Parson foi desenvolvido especificamente para ter pernas mais compridas, permitindo que acompanhasse matilhas de hounds e cavalos durante a caça à raposa. De constituição atlética, ágil e flexível, ele possui uma pelagem predominantemente branca com marcações em preto ou castanho, disponível nas variedades lisa ou dura. É um cão dotado de uma inteligência brilhante, um espírito aventureiro e uma lealdade profunda, sendo um companheiro vibrante para tutores que levam uma vida ativa ao ar livre.",
+    "historia": "A raça leva o nome do Reverendo John 'Jack' Russell, que no início do século XIX criou uma linhagem de terriers focada puramente na funcionalidade para a caça. Enquanto o Jack Russell evoluiu para uma variedade de pernas mais curtas, o Parson Russell Terrier manteve o tipo original de 'fox terrier de pernas longas' que o Reverendo tanto valorizava. Eles precisavam ser rápidos o suficiente para correr com os cães de rastro, mas pequenos o bastante para entrar nas tocas de raposas. A raça foi reconhecida formalmente pelo Kennel Club inglês apenas em 1990 como uma raça distinta, preservando a herança de trabalho do seu criador.",
     "curiosidades": [
-      "Parson Russell Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Parson' significa 'Pároco' ou 'Reverendo', uma homenagem direta à profissão de seu criador, John Russell.",
+      "Eles são conhecidos como 'artistas do salto', sendo capazes de pular obstáculos surpreendentemente altos para o seu tamanho.",
+      "Diferente do Jack Russell, o Parson possui uma proporção corporal mais quadrada, com a altura na cernelha sendo quase igual ao comprimento do corpo.",
+      "O Parson Russell Terrier possui uma pele muito grossa e elástica, uma adaptação evolutiva para protegê-lo de mordidas e arranhões dentro das tocas rochosas.",
+      "Eles são famosos por sua 'tenacidade terrier', sendo capazes de focar em uma tarefa (ou um brinquedo) por horas sem desistir."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que gostam de trilhas, corridas e esportes ao ar livre",
+      "Tutores interessados em adestramento avançado e competições de Agility ou Flyball",
+      "Quem vive em casas com quintais seguros e bem cercados",
+      "Proprietários que buscam um cão pequeno mas com a energia e resistência de um cão de trabalho grande",
+      "Pessoas que apreciam um companheiro com personalidade forte e independente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que vivem em apartamentos pequenos sem rotina intensa de exercícios",
+      "Moradores de locais com vizinhos sensíveis a latidos (ele é um cão de alerta muito vocal)",
+      "Casas com pequenos animais domésticos como hamsters ou gatos (instinto de caça é extremo)",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança firme",
+      "Pessoas que buscam um cão passivo e 100% submisso (ele desafiará regras se ficar entediado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Luxação de Lente Primária (PLL)",
+      "Ataxia Cerebelar (doença neurológica hereditária)",
+      "Surdez (ocasional em exemplares com muito branco)",
+      "Hipotireoidismo",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Testes genéticos para PLL e Ataxia são recomendados para a linhagem. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção depende da pelagem: o pelo liso exige escovação semanal; o pelo duro requer 'hand-stripping' (remoção manual de pelos mortos) duas vezes ao ano para manter a textura rústica. Eles soltam pelo moderadamente. Banhos devem ser mensais. As unhas devem ser mantidas curtas para não comprometer sua agilidade extrema.",
+    "exercicios": "Necessita de MUITO exercício diário. O Parson não é um cão para apenas 'passear'; ele precisa correr, saltar e, crucialmente, ter estímulo mental. Sem gasto de energia física e cognitiva, ele se torna destrutivo e excessivamente cavador no jardim.",
+    "treinamento": "Extremamente inteligente e aprende truques com rapidez. No entanto, é independente e pode ser teimoso se o treinamento for chato ou repetitivo. Use reforço positivo, rapidez e muita variedade. A socialização precoce é MANDATÓRIA para evitar a reatividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é fundamental para manter o corpo musculoso e atlético, evitando o sobrepeso que prejudica as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Parson Russell Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Parson Russell Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Parson Russell Terrier: O Atleta Incansável do Reverendo - Guia de Raça",
+    "description": "Descubra o Parson Russell Terrier: conheça sua história na caça inglesa, sua inteligência brilhante e as dicas vitais de exercícios e cuidados para este terrier de pernas longas.",
     "keywords": [
-      "parson-russell-terrier",
-      "parson russell terrier",
-      "médio",
-      "inglaterra"
+      "Parson Russell Terrier",
+      "PRT",
+      "Terrier do Reverendo",
+      "cão inteligente pequeno",
+      "Agility dog",
+      "cão caçador",
+      "raças de cães médias",
+      "cuidados com Parson Russell",
+      "temperamento Parson"
     ]
   },
   "imagem_principal": "/images/breeds/parson-russell-terrier.jpg",
@@ -76,11 +94,54 @@
     "/images/breeds/parson-russell-terrier-2.jpg",
     "/images/breeds/parson-russell-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=parson-russell-terrier",
-  "popularidade": 37686,
-  "ranking_brasil": 11,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Parson Russell Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-parsonrussell",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-parsonrussell/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre Parson e Jack Russell",
+      "url": "https://www.youtube.com/watch?v=example-parson-jack-diff",
+      "canal": "Mundo Terrier",
+      "duracao": "10:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "jack-russell-terrier",
+    "fox-terrier-pelo-liso",
+    "welsh-terrier",
+    "beagle"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Castanhas (Tan)",
+    "Branco com manchas Pretas",
+    "Tricolor (Branco, Preto e Castanho)"
+  ],
+  "marcacoes": [
+    "Branco deve ser a cor predominante (mínimo 51%)",
+    "Manchas na cabeça e base da cauda são clássicas",
+    "Proporções corporais quadradas"
+  ],
+  "curiosidades_historicas": "O Reverendo John Russell era um dos fundadores do Kennel Club inglês, mas ele se recusava a registrar seus terriers em exposições de beleza, acreditando que a raça deveria ser julgada apenas pela sua coragem e habilidade em campo, o que atrasou o reconhecimento oficial do Parson como raça distinta por quase um século.",
+  "referencias_externas": [
+    {
+      "titulo": "Parson Russell Terrier Association of America",
+      "url": "https://prtaa.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Parson Russell Terrier Standard",
+      "url": "https://www.fci.be/en/nomenclature/PARSON-RUSSELL-TERRIER-339.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 140,
   "custo_mensal_estimado": [
-    252,
-    1142
+    300,
+    750
   ]
 }

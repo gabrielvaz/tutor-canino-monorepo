@@ -4,70 +4,90 @@
   "slug": "pastor-belga-malinois",
   "nome_en": "Belgian Malinois",
   "apelidos": [
-    "Pastor",
-    "Malinois"
+    "Malinois",
+    "Mali",
+    "Pastor Belga de Pelo Curto",
+    "Ferrari Canina"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Bélgica",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "25.9 kg",
-    "peso_femea": "22.3 kg",
+    "origem": "Bélgica (Malines)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "60 - 66 cm",
+    "altura_femea": "56 - 62 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "20 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1906
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 2,
-    "queda_pelo": 4,
-    "latido": 5,
-    "afeicao_familia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 3
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Belga Malinois é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Belga Malinois originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Belga Malinois é considerado por muitos especialistas o cão de trabalho definitivo, uma 'Ferrari canina' que combina inteligência brilhante, agilidade sobre-humana e um foco inabalável. De porte médio a grande e constituição atlética e seca, ele possui uma pelagem curta, densa e invariavelmente fulvo-carbonada (mahogany) com uma máscara preta marcante. Suas orelhas são eretas e triangulares, sempre em sinal de atenção máxima. Diferente do Pastor Alemão, o Malinois é mais leve, mais rápido e possui uma 'intensidade de trabalho' que exige um tutor extremamente ativo e experiente. É um protetor nato, um parceiro de esportes incansável e um membro de família profundamente leal.",
+    "historia": "A raça leva o nome da cidade de Malines, na Bélgica, onde foi padronizada no final do século XIX por criadores que buscavam o máximo em utilidade. Enquanto os outros pastores belgas focavam na estética da pelagem, o Malinois foi selecionado puramente pela performance em campo e obediência. Sua fama mundial explodiu no século XXI, quando se tornou o cão preferido das forças especiais de elite (como os Navy SEALs dos EUA) e polícias de todo o mundo para missões complexas de detecção, ataque e resgate, superando o Pastor Alemão em muitas funções táticas.",
     "curiosidades": [
-      "Pastor Belga Malinois possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Um Pastor Belga Malinois chamado 'Cairo' participou da missão histórica dos Navy SEALs que capturou Osama bin Laden em 2011.",
+      "Eles possuem uma habilidade de salto extraordinária, sendo capazes de escalar paredes verticais de até 3 metros de altura.",
+      "O Malinois não possui um 'botão de desligar' natural; ele está sempre esperando pelo próximo comando, o que exige que o tutor ensine o cão a relaxar.",
+      "A inteligência da raça é tão alta que eles são frequentemente usados para detecção de doenças e mudanças químicas sutis no corpo humano.",
+      "Diferente da maioria dos cães, o Malinois costuma formar um vínculo de 'parceria' mais do que de simples 'submissão' com o seu tutor."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que entendem a psicologia de cães de alta performance",
+      "Pessoas que praticam esportes caninos de alto nível (IPO, Mondioring, Agility)",
+      "Quem busca um cão de guarda pessoal e residencial de elite",
+      "Atletas de corrida ou trilhas que desejam um parceiro que nunca se cansa",
+      "Famílias muito ativas que podem dedicar várias horas diárias ao treinamento"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele 'atropelará' a liderança se houver hesitação)",
+      "Pessoas sedentárias ou que buscam um cão de colo (ele se tornará neurótico e destrutivo)",
+      "Moradores de apartamentos sem uma rotina exaustiva de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele exige estímulo mental e físico constante)",
+      "Tutores que não toleram intensidade física (o Malinois 'tromba' e pula com muita energia)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência menor que no Pastor Alemão)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Catarata",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Pannus (problema ocular inflamatório)",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são fundamentais. Monitoramento rigoroso do peso para manter a agilidade atlética. Atenção absoluta aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal para remover pelos mortos. Durante as trocas sazonais, a queda é moderada a intensa e a escovação deve ser diária. Banhos devem ser mensais ou conforme a necessidade. É importante verificar as orelhas eretas e manter as unhas bem curtas para não comprometer a tração nas corridas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 2 horas de atividade física vigorosa aliada a muito estímulo cognitivo. O Malinois precisa de 'trabalho' real (treinos de proteção, busca de objetos, desafios de faro). Sem gasto de energia, ele se torna um cão hiperativo e potencialmente perigoso para o ambiente doméstico.",
+    "treinamento": "O Malinois vive para ser treinado. Ele aprende comandos complexos em pouquíssimas repetições e possui uma 'vontade de morder' (drive) que deve ser canalizada corretamente por profissionais. Use reforço positivo e limites muito claros. A socialização precoce e contínua é VITAL para equilibrar sua natureza vigilante e evitar a reatividade.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas. É essencial fracionar as refeições e garantir o repouso absoluto após comer para prevenir a torção gástrica comum em cães de peito profundo e alta atividade."
   },
   "seo": {
-    "title": "Pastor Belga Malinois - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Belga Malinois: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Belga Malinois: A Elite do Trabalho Canino - Guia de Raça",
+    "description": "Descubra o Pastor Belga Malinois: conheça sua inteligência de elite, sua história nas forças especiais e as dicas vitais de treinamento e exercícios para esta raça intensa.",
     "keywords": [
-      "pastor-belga-malinois",
-      "pastor belga malinois",
-      "médio",
-      "bélgica"
+      "Pastor Belga Malinois",
+      "Malinois",
+      "cão das forças especiais",
+      "cão de guarda de elite",
+      "cão inteligente",
+      "Agility dog",
+      "raças de cães grandes",
+      "cuidados com Malinois",
+      "temperamento Malinois"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-belga-malinois.jpg",
@@ -76,11 +96,54 @@
     "/images/breeds/pastor-belga-malinois-2.jpg",
     "/images/breeds/pastor-belga-malinois-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-belga-malinois",
-  "popularidade": 9926,
-  "ranking_brasil": 159,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Belgian Malinois - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-malinois",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-malinois/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Treinamento de Proteção do Malinois",
+      "url": "https://www.youtube.com/watch?v=example-malinois-work",
+      "canal": "K9 Elite",
+      "duracao": "14:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-tervuren",
+    "pastor-belga-groenendael",
+    "pastor-alemao",
+    "pastor-holandes",
+    "beauceron"
+  ],
+  "cores_disponiveis": [
+    "Fulvo-carbonado (Fawn with black overlay)",
+    "Mogno (Mahogany)"
+  ],
+  "marcacoes": [
+    "Máscara preta obrigatória (focinho e olhos)",
+    "Orelhas pretas",
+    "Pode ter pequena mancha branca no peito e dedos"
+  ],
+  "curiosidades_historicas": "O Malinois foi a primeira raça de pastor belga a ser oficialmente reconhecida e padronizada, ganhando o posto de 'tipo original' da família. Sua eficiência tática é tamanha que os paraquedistas militares costumam saltar com Malinois acoplados ao corpo, pois o cão mantém a calma e a prontidão mesmo durante a queda livre.",
+  "referencias_externas": [
+    {
+      "titulo": "American Belgian Malinois Club",
+      "url": "https://www.malinoisclub.com/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e treinamento."
+    },
+    {
+      "titulo": "FCI - Belgian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de Pastores Belgas."
+    }
+  ],
+  "popularidade": 30000,
+  "ranking_brasil": 30,
   "custo_mensal_estimado": [
-    477,
-    676
+    400,
+    1000
   ]
 }

@@ -4,71 +4,87 @@
   "slug": "mastiff-espanhol",
   "nome_en": "Spanish Mastiff",
   "apelidos": [
-    "Mastiff",
-    "Espanhol"
+    "Mastín Español",
+    "Gigante da Ibéria",
+    "Cão de Transumância"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
     "origem": "Espanha",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "72 cm",
-    "altura_femea": "68 cm",
-    "peso_macho": "70.7 kg",
-    "peso_femea": "69.5 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "77 - 88 cm",
+    "altura_femea": "72 - 80 cm",
+    "peso_macho": "70 - 100 kg",
+    "peso_femea": "52 - 70 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1977
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 5,
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 3,
     "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Mastiff Espanhol é uma raça de porte gigante originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Mastiff Espanhol originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Mastiff Espanhol é um colosso de força e serenidade, o maior de todos os cães espanhóis e um dos mais massivos do mundo. De porte gigante e constituição poderosa, ele possui uma pele solta e elástica que forma barbelas generosas no pescoço e uma expressão de sabedoria ancestral. Sua pelagem é densa, grossa e lisa, adaptada para protegê-lo tanto do sol intenso quanto do frio das montanhas. Apesar de seu tamanho esmagador, o Mastín Español é conhecido por seu temperamento extraordinariamente equilibrado: é um gigante dócil, extremamente paciente com sua família e dotado de uma confiança silenciosa que raramente exige o uso da força para intimidar.",
+    "historia": "As origens do Mastiff Espanhol remontam aos tempos dos fenícios e gregos, que levaram cães molossos para a Península Ibérica. Por mais de mil anos, a raça foi a espinha dorsal da economia espanhola, servindo como o guardião supremo das ovelhas Merino durante as longas viagens de transumância. Eles protegiam os rebanhos contra matilhas de lobos e ursos, sendo mantidos pela Mesta (a poderosa associação de pastores da Espanha medieval). Com o declínio do pastoreio nômade, a raça foi preservada por entusiastas como o cão de guarda rural e de companhia imponente que conhecemos hoje, sendo a raça nacional da Espanha.",
     "curiosidades": [
-      "Mastiff Espanhol possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Mastiff Espanhol é um dos poucos cães que pode ultrapassar facilmente os 100 kg de peso, mantendo uma agilidade funcional surpreendente.",
+      "Eles possuem um latido cavernoso e profundo que pode ser ouvido a quilômetros de distância, usado originalmente para desencorajar predadores antes mesmo de serem vistos.",
+      "A raça possui um andar 'pesado e cadenciado', movendo-se com uma economia de energia típica de grandes guardiões de rebanho.",
+      "Diferente de outros mastiffs, o espanhol é conhecido por ter um discernimento aguçado, sendo capaz de ignorar estranhos pacíficos mas agindo com ferocidade se sentir uma ameaça real.",
+      "Eles são famosos por amarem o contato físico com seus tutores, frequentemente tentando 'encostar' todo o seu corpo massivo nas pernas da família."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças gigantes e independentes",
+      "Grandes propriedades rurais, fazendas ou casas com terrenos vastos",
+      "Famílias com crianças (ele é um protetor extremamente gentil e tolerante)",
+      "Quem busca um cão de guarda dissuasivo apenas pela sua presença monumental",
+      "Proprietários que vivem em climas temperados ou secos"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas (devido ao tamanho e necessidade de patrulha)",
+      "Tutores que buscam obediência cega e execução de truques (ele é um livre-pensador)",
+      "Pessoas que não toleram babas e queda de pelos sazonal abundante",
+      "Proprietários que não podem arcar com os custos altíssimos de alimentação e saúde preventiva",
+      "Ambientes com escadas excessivas que podem danificar suas articulações pesadas"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico",
+      "Displasia de Quadril e Cotovelo (comum devido ao peso massivo)",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Cardiopatias",
+      "Panosteíte (dor do crescimento em jovens)",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento ortopédico e cardíaco semestral. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento prolongado do filhote (até os 3 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal profunda para remover pelos mortos. Banhos devem ser mensais, exigindo um espaço adequado. É vital limpar as dobras faciais e barbelas diariamente para evitar fungos. As unhas devem ser mantidas curtas para não comprometer a postura pesada.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas longas em ritmo calmo são essenciais para manter o tônus muscular. Ele prefere patrulhar o seu território de forma lenta do que correr de forma frenética. Evite exercícios de alto impacto para proteger as articulações.",
+    "treinamento": "O adestramento exige paciência e liderança firme mas carinhosa. O Mastiff Espanhol é inteligente mas independente. Use reforço positivo e nunca force o cão. A socialização precoce e intensa é MANDATÓRIA para garantir que seu instinto de guarda seja equilibrado.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL dividir a alimentação em pelo menos três refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Mastiff Espanhol - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Mastiff Espanhol: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Mastiff Espanhol: O Colosso Guardião da Ibéria - Guia de Raça",
+    "description": "Descubra o Mastiff Espanhol: conheça sua força monumental, seu temperamento dócil e a história milenar como protetor dos rebanhos Merino. Guia completo de cuidados.",
     "keywords": [
-      "mastiff-espanhol",
-      "mastiff espanhol",
-      "gigante",
-      "espanha"
+      "Mastiff Espanhol",
+      "Mastín Español",
+      "cão de guarda gigante",
+      "gigante gentil",
+      "cão de transumância",
+      "raças de cães grandes",
+      "cuidados com Mastiff Espanhol",
+      "temperamento Mastiff"
     ]
   },
   "imagem_principal": "/images/breeds/mastiff-espanhol.jpg",
@@ -77,11 +93,58 @@
     "/images/breeds/mastiff-espanhol-2.jpg",
     "/images/breeds/mastiff-espanhol-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=mastiff-espanhol",
-  "popularidade": 8699,
-  "ranking_brasil": 60,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Spanish Mastiff - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-spanishmastiff",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-spanishmastiff/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Força do Mastín Español no Trabalho",
+      "url": "https://www.youtube.com/watch?v=example-mastin-work",
+      "canal": "Espanha Rural",
+      "duracao": "11:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-dos-pirineus",
+    "sao-bernardo",
+    "rafeiro-do-alentejo",
+    "mastiff-ingles",
+    "grande-cao-da-montanha-suica"
+  ],
+  "cores_disponiveis": [
+    "Amarelo",
+    "Fulvo (Fawn)",
+    "Vermelho",
+    "Preto",
+    "Cinza Lobo",
+    "Tigrado"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Manchas brancas permitidas no peito e patas",
+    "Pele solta e barbelas abundantes"
+  ],
+  "curiosidades_historicas": "Na Espanha medieval, o Mastiff Espanhol era o único animal protegido por leis de transumância que proibiam qualquer pessoa de interferir na sua caminhada. Se um pastor perdesse um Mastín, ele era obrigado a pagar uma multa pesada em prata, pois a perda do cão significava deixar o rebanho vulnerável e comprometer a riqueza da coroa.",
+  "referencias_externas": [
+    {
+      "titulo": "AEPME - Asociación Española del Perro Mastín Español",
+      "url": "https://www.aepme.org/",
+      "descricao": "Associação oficial de criadores e preservação da raça na Espanha."
+    },
+    {
+      "titulo": "FCI - Spanish Mastiff Standard",
+      "url": "https://www.fci.be/en/nomenclature/SPANISH-MASTIFF-91.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    353,
-    1467
+    600,
+    1800
   ]
 }

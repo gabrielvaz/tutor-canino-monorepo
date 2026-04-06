@@ -4,70 +4,86 @@
   "slug": "nova-scotia-duck-tolling-retriever",
   "nome_en": "Nova Scotia Duck Tolling Retriever",
   "apelidos": [
-    "Nova",
-    "Retriever"
+    "Toller",
+    "Pequeno Retriever da Nova Escócia"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Canadá",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "26.1 kg",
-    "peso_femea": "23 kg",
+    "origem": "Canadá (Nova Escócia)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "48 - 51 cm",
+    "altura_femea": "45 - 48 cm",
+    "peso_macho": "20 - 23 kg",
+    "peso_femea": "17 - 20 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1985
+    "ano_reconhecimento_fci": 1981
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 5,
-    "latido": 5,
-    "afeicao_familia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 4,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Nova Scotia Duck Tolling Retriever é uma raça de porte médio originária de Canadá. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Nova Scotia Duck Tolling Retriever originou-se em Canadá, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Nova Scotia Duck Tolling Retriever, ou simplesmente 'Toller', é o menor e mais ágil de todos os retrievers, um cão de porte médio que parece uma raposa em miniatura. De constituição atlética e compacta, ele possui uma pelagem dupla densa, macia e impermeável em tons vibrantes de vermelho ou laranja, frequentemente adornada com marcações brancas. Sua expressão é de uma inteligência focada e um entusiasmo contagiante. O Toller é famoso por seu estilo de trabalho único de 'tolling' (atrair), onde ele brinca na margem para despertar a curiosidade dos patos antes de buscá-los na água. É um companheiro vibrante, intensamente inteligente e dotado de uma energia inesgotável para o trabalho e para a vida em família.",
+    "historia": "A raça desenvolveu-se no condado de Yarmouth, na Nova Escócia, Canadá, no início do século XIX. Os caçadores canadenses buscavam criar um cão que mimetizasse o comportamento das raposas vermelhas, que atraem patos para a margem através de brincadeiras e movimentos rápidos. Cruzando retrievers locais com spaniels e possivelmente cães de tipo collie e setter, eles estabilizaram o Toller. A raça permaneceu um segredo local por décadas até ser oficialmente reconhecida pelo Kennel Club canadense em 1945 e pela FCI em 1981, ganhando desde então o posto de um dos retrievers mais versáteis e eficientes do mundo.",
     "curiosidades": [
-      "Nova Scotia Duck Tolling Retriever possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Tolling' deriva da palavra do inglês médio 'tollen', que significa 'atrair' ou 'chamar para perto'.",
+      "O Toller é famoso pelo seu 'Grito do Toller' (Toller Scream), um som agudo e excitado que ele emite quando está ansioso para começar a trabalhar ou brincar.",
+      "Eles possuem membranas interdigitais muito desenvolvidas, tornando-os nadadores excepcionalmente rápidos mesmo em águas geladas.",
+      "Diferente de outros retrievers que esperam o pato ser abatido, o Toller trabalha ANTES do tiro, servindo como uma isca viva para aproximar as aves.",
+      "Apesar de serem excelentes trabalhadores, os Tollers são conhecidos por terem um 'senso de humor' e serem mestres em inventar brincadeiras para chamar a atenção dos tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam esportes aquáticos e trilhas",
+      "Tutores interessados em adestramento avançado e competições de Agility ou Obediência",
+      "Donos que vivem próximo a lagos, rios ou praias (ele vive para a água)",
+      "Pessoas que buscam um retriever de médio porte mais compacto e ágil",
+      "Proprietários que podem dedicar várias horas diárias ao estímulo físico e mental"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão para ficar apenas no sofá",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de exercícios externos",
+      "Pessoas sensíveis a ruídos (ele possui um latido agudo e o famoso 'grito')",
+      "Famílias que ficam fora de casa o dia todo (sofre com a falta de interação)",
+      "Tutores que não toleram queda de pelos abundante (ele solta muito pelo o ano todo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina) - teste genético disponível",
+      "Problemas autoimunes (SRMA - Meningite-Arterite Responsiva a Corticosteróides)",
+      "Addison's Disease (Hipoadrenocorticismo)",
+      "Problemas oculares (Catarata)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos e ortopédicos anuais são essenciais. Testes de DNA para doenças genéticas da raça. Monitoramento rigoroso da função adrenal e tireoidiana."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada a alta. Exige escovação pelo menos três vezes por semana para remover pelos mortos e evitar nós nas franjas das orelhas e pernas. Banhos devem ser mensais ou após natação. É vital secar e limpar as orelhas pendentes após qualquer atividade na água para prevenir otites. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS. Caminhadas simples não bastam; o Toller precisa nadar, correr e ter desafios mentais complexos. Ele se destaca em qualquer esporte canino e precisa de pelo menos 1 a 2 horas de atividade intensa diária para ser equilibrado em casa.",
+    "treinamento": "Extremamente inteligente e ávido por aprender, o Toller aprende comandos novos em pouquíssimas repetições. Ele responde maravilhosamente bem ao reforço positivo e motivação. No entanto, ele pode ser obstinado se o treino for repetitivo ou chato. A socialização precoce é VITAL.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de médio porte. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça muito ativa."
   },
   "seo": {
-    "title": "Nova Scotia Duck Tolling Retriever - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Nova Scotia Duck Tolling Retriever: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Nova Scotia Duck Tolling Retriever (Toller): O Ágil Atraidor de Patos",
+    "description": "Descubra o Toller: conheça sua inteligência brilhante, sua história única na Nova Escócia e as dicas vitais de cuidados com a saúde e exercícios deste retriever incrível.",
     "keywords": [
-      "nova-scotia-duck-tolling-retriever",
-      "nova scotia duck tolling retriever",
-      "médio",
-      "canadá"
+      "Nova Scotia Duck Tolling Retriever",
+      "Toller",
+      "cão atraidor de patos",
+      "retriever canadense",
+      "cão nadador",
+      "raças de cães médias",
+      "cuidados com Toller",
+      "temperamento Toller"
     ]
   },
   "imagem_principal": "/images/breeds/nova-scotia-duck-tolling-retriever.jpg",
@@ -76,11 +92,54 @@
     "/images/breeds/nova-scotia-duck-tolling-retriever-2.jpg",
     "/images/breeds/nova-scotia-duck-tolling-retriever-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=nova-scotia-duck-tolling-retriever",
-  "popularidade": 23680,
-  "ranking_brasil": 35,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Nova Scotia Duck Tolling Retriever - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-toller",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-toller/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho de Tolling em Ação",
+      "url": "https://www.youtube.com/watch?v=example-toller-work",
+      "canal": "Hunting World",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "golden-retriever",
+    "labrador-retriever",
+    "flat-coated-retriever",
+    "brittany"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red) em vários tons",
+    "Laranja (Orange)"
+  ],
+  "marcacoes": [
+    "Marcações brancas na ponta da cauda (comum)",
+    "Pés brancos",
+    "Peito branco",
+    "Chama branca na face"
+  ],
+  "curiosidades_historicas": "O Toller foi originalmente chamado de 'Little River Duck Dog' (Cão de Pato do Rio Pequeno) devido à sua origem no Rio Yarmouth. A raça foi quase mantida em segredo pelos caçadores canadenses por mais de um século, que não queriam que seus vizinhos descobrissem o 'truque' do cão que atraía patos para o alcance das armas.",
+  "referencias_externas": [
+    {
+      "titulo": "Nova Scotia Duck Tolling Retriever Club (USA)",
+      "url": "https://www.nsdtrc-usa.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Nova Scotia Duck Tolling Retriever Standard",
+      "url": "https://www.fci.be/en/nomenclature/NOVA-SCOTIA-DUCK-TOLLING-RETRIEVER-312.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    436,
-    1347
+    350,
+    850
   ]
 }
