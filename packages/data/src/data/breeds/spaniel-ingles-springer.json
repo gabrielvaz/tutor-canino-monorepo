@@ -4,70 +4,88 @@
   "slug": "spaniel-ingles-springer",
   "nome_en": "English Springer Spaniel",
   "apelidos": [
-    "Spaniel",
-    "Springer"
+    "Springer",
+    "English Springer",
+    "Springer Inglês"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "47 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "28.2 kg",
-    "peso_femea": "25.4 kg",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "50 - 51 cm",
+    "altura_femea": "48 - 49 cm",
+    "peso_macho": "20 - 25 kg",
+    "peso_femea": "18 - 23 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1913
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 5,
     "inteligencia": 5,
     "queda_pelo": 3,
-    "latido": 2,
-    "afeicao_familia": 2,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 3,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Spaniel Inglês Springer é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Spaniel Inglês Springer originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Spaniel Inglês Springer é a personificação do entusiasmo e do vigor atlético entre os spaniels. De porte médio e constituição poderosa e bem balanceada, ele foi desenvolvido especificamente para 'levantar' (spring) a caça para o caçador. Sua pelagem é de comprimento médio, sedosa e plana, com franjas abundantes nas orelhas, pernas e peito. Com orelhas pendentes lobulares e um olhar que transborda doçura e inteligência, o Springer é famoso por seu temperamento extremamente alegre e sua cauda que nunca para de abanar. É um trabalhador incansável em campo e um companheiro de família intensamente afetuoso que precisa participar ativamente da vida doméstica.",
+    "historia": "A raça tem raízes antigas na Inglaterra, descendendo dos spaniels terrestres que ajudavam caçadores a localizar aves. Durante séculos, spaniels de tamanhos diferentes nasciam na mesma ninhada; os maiores eram usados para levantar a caça (springers) e os menores para caçar a galinhola (cockers). Em 1902, o Kennel Club inglês reconheceu formalmente o English Springer Spaniel como uma raça distinta. Eles foram divididos em duas linhagens: a de 'exposição' (focada na beleza e pelagem luxuosa) e a de 'trabalho' (focada na velocidade e agilidade), mantendo ambas a inteligência superior que tornou a raça famosa mundialmente.",
     "curiosidades": [
-      "Spaniel Inglês Springer possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Springer' refere-se ao estilo de caça do cão, que literalmente salta ou 'mola' sobre a vegetação para fazer as aves voarem.",
+      "O Springer Inglês ocupa a 13ª posição no ranking de inteligência de Stanley Coren, sendo um dos cães de esporte mais brilhantes e fáceis de treinar.",
+      "Eles possuem um faro extraordinário e são frequentemente recrutados por polícias e exércitos para detecção de explosivos e narcóticos.",
+      "A raça possui um instinto de natação nato, possuindo uma pelagem impermeável e membranas interdigitais que facilitam o nado em rios gelados.",
+      "O Springer Inglês é conhecido por sua 'saudação de corpo inteiro', onde ele balança o tronco inteiro de alegria ao ver seus tutores chegarem em casa."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam esportes, trilhas e atividades ao ar livre",
+      "Tutores interessados em adestramento de alto nível, Agility ou competições de campo",
+      "Quem vive em casas com grandes quintais gramados e seguros",
+      "Pessoas que buscam um companheiro intensamente afetuoso e dócil com crianças",
+      "Donos que desejam um parceiro para natação e jogos de busca (fetch) incansáveis"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer pelo menos 1,5 horas de exercícios vigorosos diários",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de atividades externas",
+      "Famílias que ficam fora de casa o dia todo (ele sofre severamente com a solidão e tédio)",
+      "Pessoas extremamente zelosas com a limpeza da casa (as franjas trazem muita sujeira e água do campo)",
+      "Tutores que não tenham paciência para lidar com a exuberância física da raça (ele corre e pula com muito entusiasmo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (PRA, Catarata e Entrópio)",
+      "Otites (infecções de ouvido devido ao formato pendente e abafado)",
+      "Síndrome da Raiva do Springer (comportamento agressivo súbito - raro, mas documentado)",
+      "Fucosidose (doença metabólica hereditária)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Limpeza e secagem semanal profunda das orelhas pendentes. Testes genéticos para Fucosidose e PRA antes da reprodução."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós dolorosos, especialmente nas orelhas e axilas. Durante a troca de pelo, a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores. É vital limpar as orelhas após natação ou passeios na chuva. As unhas devem ser mantidas curtas para não comprometer a agilidade.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 horas de atividade física. Caminhadas longas, sessões de natação e jogos de busca são fundamentais. O Springer Inglês é um atleta de resistência que se torna destrutivo e ansioso se não gastar sua vitalidade física e mental.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo devido à sua inteligência e desejo de agradar. Use reforço positivo, variedade e desafios crescentes. A socialização precoce é importante para evitar a timidez excessiva. Ele se destaca em Agility, Obediência e trabalho de campo.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça muito veloz e ágil."
   },
   "seo": {
-    "title": "Spaniel Inglês Springer - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Spaniel Inglês Springer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Spaniel Inglês Springer: O Atleta Alegre e Inteligente - Guia de Raça",
+    "description": "Descubra o Spaniel Inglês Springer: conheça sua inteligência de elite, sua história na caça britânica e as dicas vitais de cuidados com a pelagem e exercícios.",
     "keywords": [
-      "spaniel-ingles-springer",
-      "spaniel inglês springer",
-      "médio",
-      "inglaterra"
+      "Spaniel Inglês Springer",
+      "English Springer Spaniel",
+      "Springer Inglês",
+      "cão inteligente",
+      "cão nadador",
+      "cão de caça inglês",
+      "raças de cães médias",
+      "cuidados com Springer",
+      "temperamento Springer"
     ]
   },
   "imagem_principal": "/images/breeds/spaniel-ingles-springer.jpg",
@@ -76,11 +94,56 @@
     "/images/breeds/spaniel-ingles-springer-2.jpg",
     "/images/breeds/spaniel-ingles-springer-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=spaniel-ingles-springer",
-  "popularidade": 19234,
-  "ranking_brasil": 94,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "English Springer Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-springer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-springer/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Springer Inglês",
+      "url": "https://www.youtube.com/watch?v=example-springer-intel",
+      "canal": "Mundo Canino",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "spaniel-gales-springer",
+    "cocker-spaniel-ingles",
+    "brittany",
+    "field-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Fígado e Branco (Liver & White)",
+    "Preto e Branco",
+    "Tricolor (Fígado, Branco e Tan)",
+    "Ruão (Roan)"
+  ],
+  "marcacoes": [
+    "Padrão particolor obrigatório",
+    "Chama branca na face",
+    "Salpicado (ticking) nas pernas e focinho comum",
+    "Franjas abundantes nas orelhas e cauda"
+  ],
+  "curiosidades_historicas": "O Springer Inglês 'Buster' foi um herói da Guerra do Iraque, servindo com o exército britânico. Ele salvou centenas de vidas ao localizar cinco esconderijos de armas e munições táticas em missões de alto risco, sendo condecorado com a Medalha Dickin, o equivalente canino à Cruz Vitória.",
+  "referencias_externas": [
+    {
+      "titulo": "English Springer Spaniel Field Trial Association",
+      "url": "https://englishspringer.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - English Springer Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-SPRINGER-SPANIEL-125.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    317,
-    764
+    350,
+    850
   ]
 }

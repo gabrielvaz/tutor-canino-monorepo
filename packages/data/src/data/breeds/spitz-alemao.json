@@ -5,69 +5,92 @@
   "nome_en": "German Spitz",
   "apelidos": [
     "Spitz",
-    "Alemão"
+    "Cão Raposa",
+    "Spitz Médio / Grande"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "35 cm",
-    "peso_macho": "16.5 kg",
-    "peso_femea": "13.1 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "30 - 55 cm (conforme variedade)",
+    "altura_femea": "30 - 55 cm (conforme variedade)",
+    "peso_macho": "7 - 30 kg",
+    "peso_femea": "7 - 25 kg",
+    "variedades": {
+      "medio": "30-38 cm / 7-11 kg",
+      "grande": "42-50 cm / 15-20 kg",
+      "wolfspitz": "43-55 cm / 25-30 kg"
+    },
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1964
+    "ano_reconhecimento_fci": 1957
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 2,
+    "inteligencia": 5,
     "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Spitz Alemão é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Spitz Alemão originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Spitz Alemão é uma das raças mais antigas e imponentes da Europa Central, um cão que personifica a vivacidade, o alerta e o glamour rústico. Disponível em diversos tamanhos (Médio, Grande e o gigante Wolfspitz), a raça é famosa por sua pelagem dupla extraordinariamente farta e 'armada', que lhe confere um visual de bolinha de pelos. Sua cabeça lembra a de uma raposa, com orelhas eretas, olhos inteligentes e uma cauda ricamente franjada que se enrola sobre o dorso. É um cão dotado de uma autoconfiança notável, sendo um guardião de alerta fenomenal e um companheiro de família profundamente leal e apegado.",
+    "historia": "Os Spitz alemães descendem dos antigos cães de turfa da Idade da Pedra e são considerados os ancestrais de muitas outras raças europeias. Por milênios, foram cães de utilidade multifuncionais: os maiores guardavam fazendas e barcaças, enquanto os menores caçavam pragas e faziam companhia. Na Idade Média, o Spitz era o cão onipresente nas cidades alemãs, atuando como o 'olho vigilante' dos comerciantes. A raça manteve suas características rústicas e temperamento alerta através dos séculos, sendo padronizada formalmente no final do século XIX para preservar as diferentes variedades de tamanho que hoje encantam tutores em todo o mundo.",
     "curiosidades": [
-      "Spitz Alemão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Spitz Alemão é a raça base que deu origem ao popular Lulu da Pomerânia (Spitz Anão), que é apenas a menor variedade da mesma família.",
+      "Eles possuem o que é chamado de 'dupla camada de pelo': um subpelo denso e lanoso que serve como suporte para o pelo de cobertura longo e reto, mantendo-o sempre afastado do corpo.",
+      "Diferente de outras raças, o Spitz Alemão é famoso por não ter quase nenhum 'odor de cachorro', mantendo-se extremamente limpo devido à estrutura da sua pelagem que repele a sujeira.",
+      "Eles são conhecidos por serem cães 'anti-invasores', possuindo um instinto territorial tão apurado que avisam sobre qualquer mudança sutil no ambiente muito antes de outros cães.",
+      "Na Alemanha antiga, possuir um Spitz era sinal de ser uma pessoa 'atenta e honesta', refletindo o temperamento vigilante e incorruptível da raça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Moradores de apartamentos ou casas urbanas que buscam segurança e alerta",
+      "Tutores que buscam um companheiro extremamente inteligente e fácil de treinar",
+      "Famílias que desejam um cão leal que participe ativamente da rotina doméstica",
+      "Pessoas que apreciam cuidar da estética canina e escovação regular",
+      "Quem busca um cão de vida longa, rústico e resistente"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que se incomodam com latidos frequentes (ele usa a voz como principal ferramenta de alerta)",
+      "Pessoas que não suportam queda de pelos abundante (ele troca de casaco intensamente duas vezes ao ano)",
+      "Ambientes com calor tropical extremo sem refrigeração adequada",
+      "Tutores sedentários que não ofereçam pelo menos caminhadas diárias e estímulo mental",
+      "Famílias que ficam fora de casa o dia todo (ele sofre com a falta de interação social)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Patela",
+      "Alopecia X (perda de pelo de causa desconhecida)",
+      "Problemas oculares (Catarata e PRA)",
+      "Hipotireoidismo",
+      "Colapso de Traqueia (nos tamanhos menores)",
+      "Displasia de Quadril (no Wolfspitz e Spitz Grande)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento da saúde da pele e tireoide. Higiene bucal diária é essencial."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação profunda pelo menos três vezes por semana para evitar que o subpelo forme nós e para manter o visual armado. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais com secagem TOTAL do subpelo (usando soprador profissional). É vital limpar as orelhas e manter as unhas curtas. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e, crucialmente, estímulo mental satisfazem suas necessidades. O Spitz Alemão adora aprender truques novos, participar de jogos de busca e interagir com brinquedos de inteligência.",
+    "treinamento": "Muito inteligente e ávido por aprender, o Spitz aprende comandos com rapidez. No entanto, pode ser teimoso e independente. Use reforço positivo, variedade e desafios constantes. A socialização precoce é MANDATÓRIA para canalizar seu instinto de latido e evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade. O controle das porções é fundamental, pois o Spitz Alemão tem facilidade para engordar escondido sob os pelos, o que prejudica suas articulações e respiração."
   },
   "seo": {
-    "title": "Spitz Alemão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Spitz Alemão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Spitz Alemão: O Inteligente e Vigilante Cão Raposa - Guia de Raça",
+    "description": "Descubra o Spitz Alemão: conheça as variedades de tamanho, seu temperamento alerta e as dicas vitais de cuidados com a pelagem magnífica e saúde.",
     "keywords": [
-      "spitz-alemao",
-      "spitz alemão",
-      "médio",
-      "alemanha"
+      "Spitz Alemão",
+      "German Spitz",
+      "Wolfspitz",
+      "cão raposa",
+      "cão inteligente",
+      "cão de guarda de alerta",
+      "raças de cães médias",
+      "cuidados com Spitz",
+      "temperamento Spitz Alemão"
     ]
   },
   "imagem_principal": "/images/breeds/spitz-alemao.jpg",
@@ -76,11 +99,59 @@
     "/images/breeds/spitz-alemao-2.jpg",
     "/images/breeds/spitz-alemao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=spitz-alemao",
-  "popularidade": 20928,
-  "ranking_brasil": 113,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "German Spitz - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-germanspitz",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-germanspitz/hqdefault.jpg"
+    },
+    {
+      "titulo": "As Diferenças entre Spitz Alemão e Lulu",
+      "url": "https://www.youtube.com/watch?v=example-spitz-diff",
+      "canal": "Mundo Canino",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "lulu-da-pomerania",
+    "keeshond",
+    "samoieda",
+    "shiba-inu",
+    "elkhound-noruegues"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Castanho (Brown)",
+    "Laranja",
+    "Cinza Sombreado (Wolfspitz)",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Juba farta no pescoço (colar)",
+    "Pelo longo reto e armado",
+    "Cauda enrolada obrigatória",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "O Spitz Alemão foi um dos primeiros cães a serem levados para a América por colonos alemães, mas durante as Guerras Mundiais a raça sofreu muito preconceito devido à sua origem, levando muitos donos a mudarem o nome dos seus cães para 'Eskimo Dog' ou outros nomes menos germânicos para protegê-los.",
+  "referencias_externas": [
+    {
+      "titulo": "Verein für Deutsche Spitze (Alemanha)",
+      "url": "https://www.deutsche-spitze.de/",
+      "descricao": "O clube oficial de raça na Alemanha dedicado a todas as variedades de Spitz."
+    },
+    {
+      "titulo": "FCI - German Spitz Standard",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SPITZ-97.html",
+      "descricao": "Padrão oficial que engloba todas as variedades de tamanho do Spitz Alemão."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 40,
   "custo_mensal_estimado": [
-    426,
-    750
+    300,
+    800
   ]
 }

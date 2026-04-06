@@ -4,76 +4,88 @@
   "slug": "spaniel-tibetano",
   "nome_en": "Tibetan Spaniel",
   "apelidos": [
-    "Spaniel",
-    "Tibetano"
+    "Tibbie",
+    "Cão de Oração",
+    "Simye"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Tibete",
-    "expectativa_vida": "11 - 13 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "23 cm",
-    "peso_macho": "6.1 kg",
-    "peso_femea": "4.6 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "25 - 28 cm",
+    "altura_femea": "23 - 26 cm",
+    "peso_macho": "4.1 - 6.8 kg",
+    "peso_femea": "4 - 6.5 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1954
+    "ano_reconhecimento_fci": 1961
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 4,
-    "latido": 2,
-    "afeicao_familia": 1,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 5,
+    "bom_com_outros_caes": 4,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 2,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Spaniel Tibetano é uma raça de porte pequeno originária de Tibete. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Spaniel Tibetano originou-se em Tibete, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Spaniel Tibetano, ou 'Tibbie', é um cão de companhia de beleza exótica e temperamento digno, originário dos mosteiros das montanhas do Himalaia. De porte pequeno e construção ligeiramente alongada, ele possui uma pelagem sedosa e farta, com uma 'juba' característica ao redor do pescoço e uma cauda em forma de pluma que se curva alegremente sobre o dorso. Diferente do que o nome sugere, ele não é um spaniel de caça, mas sim um guardião de alerta e companheiro sagrado. Sua expressão é inteligente e decidida, com olhos escuros que transmitem uma aura de sabedoria oriental e independência.",
+    "historia": "A raça tem raízes que remontam a mais de 2.000 anos no Tibete. Eles viviam exclusivamente dentro dos mosteiros budistas, onde desempenhavam duas funções vitais: eram companheiros de oração dos monges e agiam como 'sentinelas', sentando-se no topo dos muros dos mosteiros para alertar os grandes Mastiffs Tibetanos sobre a aproximação de estranhos. Acreditava-se que os Tibbies giravam as rodas de oração com suas patas. Foram introduzidos no ocidente no final do século XIX, mas ganharam reconhecimento oficial e popularidade apenas em meados do século XX, preservando até hoje sua natureza vigilante e afetuosa.",
     "curiosidades": [
-      "Spaniel Tibetano possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Spaniel Tibetano não é tecnicamente um spaniel; o nome foi dado por viajantes europeus devido à semelhança física com os spaniels de companhia da época, mas a raça compartilha mais genética com o Pug e o Pequinês.",
+      "Eles são famosos por seu hábito de 'escalar' e sentar-se nos locais mais altos da casa (como o encosto de sofás ou parapeitos de janelas) para monitorar o seu território.",
+      "No Tibete antigo, os exemplares menores e mais perfeitos eram frequentemente trocados entre os mosteiros como presentes diplomáticos sagrados.",
+      "Eles possuem um senso de audição extraordinário, sendo capazes de detectar passos a uma distância surpreendente antes mesmo de qualquer outro cão latir.",
+      "Diferente de muitas raças pequenas, o Tibbie é conhecido por ter um temperamento muito equilibrado e independente, não sendo um cão excessivamente carente."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos que buscam um cão de guarda silencioso (em movimento)",
+      "Pessoas que buscam um companheiro afetuoso mas que respeita a própria independência",
+      "Famílias com crianças maiores que saibam tratar o animal com dignidade",
+      "Quem aprecia a estética e a história das raças sagradas do Tibete",
+      "Tutores que buscam um cão de vida longa e muito limpo"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores iniciantes que buscam obediência cega (ele é independente e pode ser teimoso)",
+      "Pessoas que não suportam queda de pelo moderada (ele troca de casaco duas vezes ao ano)",
+      "Proprietários que não podem dedicar tempo à escovação semanal da pelagem farta",
+      "Famílias com crianças muito brutas (ele exige ser tratado com respeito, como um pequeno aristocrata)",
+      "Ambientes onde o cão ficará confinado sem contato visual com o exterior (ele precisa vigiar)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "PRA (Atrofia Progressiva da Retina) - teste genético disponível",
+      "Luxação de Patela",
+      "Problemas dentários (tártaro)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Persistência do Ducto Arterioso (PDA - raro)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis devido ao risco de PRA. Check-ups ortopédicos regulares. Higiene bucal diária é essencial para evitar perda de dentes."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é moderada. Exige escovação profunda pelo menos duas vezes por semana para evitar nós, especialmente na juba e franjas das orelhas. Banhos devem ser mensais com bons condicionadores. O pelo ao redor das patas deve ser aparado. A limpeza dos olhos e orelhas é importante. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis satisfazem suas necessidades físicas, mas ele precisa de estímulo mental e da oportunidade de 'vigiar' o ambiente de um ponto alto. O Tibbie adora jogos de inteligência e explorar novos caminhos.",
+    "treinamento": "Inteligente mas independente. O adestramento deve ser baseado em reforço positivo, paciência e respeito. Eles se aborrecem com repetições e podem ser teimosos se sentirem que estão sendo tratados de forma injusta. A socialização precoce é fundamental para canalizar seu instinto vigilante de forma equilibrada.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é essencial, pois o Spaniel Tibetano tem facilidade para engordar, o que prejudica sua agilidade e saúde cardíaca."
   },
   "seo": {
-    "title": "Spaniel Tibetano - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Spaniel Tibetano: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Spaniel Tibetano (Tibbie): O Sentinela Sagrado do Himalaia - Guia de Raça",
+    "description": "Descubra o Spaniel Tibetano: conheça sua história nos mosteiros, seu temperamento leal e vigilante e as dicas vitais de cuidados com a pelagem e saúde desta raça nobre.",
     "keywords": [
-      "spaniel-tibetano",
-      "spaniel tibetano",
-      "pequeno",
-      "tibete"
+      "Spaniel Tibetano",
+      "Tibetan Spaniel",
+      "Tibbie",
+      "cão sentinela",
+      "cão do Tibete",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Spaniel Tibetano",
+      "temperamento Tibbie"
     ]
   },
   "imagem_principal": "/images/breeds/spaniel-tibetano.jpg",
@@ -82,11 +94,59 @@
     "/images/breeds/spaniel-tibetano-2.jpg",
     "/images/breeds/spaniel-tibetano-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=spaniel-tibetano",
-  "popularidade": 6787,
-  "ranking_brasil": 170,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Tibetan Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-tibbie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-tibbie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Spaniel Tibetano",
+      "url": "https://www.youtube.com/watch?v=example-tibbie-life",
+      "canal": "Mundo Canino",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "lhasa-apso",
+    "shih-tzu",
+    "pequines",
+    "pug",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e manchas permitidas",
+    "Dourado (Sable)",
+    "Vermelho",
+    "Preto e Tan",
+    "Creme",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido",
+    "Chama branca na face comum",
+    "Marcações brancas nos pés e peito",
+    "Pele bem pigmentada"
+  ],
+  "curiosidades_historicas": "Os Spaniels Tibetanos eram chamados de 'Cães de Oração' porque se acreditava que, ao latirem para estranhos aproximando-se dos mosteiros, eles estavam na verdade recitando mantras para afastar espíritos malignos, protegendo a pureza espiritual do local sagrado.",
+  "referencias_externas": [
+    {
+      "titulo": "Tibetan Spaniel Club of America",
+      "url": "http://www.tsca.ws/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Tibetan Spaniel Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/TIBETAN-SPANIEL-231.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    306,
-    791
+    250,
+    650
   ]
 }
