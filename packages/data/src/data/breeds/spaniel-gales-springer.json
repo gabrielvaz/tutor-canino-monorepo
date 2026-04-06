@@ -4,70 +4,87 @@
   "slug": "spaniel-gales-springer",
   "nome_en": "Welsh Springer Spaniel",
   "apelidos": [
-    "Spaniel",
-    "Springer"
+    "Welshie",
+    "Springer Galês",
+    "O Cão de Vermelho e Branco"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "País de Gales",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "29.6 kg",
-    "peso_femea": "24.7 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "46 - 48 cm",
+    "altura_femea": "44 - 46 cm",
+    "peso_macho": "18 - 20 kg",
+    "peso_femea": "16 - 18 kg",
     "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1934
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 5,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Spaniel Galês Springer é uma raça de porte médio originária de País de Gales. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Spaniel Galês Springer originou-se em País de Gales, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Spaniel Galês Springer é uma raça de porte médio, dotada de uma beleza clássica e uma vivacidade contagiante. Caracteriza-se por sua pelagem sedosa, plana e farta, invariavelmente branca com manchas de um vermelho rico e profundo (ruivo). Diferente de seu primo inglês, o Welsh Springer é ligeiramente menor e possui uma constituição mais compacta e robusta, adequada para o trabalho em terrenos acidentados. Com orelhas pendentes em forma de folha de videira e olhos castanhos que brilham com entusiasmo, ele é um caçador incansável e um companheiro de família intensamente afetuoso, famoso por sua lealdade e por estar sempre com a cauda em movimento alegre.",
+    "historia": "As raízes da raça são ancestrais, remontando a pelo menos 400 anos no País de Gales, sendo retratada em tapeçarias e manuscritos desde o século XVI. Originalmente chamado de 'Land Spaniel', ele foi selecionado por camponeses e caçadores galeses para levantar (spring) a caça para falcões e redes, e mais tarde para armas de fogo. Por muito tempo, o Welsh foi confundido com o Springer Inglês e o Cocker, mas foi reconhecido como raça distinta pelo Kennel Club inglês em 1902. O Welsh Springer Spaniel é considerado o mais antigo e puro dos spaniels de trabalho britânicos, mantendo sua funcionalidade e temperamento rústico intactos.",
     "curiosidades": [
-      "Spaniel Galês Springer possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Welsh Springer Spaniel é famoso por ser um 'cão de sombra', preferindo estar fisicamente encostado em seus tutores sempre que possível.",
+      "Eles possuem o que os caçadores chamam de 'nariz persistente', sendo capazes de seguir um rastro de cheiro através de vegetação densa e água sem desistir.",
+      "Diferente de muitos spaniels que possuem várias cores, o Welsh Springer só existe na combinação Vermelho e Branco, o que é uma assinatura da raça.",
+      "Eles são conhecidos por serem cães 'nadadores de elite', possuindo uma pelagem impermeável e membranas interdigitais que facilitam o nado em rios gelados.",
+      "A raça possui um amadurecimento mental um pouco mais lento, mantendo o espírito brincalhão de um filhote até bem tarde na vida adulta."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias ativas que gostam de trilhas, caminhadas e atividades ao ar livre",
+      "Tutores que buscam um companheiro intensamente afetuoso e leal",
+      "Quem vive em casas com quintais espaçosos e seguros",
+      "Donos que apreciam cuidar da estética canina e escovação regular",
+      "Pessoas que residem próximo a áreas naturais e acesso à água (ele ama nadar)"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer exercícios físicos diários vigorosos",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de passeios externos",
+      "Famílias que ficam fora de casa o dia todo (ele sofre com ansiedade de separação)",
+      "Pessoas extremamente zelosas com a limpeza da casa (ele traz muita sujeira do campo nas franjas)",
+      "Tutores que não queiram um cão que exija contato físico e atenção constantes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Glaucoma e Catarata)",
+      "Otites (infecções de ouvido devido ao formato pendente e abafado)",
+      "Hipotireoidismo",
+      "Epilepsia (ocasional na linhagem)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Limpeza e secagem semanal profunda das orelhas pendentes. Monitoramento rigoroso do peso."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Durante a troca de pelo, a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores. É vital limpar as orelhas após qualquer natação ou passeio na chuva. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 a 1,5 horas de atividade física. Caminhadas vigorosas, sessões de natação e jogos de busca são fundamentais. O Welsh Springer Spaniel é um atleta de resistência que se torna destrutivo se não gastar sua vitalidade.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas pode ser independente ou distraído por cheiros. O adestramento deve ser baseado em reforço positivo, paciência e muita consistência. Ele é sensível a tons de voz severos. A socialização precoce é fundamental para garantir sua natureza confiante.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é necessário para manter o corpo atlético e não sobrecarregar as articulações desta raça muito veloz e ágil."
   },
   "seo": {
-    "title": "Spaniel Galês Springer - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Spaniel Galês Springer: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Spaniel Galês Springer: O Alegre e Fiel Atleta de Gales - Guia de Raça",
+    "description": "Conheça o Spaniel Galês Springer: descubra sua inteligência brilhante, sua história milenar na caça e as dicas vitais de cuidados com a pelagem ruiva e branca.",
     "keywords": [
-      "spaniel-gales-springer",
-      "spaniel galês springer",
-      "médio",
-      "país de gales"
+      "Spaniel Galês Springer",
+      "Welsh Springer Spaniel",
+      "cão de aponte galês",
+      "cão inteligente",
+      "cão nadador",
+      "raças de cães médias",
+      "cuidados com Welsh Springer",
+      "temperamento Welshie"
     ]
   },
   "imagem_principal": "/images/breeds/spaniel-gales-springer.jpg",
@@ -76,11 +93,52 @@
     "/images/breeds/spaniel-gales-springer-2.jpg",
     "/images/breeds/spaniel-gales-springer-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=spaniel-gales-springer",
-  "popularidade": 11128,
-  "ranking_brasil": 146,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Welsh Springer Spaniel - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-welshspringer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-welshspringer/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Springer Galês em Campo",
+      "url": "https://www.youtube.com/watch?v=example-welsh-work",
+      "canal": "Natureza Viva",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "spaniel-ingles-springer",
+    "cocker-spaniel-ingles",
+    "brittany",
+    "field-spaniel"
+  ],
+  "cores_disponiveis": [
+    "Vermelho Ruivo e Branco (Rich Red and White)"
+  ],
+  "marcacoes": [
+    "Padrão particolor obrigatório",
+    "Orelhas pendentes em forma de folha",
+    "Franjas abundantes nas orelhas, peito e cauda"
+  ],
+  "curiosidades_historicas": "O Welsh Springer Spaniel foi por séculos o cão favorito dos heróis nacionais galeses e dizem que o Príncipe Llywelyn, o Grande, no século XIII, nunca partia para uma caçada sem sua matilha de cães de aponte vermelhos e brancos, transformando a raça em um símbolo do orgulho e autonomia do País de Gales.",
+  "referencias_externas": [
+    {
+      "titulo": "Welsh Springer Spaniel Club of America",
+      "url": "https://wssca.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Welsh Springer Spaniel Standard",
+      "url": "https://www.fci.be/en/nomenclature/WELSH-SPRINGER-SPANIEL-126.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    225,
-    844
+    300,
+    800
   ]
 }
