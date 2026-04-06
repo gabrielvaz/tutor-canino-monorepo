@@ -1,80 +1,92 @@
 {
   "id": "shih-tzu",
-  "nome": "Shih Tzu",
+  "nome": "Shih-Tzu",
   "slug": "shih-tzu",
   "nome_en": "Shih Tzu",
   "apelidos": [
     "Shih",
-    "Tzu",
-    "Cão Leão"
+    "Cão Leão",
+    "Cão Crisântemo"
   ],
   "categoria": "Pequeno",
   "ficha_tecnica": {
-    "origem": "China",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "34 cm",
-    "altura_femea": "29 cm",
-    "peso_macho": "13 kg",
-    "peso_femea": "7.1 kg",
+    "origem": "Tibete / China",
+    "expectativa_vida": "10 - 16 anos",
+    "altura_macho": "20 - 28 cm",
+    "altura_femea": "20 - 28 cm",
+    "peso_macho": "4.5 - 8 kg",
+    "peso_femea": "4.5 - 8 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
     "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 2,
-    "inteligencia": 4,
-    "queda_pelo": 2,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 4,
+    "inteligencia": 3,
+    "queda_pelo": 1,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
     "necessidade_exercicio": 2,
-    "instinto_guarda": 5
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Shih Tzu é uma raça de porte pequeno originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Shih Tzu originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Shih-Tzu é a própria definição de charme e doçura em um pacote de pelos longo e sedoso. Famoso por sua aparência de 'leão em miniatura' e sua cabeça arredondada com focinho curto, ele possui uma pelagem profusa que flui graciosamente. Sua característica mais marcante é o temperamento: o Shih-Tzu nasceu para amar e ser amado, sendo um dos cães de companhia mais afetuosos, pacientes e sociáveis do mundo. Diferente de muitos cães pequenos que podem ser nervosos, o Shih-Tzu é conhecido por sua calma e por possuir uma dignidade alegre, sendo o companheiro de colo perfeito para lares de todos os tamanhos.",
+    "historia": "A raça tem raízes ancestrais no Tibete, onde eram considerados cães sagrados e frequentemente presenteados aos imperadores da China. Na Cidade Proibida de Pequim, os eunucos imperiais cruzaram o cão do Tibete com o Pequinês para criar o Shih-Tzu moderno. O nome 'Shih-Tzu' significa literalmente 'Cão Leão' em chinês mandarim. Por séculos, sua posse foi exclusividade da realeza, sendo quase extintos durante a Revolução Comunista. A raça sobreviveu graças a apenas 14 cães (sete machos e sete fêmeas) levados para a Inglaterra e Noruega no início do século XX, a partir dos quais todos os Shih-Tzus do mundo descendem hoje.",
     "curiosidades": [
-      "Shih Tzu possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Shih-Tzu é frequentemente chamado de 'Cão Crisântemo' devido à forma como o pelo cresce em todas as direções ao redor do nariz, assemelhando-se às pétalas de uma flor.",
+      "Eles possuem uma mordida inferior (prognatismo), onde os dentes de baixo fecham à frente dos de cima, o que lhes confere o 'sorriso' característico da raça.",
+      "Diferente da maioria das raças pequenas, o Shih-Tzu não é um terrier nem um cão de rastro; ele é um cão de companhia puro, sem instinto de caça ou agressividade.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem, tecnicamente cabelo, quase não cai, sendo ideal para alérgicos.",
+      "A raça é famosa por sua adaptabilidade, sendo igualmente feliz vivendo em uma mansão ou em um pequeno apartamento urbano."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Famílias com crianças (ele é extremamente paciente e dócil)",
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Tutores de primeira viagem que buscam um cão fácil de socializar",
+      "Idosos que buscam uma companhia afetuosa e de baixo impacto físico",
+      "Quem deseja um companheiro de colo que se dê bem com outros animais"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo diário à manutenção da pelagem (tosa regular obrigatória)",
+      "Ambientes com calor extremo sem refrigeração constante (devido ao focinho curto)",
+      "Pessoas que buscam um cão para atividades físicas intensas como trilhas ou corridas",
+      "Proprietários que se incomodam com ruídos respiratórios e roncos ocasionais",
+      "Tutores que não tenham paciência para o treinamento de higiene (casa), que pode ser lento na raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Problemas oculares (Úlceras de Córnea e Olho Seco devido aos olhos proeminentes)",
+      "Síndrome Braquicefálica (dificuldades respiratórias)",
+      "Luxação de Patela",
+      "Displasia Renal Juvenil",
+      "Otites (infecções de ouvido devido às orelhas pendentes e peludas)",
+      "Problemas dentários (tártaro e desalinhamento)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups oftalmológicos e dentários anuais são essenciais. Limpeza diária dos olhos. Atenção rigorosa à respiração em climas quentes. Monitoramento da função renal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Se mantido longo, exige escovação diária profunda para evitar nós dolorosos. Muitos tutores brasileiros optam pela 'tosa bebê' ou 'tosa higiênica' para facilitar a vida. Banhos devem ser semanais ou quinzenais com bons hidratantes. É vital limpar as manchas de lágrimas diariamente. As orelhas devem ser limpas e mantidas secas para evitar fungos. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios leves. Caminhadas diárias curtas e agradáveis nos horários frescos satisfazem plenamente suas necessidades. Ele adora brincar dentro de casa com brinquedos de pelúcia e interagir com a família no sofá.",
+    "treinamento": "O adestramento deve ser baseado inteiramente em reforço positivo, paciência e petiscos. O Shih-Tzu é inteligente mas pode ser teimoso. O treinamento de higiene (ir ao banheiro no lugar certo) pode exigir mais tempo e persistência do que em outras raças. A socialização precoce é fundamental para evitar a timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos. O controle das porções é fundamental, pois o Shih-Tzu tem facilidade para engordar, o que agrava os problemas respiratórios e de coluna."
   },
   "seo": {
-    "title": "Shih Tzu - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Shih Tzu: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Shih-Tzu: O Guia Completo do Doce e Leal Cão Crisântemo",
+    "description": "Descubra tudo sobre o Shih-Tzu: conheça seu temperamento afetuoso, sua história imperial e as dicas vitais de cuidados com a pelagem e saúde braquicefálica.",
     "keywords": [
-      "shih-tzu",
-      "shih tzu",
-      "pequeno",
-      "china"
+      "Shih-Tzu",
+      "cão crisântemo",
+      "cão leão",
+      "cachorro para família",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Shih-Tzu",
+      "temperamento Shih-Tzu"
     ]
   },
   "imagem_principal": "/images/breeds/shih-tzu.jpg",
@@ -83,11 +95,58 @@
     "/images/breeds/shih-tzu-2.jpg",
     "/images/breeds/shih-tzu-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=shih-tzu",
-  "popularidade": 28496,
-  "ranking_brasil": 12,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Shih Tzu - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-shihtzu",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-shihtzu/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar do Pelo do Shih Tzu",
+      "url": "https://www.youtube.com/watch?v=example-shihtzu-care",
+      "canal": "Vida de Pet",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "lhasa-apso",
+    "maltes",
+    "pequines",
+    "bichon-frise",
+    "pug"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e combinações são permitidas",
+    "Dourado e Branco",
+    "Preto e Branco",
+    "Chocolate",
+    "Cinza e Branco",
+    "Vermelho"
+  ],
+  "marcacoes": [
+    "Chama branca na face (blaze) desejável",
+    "Ponta da cauda branca valorizada",
+    "Pode ser totalmente sólido ou manchado"
+  ],
+  "curiosidades_historicas": "A Imperatriz Dowager Cixi, que governou a China no final do século XIX, era tão apaixonada por seus Shih-Tzus que mantinha um palácio exclusivo para eles, com dezenas de cuidadores dedicados a garantir que cada cão fosse penteado, perfumado e alimentado com as melhores iguarias imperiais.",
+  "referencias_externas": [
+    {
+      "titulo": "American Shih Tzu Club",
+      "url": "https://shihtzu.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Shih Tzu Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SHIH-TZU-208.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 2,
   "custo_mensal_estimado": [
-    254,
-    804
+    250,
+    750
   ]
 }

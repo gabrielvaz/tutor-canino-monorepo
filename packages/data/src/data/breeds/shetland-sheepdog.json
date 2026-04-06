@@ -4,70 +4,91 @@
   "slug": "shetland-sheepdog",
   "nome_en": "Shetland Sheepdog",
   "apelidos": [
-    "Shetland",
-    "Sheepdog"
+    "Sheltie",
+    "Pastor de Shetland",
+    "Collie Miniatura (incorreto)",
+    "Fada das Ilhas"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Escócia",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "51 cm",
-    "peso_macho": "19.3 kg",
-    "peso_femea": "17.6 kg",
+    "origem": "Escócia (Ilhas Shetland)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "36 - 41 cm",
+    "altura_femea": "33 - 38 cm",
+    "peso_macho": "8 - 12 kg",
+    "peso_femea": "6 - 10 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1918
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 4,
+    "latido": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 4,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Shetland Sheepdog é uma raça de porte médio originária de Escócia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Shetland Sheepdog originou-se em Escócia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Shetland Sheepdog, ou Sheltie, é a personificação da elegância e inteligência em um formato compacto. Frequentemente confundido com uma versão miniatura do Collie, o Sheltie é uma raça distinta, dotada de uma fisionomia refinada, expressão de extrema doçura e uma pelagem dupla farta e majestosa. De constituição ágil e atlética, ele possui um olhar que transborda prontidão e sagacidade, ocupando o 6º lugar no ranking mundial de inteligência canina. É um cão intensamente devotado à sua família, famoso por sua sensibilidade emocional, por ser um guardião de alerta vigilante e por sua performance impecável em esportes de agilidade.",
+    "historia": "A raça desenvolveu-se nas remotas Ilhas Shetland, ao norte da Escócia, onde o clima severo e o solo pobre favoreceram a miniaturização de diversas espécies (como os pôneis de Shetland). O Sheltie descende do antigo Collie escocês cruzado com cães de tipo Spitz e possivelmente o King Charles Spaniel. Originalmente, eram cães de utilidade rústicos que pastoreavam ovelhas pequenas e protegiam jardins contra pássaros e animais selvagens. A raça foi refinada no início do século XX para atingir a elegância e o padrão atual, tornando-se um dos cães de companhia e esporte mais populares das Américas e Europa.",
     "curiosidades": [
-      "Shetland Sheepdog possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Sheltie é um dos maiores vencedores históricos de competições de Agility no mundo, sendo imbatível em sua categoria de tamanho devido à sua agilidade e foco.",
+      "Eles são conhecidos como 'sombras de quatro patas', pois tendem a seguir seus tutores de um cômodo a outro em cada passo dado em casa.",
+      "O padrão de cor 'Blue Merle' com olhos azuis é um dos mais raros e deslumbrantes da raça, perfeitamente aceito em exposições.",
+      "Diferente do Collie, o Sheltie possui um latido agudo e persistente, herança de seu passado como cão de aviso em fazendas onde o vento forte abafava sons mais baixos.",
+      "Eles possuem o que os especialistas chamam de 'inteligência empática', sendo capazes de entender variações sutis no tom de voz e humor dos seus tutores."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Tutores interessados em adestramento, truques e esportes competitivos (Agility)",
+      "Moradores de apartamentos (desde que exercitados mentalmente todos os dias)",
+      "Quem busca um companheiro intensamente afetuoso e que queira participar de tudo",
+      "Pessoas que apreciam cuidar da estética e escovação regular da pelagem luxuosa"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores que se incomodam com latidos frequentes (ele é um cão muito vocal)",
+      "Pessoas que ficam fora de casa o dia todo (ele sofre severamente com a solidão e tédio)",
+      "Proprietários sedentários que buscam um cão passivo para ficar no sofá",
+      "Pessoas que não suportam queda de pelos abundante (ele troca de casaco intensamente)",
+      "Tutores que utilizam métodos de treinamento severos (ele é altamente sensível e medroso se maltratado)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Anomalia do Olho do Collie (CEA)",
+      "Atrofia Progressiva da Retina (PRA)",
+      "Sensibilidade ao gene MDR1 (reação grave a certos medicamentos)",
+      "Dermatomiosite (problema de pele e muscular)",
+      "Hipotireoidismo",
+      "Doença de Von Willebrand (vWD)",
+      "Luxação de Patela"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Testes genéticos para MDR1 e CEA são MANDATÓRIOS. Check-ups oftalmológicos anuais. Monitoramento da função tireoidiana em cães adultos. Higiene bucal frequente."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação profunda pelo menos três vezes por semana para evitar nós dolorosos, especialmente atrás das orelhas e axilas. Durante a troca de pelo sazonal, a queda é massiva e a escovação deve ser diária. Banhos devem ser mensais com secagem TOTAL do subpelo farto. As unhas devem ser mantidas curtas e as orelhas limpas.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 hora de atividade física e estímulo mental. Caminhadas rápidas e, principalmente, treinos de agilidade ou jogos de busca são ideais. O Sheltie se torna infeliz e latidor se sua mente brilhante não for desafiada.",
+    "treinamento": "Extremamente inteligente e fácil de treinar. O Sheltie aprende comandos novos em pouquíssimas repetições. Use apenas reforço positivo e mantenha os treinos variados. A socialização precoce é VITAL para evitar a timidez excessiva com estranhos, típica da raça.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Sheltie tem facilidade para engordar, o que pode passar despercebido sob os pelos, prejudicando sua agilidade e saúde articular."
   },
   "seo": {
-    "title": "Shetland Sheepdog - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Shetland Sheepdog: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Shetland Sheepdog (Sheltie): O Brilhante e Leal Pastor - Guia de Raça",
+    "description": "Descubra o Shetland Sheepdog (Sheltie): conheça sua inteligência de elite, sua pelagem majestosa e as dicas vitais de cuidados, saúde e treinamento de Agility.",
     "keywords": [
-      "shetland-sheepdog",
-      "shetland sheepdog",
-      "médio",
-      "escócia"
+      "Shetland Sheepdog",
+      "Sheltie",
+      "Pastor de Shetland",
+      "cão inteligente",
+      "Agility dog",
+      "cão de família",
+      "raças de cães médias",
+      "cuidados com Sheltie",
+      "temperamento Sheltie",
+      "MDR1 em cães"
     ]
   },
   "imagem_principal": "/images/breeds/shetland-sheepdog.jpg",
@@ -76,11 +97,58 @@
     "/images/breeds/shetland-sheepdog-2.jpg",
     "/images/breeds/shetland-sheepdog-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=shetland-sheepdog",
-  "popularidade": 2507,
-  "ranking_brasil": 142,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Shetland Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-sheltie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-sheltie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade Incrível do Sheltie",
+      "url": "https://www.youtube.com/watch?v=example-sheltie-agility",
+      "canal": "Agility Star",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "collie",
+    "border-collie",
+    "pastor-australiano",
+    "papillon",
+    "poodle-miniatura"
+  ],
+  "cores_disponiveis": [
+    "Sable (Dourado) e Branco",
+    "Tricolor",
+    "Blue Merle",
+    "Bi-Black (Preto e Branco)",
+    "Bi-Blue"
+  ],
+  "marcacoes": [
+    "Colar branco completo (desejável)",
+    "Chama branca na face",
+    "Meias brancas",
+    "Ponta da cauda branca"
+  ],
+  "curiosidades_historicas": "Os primeiros Shelties levados para a Grã-Bretanha no final do século XIX eram tão pequenos que foram apelidados de 'Cães das Fadas'. A raça quase foi destruída por cruzamentos excessivos com Collies na tentativa de dar-lhes um aspecto mais aristocrático, sendo salva por criadores que lutaram para manter a identidade única e o tamanho compacto das ilhas.",
+  "referencias_externas": [
+    {
+      "titulo": "American Shetland Sheepdog Association",
+      "url": "https://assa.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Shetland Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/SHETLAND-SHEEPDOG-88.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 35000,
+  "ranking_brasil": 40,
   "custo_mensal_estimado": [
-    346,
-    812
+    300,
+    750
   ]
 }

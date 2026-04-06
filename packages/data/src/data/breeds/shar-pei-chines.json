@@ -1,77 +1,92 @@
 {
   "id": "shar-pei-chines",
-  "nome": "Shar Pei Chinês",
+  "nome": "Shar-Pei Chinês",
   "slug": "shar-pei-chines",
-  "nome_en": "Chinese Shar Pei",
+  "nome_en": "Chinese Shar-Pei",
   "apelidos": [
-    "Shar",
-    "Chinês"
+    "Shar-Pei",
+    "Cão das Rugas",
+    "Pele de Areia"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "China",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "30 cm",
-    "altura_femea": "28 cm",
-    "peso_macho": "11.4 kg",
-    "peso_femea": "7.9 kg",
-    "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1920
+    "origem": "China (Cantão)",
+    "expectativa_vida": "9 - 11 anos",
+    "altura_macho": "46 - 51 cm",
+    "altura_femea": "44 - 49 cm",
+    "peso_macho": "22 - 29 kg",
+    "peso_femea": "18 - 25 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1999
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 2,
-    "queda_pelo": 3,
-    "latido": 4,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Shar Pei Chinês é uma raça de porte pequeno originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Shar Pei Chinês originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Shar-Pei Chinês é uma das raças mais fascinantes e ancestrais do mundo, famoso por sua pele repleta de rugas profundas e sua língua preto-azulada. De porte médio e constituição quadrada e robusta, ele possui características únicas: orelhas pequenas e grossas que repousam contra a cabeça (orelhas de concha), um focinho largo que lembra o de um hipopótamo e uma pelagem curta e áspera que lhe rendeu o nome 'Shar-Pei' (Pele de Areia). É um cão dotado de uma dignidade silenciosa, independente e intensamente leal aos seus tutores, comportando-se como um guardião vigilante e reservado que exala uma aura de sabedoria oriental.",
+    "historia": "A raça originou-se na província de Guangdong (Cantão), no sul da China, há mais de 2.000 anos, datando da Dinastia Han. Por séculos, foi o cão multifuncional das fazendas chinesas: guardava propriedades, conduzia gado e caçava javalis. Suas rugas e pele áspera foram selecionadas como uma armadura natural contra mordidas de predadores. Após a revolução comunista na China, a raça foi quase extinta, pois cães de estimação eram considerados símbolos de decadência. Foi salva por entusiastas como Matgo Law, de Hong Kong, que na década de 1970 apelou ao ocidente para que a raça não desaparecesse, levando-a a se tornar uma das mais raras e desejadas do mundo na época.",
     "curiosidades": [
-      "Shar Pei Chinês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Shar-Pei' significa literalmente 'Pele de Areia', referindo-se à textura áspera e dura do pelo que, se acariciado no sentido contrário, pode causar irritação leve na pele humana.",
+      "Shar-Pei e Chow Chow são as únicas raças conhecidas por terem a língua e o céu da boca totalmente preto-azulados.",
+      "Os filhotes de Shar-Pei possuem muito mais rugas do que os adultos; conforme o cão cresce, ele 'preenche' a pele, mantendo as dobras principalmente na cabeça, pescoço e cernelha.",
+      "Eles são famosos por serem cães extremamente limpos, aprendendo a higiene doméstica (ir ao banheiro fora) mais rápido do que quase qualquer outra raça.",
+      "O Shar-Pei possui o que os especialistas chamam de 'instinto de guarda silencioso', monitorando o ambiente sem latir, agindo apenas se necessário."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Tutores experientes que apreciam cães com personalidade independente e forte",
+      "Moradores de apartamentos ou casas urbanas (ele é muito calmo em interiores)",
+      "Quem busca um cão de guarda silencioso e de presença dissuasiva",
+      "Pessoas que preferem um companheiro leal mas que respeita o próprio espaço",
+      "Proprietários que buscam uma raça limpa e com pouco 'odor de cachorro'"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige liderança firme e compreensão da raça)",
+      "Famílias com crianças muito pequenas e barulhentas (ele exige ser tratado com respeito)",
+      "Ambientes com calor tropical extremo sem cuidados (ele sofre com a pele e respiração)",
+      "Pessoas que buscam um cão para frequentar parques de cães livremente (tende a ser territorial)",
+      "Proprietários que não podem arcar com os custos de saúde preventiva específicos da raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Shar-Pei Fever (Febre do Shar-Pei - doença inflamatória hereditária)",
+      "Entrópio (pálpebras viradas para dentro - exige cirurgia frequente)",
+      "Amiloidose (problema renal decorrente da febre)",
+      "Displasia de Quadril e Cotovelo",
+      "Otites (devido ao conduto auditivo muito estreito)",
+      "Dermatites e fungos nas dobras da pele",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento rigoroso da temperatura corporal e função renal. Check-ups oftalmológicos regulares. Limpeza e inspeção semanal profunda das orelhas e dobras de pele."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é simples, exigindo apenas escovação semanal. O ponto crítico é a limpeza diária das dobras da pele, especialmente na face, para evitar infecções. Banhos devem ser mensais com secagem ABSOLUTAMENTE minuciosa (usando soprador) para que a umidade não fique presa nas dobras. É vital secar bem entre os dedos e as orelhas estreitas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis em horários frescos satisfazem plenamente suas necessidades. O Shar-Pei não é um atleta de alto desempenho e deve ser protegido do esforço físico sob sol forte devido ao risco de hipertermia.",
+    "treinamento": "Inteligente mas muito obstinado e independente. O adestramento deve ser baseado em reforço positivo, paciência e respeito mútuo. Eles se aborrecem com repetições monótonas. A socialização precoce, intensa e contínua é MANDATÓRIA para evitar que sua natureza reservada se torne agressividade com estranhos e outros cães.",
+    "alimentacao": "Dieta de alta qualidade com níveis controlados de proteína para proteger os rins. O controle das porções é essencial para evitar o sobrepeso que prejudica as articulações desta raça compacta."
   },
   "seo": {
-    "title": "Shar Pei Chinês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Shar Pei Chinês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Shar-Pei Chinês: O Guia Completo do Majestoso Cão das Rugas",
+    "description": "Descubra o Shar-Pei Chinês: conheça sua história milenar, seu temperamento independente e as dicas vitais de cuidados com a pele, saúde e treinamento desta raça única.",
     "keywords": [
-      "shar-pei-chines",
-      "shar pei chinês",
-      "pequeno",
-      "china"
+      "Shar-Pei",
+      "Chinese Shar-Pei",
+      "cão com rugas",
+      "língua azul",
+      "cão de guarda",
+      "raças de cães médias",
+      "cuidados com Shar-Pei",
+      "temperamento Shar-Pei",
+      "Shar-Pei Fever"
     ]
   },
   "imagem_principal": "/images/breeds/shar-pei-chines.jpg",
@@ -80,11 +95,59 @@
     "/images/breeds/shar-pei-chines-2.jpg",
     "/images/breeds/shar-pei-chines-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=shar-pei-chines",
-  "popularidade": 29605,
-  "ranking_brasil": 31,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Chinese Shar-Pei - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-sharpei",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-sharpei/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar das Dobras do Shar-Pei",
+      "url": "https://www.youtube.com/watch?v=example-sharpei-skin",
+      "canal": "Vida de Pet",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "chow-chow",
+    "pug",
+    "mastiff-tibetano",
+    "bulldog-ingles"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Fawn)",
+    "Vermelho",
+    "Preto",
+    "Azul",
+    "Chocolate",
+    "Creme",
+    "Lilás (Isabela)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (padrão FCI)",
+    "Máscara escura leve permitida",
+    "Língua azul-escura obrigatória",
+    "Orelhas de concha (muito pequenas)"
+  ],
+  "curiosidades_historicas": "O Shar-Pei foi listado no Guinness World Records de 1978 como a 'raça de cão mais rara do mundo', com menos de 60 exemplares vivos na época. Seu resgate bem-sucedido é um dos maiores triunfos da canicultura moderna, transformando uma raça à beira da extinção em um ícone de design canino global.",
+  "referencias_externas": [
+    {
+      "titulo": "Chinese Shar-Pei Club of America",
+      "url": "https://cspca.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações sobre saúde e genética."
+    },
+    {
+      "titulo": "FCI - Chinese Shar-Pei Standard",
+      "url": "https://www.fci.be/en/nomenclature/CHINESE-SHAR-PEI-309.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 22000,
+  "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    424,
-    517
+    400,
+    900
   ]
 }

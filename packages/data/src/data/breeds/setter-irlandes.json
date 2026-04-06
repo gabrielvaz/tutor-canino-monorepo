@@ -2,72 +2,91 @@
   "id": "setter-irlandes",
   "nome": "Setter Irlandês",
   "slug": "setter-irlandes",
-  "nome_en": "Irish Setter",
+  "nome_en": "Irish Red Setter",
   "apelidos": [
-    "Setter",
-    "Irlandês"
+    "Red Setter",
+    "Big Red",
+    "Diabinho Vermelho"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Irlanda",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "37 cm",
-    "altura_femea": "31 cm",
-    "peso_macho": "25.8 kg",
-    "peso_femea": "20.7 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1928
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "58 - 67 cm",
+    "altura_femea": "55 - 62 cm",
+    "peso_macho": "27 - 32 kg",
+    "peso_femea": "24 - 29 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Setter Irlandês é uma raça de porte médio originária de Irlanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Setter Irlandês originou-se em Irlanda, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Setter Irlandês é a personificação da alegria, velocidade e beleza flamejante. De porte grande e constituição extremamente elegante e esguia, ele é mundialmente famoso por sua pelagem longa, sedosa e de um castanho-avermelhado (mogno) profundo e brilhante. Sua cabeça é refinada com uma expressão de entusiasmo inteligente e olhos castanhos que brilham com vivacidade. Conhecido como o 'Peter Pan' dos cães, o Setter Irlandês mantém um espírito brincalhão e enérgico até a velhice. É um atleta de elite dotado de uma resistência física extraordinária e um temperamento intensamente amigável, sendo um dos companheiros de família mais vibrantes e afetuosos que existem.",
+    "historia": "A raça desenvolveu-se na Irlanda no século XVIII a partir do Setter Irlandês Vermelho e Branco e de outros cães de aponte e spaniels. Inicialmente, a variedade inteiramente ruiva era rara, mas ganhou a preferência dos criadores por sua cor deslumbrante e velocidade em campo. O primeiro padrão da raça para o tipo sólido foi estabelecido em 1886 pelo Dublin Irish Setter Club. O Setter Irlandês evoluiu de um rústico caçador de aves para uma das estrelas mais premiadas em exposições de beleza e um animal de estimação icônico, tendo sido o favorito de presidentes americanos como Richard Nixon.",
     "curiosidades": [
-      "Setter Irlandês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Setter Irlandês é famoso por sua 'saudação irlandesa': um entusiasmo físico transbordante que muitas vezes envolve o cão pulando para 'abraçar' as pessoas.",
+      "Eles possuem o que os caçadores chamam de 'estilo galopante', cobrindo o terreno com um movimento fluido e gracioso que parece não exigir esforço.",
+      "A cor mogno profunda da pelagem só atinge sua plenitude após os 2 anos de idade; os filhotes costumam ter um tom mais claro e opaco.",
+      "Diferente de muitos cães de caça, o Setter Irlandês é conhecido por seu 'senso de humor', frequentemente inventando formas criativas de desviar a atenção do tutor para conseguir o que quer.",
+      "Eles são extremamente sociáveis e sentem-se muito infelizes se mantidos como cães de quintal isolados, precisando participar de cada detalhe da vida familiar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam esportes, trilhas e atividades ao ar livre",
+      "Tutores que buscam um companheiro extremamente afetuoso, alegre e brincalhão",
+      "Pessoas que apreciam cuidar da estética canina e escovação regular",
+      "Quem vive em casas com grandes quintais gramados e seguros",
+      "Donos que desejam um parceiro para atividades de alta energia como corridas"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que moram em apartamentos pequenos sem rotina intensa de exercícios",
+      "Pessoas extremamente zelosas com a limpeza absoluta da casa (as franjas trazem detritos e água)",
+      "Ambientes onde o cão ficará sozinho por longos períodos (sofre com ansiedade de separação severa)",
+      "Proprietários que buscam um cão de guarda agressivo (ele recebe todos com festa)",
+      "Tutores iniciantes que não tenham paciência para lidar com a impulsividade e energia da raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Displasia de Quadril e Cotovelo",
+      "PRA (Atrofia Progressiva da Retina)",
+      "CLAD (Deficiência de Adesão Leucocitária Canina - com teste genético)",
+      "Osteodistrofia Hipertrófica (HOD - em filhotes)",
+      "Hipotireoidismo",
+      "Otites (infecções de ouvido)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Testes genéticos para CLAD e PRA são essenciais. Check-ups ortopédicos anuais. Limpeza semanal das orelhas pendentes. Atenção absoluta aos sinais de torção gástrica após refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem sedosa é alta. Exige escovação pelo menos três vezes por semana para evitar nós, especialmente nas orelhas, axilas e pernas. Durante a troca de pelo, a escovação deve ser diária. Banhos devem ser mensais com excelentes condicionadores para manter o brilho do ruivo. As orelhas precisam ser inspecionadas e secas regularmente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas. Caminhadas simples não bastam; o Setter Irlandês precisa correr livremente em áreas seguras ou participar de trilhas longas. O tédio gera hiperatividade e comportamentos destrutivos.",
+    "treinamento": "Inteligente mas independente e facilmente distraído por cheiros e estímulos visuais. O adestramento deve ser baseado em reforço positivo, paciência e sessões curtas e divertidas. Ele é sensível a tons de voz severos. A socialização precoce é fundamental para canalizar seu entusiasmo.",
+    "alimentacao": "Dieta de alta qualidade para cães grandes ativos. É vital dividir a alimentação em pelo menos duas refeições por dia e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Setter Irlandês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Setter Irlandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Setter Irlandês: O Guia Completo do Flamejante 'Peter Pan' Canino",
+    "description": "Descubra o Setter Irlandês: conheça sua inteligência vibrante, sua pelagem ruiva luxuosa e as dicas vitais de saúde e exercícios para este leal e alegre companheiro.",
     "keywords": [
-      "setter-irlandes",
-      "setter irlandês",
-      "médio",
-      "irlanda"
+      "Setter Irlandês",
+      "Irish Setter",
+      "Red Setter",
+      "cão ruivo",
+      "cão de família alegre",
+      "raças de cães grandes",
+      "cuidados com Setter Irlandês",
+      "temperamento Setter",
+      "CLAD canino"
     ]
   },
   "imagem_principal": "/images/breeds/setter-irlandes.jpg",
@@ -76,11 +95,54 @@
     "/images/breeds/setter-irlandes-2.jpg",
     "/images/breeds/setter-irlandes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=setter-irlandes",
-  "popularidade": 7787,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Irish Setter - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-irishsetter",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-irishsetter/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Elegância do Setter Irlandês em Ação",
+      "url": "https://www.youtube.com/watch?v=example-setter-run",
+      "canal": "Countryside Dogs",
+      "duracao": "11:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "setter-ingles",
+    "setter-gordon",
+    "setter-irlandes-vermelho-e-branco",
+    "vizsla",
+    "golden-retriever"
+  ],
+  "cores_disponiveis": [
+    "Vermelho Ruivo Profundo (Rich Chestnut Red)",
+    "Mogno"
+  ],
+  "marcacoes": [
+    "Totalmente sólido ruivo",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Franjas abundantes nas orelhas, peito e cauda"
+  ],
+  "curiosidades_historicas": "O Setter Irlandês tornou-se um símbolo de patriotismo na Irlanda do século XIX. Em uma época de tensões políticas, possuir um cão que ostentava a 'cor da terra' (o ruivo profundo das Highlands) era visto como uma afirmação da identidade nacional irlandesa, elevando a raça a um patamar de orgulho cultural.",
+  "referencias_externas": [
+    {
+      "titulo": "Irish Setter Club of America",
+      "url": "https://irishsetterclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Irish Red Setter Standard",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-RED-SETTER-120.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
   "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    436,
-    1260
+    400,
+    1000
   ]
 }

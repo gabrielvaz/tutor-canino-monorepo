@@ -5,69 +5,88 @@
   "nome_en": "Shiba Inu",
   "apelidos": [
     "Shiba",
-    "Inu"
+    "Cão Raposa",
+    "Pequeno Brushwood"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Japão",
     "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "36 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "25.2 kg",
-    "peso_femea": "19.7 kg",
+    "altura_macho": "38 - 41 cm",
+    "altura_femea": "35 - 38 cm",
+    "peso_macho": "9 - 11 kg",
+    "peso_femea": "7 - 9 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1959
+    "ano_reconhecimento_fci": 1964
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 2,
-    "queda_pelo": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
+    "afeicao_familia": 4,
+    "bom_com_criancas": 3,
+    "bom_com_outros_caes": 2,
     "facilidade_treinamento": 2,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 3
+    "necessidade_exercicio": 3,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Shiba Inu é uma raça de porte médio originária de Japão. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Shiba Inu originou-se em Japão, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Shiba Inu é o menor e possivelmente o mais antigo das seis raças nativas do Japão, um cão de beleza austera e personalidade independente que lembra muito a de um felino. De porte médio e constituição ágil e musculosa, ele possui orelhas eretas, olhos triangulares e uma cauda farta que se enrola firmemente sobre o dorso. Sua pelagem dupla é densa e rústica, frequentemente em tons de vermelho ou sésamo. O Shiba é famoso por sua dignidade, por ser extremamente limpo e por possuir uma autoconfiança que muitas vezes beira a teimosia. É um guardião atento, um companheiro leal e dotado de uma vivacidade que o torna um dos cães mais carismáticos e desafiadores de adestrar.",
+    "historia": "As origens do Shiba Inu remontam a 300 a.C. no Japão central, onde eram usados originalmente como caçadores de pequenos animais e aves nos densos subbosques (brushwood). O nome 'Shiba' pode derivar da palavra japonesa para 'subbosque' ou referir-se à cor avermelhada das folhas secas no outono, similar à pelagem do cão. A raça quase foi extinta durante a Segunda Guerra Mundial e por uma epidemia subsequente de cinomose, sendo resgatada a partir de apenas três linhagens sobreviventes: San'in, Mino e Shinshu. Em 1936, o Shiba Inu foi declarado um Monumento Natural do Japão.",
     "curiosidades": [
-      "Shiba Inu possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Shiba Inu é famoso pelo 'Grito do Shiba' (Shiba Scream), um som agudo e dramático que ele emite quando está muito animado, frustrado ou contrariado.",
+      "Eles são obcecados por higiene e se limpam lambendo as patas e o rosto, agindo de forma idêntica aos gatos domésticos.",
+      "O termo 'Urajiro' refere-se ao padrão obrigatório de pelos brancos ou creme nas laterais do focinho, bochechas, pescoço e abdômen da raça.",
+      "Shibas possuem o que os japoneses chamam de 'Kan-i' (bravura audaz), 'Ryosei' (bom temperamento) e 'Soboku' (beleza simples e rústica).",
+      "Apesar do tamanho, o Shiba é um excelente cão de guarda de alerta, agindo como uma sentinela silenciosa que raramente late sem um motivo real."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um companheiro independente e inteligente",
+      "Moradores de apartamentos ou casas urbanas (ele é extremamente limpo e silencioso)",
+      "Pessoas que apreciam a estética e a cultura canina japonesa",
+      "Quem busca um cão leal mas que respeita o próprio espaço e o dos outros",
+      "Proprietários que desejam um cão com pouco 'odor de cachorro'"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem que buscam obediência cega (ele é um livre-pensador)",
+      "Famílias que buscam um cão de colo carente que queira agradar o tempo todo",
+      "Ambientes onde o cão será passeado sem guia (seu instinto de perseguição e fuga é extremo)",
+      "Pessoas que não toleram queda de pelos sazonal abundante (ele 'troca de casaco' intensamente)",
+      "Famílias com crianças muito pequenas e barulhentas (ele pode ser intolerante a toques bruscos)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Alergias de pele e Atopia (muito comum na raça)",
+      "Luxação de Patela",
+      "Problemas oculares (Glaucoma e PRA)",
+      "Displasia de Quadril (baixa incidência)",
+      "Hipotireoidismo",
+      "GM1 Gangliosidose (doença neurológica rara com teste genético)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento dermatológico rigoroso. Exames oftalmológicos anuais. Check-ups ortopédicos. É uma raça rústica e geralmente muito saudável e longeva."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada. Exige escovação semanal para remover pelos mortos. Durante as trocas sazonais ( shedding ), a queda é massiva e a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural da pelagem. Eles detestam ter suas garras cortadas, exigindo treinamento desde filhotes. Escovação dental diária é recomendada.",
+    "exercicios": "Necessita de exercícios moderados mas consistentes. Caminhadas diárias agradáveis e tempo para explorar ambientes seguros satisfazem suas necessidades. O estímulo mental através de desafios sensoriais e jogos de inteligência é fundamental para evitar que sua independência se torne tédio destrutivo.",
+    "treinamento": "O adestramento é um desafio clássico. O Shiba é inteligente mas só faz o que vê sentido ou benefício direto. Use reforço positivo e nunca force o cão, pois ele guardará rancor. A socialização precoce, intensa e contínua é VITAL para mitigar a tendência de ser reservado ou reativo com estranhos e outros cães.",
+    "alimentacao": "Dieta de alta qualidade. O Shiba tem tendência a ser exigente com a comida, mas o controle das porções é importante para evitar o sobrepeso, o que prejudica suas articulações ágeis."
   },
   "seo": {
-    "title": "Shiba Inu - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Shiba Inu: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Shiba Inu: O Independente e Nobre Cão Raposa do Japão - Guia de Raça",
+    "description": "Descubra o Shiba Inu: conheça seu temperamento de gato, sua história milenar e as dicas vitais de cuidados com a saúde e o treinamento desta raça icônica.",
     "keywords": [
-      "shiba-inu",
-      "shiba inu",
-      "médio",
-      "japão"
+      "Shiba Inu",
+      "Shiba",
+      "cão raposa",
+      "cão japonês",
+      "cão independente",
+      "cachorro para apartamento",
+      "raças de cães médias",
+      "cuidados com Shiba",
+      "temperamento Shiba",
+      "Urajiro"
     ]
   },
   "imagem_principal": "/images/breeds/shiba-inu.jpg",
@@ -76,11 +95,57 @@
     "/images/breeds/shiba-inu-2.jpg",
     "/images/breeds/shiba-inu-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=shiba-inu",
-  "popularidade": 36678,
-  "ranking_brasil": 119,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Shiba Inu - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-shiba",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-shiba/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Realidade de ter um Shiba Inu",
+      "url": "https://www.youtube.com/watch?v=example-shiba-life",
+      "canal": "Mundo Canino",
+      "duracao": "13:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "akita-inu",
+    "jindo-coreano",
+    "shikoku",
+    "hokkaido-inu",
+    "kai-ken",
+    "basenji"
+  ],
+  "cores_disponiveis": [
+    "Vermelho (Red)",
+    "Black and Tan",
+    "Sésamo (Sesame)",
+    "Creme (não desejável em exposição)"
+  ],
+  "marcacoes": [
+    "Urajiro (branco/creme nas bochechas e pescoço)",
+    "Pode ter meias brancas curtas",
+    "Cauda enrolada obrigatória"
+  ],
+  "curiosidades_historicas": "O Shiba Inu foi quase varrido do mapa durante a fome pós-Segunda Guerra Mundial no Japão. A raça foi resgatada através de um esforço nacional coordenado para encontrar os últimos cães sobreviventes nas montanhas remotas, provando que o espírito de sobrevivência do Shiba é tão forte quanto a sua lealdade à cultura japonesa.",
+  "referencias_externas": [
+    {
+      "titulo": "National Shiba Club of America",
+      "url": "https://shibas.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Shiba Inu Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SHIBA-257.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    311,
-    532
+    300,
+    800
   ]
 }
