@@ -4,70 +4,87 @@
   "slug": "pastor-polones-da-planicie",
   "nome_en": "Polish Lowland Sheepdog",
   "apelidos": [
-    "Pastor",
-    "Planície"
+    "PON",
+    "Polonês da Planície",
+    "Nizinny"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Polônia",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "52 cm",
-    "altura_femea": "47 cm",
-    "peso_macho": "16.5 kg",
-    "peso_femea": "11.8 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "45 - 50 cm",
+    "altura_femea": "42 - 47 cm",
+    "peso_macho": "16 - 23 kg",
+    "peso_femea": "13 - 18 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1950
+    "ano_reconhecimento_fci": 1959
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Polonês da Planície é uma raça de porte médio originária de Polônia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Polonês da Planície originou-se em Polônia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Polonês da Planície, conhecido internacionalmente como PON (Polski Owczarek Nizinny), é um cão de porte médio, constituição compacta e uma pelagem farta e desgrenhada que transborda personalidade. Famoso por sua inteligência brilhante e memória fenomenal, ele possui uma cabeça grande com olhos que espreitam sob uma franja longa e um bigode expressivo. O PON é um trabalhador rústico e versátil, dotado de um temperamento vigilante, leal e muito afetuoso com sua família. Apesar de seu visual de 'urso de pelúcia', ele é um cão de pastoreio autêntico, dotado de uma autoconfiança notável e um instinto de proteção territorial que o torna um excelente guardião residencial.",
+    "historia": "As origens da raça remontam ao século XVI, quando lebréis asiáticos foram cruzados com cães de pastoreio locais nas planícies da Polônia. O PON foi essencial para os pastores poloneses, sendo capaz de controlar grandes rebanhos de ovelhas com uma economia de movimentos impressionante. A raça é historicamente famosa por ter dado origem ao Bearded Collie, quando em 1506 um comerciante polonês trocou três PONs por um par de ovelhas na Escócia. Quase extinto após a Segunda Guerra Mundial, o Pastor Polonês da Planície foi salvo pela Dra. Danuta Hryniewicz e sua cadela 'Smoka', tornando-se hoje um símbolo do orgulho e resistência da canicultura polonesa.",
     "curiosidades": [
-      "Pastor Polonês da Planície possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O PON possui o que os especialistas chamam de 'memória de elefante', sendo capaz de lembrar comandos, pessoas e rotas de pastoreio por anos sem prática.",
+      "Eles são famosos por sua habilidade de 'olhar através da franja', detectando movimentos sutis sem que o intruso perceba que está sendo vigiado.",
+      "O nome internacional 'PON' é a sigla do seu nome original em polonês: Polski Owczarek Nizinny.",
+      "Diferente de muitos pastores, o PON possui um andar rítmico e elástico que lhe permite saltar e girar no ar com a agilidade de um felino.",
+      "Eles são conhecidos como 'colecionadores de objetos', tendo o hábito de reunir sapatos, brinquedos e outros itens da família em um 'ninho' central em casa."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é extremamente paciente e protetor com os pequenos)",
+      "Tutores que buscam um cão de guarda de alerta inteligente e vigilante",
+      "Pessoas interessadas em adestramento, truques e enriquecimento mental",
+      "Quem vive em casas com quintais onde o cão possa exercitar sua mente e corpo",
+      "Donos que apreciam o visual rústico e shaggy das raças de pastoreio europeias"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental diário (ele se tornará teimoso)",
+      "Pessoas que não têm paciência para a manutenção rigorosa da pelagem longa",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele exige companhia e interação)",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros (ele pode ser dominante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Hipotireoidismo",
+      "Alergias de pele",
+      "Obesidade"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são fundamentais. Monitoramento rigoroso do peso. Atenção à higiene dos ouvidos e olhos devido à abundância de pelos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa e densa é alta. Exige escovação profunda pelo menos três vezes por semana até a pele para evitar nós e dermatites. Durante as trocas sazonais, a queda é moderada e a escovação deve ser diária. Banhos devem ser mensais com bons condicionadores. A limpeza da barba e dos olhos é essencial após as refeições. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Caminhadas vigorosas e, principalmente, desafios mentais são obrigatórios. O PON adora jogos de busca, trilhas e sessões de treinamento que usem seu cérebro privilegiado. Ele precisa sentir que é útil para a família.",
+    "treinamento": "Muito inteligente e geralmente ansioso para agradar, mas possui uma mente independente. O adestramento deve ser baseado em reforço positivo, paciência e variedade. Eles se aborrecem com repetições inúteis. A socialização precoce é fundamental para evitar a desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade. O PON tem uma tendência enorme à obesidade, pois é um excelente 'pedinte' e queima menos energia do que aparenta se não for estimulado. O controle calórico é vital para sua longevidade."
   },
   "seo": {
-    "title": "Pastor Polonês da Planície - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Polonês da Planície: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Polonês da Planície (PON): O Inteligente Urso da Polônia - Guia de Raça",
+    "description": "Descubra o Pastor Polonês da Planície: conheça seu temperamento leal, sua memória incrível e as dicas vitais de cuidados com a pelagem e saúde deste shaggy guardião.",
     "keywords": [
-      "pastor-polones-da-planicie",
-      "pastor polonês da planície",
-      "médio",
-      "polônia"
+      "Pastor Polonês da Planície",
+      "PON dog",
+      "Polski Owczarek Nizinny",
+      "cão peludo",
+      "cão inteligente",
+      "cão de pastoreio polonês",
+      "raças de cães médias",
+      "cuidados com PON",
+      "temperamento Pastor Polonês"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-polones-da-planicie.jpg",
@@ -76,11 +93,58 @@
     "/images/breeds/pastor-polones-da-planicie-2.jpg",
     "/images/breeds/pastor-polones-da-planicie-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-polones-da-planicie",
-  "popularidade": 33669,
-  "ranking_brasil": 24,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Polish Lowland Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pon",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pon/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do PON em Família",
+      "url": "https://www.youtube.com/watch?v=example-pon-life",
+      "canal": "Mundo Canino",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "bearded-collie",
+    "pastor-ingles-antigo",
+    "pastor-de-brie",
+    "pastor-dos-pirineus",
+    "terrier-tibetano"
+  ],
+  "cores_disponiveis": [
+    "Todas as cores e manchas permitidas",
+    "Branco e Cinza",
+    "Branco e Preto",
+    "Tricolor",
+    "Bege e Branco"
+  ],
+  "marcacoes": [
+    "Manchas irregulares comuns",
+    "Pode ser totalmente sólido",
+    "Franja longa cobrindo os olhos",
+    "Barba e bigodes abundantes"
+  ],
+  "curiosidades_historicas": "A preservação da raça após a Segunda Guerra Mundial é creditada a uma única cadela chamada 'Smoka', de propriedade da Dra. Danuta Hryniewicz. Smoka sobreviveu ao cerco de Varsóvia e foi a mãe da maioria dos PONs modernos, tornando-se uma lenda viva da resiliência canina polonesa.",
+  "referencias_externas": [
+    {
+      "titulo": "American Polish Lowland Sheepdog Club",
+      "url": "https://aplsbc.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Polish Lowland Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-LOWLAND-SHEEPDOG-251.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    326,
-    608
+    300,
+    750
   ]
 }

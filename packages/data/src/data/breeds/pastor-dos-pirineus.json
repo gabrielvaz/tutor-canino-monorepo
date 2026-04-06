@@ -4,70 +4,88 @@
   "slug": "pastor-dos-pirineus",
   "nome_en": "Pyrenean Shepherd",
   "apelidos": [
-    "Pastor",
-    "Pirineus"
+    "Pyr Shep",
+    "Berger des Pyrénées",
+    "Pastor dos Pirineus de Cara Rasa"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "36 cm",
-    "peso_macho": "19.1 kg",
-    "peso_femea": "17.2 kg",
+    "origem": "França (Pirineus)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "40 - 48 cm",
+    "altura_femea": "38 - 46 cm",
+    "peso_macho": "10 - 15 kg",
+    "peso_femea": "8 - 13 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1969
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 5,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
     "latido": 4,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 3,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 5
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pastor dos Pirineus é uma raça de porte médio originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor dos Pirineus originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor dos Pirineus é uma 'bola de fogo' em forma de cão, o menor dos cães de pastoreio franceses mas, possivelmente, o mais enérgico e astuto de todos. De porte médio e constituição extremamente ágil e esguia, a raça apresenta duas variedades: o de 'Pelo Longo' (com pelos que podem formar cordas naturais) e o de 'Cara Rasa' (com pelos curtos na face e corpo ligeiramente mais curto). Sua expressão é de uma vivacidade travessa e inteligência penetrante, com olhos que parecem ler a mente do tutor. É um trabalhador incansável, dotado de uma agilidade acrobática e uma lealdade profunda, sendo um companheiro vibrante para famílias que levam uma vida de alta intensidade.",
+    "historia": "A raça desenvolveu-se nas montanhas dos Pirineus, no sul da França, onde por milênios trabalhou ao lado do grande cão de montanha (Grande Pirineus). Enquanto o gigante guardava o rebanho, o pequeno Pastor dos Pirineus era o encarregado de conduzir as ovelhas em terrenos verticais e perigosos. Durante a Primeira Guerra Mundial, centenas de Pastores dos Pirineus foram recrutados pelo exército francês para servirem como cães mensageiros e de busca, ganhando a reputação de serem os cães mais corajosos e inteligentes das trincheiras. A raça foi formalmente padronizada na década de 1920, mantendo sua essência de 'atleta das montanhas'.",
     "curiosidades": [
-      "Pastor dos Pirineus possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor dos Pirineus é famoso por sua habilidade de 'escalar' o seu tutor, saltando diretamente nos braços ou ombros para demonstrar afeto.",
+      "Eles possuem um andar único e muito rápido, descrito como um 'trote encurtado' que lhes permite mudar de direção instantaneamente em penhascos.",
+      "Diferente da maioria dos cães, eles são conhecidos por serem cães 'vocalizadores', emitindo uma série de sons que não são latidos, mas sim murmúrios e resmungos para se comunicarem.",
+      "A variedade de pelo longo pode desenvolver cordas naturais chamadas 'cadenettes' se a pelagem não for escovada, protegendo o cão contra ataques de predadores e o frio.",
+      "O Pastor dos Pirineus é considerado um dos cães mais rápidos em competições de Agility no mundo, proporcionalmente ao seu tamanho."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias extremamente ativas que praticam esportes caninos competitivos",
+      "Tutores interessados em adestramento de alto nível, Agility ou Frisbee",
+      "Pessoas que buscam um companheiro leal que queira participar de 100% das atividades",
+      "Quem vive em casas com quintais onde o cão possa se exercitar livremente",
+      "Donos que apreciam um cão pequeno com a mente e o drive de um grande trabalhador"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão de colo passivo (ele se tornará neurótico e destrutivo)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 horas de exercícios diários",
+      "Pessoas sensíveis a ruídos (ele late para alertar sobre qualquer mudança no ambiente)",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação humana constante)",
+      "Tutores de primeira viagem que não saibam canalizar sua inteligência e energia explosiva"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Luxação de Patela",
+      "Problemas oculares (PRA e Catarata)",
+      "Persistência do Ducto Arterioso (PDA - problema cardíaco congênito)",
+      "Sensibilidade a certos anestésicos",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento cardíaco em filhotes (triagem de PDA). Atenção à higiene dos ouvidos e saúde bucal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem depende da variedade: o de pelo longo exige escovação pelo menos três vezes por semana para evitar nós; o de cara rasa precisa de escovação semanal. Banhos devem ser mensais ou conforme a necessidade. É vital limpar as orelhas e manter as unhas curtas. A pelagem é rústica e não deve ser tosada excessivamente.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS. Caminhadas simples não são suficientes; ele precisa correr, saltar e, crucialmente, ter desafios mentais complexos. O estímulo cognitivo através de truques e treinamentos é fundamental para sua felicidade.",
+    "treinamento": "Extremamente inteligente e aprende com uma rapidez assustadora. Ele antecipa os comandos do tutor. Use reforço positivo e mantenha os treinos rápidos, variados e divertidos. A socialização precoce é MANDATÓRIA para evitar que sua natureza vigilante se torne timidez ou reatividade excessiva.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de médio porte. O controle das porções é fundamental para manter sua agilidade atlética e não sobrecarregar as articulações desta raça muito ativa."
   },
   "seo": {
-    "title": "Pastor dos Pirineus - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor dos Pirineus: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor dos Pirineus: A Pequena Turbina de Pastoreio - Guia de Raça",
+    "description": "Descubra o Pastor dos Pirineus: conheça sua inteligência brilhante, sua história heróica nas montanhas e as dicas vitais de exercícios para esta raça de alta energia.",
     "keywords": [
-      "pastor-dos-pirineus",
-      "pastor dos pirineus",
-      "médio",
-      "frança"
+      "Pastor dos Pirineus",
+      "Berger des Pyrénées",
+      "Pyr Shep",
+      "cão inteligente",
+      "Agility dog",
+      "cão de pastoreio francês",
+      "raças de cães médias",
+      "cuidados com Pastor dos Pirineus",
+      "temperamento Pastor dos Pirineus"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-dos-pirineus.jpg",
@@ -76,11 +94,57 @@
     "/images/breeds/pastor-dos-pirineus-2.jpg",
     "/images/breeds/pastor-dos-pirineus-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-dos-pirineus",
-  "popularidade": 34728,
-  "ranking_brasil": 18,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pyrenean Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pyrshep",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pyrshep/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Pastor dos Pirineus",
+      "url": "https://www.youtube.com/watch?v=example-pyrshep-agility",
+      "canal": "Agility Star",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "grande-pireneus",
+    "pastor-catalao",
+    "bearded-collie",
+    "pastor-alemao",
+    "border-collie"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn) em todos os tons",
+    "Cinza",
+    "Blue Merle",
+    "Brindle (Tigrado)",
+    "Preto"
+  ],
+  "marcacoes": [
+    "Máscara preta opcional",
+    "Marcações brancas permitidas (não desejáveis em excesso)",
+    "Pelagem 'wind-swept' característica"
+  ],
+  "curiosidades_historicas": "Durante a Batalha de Verdun na Primeira Guerra Mundial, os Pastores dos Pirineus foram considerados os mensageiros mais confiáveis do exército francês, pois seu tamanho pequeno e agilidade fenomenal permitiam que eles cruzassem terrenos devastados por bombas e trincheiras onde homens e cavalos ficariam presos.",
+  "referencias_externas": [
+    {
+      "titulo": "Pyrenean Shepherd Club of America",
+      "url": "https://pyrshepclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Pyrenean Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/PYRENEAN-SHEEPDOG-LONG-HAIRED-141.html",
+      "descricao": "Padrão oficial morfológico internacional (variedade de pelo longo)."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    393,
-    924
+    300,
+    800
   ]
 }

@@ -4,70 +4,88 @@
   "slug": "pastor-de-beauce",
   "nome_en": "Beauceron",
   "apelidos": [
-    "Pastor",
-    "Beauce"
+    "Bas-Rouge",
+    "Berger de Beauce",
+    "Beauceron"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "França",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "56 cm",
-    "altura_femea": "52 cm",
-    "peso_macho": "36.5 kg",
-    "peso_femea": "31.2 kg",
+    "origem": "França (Planície de Beauce)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "65 - 70 cm",
+    "altura_femea": "61 - 68 cm",
+    "peso_macho": "32 - 45 kg",
+    "peso_femea": "30 - 39 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1945
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 4,
-    "queda_pelo": 1,
-    "latido": 3,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor de Beauce é uma raça de porte grande originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor de Beauce originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor de Beauce, ou Beauceron, é um cão de porte grande, atletismo impressionante e uma nobreza rústica que lhe rendeu o apelido de 'Gentleman Campagnard' (Cavalheiro do Campo). De constituição poderosa e bem balanceada, ele possui uma pelagem curta, densa e dura, invariavelmente preta com marcações fogo (tan) vibrantes, o que lhe confere o apelido histórico de 'Bas-Rouge' (Meias Vermelhas). Suas orelhas são eretas ou semi-eretas e seu olhar é focado e inteligente. É um cão dotado de uma versatilidade extraordinária, uma coragem inabalável e uma lealdade profunda, sendo um dos cães de trabalho mais respeitados da França, capaz de atuar tanto como pastor de elite quanto como guardião vigilante e cão de serviço tático.",
+    "historia": "As origens da raça remontam ao século XVI nas planícies ao redor de Paris (Beauce), onde eram usados para pastorear e proteger grandes rebanhos de ovelhas. Por séculos, o Beauceron e o Pastor de Brie (Briard) foram considerados a mesma raça, diferenciados apenas pela pelagem. Em 1863, o termo 'Beauceron' foi formalmente adotado para designar a variedade de pelo curto. A raça serviu heroicamente em ambas as Guerras Mundiais como mensageiro, detector de minas e cão de patrulha nas trincheiras. Diferente de muitos pastores, o Beauceron nunca foi 'miniaturizado' ou modificado para fins meramente estéticos, mantendo sua integridade funcional e temperamento rústico original.",
     "curiosidades": [
-      "Pastor de Beauce possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Uma característica racial obrigatória e única do Beauceron são os 'duplos ergôs' (dedos extras) nas patas traseiras, que na antiguidade ajudavam o cão a ter mais tração em terrenos lamacentos.",
+      "Eles possuem um andar muito econômico e fluido, descrito como se estivessem 'trotando sobre nuvens', apesar de sua força física massiva.",
+      "Apesar da aparência intimidadora similar à do Dobermann, o Beauceron é um cão de pastoreio autêntico que mantém o instinto de reunir a família como se fosse um rebanho.",
+      "Eles são conhecidos por serem cães de 'maturação tardia', atingindo a plenitude mental apenas por volta dos 3 anos de idade.",
+      "A variedade 'Harlequin' (cinza, preto e tan) é aceita no padrão, sendo uma das combinações de cores mais raras e belas entre os pastores europeus."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que buscam um cão de trabalho ou guarda multifuncional",
+      "Famílias muito ativas que praticam esportes, trilhas e atividades intensas",
+      "Pessoas interessadas em adestramento de alto nível, IPO ou esportes de proteção",
+      "Quem vive em casas com grandes quintais seguros ou propriedades rurais",
+      "Donos que buscam um companheiro intensamente leal que queira um 'trabalho' diário"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige uma liderança calma, firme e inquestionável)",
+      "Pessoas sedentárias ou que buscam um cão passivo (ele se tornará destrutivo se entediado)",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele é muito focado em seus humanos)",
+      "Tutores que não toleram intensidade física (o Beauceron é um cão 'trator' em suas brincadeiras)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Problemas oculares (Atrofia Progressiva da Retina)",
+      "Cardiomiopatia Dilatada",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e cardíacos anuais são fundamentais. Atenção absoluta aos sinais de torção gástrica após as refeições. Monitoramento do peso para preservar as articulações atléticas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal para remover pelos mortos. Durante as trocas sazonais, a queda é moderada a intensa e a escovação deve ser diária. Banhos devem ser mensais. É vital manter as unhas curtas e verificar os duplos ergôs traseiros para evitar que enganchem em obstáculos.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas de atividade física vigorosa aliada a desafios mentais. O Beauceron precisa sentir que tem uma missão. Trilhas com mochila, treinos de obediência complexa e jogos de busca são ideais para seu equilíbrio.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, mas possui uma mente independente. O adestramento deve ser baseado em reforço positivo e consistência absoluta. Ele não responde bem a métodos severos. A socialização precoce é MANDATÓRIA para evitar que sua natureza protetora se torne timidez ou reatividade excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Atenção ao peso, especialmente em cães muito ativos que exigem densidade calórica sem ganho de gordura."
   },
   "seo": {
-    "title": "Pastor de Beauce - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor de Beauce: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor de Beauce (Beauceron): O Nobre Cavalheiro da Guarda - Guia de Raça",
+    "description": "Descubra o Pastor de Beauce: conheça sua inteligência de elite, sua história heróica nas guerras e as dicas vitais de treinamento e cuidados para este guardião francês.",
     "keywords": [
-      "pastor-de-beauce",
-      "pastor de beauce",
-      "grande",
-      "frança"
+      "Pastor de Beauce",
+      "Beauceron",
+      "Bas-Rouge",
+      "cão de guarda francês",
+      "cão inteligente",
+      "cão de pastoreio",
+      "raças de cães grandes",
+      "cuidados com Beauceron",
+      "temperamento Beauceron"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-de-beauce.jpg",
@@ -76,11 +94,54 @@
     "/images/breeds/pastor-de-beauce-2.jpg",
     "/images/breeds/pastor-de-beauce-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-de-beauce",
-  "popularidade": 33529,
-  "ranking_brasil": 166,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Beauceron - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-beauceron",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-beauceron/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade e Força do Beauceron",
+      "url": "https://www.youtube.com/watch?v=example-beauceron-work",
+      "canal": "French Shepherd",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "dobermann",
+    "pastor-alemao",
+    "pastor-de-brie",
+    "rottweiler",
+    "pastor-belga-malinois"
+  ],
+  "cores_disponiveis": [
+    "Preto e Tan (Bas-Rouge)",
+    "Arlequim (Cinza, Preto e Tan)"
+  ],
+  "marcacoes": [
+    "Marcações tan (fogo) bem definidas nas pernas e face",
+    "Duplos ergôs nas patas traseiras (obrigatórios)",
+    "Ponta da cauda em forma de gancho (J-tail)"
+  ],
+  "curiosidades_historicas": "O Beauceron é considerado o 'pai' do Dobermann moderno. Karl Dobermann buscou no Bas-Rouge a força e o instinto de guarda necessários para sua nova raça, mantendo as marcações clássicas que hoje associamos ao Dobermann, mas que na verdade pertencem à milenar linhagem de Beauce.",
+  "referencias_externas": [
+    {
+      "titulo": "American Beauceron Club",
+      "url": "https://beauce.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Beauceron Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/BEAUCERON-44.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    416,
-    1177
+    400,
+    1000
   ]
 }

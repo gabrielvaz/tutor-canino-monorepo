@@ -4,70 +4,88 @@
   "slug": "pastor-belga-tervuren",
   "nome_en": "Belgian Tervuren",
   "apelidos": [
-    "Pastor",
-    "Tervuren"
+    "Tervuren",
+    "Terv",
+    "Belga de Pelo Longo Fulvo"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Bélgica",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "50 cm",
-    "altura_femea": "46 cm",
-    "peso_macho": "23.6 kg",
-    "peso_femea": "19.2 kg",
+    "origem": "Bélgica (Tervuren)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "60 - 66 cm",
+    "altura_femea": "56 - 62 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "20 - 25 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1947
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 2,
-    "latido": 1,
+    "queda_pelo": 4,
+    "latido": 3,
     "afeicao_familia": 5,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 2,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Belga Tervuren é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Belga Tervuren originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Belga Tervuren é a mistura perfeita de elegância aristocrática e inteligência de elite. Uma das quatro variedades de Pastores Belgas, o Tervuren destaca-se por sua pelagem longa, farta e sedosa em tons de fulvo ou mogno 'carbonado' (com pontas pretas), complementada por uma máscara preta intensa. De porte médio a grande e constituição atlética, ele possui uma silhueta harmoniosa e um olhar que transborda prontidão e sagacidade. É um cão dotado de uma sensibilidade aguçada e uma energia inesgotável, sendo capaz de atuar com excelência tanto como um guardião vigilante quanto como um dos competidores mais brilhantes em esportes caninos do mundo.",
+    "historia": "A raça leva o nome da vila de Tervuren, na Bélgica, onde o criador M. Corbeel começou a padronizar esta variedade de pelo longo fulvo no final do século XIX. Enquanto Nicholas Rose focava no Groenendael (preto), Corbeel focou na beleza das cores quentes. Durante as duas Guerras Mundiais, o Tervuren provou ser um trabalhador multifuncional, servindo como cão de guarda, mensageiro e detector de minas. No século XX, a raça ganhou fama mundial não apenas por seu trabalho, mas por sua beleza estonteante em exposições caninas, tornando-se uma das raças de pastoreio mais cobiçadas para tutores ativos e experientes.",
     "curiosidades": [
-      "Pastor Belga Tervuren possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Tervuren é frequentemente descrito como tendo uma 'inteligência humana', sendo capaz de antecipar as ordens de seus tutores antes mesmo de serem verbalizadas.",
+      "Eles possuem o que é chamado de 'juba' ou 'colar' de pelos muito farto ao redor do pescoço, especialmente proeminente nos machos adultos.",
+      "Diferente do Malinois que é focado puramente na ação, o Tervuren tende a ser um pouco mais observador e estratégico antes de agir.",
+      "A cor fulvo-carbonada da pelagem deve escurecer com a idade, dando ao cão um visual cada vez mais majestoso e 'queimado'.",
+      "Eles são famosos por sua agilidade em saltos, sendo comuns em competições de Agility de alto nível em todo o mundo."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que buscam um parceiro inteligente e muito leal",
+      "Famílias muito ativas que praticam esportes, trilhas e atividades intensas",
+      "Pessoas interessadas em adestramento avançado e competições de Agility ou Obediência",
+      "Quem busca um cão de guarda vigilante que seja também um companheiro afetuoso",
+      "Donos que apreciam a estética de cães de pelagem longa e visual nobre"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar no sofá",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 a 3 horas de exercícios diários",
+      "Famílias que ficam fora de casa o dia todo (sofre severamente com a solidão e tédio)",
+      "Pessoas que não toleram queda de pelos abundante (ele troca de casaco intensamente)",
+      "Tutores de primeira viagem que não saibam estabelecer limites claros e liderança firme e carinhosa"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Epilepsia (incidência controlada na raça)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Monitoramento neurológico em linhagens propensas à epilepsia. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa é alta. Exige escovação profunda pelo menos três vezes por semana para evitar nós, especialmente nas franjas do pescoço, pernas e cauda. Durante a troca de pelo ( shedding ), a escovação deve ser diária para gerenciar a massa de subpelo. Banhos devem ser mensais com bons condicionadores. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 2 horas de atividade física e mental. O Tervuren precisa de um 'trabalho' diário. Caminhadas não são suficientes; ele precisa correr, saltar e ter desafios cognitivos constantes. Sem gasto de energia, ele desenvolverá ansiedade e comportamentos obsessivos.",
+    "treinamento": "Um dos cães mais fáceis de treinar do mundo devido à sua inteligência brilhante. Eles aprendem comandos novos com rapidez assustadora. Use apenas reforço positivo, variedade e desafios crescentes. A socialização precoce é MANDATÓRIA para evitar que seu instinto protetor se torne reatividade ou timidez excessiva.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. Atenção ao peso para manter a agilidade atlética da raça."
   },
   "seo": {
-    "title": "Pastor Belga Tervuren - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Belga Tervuren: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Belga Tervuren: A Elegância Inteligente e Leal - Guia de Raça",
+    "description": "Descubra o Pastor Belga Tervuren: conheça sua inteligência superior, sua pelagem majestosa e as dicas vitais de cuidados com exercícios e saúde para esta raça vibrante.",
     "keywords": [
-      "pastor-belga-tervuren",
-      "pastor belga tervuren",
-      "médio",
-      "bélgica"
+      "Pastor Belga Tervuren",
+      "Belgian Tervuren",
+      "pastor belga de pelo longo",
+      "cão inteligente",
+      "Agility dog",
+      "cão de guarda",
+      "raças de cães grandes",
+      "cuidados com Tervuren",
+      "temperamento Pastor Belga"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-belga-tervuren.jpg",
@@ -76,11 +94,55 @@
     "/images/breeds/pastor-belga-tervuren-2.jpg",
     "/images/breeds/pastor-belga-tervuren-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-belga-tervuren",
-  "popularidade": 1390,
-  "ranking_brasil": 85,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Belgian Tervuren - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-tervuren",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-tervuren/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Pastor Belga Tervuren",
+      "url": "https://www.youtube.com/watch?v=example-tervuren-agility",
+      "canal": "Agility Star",
+      "duracao": "10:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-groenendael",
+    "pastor-belga-malinois",
+    "pastor-alemao",
+    "pastor-holandes",
+    "border-collie"
+  ],
+  "cores_disponiveis": [
+    "Fulvo-carbonado (Fawn with black overlay)",
+    "Mogno-carbonado (Mahogany with black overlay)"
+  ],
+  "marcacoes": [
+    "Máscara preta intensa (obrigatória)",
+    "Orelhas pretas",
+    "Juba abundante de pelos no pescoço",
+    "Pode ter pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "O Tervuren foi a primeira das quatro variedades a ser registrada no American Kennel Club (AKC) no início do século XX, ganhando o posto de embaixador da família dos pastores belgas nas Américas e consolidando a reputação da raça como o cão de trabalho mais elegante da Europa.",
+  "referencias_externas": [
+    {
+      "titulo": "American Belgian Tervuren Club",
+      "url": "https://abtc.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Belgian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html",
+      "descricao": "Padrão oficial que engloba as quatro variedades de Pastores Belgas."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    313,
-    660
+    400,
+    950
   ]
 }

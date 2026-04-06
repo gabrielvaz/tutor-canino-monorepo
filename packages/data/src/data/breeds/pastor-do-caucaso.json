@@ -4,71 +4,88 @@
   "slug": "pastor-do-caucaso",
   "nome_en": "Caucasian Shepherd Dog",
   "apelidos": [
-    "Pastor",
-    "Cáucaso"
+    "Ovcharka",
+    "Kavkazskaya Ovcharka",
+    "Cão Urso Russo"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Rússia",
-    "expectativa_vida": "10 - 17 anos",
-    "altura_macho": "51 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "44.5 kg",
-    "peso_femea": "39.5 kg",
-    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1954
+    "origem": "Rússia / Geórgia / Armênia / Azerbaijão (Montanhas do Cáucaso)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "72 - 75 cm",
+    "altura_femea": "67 - 70 cm",
+    "peso_macho": "50 - 90 kg",
+    "peso_femea": "45 - 75 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1984
   },
   "caracteristicas": {
-    "energia": 4,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 2,
-    "latido": 1,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "queda_pelo": 5,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor do Cáucaso é uma raça de porte grande originária de Rússia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor do Cáucaso originou-se em Rússia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor do Cáucaso é um dos gigantes mais formidáveis e ancestrais do mundo canino, um guardião de montanha que exala uma aura de poder bruto e vigilância inabalável. De porte gigante e constituição maciça e musculosa, ele possui uma pelagem dupla extraordinariamente farta, densa e rústica, que lhe confere uma aparência de urso. Sua cabeça é grande e poderosa, com uma expressão de autoridade e seriedade profunda. O Cáucaso é um guardião de rebanho por excelência, dotado de uma coragem lendária que lhe permite enfrentar lobos e ursos sem hesitação. É um cão intensamente leal à sua família, comportando-se como um protetor silencioso e digno que exige respeito e liderança firme.",
+    "historia": "A raça tem raízes que remontam a mais de 2.000 anos nas montanhas do Cáucaso, entre os mares Negro e Cáspio. Foram desenvolvidos para proteger os rebanhos de tribos locais contra predadores e invasores, vivendo em condições climáticas de frio extremo. O Pastor do Cáucaso é o resultado de séculos de seleção natural e funcional baseada na bravura e resistência. Durante a era soviética, a raça foi refinada em canis estatais (como o canil Red Star) para guarda de instalações industriais e prisões, o que reforçou seu instinto de proteção. Hoje, é considerado um tesouro nacional em muitos países da ex-União Soviética e permanece como um dos cães de guarda residencial mais poderosos que existem.",
     "curiosidades": [
-      "Pastor do Cáucaso possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor do Cáucaso possui uma pele extremamente grossa e elástica, especialmente ao redor do pescoço, que serve como uma armadura natural contra mordidas de predadores.",
+      "Eles são famosos por sua habilidade de patrulha noturna, mantendo-se em alerta total enquanto a família dorme, muitas vezes sem emitir um único latido até que a ameaça seja imediata.",
+      "A raça possui um andar 'pesado mas ágil', sendo capaz de se deslocar com rapidez explosiva em terrenos montanhosos apesar do seu peso massivo.",
+      "Diferente de cães de guarda criados apenas para ataque, o Cáucaso possui um discernimento aguçado, sendo capaz de distinguir entre uma rotina normal da vizinhança e um perigo real.",
+      "Um Pastor do Cáucaso adulto pode pesar mais de 100 kg em exemplares excepcionalmente grandes, mantendo uma força de mordida esmagadora."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores especialistas com experiência prévia em cães gigantes e guardiões independentes",
+      "Grandes propriedades rurais, sítios ou casas com terrenos muito amplos e muros de alta segurança",
+      "Quem busca o máximo em dissuasão e proteção residencial autônoma",
+      "Pessoas que vivem em climas frios ou temperados (ele adora o inverno)",
+      "Proprietários que apreciam a lealdade de um cão que é devotado a um círculo familiar restrito"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exigirá controle físico e mental absoluto)",
+      "Moradores de apartamentos ou áreas urbanas densas (ele precisa de espaço e patrulha)",
+      "Pessoas que buscam um cão para frequentar parques públicos ou socializar livremente com estranhos",
+      "Proprietários que não toleram queda de pelos massiva (ele troca de casaco em proporções imensas)",
+      "Famílias que buscam um cão que aprenda truques e comandos de exibição (ele é um cão de propósito sério)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico"
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico devido ao tamanho",
+      "Displasia de Quadril e Cotovelo (incidência controlada na raça)",
+      "Cardiopatias (especialmente em cães gigantes)",
+      "Obesidade (extremamente perigosa para as articulações)",
+      "Hipotireoidismo",
+      "Entrópio e Ectrópio"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento ortopédico e cardíaco semestral. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento longo (até os 3-4 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é muito alta. Exige escovação profunda pelo menos três vezes por semana para remover subpelo morto e evitar que se torne feltro. Durante a troca de pelo sazonal, a escovação deve ser diária. Banhos devem ser mensais ou conforme a necessidade, exigindo um soprador potente para secagem. É vital limpar as orelhas e barbelas. As unhas devem ser mantidas curtas para suportar o peso.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Longas caminhadas e a oportunidade de patrulhar seu território são fundamentais. O Cáucaso prefere a vigilância estratégica ao exercício físico frenético. Evite atividades de alto impacto em cães jovens para proteger as articulações em desenvolvimento.",
+    "treinamento": "O adestramento é obrigatório e deve começar o mais cedo possível. O Cáucaso é inteligente mas extremamente independente e dominante. Use reforço positivo, mas estabeleça-se como o líder calmo e firme. A socialização precoce, intensa e contínua é VITAL para que ele não se torne perigosamente reativo fora do seu território.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É essencial oferecer refeições fracionadas (pelo menos 3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Pastor do Cáucaso - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor do Cáucaso: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor do Cáucaso (Ovcharka): O Colosso Guardião Russo - Guia de Raça",
+    "description": "Descubra o Pastor do Cáucaso: conheça sua força monumental, sua história nas montanhas e os cuidados essenciais com a saúde e liderança deste gigante protetor.",
     "keywords": [
-      "pastor-do-caucaso",
-      "pastor do cáucaso",
-      "grande",
-      "rússia"
+      "Pastor do Cáucaso",
+      "Ovcharka",
+      "Caucasian Shepherd",
+      "cão de guarda gigante",
+      "cão urso russo",
+      "cão protetor de rebanho",
+      "raças de cães grandes",
+      "cuidados com Pastor do Cáucaso",
+      "temperamento Ovcharka"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-do-caucaso.jpg",
@@ -77,11 +94,57 @@
     "/images/breeds/pastor-do-caucaso-2.jpg",
     "/images/breeds/pastor-do-caucaso-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-do-caucaso",
-  "popularidade": 7227,
-  "ranking_brasil": 61,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Caucasian Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-caucasian",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-caucasian/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Poder do Pastor do Cáucaso na Guarda",
+      "url": "https://www.youtube.com/watch?v=example-caucasian-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "13:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-da-asia-central",
+    "mastiff-tibetano",
+    "pastor-da-anatolia",
+    "mastiff-espanhol",
+    "fila-brasileiro"
+  ],
+  "cores_disponiveis": [
+    "Cinza (Sable)",
+    "Fulvo",
+    "Branco",
+    "Tigrado",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Máscara preta comum",
+    "Manchas coloridas sobre fundo claro",
+    "Pelagem dupla farta (tipo juba)"
+  ],
+  "curiosidades_historicas": "O Pastor do Cáucaso serviu como guardião oficial da fronteira entre a Alemanha Oriental e Ocidental (Muro de Berlim). Quando o muro caiu em 1989, milhares desses cães de patrulha foram aposentados e adotados por famílias alemãs, o que introduziu a raça de forma definitiva na canicultura da Europa Ocidental.",
+  "referencias_externas": [
+    {
+      "titulo": "Caucasian Shepherd Dog Club of America",
+      "url": "https://www.caucasian.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Caucasian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/CAUCASIAN-SHEPHERD-DOG-328.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    380,
-    1387
+    600,
+    1800
   ]
 }

@@ -4,70 +4,88 @@
   "slug": "pastor-da-asia-central",
   "nome_en": "Central Asian Shepherd Dog",
   "apelidos": [
-    "Pastor",
-    "Central"
+    "Alabai",
+    "CAO",
+    "Sredneasiatskaya Ovcharka"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Ásia Central",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "43 cm",
-    "altura_femea": "40 cm",
-    "peso_macho": "15.9 kg",
-    "peso_femea": "10.1 kg",
-    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1981
+    "origem": "Rússia / Ásia Central (Cazaquistão, Quirguistão, etc.)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "70 - 80 cm",
+    "altura_femea": "65 - 75 cm",
+    "peso_macho": "50 - 80 kg",
+    "peso_femea": "40 - 65 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1989
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 5,
+    "energia": 3,
+    "inteligencia": 4,
     "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor da Ásia Central é uma raça de porte médio originária de Ásia Central. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor da Ásia Central originou-se em Ásia Central, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor da Ásia Central, carinhosamente chamado de Alabai, é um dos molossos mais antigos e poderosos do mundo. De porte gigante e constituição maciça, ele exala uma aura de força bruta e autoridade tranquila. Sua pele é grossa e solta, protegida por uma pelagem dupla extremamente densa e resistente. Com uma cabeça imponente e uma expressão de vigilância inata, o Alabai é um guardião de rebanho ancestral, dotado de uma coragem lendária que o permite enfrentar predadores como lobos e leopardos. É um cão intensamente leal à sua família, comportando-se como um protetor silencioso e digno que avalia situações com inteligência antes de agir.",
+    "historia": "A raça tem raízes que remontam a mais de 5.000 anos, tendo evoluído através da seleção natural e funcional nas vastas estepes e desertos da Ásia Central. Diferente de muitas raças modernas, o Pastor da Ásia Central não foi 'criado' pelo homem, mas forjado pelas condições severas de trabalho e clima. Foi o companheiro essencial das tribos nômades para proteger o gado e as caravanas. Durante o século XX, a União Soviética padronizou a raça para uso militar e de guarda, preservando sua tenacidade original. Hoje, é considerado um tesouro nacional em países como o Turcomenistão e permanece como um dos cães de guarda mais eficazes do planeta.",
     "curiosidades": [
-      "Pastor da Ásia Central possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Alabai' refere-se a uma combinação de cores específica (manchas coloridas sobre fundo branco), mas tornou-se o nome popular da raça em muitas regiões.",
+      "Eles possuem um umbral de dor extraordinariamente elevado, herança de séculos enfrentando predadores em combates fatais.",
+      "Historicamente, as orelhas e a cauda eram cortadas muito rentes para evitar que predadores as mordessem durante as lutas, protegendo os pontos vulneráveis do cão.",
+      "O Pastor da Ásia Central é conhecido por ter um 'ritmo de vida nômada', sendo capaz de economizar energia por horas e explodir em ação instantaneamente se necessário.",
+      "Diferente de muitos gigantes, o Alabai é surpreendentemente ágil e capaz de escalar relevos acidentados com grande facilidade."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes com raças gigantes e guardiões independentes",
+      "Propriedades rurais, fazendas ou casas com grandes terrenos muito bem cercados",
+      "Quem busca um cão de guarda silencioso, autônomo e de presença dissuasiva máxima",
+      "Famílias que desejam um protetor leal que seja equilibrado e calmo dentro de casa",
+      "Proprietários que apreciam a estética rústica e ancestral de cães primitivos"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige liderança absoluta e socialização rigorosa desde o primeiro dia)",
+      "Moradores de apartamentos ou áreas urbanas densas (ele precisa de espaço e patrulha territorial)",
+      "Pessoas que buscam um cão para truques e obediência cega (ele é um livre-pensador que questiona ordens)",
+      "Famílias que recebem muitos visitantes desconhecidos sem uma rotina clara de controle",
+      "Proprietários que não podem arcar com os custos elevados de alimentação e saúde de um gigante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência controlada na raça)",
+      "Dilatação e Torção Gástrica (Bloat) - risco crítico",
+      "Problemas cardíacos",
+      "Artrite e problemas articulares (devido ao peso massivo)",
+      "Hipotireoidismo",
+      "Entrópio (pálpebras viradas para dentro)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Monitoramento ortopédico e cardíaco semestral. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento prolongado (até os 3 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é simples, mas intensa durante as trocas sazonais. Exige escovação semanal profunda para remover pelos mortos. Banhos devem ser ocasionais para não remover a proteção natural da pele grossa. É vital limpar as orelhas e manter as unhas curtas para suportar o peso monumental do cão. Prepare-se para remover detritos que a pelagem rústica pode trazer para dentro de casa.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Longas caminhadas e a oportunidade de patrulhar seu território são fundamentais para sua saúde mental. Ele não é um cão de alta intensidade física, mas sim de resistência e vigilância.",
+    "treinamento": "O adestramento é um desafio. O Alabai é inteligente mas independente. Use reforço positivo, paciência e firmeza. Ele precisa respeitar o tutor como líder para ser confiável. A socialização precoce e CONTÍNUA é MANDATÓRIA para garantir que seu instinto de guarda não se torne agressividade indiscriminada.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É essencial oferecer refeições fracionadas (pelo menos 3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Pastor da Ásia Central - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor da Ásia Central: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor da Ásia Central (Alabai): O Guardião Supremo das Estepes - Guia de Raça",
+    "description": "Descubra o Pastor da Ásia Central: conheça sua força monumental, sua história milenar e os cuidados essenciais com a saúde e liderança deste gigante leal.",
     "keywords": [
-      "pastor-da-asia-central",
-      "pastor da ásia central",
-      "médio",
-      "ásia central"
+      "Pastor da Ásia Central",
+      "Alabai",
+      "Central Asian Shepherd",
+      "cão de guarda gigante",
+      "cão das estepes",
+      "cão protetor de rebanho",
+      "raças de cães grandes",
+      "cuidados com Alabai",
+      "temperamento Alabai"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-da-asia-central.jpg",
@@ -76,11 +94,58 @@
     "/images/breeds/pastor-da-asia-central-2.jpg",
     "/images/breeds/pastor-da-asia-central-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-da-asia-central",
-  "popularidade": 31628,
-  "ranking_brasil": 56,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Central Asian Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-alabai",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-alabai/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Guarda e Poder do Alabai",
+      "url": "https://www.youtube.com/watch?v=example-alabai-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "13:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-do-caucaso",
+    "mastiff-tibetano",
+    "pastor-da-anatolia",
+    "kuvasz",
+    "fila-brasileiro"
+  ],
+  "cores_disponiveis": [
+    "Branco",
+    "Preto",
+    "Cinza",
+    "Palha",
+    "Tigrado",
+    "Particolor"
+  ],
+  "marcacoes": [
+    "Máscara preta opcional",
+    "Manchas coloridas sobre fundo branco (Alabai)",
+    "Pele solta e barbelas abundantes"
+  ],
+  "curiosidades_historicas": "O Alabai é tão central na cultura do Turcomenistão que o presidente do país inaugurou em 2020 uma estátua dourada de 6 metros de altura dedicada à raça na capital Ashgabat, simbolizando o orgulho nacional e a fidelidade eterna destes cães guardiões.",
+  "referencias_externas": [
+    {
+      "titulo": "Central Asian Shepherd Dog Society (EUA)",
+      "url": "https://www.casdsociety.org/",
+      "descricao": "Clube oficial dedicado à preservação e educação sobre a raça nos EUA."
+    },
+    {
+      "titulo": "FCI - Central Asian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/CENTRAL-ASIAN-SHEPHERD-DOG-335.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    393,
-    888
+    600,
+    1800
   ]
 }

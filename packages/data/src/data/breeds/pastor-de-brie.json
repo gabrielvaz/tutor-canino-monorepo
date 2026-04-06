@@ -4,70 +4,87 @@
   "slug": "pastor-de-brie",
   "nome_en": "Briard",
   "apelidos": [
-    "Pastor",
-    "Brie"
+    "Briard",
+    "Coração envolto em pelos",
+    "Berger de Brie"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "França",
-    "expectativa_vida": "10 - 16 anos",
-    "altura_macho": "69 cm",
-    "altura_femea": "65 cm",
-    "peso_macho": "39.9 kg",
-    "peso_femea": "36.8 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "62 - 68 cm",
+    "altura_femea": "58 - 64 cm",
+    "peso_macho": "30 - 40 kg",
+    "peso_femea": "22 - 32 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1927
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 4,
-    "queda_pelo": 5,
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 3,
     "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor de Brie é uma raça de porte grande originária de França. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor de Brie originou-se em França, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor de Brie, ou Briard, é uma das raças mais antigas e carismáticas da França, frequentemente descrito como um 'coração envolto em pelos'. De porte grande e constituição vigorosa e bem balanceada, ele possui uma pelagem longa, levemente ondulada e de textura seca (pelo de cabra), que forma uma barba, bigodes e sobrancelhas características. Suas orelhas são tradicionalmente eretas ou semi-eretas e seu olhar é doce mas penetrante. É um cão dotado de uma inteligência brilhante, uma coragem inabalável e uma lealdade profunda, sendo tanto um pastor de elite capaz de lidar com centenas de ovelhas quanto um companheiro de família extremamente protetor e afetuoso.",
+    "historia": "A raça tem raízes que remontam ao século VIII, sendo mencionada em tapeçarias da época de Carlos Magno. Originalmente, o Briard e o Beauceron eram considerados a mesma raça, mas o Briard foi selecionado pela pelagem longa para proteção contra o clima e predadores. Durante séculos, foi o cão de utilidade favorito das fazendas francesas. Thomas Jefferson apaixonou-se pela raça e levou os primeiros exemplares para os Estados Unidos em 1789. Na Primeira Guerra Mundial, o Briard serviu heroicamente como o cão oficial do exército francês, atuando como sentinela, mensageiro e buscando soldados feridos nos campos de batalha.",
     "curiosidades": [
-      "Pastor de Brie possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Briard possui 'duplos ergôs' (dedos extras) nas patas traseiras, uma característica genética obrigatória que na antiguidade ajudava o cão a ter equilíbrio em terrenos difíceis e montanhosos.",
+      "Eles são famosos por sua sensibilidade auditiva extraordinária, sendo capazes de ouvir comandos a distâncias que outros cães ignorariam.",
+      "Diferente de muitos pastores, o Briard trabalha de forma muito próxima ao pastor, agindo como um parceiro estratégico e não apenas como um executor de ordens.",
+      "A pelagem da raça é repelente à sujeira e à água, mantendo o cão relativamente limpo apesar da abundância de pelos.",
+      "O ditado francês 'Um Briard não é um cão, é um companheiro de vida' resume a devoção absoluta desta raça aos seus tutores."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos)",
+      "Tutores que buscam um cão de guarda vigilante e inteligente",
+      "Pessoas que apreciam cuidar da estética canina e escovação regular",
+      "Quem vive em casas com quintais espaçosos e seguros",
+      "Donos que buscam um parceiro para todas as atividades da família"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental e físico diário",
+      "Pessoas que não têm paciência para a manutenção rigorosa da pelagem longa",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e carinhosa",
+      "Famílias que ficam fora de casa o dia todo (ele exige companhia constante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Displasia de Quadril",
+      "PRA (Atrofia Progressiva da Retina) e Cegueira Noturna Estacionária Congênita (CSNB)",
+      "Hipotireoidismo",
+      "Cardiopatias (ocasionais)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Testes genéticos para CSNB são fundamentais antes da reprodução. Check-ups ortopédicos e oftalmológicos anuais. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação profunda pelo menos três vezes por semana para evitar nós dolorosos, especialmente no subpelo fino. Banhos devem ser mensais com bons hidratantes. É vital verificar os duplos ergôs traseiros para evitar que enganchem em obstáculos. A limpeza da barba após as refeições é importante. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas vigorosas, sessões de treinamento e jogos de busca são fundamentais. O Briard adora ter um 'trabalho' e se sente mais equilibrado quando é desafiado mentalmente através de truques ou obediência.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, mas possui uma mente independente. O adestramento deve ser baseado em reforço positivo, paciência e firmeza calma. Ele é sensível ao tom de voz. A socialização precoce é MANDATÓRIA para evitar que sua natureza protetora se torne timidez ou reatividade excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas ou três refeições por dia para reduzir o risco de torção gástrica. Atenção ao peso para não sobrecarregar as articulações desta raça atlética."
   },
   "seo": {
-    "title": "Pastor de Brie - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor de Brie: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor de Brie (Briard): O Coração de Pelos da França - Guia de Raça",
+    "description": "Descubra o Pastor de Brie: conheça sua inteligência brilhante, sua história heróica nas guerras e as dicas vitais de cuidados com a pelagem e saúde deste fiel gigante francês.",
     "keywords": [
-      "pastor-de-brie",
-      "pastor de brie",
-      "grande",
-      "frança"
+      "Pastor de Brie",
+      "Briard",
+      "cão inteligente",
+      "cão de guarda francês",
+      "cão de pastoreio",
+      "raças de cães grandes",
+      "cuidados com Briard",
+      "temperamento Briard"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-de-brie.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/pastor-de-brie-2.jpg",
     "/images/breeds/pastor-de-brie-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-de-brie",
-  "popularidade": 21904,
-  "ranking_brasil": 64,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Briard - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-briard",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-briard/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Pastor de Brie",
+      "url": "https://www.youtube.com/watch?v=example-briard-intel",
+      "canal": "Mundo Canino",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-de-beauce",
+    "pastor-dos-pirineus",
+    "bearded-collie",
+    "pastor-alemao",
+    "bouvier-de-flandres"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn)",
+    "Preto Sólido",
+    "Cinza"
+  ],
+  "marcacoes": [
+    "Carbonado leve no fulvo permitido",
+    "Duplos ergôs nas patas traseiras (obrigatórios)",
+    "Barba e bigodes abundantes"
+  ],
+  "curiosidades_historicas": "O Pastor de Brie foi o cão escolhido por Napoleão Bonaparte como seu guardião pessoal em diversas campanhas militares. Napoleão admirava tanto a inteligência da raça que diziam que ele confiava mais nos ouvidos de seus Briards do que nas sentinelas humanas durante a noite.",
+  "referencias_externas": [
+    {
+      "titulo": "Briard Club of America",
+      "url": "https://briardclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Briard Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/BRIARD-113.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    367,
-    646
+    400,
+    900
   ]
 }

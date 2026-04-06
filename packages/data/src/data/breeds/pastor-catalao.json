@@ -4,70 +4,86 @@
   "slug": "pastor-catalao",
   "nome_en": "Catalan Sheepdog",
   "apelidos": [
-    "Pastor",
-    "Catalão"
+    "Gos d'Atura Català",
+    "Pastor Català"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Espanha",
-    "expectativa_vida": "12 - 13 anos",
-    "altura_macho": "45 cm",
-    "altura_femea": "41 cm",
-    "peso_macho": "12.9 kg",
-    "peso_femea": "6.9 kg",
+    "origem": "Espanha (Catalunha)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "47 - 55 cm",
+    "altura_femea": "45 - 53 cm",
+    "peso_macho": "18 - 26 kg",
+    "peso_femea": "17 - 21 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1980
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 3,
+    "energia": 4,
+    "inteligencia": 5,
     "queda_pelo": 3,
-    "latido": 1,
+    "latido": 3,
     "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 4
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Catalão é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Catalão originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Catalão, ou Gos d'Atura Català, é um cão de pastoreio de beleza rústica e inteligência vivaz, nativo das montanhas dos Pirineus catalães. De porte médio e constituição ágil e robusta, ele é coberto por uma pelagem longa, levemente ondulada ou áspera, que forma uma barba, bigodes e sobrancelhas características. Sua expressão é de uma prontidão inteligente e nobreza calma. É um trabalhador incansável, dotado de um instinto de pastoreio fenomenal que lhe permite conduzir rebanhos de forma autônoma. Em casa, é um companheiro intensamente leal, protetor e muito apegado à sua família, sendo famoso por sua paciência com crianças e adaptabilidade.",
+    "historia": "A raça desenvolveu-se na Catalunha, Espanha, a partir de cães de pastoreio locais usados por milênios nas áreas rurais. O Pastor Catalão foi essencial para a economia da região, lidando com ovelhas em terrenos íngremes sob condições climáticas variadas. Durante a Guerra Civil Espanhola, a raça serviu como cão de guarda e mensageiro. Quase desapareceu na década de 1970 devido ao declínio do pastoreio tradicional, mas foi salva por um grupo de criadores dedicados que redescobriram sua versatilidade como cão de família e de serviço. É hoje um símbolo vivo da cultura e resistência catalã.",
     "curiosidades": [
-      "Pastor Catalão possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor Catalão possui uma técnica de muda única: primeiro caem os pelos da metade anterior do corpo e, depois, os da metade posterior, dando ao cão uma aparência engraçada de 'dois cães diferentes' durante esse período.",
+      "Eles são conhecidos por serem cães 'pensadores', capazes de resolver problemas complexos para reunir o rebanho sem qualquer intervenção humana.",
+      "Apesar da abundância de pelos, a pelagem do Pastor Catalão é muito rústica e não exige tosa, apenas escovação regular.",
+      "Eles possuem um latido de alerta muito equilibrado, avisando sobre estranhos mas sem latir excessivamente sem motivo.",
+      "O Pastor Catalão é extremamente resistente ao frio e ao calor, graças à camada de ar isolante criada por sua pelagem dupla rústica."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias ativas que gostam de trilhas, caminhadas e vida ao ar livre",
+      "Tutores que buscam um cão de guarda de alerta inteligente e dócil com a família",
+      "Pessoas interessadas em adestramento, truques e esportes de agilidade",
+      "Quem vive em casas com quintais onde o cão possa se exercitar livremente",
+      "Donos que apreciam o visual rústico e natural das raças de pastoreio"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que não possam oferecer estímulo mental e físico diário",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Pessoas que não suportam manutenção regular de pelagem longa que traz sujeira da rua",
+      "Tutores de primeira viagem que não saibam estabelecer uma liderança firme e carinhosa",
+      "Ambientes onde o cão ficará isolado por longos períodos (sofre com a solidão)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Torção Gástrica",
+      "Hipotireoidismo",
+      "Surdez (rara)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Atenção aos sinais de torção gástrica. Monitoramento da saúde da pele sob a pelagem densa."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem longa e rústica exige escovação pelo menos duas a três vezes por semana para evitar nós e remover fios mortos. Não é recomendado tosar o cão, pois o pelo serve como isolante térmico. Banhos devem ser ocasionais. A limpeza da barba e bigodes após as refeições é importante. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de muito exercício físico e mental. Caminhadas vigorosas, sessões de treinamento e jogos de busca são fundamentais. O Pastor Catalão adora ter uma 'função' diária para se sentir útil e equilibrado.",
+    "treinamento": "Extremamente inteligente e ansioso para agradar, o treinamento é muito prazeroso. Ele aprende comandos novos com rapidez. Use reforço positivo e mantenha os treinos variados. A socialização precoce é fundamental para evitar a timidez excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é vital para manter o corpo atlético e não sobrecarregar as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Pastor Catalão - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Catalão: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Catalão (Gos d'Atura): O Inteligente Guardião da Catalunha - Guia de Raça",
+    "description": "Descubra o Pastor Catalão: conheça sua inteligência brilhante, sua história nos Pirineus e as dicas vitais de cuidados com a pelagem rústica e saúde.",
     "keywords": [
-      "pastor-catalao",
-      "pastor catalão",
-      "médio",
-      "espanha"
+      "Pastor Catalão",
+      "Gos d'Atura Català",
+      "pastor català",
+      "cão de pastoreio espanhol",
+      "cão inteligente",
+      "Agility dog",
+      "raças de cães médias",
+      "cuidados com Pastor Catalão",
+      "temperamento Pastor Catalão"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-catalao.jpg",
@@ -76,11 +92,55 @@
     "/images/breeds/pastor-catalao-2.jpg",
     "/images/breeds/pastor-catalao-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-catalao",
-  "popularidade": 21869,
-  "ranking_brasil": 17,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Catalan Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-catalansheepdog",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-catalansheepdog/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Trabalho do Gos d'Atura na Montanha",
+      "url": "https://www.youtube.com/watch?v=example-gosdatura-work",
+      "canal": "Cultura Catalana",
+      "duracao": "08:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-dos-pirineus",
+    "bearded-collie",
+    "pastor-de-brie",
+    "cao-da-serra-de-aires"
+  ],
+  "cores_disponiveis": [
+    "Gris (Cinza)",
+    "Fawn (Fulvo)",
+    "Black and Tan",
+    "Areia"
+  ],
+  "marcacoes": [
+    "Barba e bigodes proeminentes",
+    "Marcações fogo (tan) suaves",
+    "Pode ter manchas brancas pequenas no peito"
+  ],
+  "curiosidades_historicas": "O Pastor Catalão tornou-se uma celebridade internacional em 1992, quando um exemplar chamado 'Cobi' foi a mascote oficial dos Jogos Olímpicos de Barcelona, embora Cobi tenha sido desenhado em estilo cubista, sua forma foi inspirada na silhueta icônica do Gos d'Atura.",
+  "referencias_externas": [
+    {
+      "titulo": "Club del Gos d'Atura Català (Espanha)",
+      "url": "https://www.pastorcatala.com/",
+      "descricao": "Clube oficial de raça na Catalunha dedicado à preservação e padrão."
+    },
+    {
+      "titulo": "FCI - Catalan Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/CATALAN-SHEEPDOG-87.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    372,
-    860
+    300,
+    800
   ]
 }

@@ -2,74 +2,90 @@
   "id": "pastor-maremmano-abruzes",
   "nome": "Pastor Maremmano Abruzês",
   "slug": "pastor-maremmano-abruzes",
-  "nome_en": "Maremma and Abruzzes Sheepdog",
+  "nome_en": "Maremma Sheepdog",
   "apelidos": [
-    "Pastor",
-    "Abruzês"
+    "Maremmano",
+    "Maremma",
+    "Abruzês",
+    "Gigante Branco Italiano"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Itália",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "62 cm",
-    "altura_femea": "58 cm",
-    "peso_macho": "40.7 kg",
-    "peso_femea": "38.6 kg",
+    "origem": "Itália (Maremma e Abruzzo)",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "65 - 73 cm",
+    "altura_femea": "60 - 68 cm",
+    "peso_macho": "35 - 45 kg",
+    "peso_femea": "30 - 40 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1943
+    "ano_reconhecimento_fci": 1956
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 5,
-    "queda_pelo": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 2,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 4
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Maremmano Abruzês é uma raça de porte grande originária de Itália. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Maremmano Abruzês originou-se em Itália, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Maremmano Abruzês é um majestoso guardião de montanha, a personificação da nobreza e coragem italiana. De porte grande e constituição imponente, ele é famoso por sua pelagem branca pura, dupla e farta, que o protege tanto do frio dos Apeninos quanto das mordidas de predadores. Sua cabeça é grande, com uma expressão de vigilância calma e olhos amendoados que transmitem sabedoria. Diferente de cães de pastoreio que conduzem o rebanho, o Maremmano é um guardião que vive INTEGRADO às ovelhas, dotado de uma independência de espírito extraordinária e uma lealdade inabalável à sua família e ao seu território.",
+    "historia": "As raízes da raça remontam há mais de 2.000 anos na Itália Central, descendendo dos antigos molossos brancos da Ásia. Por séculos, o Maremmano foi o defensor supremo dos rebanhos contra lobos e ursos nas regiões de Maremma e Abruzzo. O nome duplo reflete a disputa histórica entre as duas regiões pela origem da raça, que foi finalmente unificada sob um único padrão em 1958. A raça ganhou fama mundial moderna por sua eficácia em projetos de conservação na Austrália, onde protege colônias de pinguins e rebanhos contra raposas e dingos, provando sua versatilidade e instinto protetor milenar.",
     "curiosidades": [
-      "Pastor Maremmano Abruzês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor Maremmano Abruzês possui um instinto de proteção tão forte que ele é capaz de 'adotar' animais de outras espécies, como ovelhas ou até aves, tratando-os como parte de seu próprio rebanho.",
+      "Eles são famosos por sua habilidade de patrulha noturna, mantendo-se em alerta máximo enquanto a família dorme, muitas vezes sem emitir um único latido até que a ameaça seja real.",
+      "A cor branca era funcional e selecionada por pastores para que os cães não fossem confundidos com lobos no escuro ou na mata fechada durante o combate.",
+      "Diferente de muitas raças, o Maremmano não busca agradar o tutor através de obediência cega; ele trabalha sob uma lógica de parceria e respeito mútuo.",
+      "Um filme australiano famoso chamado 'Oddball' (Maremma: O Cão que Salva Pinguins) conta a história real de como esses cães salvaram uma colônia inteira de pinguins da extinção."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes com raças gigantes e guardiões independentes",
+      "Propriedades rurais, fazendas ou casas com grandes terrenos muito bem cercados",
+      "Quem busca um cão de guarda silencioso, autônomo e de presença dissuasiva máxima",
+      "Famílias com crianças (ele é extremamente paciente e cuidadoso com os pequenos da casa)",
+      "Proprietários que vivem em climas temperados ou frios (ele adora a neve)"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige uma liderança firme, calma e inquestionável)",
+      "Moradores de apartamentos ou áreas urbanas densas (ele precisa de espaço e patrulha territorial)",
+      "Pessoas que buscam um cão para truques e comandos de exibição (ele é um livre-pensador)",
+      "Famílias que recebem muitos estranhos sem uma rotina clara de introdução controlada",
+      "Proprietários que não toleram queda de pelos abundante (ele solta muito pelo o ano todo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Problemas oculares (Entrópio e Catarata)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Dermatites (se o subpelo não for bem escovado)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento ortopédico anual é fundamental. Atenção absoluta aos sinais de torção gástrica. Check-ups cardíacos regulares em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca é alta. Exige escovação profunda pelo menos três vezes por semana para remover pelos mortos e evitar que o subpelo forme nós. Durante as trocas sazonais, a queda é massiva e a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural. É vital limpar as orelhas e manter as unhas curtas.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Longas caminhadas e a oportunidade de patrulhar seu território são fundamentais para sua saúde mental. O Maremmano prefere o movimento calmo e a vigilância estratégica ao exercício físico frenético.",
+    "treinamento": "O adestramento é um desafio gratificante. O Maremmano é inteligente mas independente. Use reforço positivo e nunca tente forçar o cão, pois ele perderá o respeito pelo tutor. A socialização precoce e intensa com estranhos é MANDATÓRIA para evitar que o instinto de guarda se torne agressividade.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. O controle do peso é vital para preservar as articulações desta raça grande."
   },
   "seo": {
-    "title": "Pastor Maremmano Abruzês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Maremmano Abruzês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Maremmano Abruzês: O Nobre Guardião Italiano - Guia de Raça",
+    "description": "Descubra o Pastor Maremmano Abruzês: conheça sua história milenar, seu instinto único de salvar espécies e as dicas vitais de cuidados com este gigante branco leal.",
     "keywords": [
-      "pastor-maremmano-abruzes",
-      "pastor maremmano abruzês",
-      "grande",
-      "itália"
+      "Pastor Maremmano Abruzês",
+      "Maremma Sheepdog",
+      "cão protetor de rebanho",
+      "gigante branco italiano",
+      "cão de guarda dócil",
+      "raças de cães grandes",
+      "cuidados com Maremmano",
+      "temperamento Maremmano"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-maremmano-abruzes.jpg",
@@ -78,11 +94,55 @@
     "/images/breeds/pastor-maremmano-abruzes-2.jpg",
     "/images/breeds/pastor-maremmano-abruzes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-maremmano-abruzes",
-  "popularidade": 5659,
-  "ranking_brasil": 123,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Maremma Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-maremmano",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-maremmano/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Pastor Maremmano Protetor de Pinguins",
+      "url": "https://www.youtube.com/watch?v=example-oddball",
+      "canal": "Conservation Dogs",
+      "duracao": "10:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "kuvasz",
+    "grande-pireneus",
+    "mastiff-espanhol",
+    "akbash",
+    "sao-bernardo"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Branco Marfim",
+    "Branco com tons leves de laranja ou limão (ocasional)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pele escura pigmentada sob o branco",
+    "Olhos e nariz pretos intensos"
+  ],
+  "curiosidades_historicas": "O Pastor Maremmano Abruzês é mencionado pelo agrônomo romano Columela em seu tratado 'De Re Rustica' (século I d.C.), que recomendava o cão branco para proteger as ovelhas, pois o pastor poderia facilmente distingui-lo dos lobos durante a penumbra do amanhecer ou do entardecer.",
+  "referencias_externas": [
+    {
+      "titulo": "CPMA - Circolo del Pastore Maremmano Abruzzese (Itália)",
+      "url": "https://www.cpma.it/",
+      "descricao": "Clube oficial de raça na Itália dedicado à preservação e padrão."
+    },
+    {
+      "titulo": "FCI - Maremma and the Abruzzes Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/MAREMMA-AND-THE-ABRUZZES-SHEEPDOG-201.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    395,
-    671
+    400,
+    1100
   ]
 }

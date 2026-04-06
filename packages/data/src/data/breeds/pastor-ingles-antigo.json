@@ -4,70 +4,87 @@
   "slug": "pastor-ingles-antigo",
   "nome_en": "Old English Sheepdog",
   "apelidos": [
-    "Pastor",
-    "Antigo"
+    "Bobtail",
+    "OES",
+    "Cão Shaggy"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Inglaterra",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "13.1 kg",
-    "peso_femea": "8.1 kg",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "56 - 61 cm",
+    "altura_femea": "53 - 58 cm",
+    "peso_macho": "32 - 45 kg",
+    "peso_femea": "27 - 36 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1912
+    "ano_reconhecimento_fci": 1963
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 2,
+    "energia": 3,
+    "inteligencia": 4,
+    "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 1,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pastor Inglês Antigo é uma raça de porte médio originária de Inglaterra. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Inglês Antigo originou-se em Inglaterra, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Inglês Antigo, carinhosamente conhecido como Bobtail, é um dos cães mais carismáticos e visualmente impactantes do mundo. De porte grande e constituição quadrada e robusta, ele é famoso por sua pelagem extraordinariamente farta, desgrenhada e áspera, que lhe confere a aparência de um 'urso de pelúcia' gigante. Sua cabeça é grande com orelhas pequenas e olhos que muitas vezes ficam escondidos sob a franja. O Bobtail possui um andar balançante e característico e um latido com som de 'panela rachada'. É um cão dotado de uma alegria contagiante, uma paciência infinita com crianças e uma lealdade profunda, sendo um dos melhores companheiros de família para quem aprecia um cão brincalhão e protetor.",
+    "historia": "Apesar do nome, a raça não é tão 'antiga', tendo se desenvolvido no oeste da Inglaterra em meados do século XIX. Acredita-se que descenda do antigo Bearded Collie e de cães pastores europeus de tipo rústico. Diferente de outros pastores que apenas guardavam o rebanho, o Bobtail era um 'drover's dog' (cão de condutor), encarregado de guiar o gado e as ovelhas por longas distâncias até os mercados urbanos. Para identificar os cães de trabalho isentos de impostos, os donos cortavam suas caudas (daí o nome Bobtail). A raça ganhou fama mundial no século XX através de filmes da Disney e como o rosto da marca de tintas Dulux.",
     "curiosidades": [
-      "Pastor Inglês Antigo possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor Inglês Antigo é famoso pelo seu latido único, descrito no padrão da raça como tendo a sonoridade de uma 'panela de ferro sendo batida'.",
+      "Eles possuem um andar 'ursino', movendo as pernas do mesmo lado simultaneamente em baixas velocidades (passo de saca).",
+      "O Bobtail é um dos cães mais famosos da cultura pop, estrelando o clássico da Disney 'The Shaggy Dog' (O Felpudo) e sendo o cão do Príncipe Eric no filme 'A Pequena Sereia'.",
+      "Apesar da abundância de pelos, eles são cães de interior calmos e adoram se esticar no chão fresco para descansar.",
+      "Na antiguidade, a pelagem dos Bobtails era tosquiada uma vez por ano junto com as ovelhas, e a lã do cão era usada para fazer casacos pesados e cobertores rústicos."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias com crianças (ele é um babá natural e extremamente tolerante)",
+      "Tutores que buscam um companheiro calmo, brincalhão e afetuoso",
+      "Pessoas que vivem em casas com quintais espaçosos e seguros",
+      "Quem aprecia a estética de cães peludos e não se importa com a manutenção rigorosa",
+      "Donos que buscam um cão de guarda de alerta vigilante mas pacífico"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Pessoas extremamente zelosas com a limpeza absoluta da casa (a pelagem atrai muita sujeira e detritos)",
+      "Tutores que não podem dedicar pelo menos 3 a 4 horas por semana à escovação profunda",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Ambientes com calor tropical extremo sem refrigeração constante (ele sofre muito com o calor)",
+      "Tutores que buscam um cão para atividades atléticas de alta velocidade (ele é mais para resistência lenta)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Catarata, Atrofia Progressiva da Retina e Entrópio)",
+      "Surdez (ocasional)",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica",
+      "Sensibilidade a certos medicamentos (gene MDR1)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são fundamentais. Testes genéticos para MDR1. Monitoramento do peso para não sobrecarregar as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é altíssima. Exige escovação profunda pelo menos três vezes por semana até a pele para evitar nós dolorosos e dermatites. Durante as trocas de pelo, a escovação deve ser diária. Banhos devem ser mensais com secagem TOTAL do subpelo (o que pode levar horas). É vital limpar a barba e os olhos diariamente. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias agradáveis e muito tempo para brincar no quintal ou com outros cães satisfazem suas necessidades. O Bobtail adora jogos de pastoreio simulado e caminhadas em trilhas.",
+    "treinamento": "Inteligente e ansioso para agradar, mas pode ser teimoso e independente. O adestramento deve ser baseado em reforço positivo, diversão e paciência. Eles respondem mal a métodos severos. A socialização precoce é fundamental para garantir que ele seja confiável com estranhos.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições para reduzir o risco de torção gástrica. O controle calórico é vital, pois o Bobtail tem facilidade para engordar escondido sob os pelos."
   },
   "seo": {
-    "title": "Pastor Inglês Antigo - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Inglês Antigo: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Inglês Antigo (Bobtail): O Guia Completo do Gigante Felpudo",
+    "description": "Descubra o Pastor Inglês Antigo: conheça seu temperamento brincalhão, sua história heróica como condutor de gado e as dicas essenciais de cuidados com a pelagem e saúde.",
     "keywords": [
-      "pastor-ingles-antigo",
-      "pastor inglês antigo",
-      "médio",
-      "inglaterra"
+      "Pastor Inglês Antigo",
+      "Bobtail",
+      "Old English Sheepdog",
+      "cão peludo",
+      "cão da Dulux",
+      "raças de cães grandes",
+      "cuidados com Bobtail",
+      "temperamento Pastor Inglês"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-ingles-antigo.jpg",
@@ -76,11 +93,55 @@
     "/images/breeds/pastor-ingles-antigo-2.jpg",
     "/images/breeds/pastor-ingles-antigo-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-ingles-antigo",
-  "popularidade": 3179,
-  "ranking_brasil": 45,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Old English Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-bobtail",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-bobtail/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Escovar um Pastor Inglês Antigo",
+      "url": "https://www.youtube.com/watch?v=example-bobtail-groom",
+      "canal": "Estética Canina",
+      "duracao": "15:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "bearded-collie",
+    "briard",
+    "pastor-polones-da-planicie",
+    "bobtail-japones"
+  ],
+  "cores_disponiveis": [
+    "Cinza",
+    "Grisalho (Grizzle)",
+    "Azul Merle",
+    "Azul"
+  ],
+  "marcacoes": [
+    "Cabeça, pescoço e pernas brancos (com ou sem manchas)",
+    "Corpo e garupa em tons de cinza ou azul",
+    "Marcações brancas são a característica clássica"
+  ],
+  "curiosidades_historicas": "O Bobtail foi a primeira raça canina a ser usada em larga escala em campanhas publicitárias de sucesso, tornando-se o ícone da marca de tintas Dulux na década de 1960. O sucesso foi tanto que a raça passou a ser chamada popularmente no Reino Unido de 'The Dulux Dog'.",
+  "referencias_externas": [
+    {
+      "titulo": "Old English Sheepdog Club of America",
+      "url": "https://oldenglishsheepdogclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e criação."
+    },
+    {
+      "titulo": "FCI - Old English Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/OLD-ENGLISH-SHEEPDOG-16.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    324,
-    1443
+    400,
+    1100
   ]
 }

@@ -2,72 +2,89 @@
   "id": "pastor-holandes",
   "nome": "Pastor Holandês",
   "slug": "pastor-holandes",
-  "nome_en": "Dutch Shepherd",
+  "nome_en": "Dutch Shepherd Dog",
   "apelidos": [
-    "Pastor",
-    "Holandês"
+    "Hollandse Herder",
+    "Dutchie"
   ],
   "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Holanda",
     "expectativa_vida": "12 - 15 anos",
-    "altura_macho": "66 cm",
-    "altura_femea": "61 cm",
-    "peso_macho": "28.1 kg",
-    "peso_femea": "26.9 kg",
+    "altura_macho": "57 - 62 cm",
+    "altura_femea": "55 - 60 cm",
+    "peso_macho": "25 - 30 kg",
+    "peso_femea": "23 - 28 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1924
+    "ano_reconhecimento_fci": 1960
   },
   "caracteristicas": {
-    "energia": 1,
+    "energia": 5,
     "inteligencia": 5,
-    "queda_pelo": 4,
-    "latido": 5,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 4,
+    "queda_pelo": 3,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
     "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 2
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor Holandês é uma raça de porte grande originária de Holanda. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Holandês originou-se em Holanda, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Holandês é a personificação da versatilidade e da inteligência rústica europeia. De porte médio a grande e constituição atlética e seca, a raça destaca-se imediatamente por seu padrão de cor tigrado (brindle), que é obrigatório e serve para diferenciá-la dos seus primos Belgas e Alemães. Disponível em três variedades de pelagem (pelo curto, pelo longo e pelo duro), o Pastor Holandês é um trabalhador incansável, dotado de uma prontidão e agilidade extraordinárias. É um cão vigilante, extremamente leal à sua família e que possui uma capacidade de foco e obediência que o torna um dos melhores cães de trabalho e esportes caninos do mundo.",
+    "historia": "A raça desenvolveu-se na Holanda no século XIX, descendendo dos mesmos cães de pastoreio originais que deram origem ao Pastor Alemão e ao Pastor Belga. O Pastor Holandês foi mantido puro através de uma seleção rigorosa focada no trabalho em fazendas de ovelhas e gado, onde precisava ser um 'pau para toda obra': pastor, guarda de propriedade e companheiro. Enquanto o Pastor Alemão foi refinado para a estética, o Holandês manteve sua rusticidade original. Durante a Segunda Guerra Mundial, a raça foi quase dizimada pela ocupação alemã, mas foi reconstruída por entusiastas patriotas que valorizavam a inteligência e o temperamento inabalável do seu cão nacional.",
     "curiosidades": [
-      "Pastor Holandês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O padrão tigrado (brindle) é a única cor aceita no Pastor Holandês, seja em tons de dourado ou prateado, o que o torna visualmente único entre os pastores europeus.",
+      "Eles possuem o que é chamado de 'olhar de águia', sendo capazes de detectar mudanças sutis no ambiente a grandes distâncias.",
+      "Diferente do Malinois, que pode ser impulsivo, o Pastor Holandês é conhecido por ter um temperamento um pouco mais reflexivo e calculista durante o trabalho.",
+      "A variedade de pelo duro (wire-haired) é a mais rara das três e possui uma barba e bigodes que lhe dão uma expressão cômica e sábia.",
+      "Eles são famosos por sua agilidade em saltos e escaladas, sendo frequentes vencedores em competições internacionais de KNPV (esporte policial holandês)."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes que buscam um parceiro inteligente e altamente treinável",
+      "Pessoas que praticam esportes caninos de alto nível (Agility, IPO, Mondioring)",
+      "Quem busca um cão de guarda vigilante e muito dócil com a família",
+      "Atletas de corrida ou trilhas que desejam um parceiro de resistência inesgotável",
+      "Donos que vivem em casas com quintais seguros e bem cercados"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem que não saibam estabelecer liderança firme e consistente",
+      "Pessoas sedentárias ou que buscam um cão passivo (ele se tornará destrutivo se entediado)",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 a 3 horas de exercícios diários",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação e estímulo mental constante)",
+      "Proprietários que buscam um cão de pelagem macia e 'de pelúcia' (ele é rústico e seco ao toque)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência menor que em outras raças de pastor)",
+      "Mielopatia Degenerativa",
+      "Problemas oculares (Goniodisplasia - na variedade de pelo duro)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos",
+      "Torção Gástrica"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são fundamentais. Testes genéticos para Goniodisplasia em exemplares de pelo duro. Monitoramento rigoroso do peso. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção depende da variedade: o pelo curto exige escovação semanal; o pelo longo precisa de escovação profunda duas vezes por semana; o pelo duro requer stripping manual duas vezes ao ano. Eles soltam pelo moderadamente. Banhos devem ser mensais. É vital manter as unhas curtas e as orelhas limpas para evitar infecções.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas de atividade física e mental. O Pastor Holandês precisa de 'trabalho'. Treinos de obediência, agilidade, jogos de busca e desafios de faro são essenciais para sua saúde mental e comportamento equilibrado.",
+    "treinamento": "Um dos cães mais inteligentes e fáceis de treinar do mundo. Ele vive para aprender e deseja agradar seu tutor. Use reforço positivo, rapidez e variedade. O Pastor Holandês é sensível ao tom de voz e responde melhor à liderança calma e firme. A socialização precoce é MANDATÓRIA.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. É essencial fracionar as refeições em pelo menos duas vezes ao dia e garantir o repouso antes e depois de comer para prevenir a torção gástrica comum em raças atléticas de peito profundo."
   },
   "seo": {
-    "title": "Pastor Holandês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Holandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Holandês: O Versátil e Inteligente Guardião Tigrado - Guia de Raça",
+    "description": "Descubra o Pastor Holandês: conheça sua inteligência brilhante, seu padrão tigrado único e as dicas vitais de treinamento e exercícios para este incansável trabalhador.",
     "keywords": [
-      "pastor-holandes",
-      "pastor holandês",
-      "grande",
-      "holanda"
+      "Pastor Holandês",
+      "Dutch Shepherd",
+      "cão tigrado",
+      "cão inteligente",
+      "Agility dog",
+      "cão de guarda holandês",
+      "raças de cães grandes",
+      "cuidados com Pastor Holandês",
+      "temperamento Pastor Holandês"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-holandes.jpg",
@@ -76,11 +93,53 @@
     "/images/breeds/pastor-holandes-2.jpg",
     "/images/breeds/pastor-holandes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-holandes",
-  "popularidade": 20818,
-  "ranking_brasil": 105,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Dutch Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-dutchie",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-dutchie/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade do Pastor Holandês no Trabalho",
+      "url": "https://www.youtube.com/watch?v=example-dutchie-agility",
+      "canal": "Working Dog",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-malinois",
+    "pastor-alemao",
+    "pastor-belga-groenendael",
+    "pastor-de-beauce"
+  ],
+  "cores_disponiveis": [
+    "Tigrado Prateado (Silver Brindle)",
+    "Tigrado Dourado (Gold Brindle)"
+  ],
+  "marcacoes": [
+    "Padrão tigrado obrigatório em todo o corpo",
+    "Máscara preta preferível",
+    "Pode ter pequena mancha branca no peito e patas"
+  ],
+  "curiosidades_historicas": "O Pastor Holandês é o cão preferido da Real Polícia Holandesa (KNPV). O programa de treinamento KNPV é considerado um dos mais rigorosos do mundo, e a raça é valorizada não apenas pela sua força, mas por sua 'inteligência de iniciativa', sendo capaz de lidar com criminosos de forma estratégica e sob pressão extrema.",
+  "referencias_externas": [
+    {
+      "titulo": "American Dutch Shepherd Association",
+      "url": "https://dutchshepherd.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e treinamento."
+    },
+    {
+      "titulo": "FCI - Dutch Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/DUTCH-SHEPHERD-DOG-223.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    461,
-    1072
+    400,
+    900
   ]
 }

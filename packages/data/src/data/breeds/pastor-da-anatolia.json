@@ -4,70 +4,88 @@
   "slug": "pastor-da-anatolia",
   "nome_en": "Anatolian Shepherd Dog",
   "apelidos": [
-    "Pastor",
-    "Anatólia"
+    "Kangal",
+    "Çoban Köpeği",
+    "Karabash"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Turquia",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "48 cm",
-    "altura_femea": "44 cm",
-    "peso_macho": "23.5 kg",
-    "peso_femea": "19.4 kg",
-    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1999
+    "origem": "Turquia (Planalto da Anatólia)",
+    "expectativa_vida": "11 - 13 anos",
+    "altura_macho": "74 - 81 cm",
+    "altura_femea": "71 - 79 cm",
+    "peso_macho": "50 - 65 kg",
+    "peso_femea": "40 - 55 kg",
+    "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
+    "ano_reconhecimento_fci": 1989
   },
   "caracteristicas": {
-    "energia": 2,
-    "inteligencia": 5,
+    "energia": 3,
+    "inteligencia": 4,
     "queda_pelo": 3,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 2,
+    "facilidade_treinamento": 2,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Pastor da Anatólia é uma raça de porte médio originária de Turquia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor da Anatólia originou-se em Turquia, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor da Anatólia é um molosso de montanha de força massiva e uma presença que impõe respeito instantâneo. De porte grande a gigante e constituição poderosa, ele possui uma pelagem dupla curta e densa, geralmente em tons de fulvo com uma máscara preta marcante (Karabash). Sua cabeça é larga com uma expressão de vigilância calma e autoridade absoluta. Diferente de muitos cães de guarda domésticos, o Anatólia é um guardião de rebanho ancestral, dotado de uma independência de espírito e uma coragem inabalável que lhe permite enfrentar lobos e guepardos. É um cão intensamente leal à sua família, mas reservado, digno e protetor ao extremo.",
+    "historia": "A raça tem raízes que remontam a mais de 6.000 anos no planalto central da Turquia (Anatólia). Foram desenvolvidos para proteger os rebanhos de pastores nômades contra predadores poderosos, vivendo sob condições climáticas extremas de calor e frio. O Pastor da Anatólia não é um cão de pastoreio que conduz o gado, mas sim um guardião que vive INTEGRADO ao rebanho. A raça foi refinada pela seleção natural e funcional, tornando-se famosa mundialmente na década de 1970 por sua eficácia em projetos de conservação na África, onde protege rebanhos e evita que guepardos sejam mortos por fazendeiros.",
     "curiosidades": [
-      "Pastor da Anatólia possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor da Anatólia possui uma das mordidas mais potentes do mundo canino, superando em força muitas raças famosas de guarda.",
+      "Eles são conhecidos por serem cães 'observadores de estrelas', capazes de patrulhar o território durante toda a noite enquanto a família dorme.",
+      "A raça é tão respeitada na Turquia que é considerada um patrimônio nacional, existindo debates intensos sobre a unificação ou separação das variedades Kangal e Akbash.",
+      "Eles possuem um senso de audição e visão noturna extraordinários, sendo capazes de detectar intrusos a centenas de metros no escuro absoluto.",
+      "Diferente de cães criados em ambientes domésticos, o Anatólia amadurece tardiamente, atingindo sua plenitude física e mental apenas aos 4 anos de idade."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Tutores experientes com raças gigantes e guardiões de rebanho",
+      "Propriedades rurais, fazendas ou casas com grandes terrenos muito bem cercados",
+      "Quem busca um cão de guarda silencioso, independente e de presença dissuasiva máxima",
+      "Pessoas que residem em áreas com presença de predadores ou que buscam segurança absoluta",
+      "Proprietários que apreciam a lealdade de um cão que escolhe seus amigos com rigor"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige liderança inquestionável e socialização rigorosa)",
+      "Moradores de apartamentos ou áreas urbanas densas (ele precisa de espaço e patrulha territorial)",
+      "Pessoas que buscam um cão para truques e obediência cega (ele é um livre-pensador)",
+      "Famílias que recebem muitos estranhos sem uma rotina clara de introdução controlada",
+      "Proprietários que não podem arcar com os altos custos de alimentação e saúde de um gigante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência controlada na raça)",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Entrópio (pálpebras viradas para dentro)",
+      "Hipotireoidismo",
+      "Sensibilidade a certos medicamentos e anestésicos",
+      "Câncer (em cães seniores)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos semestrais durante o crescimento. Monitoramento rigoroso para evitar a obesidade. Atenção absoluta aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é simples, exigindo uma escovação semanal profunda para remover pelos mortos. No entanto, durante as trocas sazonais ( shedding ), a queda é massiva e exige escovação diária. Banhos devem ser ocasionais para manter a proteção natural. É vital limpar as orelhas e manter as unhas curtas para suportar o peso monumental.",
+    "exercicios": "Necessita de exercícios moderados mas constantes. Mais do que caminhadas rápidas, ele precisa da oportunidade de patrulhar o seu território. O Anatólia não é um cão para corridas de alta intensidade, preferindo o movimento calmo e a vigilância.",
+    "treinamento": "O adestramento é um desafio. O Anatólia é inteligente mas só obedece se respeitar a liderança do tutor e se vir lógica no comando. Use reforço positivo, paciência e firmeza. A socialização precoce e CONTÍNUA é MANDATÓRIA para evitar que o instinto de guarda se torne agressividade indiscriminada.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É essencial oferecer refeições fracionadas (pelo menos 3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Pastor da Anatólia - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor da Anatólia: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor da Anatólia (Kangal): O Poderoso Guardião da Turquia - Guia de Raça",
+    "description": "Descubra o Pastor da Anatólia: conheça sua força monumental, sua história milenar e os cuidados essenciais com a saúde e o treinamento deste gigante protetor.",
     "keywords": [
-      "pastor-da-anatolia",
-      "pastor da anatólia",
-      "médio",
-      "turquia"
+      "Pastor da Anatólia",
+      "Kangal",
+      "Anatolian Shepherd",
+      "cão de guarda gigante",
+      "cão turco",
+      "cão protetor de rebanho",
+      "raças de cães grandes",
+      "cuidados com Kangal",
+      "temperamento Anatólia"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-da-anatolia.jpg",
@@ -76,11 +94,56 @@
     "/images/breeds/pastor-da-anatolia-2.jpg",
     "/images/breeds/pastor-da-anatolia-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-da-anatolia",
-  "popularidade": 18311,
-  "ranking_brasil": 136,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Anatolian Shepherd - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-anatolian",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-anatolian/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Força do Kangal Húngaro em Campo",
+      "url": "https://www.youtube.com/watch?v=example-kangal-work",
+      "canal": "Mundo Molosso",
+      "duracao": "13:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "kuvasz",
+    "grande-pireneus",
+    "mastiff-espanhol",
+    "mastiff-ingles",
+    "akbash"
+  ],
+  "cores_disponiveis": [
+    "Fulvo (Fawn) em todos os tons",
+    "Cinza Lobo",
+    "Branco",
+    "Tigrado"
+  ],
+  "marcacoes": [
+    "Máscara preta obrigatória (Karabash)",
+    "Orelhas pretas",
+    "Pode ter marcas brancas no peito e patas"
+  ],
+  "curiosidades_historicas": "O Pastor da Anatólia foi essencial para a sobrevivência da civilização Hitita na Anatólia Central. Representações de cães gigantes com máscaras pretas foram encontradas em relevos hititas datando de mais de 3.000 anos, provando que a raça pouco mudou em sua morfologia e função desde a Idade do Bronze.",
+  "referencias_externas": [
+    {
+      "titulo": "Anatolian Shepherd Dog Club of America",
+      "url": "https://asdca.org/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Anatolian Shepherd Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/ANATOLIAN-SHEPHERD-DOG-331.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    439,
-    981
+    600,
+    1800
   ]
 }

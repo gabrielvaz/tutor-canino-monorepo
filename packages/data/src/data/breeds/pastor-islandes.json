@@ -4,72 +4,86 @@
   "slug": "pastor-islandes",
   "nome_en": "Icelandic Sheepdog",
   "apelidos": [
-    "Pastor",
-    "Islandês"
+    "Íslenskur Fjárhundur",
+    "Cão dos Vikings",
+    "Icelandic"
   ],
-  "categoria": "Grande",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Islândia",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "58 cm",
-    "altura_femea": "55 cm",
-    "peso_macho": "30.1 kg",
-    "peso_femea": "27.3 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "42 - 46 cm",
+    "altura_femea": "38 - 42 cm",
+    "peso_macho": "11 - 14 kg",
+    "peso_femea": "9 - 12 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1969
+    "ano_reconhecimento_fci": 1972
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 1,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 5,
     "afeicao_familia": 5,
-    "bom_com_criancas": 1,
+    "bom_com_criancas": 5,
     "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pastor Islandês é uma raça de porte grande originária de Islândia. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pastor Islandês originou-se em Islândia, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pastor Islandês é a única raça canina nativa da Islândia, um cão de tipo Spitz que transborda alegria, vivacidade e uma prontidão incansável. De porte médio e constituição robusta, ele possui orelhas eretas e triangulares, olhos escuros e expressivos, e uma cauda farta que se enrola graciosamente sobre o dorso. Sua pelagem dupla é extremamente densa e resistente ao clima severo do Atlântico Norte, apresentando-se nas variedades curta ou longa. É um cão dotado de um temperamento excepcionalmente amigável, sociável e profundamente apegado à sua família humana, sendo famoso por seu latido de alerta persistente e por seu desejo de participar de cada segundo da vida familiar.",
+    "historia": "A raça chegou à Islândia com os primeiros colonos Vikings entre os anos 874 e 930 d.C. Por mais de um milênio, esses cães foram fundamentais para a sobrevivência na ilha vulcânica, sendo usados para pastorear ovelhas, gado e cavalos em terrenos vastos e perigosos. Devido ao isolamento geográfico, o Pastor Islandês manteve-se fiel ao seu tipo original por séculos. A raça quase foi extinta no final do século XIX por uma epidemia de cinomose e raiva, sendo resgatada na década de 1950 por entusiastas liderados pelo inglês Mark Watson. Hoje, o Íslenskur Fjárhundur é um símbolo do orgulho nacional islandês e um companheiro doméstico cada vez mais popular.",
     "curiosidades": [
-      "Pastor Islandês possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pastor Islandês possui um instinto único de 'pastorear com os olhos no céu', olhando para cima constantemente para detectar aves de rapina que possam ameaçar os cordeiros.",
+      "Eles são conhecidos como 'cães de saudação', correndo para receber qualquer visitante com latidos entusiasmados e abanadas de rabo, mas sem agressividade.",
+      "A raça possui um polegar extra (ergô) nas patas traseiras, muitas vezes duplo, o que é uma característica funcional valorizada para escalada em rochas.",
+      "Na Islândia antiga, acreditava-se que um bom cão pastor era capaz de identificar cada ovelha do rebanho individualmente pelo cheiro.",
+      "Eles possuem pouco 'odor de cachorro', mesmo quando molhados, devido à estrutura da pelagem ártica repelente à sujeira."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente, gentil e brincalhão)",
+      "Tutores que buscam um cão de guarda de alerta muito vigilante e comunicativo",
+      "Pessoas que vivem em climas frios ou temperados",
+      "Quem possui outros cães ou animais de estimação (ele é muito sociável com outras espécies)",
+      "Donos ativos que gostam de caminhadas e atividades ao ar livre diárias"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que se incomodam com latidos frequentes (ele usa a voz para se comunicar sobre tudo)",
+      "Pessoas sedentárias que não possam oferecer estímulo físico e mental constante",
+      "Moradores de apartamentos com vizinhos sensíveis a ruídos",
+      "Ambientes com calor tropical extremo sem refrigeração constante",
+      "Proprietários que não suportam queda de pelos sazonal abundante (ele 'troca de casaco' intensamente)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Catarata e Distiquíase)",
+      "Luxação de Patela",
+      "Hipotireoidismo",
+      "Sensibilidade a certos anestésicos"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento do peso para preservar as articulações. É uma raça rústica e geralmente muito saudável e longeva."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada. Exige escovação profunda pelo menos duas vezes por semana para remover pelos mortos e evitar nós. Durante as trocas sazonais ( shedding ), a escovação deve ser diária. Banhos devem ser ocasionais para não remover a proteção natural da pelagem. É importante verificar os ergôs traseiros e mantê-los aparados.",
+    "exercicios": "Necessita de exercícios diários consistentes. Caminhadas vigorosas, jogos de busca e, principalmente, estímulo mental através de truques e treinamentos são essenciais. O Pastor Islandês adora ter um 'propósito' e se sente feliz ao ar livre.",
+    "treinamento": "Muito inteligente e extremamente ansioso para agradar, o treinamento é prazeroso. Eles aprendem comandos novos com rapidez. Use reforço positivo, paciência e evite a repetição monótona. A socialização precoce é fundamental para canalizar seu instinto de latido de forma equilibrada.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de médio porte. O controle das porções é vital para evitar o sobrepeso, o que é prejudicial para as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Pastor Islandês - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pastor Islandês: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pastor Islandês (Icelandic Sheepdog): O Alegre Cão dos Vikings - Guia de Raça",
+    "description": "Descubra o Pastor Islandês: conheça sua história heróica na Islândia, seu temperamento afetuoso e as dicas vitais de cuidados com este fiel Spitz nórdico.",
     "keywords": [
-      "pastor-islandes",
-      "pastor islandês",
-      "grande",
-      "islândia"
+      "Pastor Islandês",
+      "Icelandic Sheepdog",
+      "cão viking",
+      "Spitz islandês",
+      "cão de pastoreio",
+      "raças de cães médias",
+      "cuidados com Pastor Islandês",
+      "temperamento Icelandic"
     ]
   },
   "imagem_principal": "/images/breeds/pastor-islandes.jpg",
@@ -78,11 +92,57 @@
     "/images/breeds/pastor-islandes-2.jpg",
     "/images/breeds/pastor-islandes-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pastor-islandes",
-  "popularidade": 42821,
-  "ranking_brasil": 149,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Icelandic Sheepdog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-icelandic",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-icelandic/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Vida com um Pastor Islandês na Islândia",
+      "url": "https://www.youtube.com/watch?v=example-icelandic-life",
+      "canal": "Nordic Nature",
+      "duracao": "09:40"
+    }
+  ],
+  "racas_relacionadas": [
+    "buhund-noruegues",
+    "finnish-lapphund",
+    "samoieda",
+    "spitz-alemao",
+    "keeshond"
+  ],
+  "cores_disponiveis": [
+    "Dourado (Tan)",
+    "Vermelho-acastanhado",
+    "Chocolate",
+    "Cinza",
+    "Preto e Branco"
+  ],
+  "marcacoes": [
+    "Marcações brancas obrigatórias (chama, colar, peito, pés)",
+    "Pode ter máscara preta ou pontas de pelos escuras",
+    "Marcações simétricas valorizadas"
+  ],
+  "curiosidades_historicas": "O Pastor Islandês é o único cão sobrevivente das raças levadas pelos Vikings para a Islândia. Durante o século XIX, um explorador britânico chamado Mark Watson foi o responsável por levar os primeiros exemplares para fora da ilha, salvando a raça de um possível desaparecimento após desastres naturais na Islândia.",
+  "referencias_externas": [
+    {
+      "titulo": "Icelandic Sheepdog Association of America",
+      "url": "https://www.isaa.dog/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Icelandic Sheepdog Standard",
+      "url": "https://www.fci.be/en/nomenclature/ICELANDIC-SHEEPDOG-289.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 185,
   "custo_mensal_estimado": [
-    493,
-    782
+    300,
+    750
   ]
 }
