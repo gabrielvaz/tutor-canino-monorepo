@@ -5,69 +5,85 @@
   "nome_en": "Redbone Coonhound",
   "apelidos": [
     "Redbone",
-    "Coonhound"
+    "Hound Vermelho",
+    "Cão de Urso Americano"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Estados Unidos",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "15.1 kg",
-    "peso_femea": "13.8 kg",
+    "origem": "Estados Unidos (Georgia / Tennessee)",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "56 - 69 cm",
+    "altura_femea": "53 - 66 cm",
+    "peso_macho": "23 - 32 kg",
+    "peso_femea": "20 - 29 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1966
+    "ano_reconhecimento_fci": 0
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 2,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 2,
+    "latido": 5,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 5
+    "bom_com_outros_caes": 5,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Redbone Coonhound é uma raça de porte médio originária de Estados Unidos. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Redbone Coonhound originou-se em Estados Unidos, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Redbone Coonhound é a 'joia vermelha' dos sabujos americanos, um cão de porte grande, beleza atlética e uma coragem inabalável. De constituição musculosa, ágil e bem balanceada, ele é coberto por uma pelagem curta, densa e invariavelmente de um vermelho sólido e vibrante. Sua cabeça é refinada com orelhas pendentes aveludadas e olhos expressivos que transmitem uma mistura de determinação e doçura. Construído para perseguir pumas e ursos em terrenos íngremes e florestas densas, o Redbone é um atleta de resistência extraordinária, dotado de uma voz musical profunda e um temperamento dócil que o torna um companheiro familiar excepcionalmente afetuoso.",
+    "historia": "A raça desenvolveu-se no sul dos Estados Unidos durante o século XIX, descendendo de cães de rastro franceses e foxhounds irlandeses de pelagem vermelha levados por imigrantes. Peter Redbone, de quem a raça herdou o nome, foi um dos primeiros criadores a padronizar este hound focando na cor vermelha e na habilidade de 'treeing' (encurralar a presa em árvores). Diferente de outros coonhounds, o Redbone foi selecionado para ser mais rápido e ágil em terrenos montanhosos. A raça ganhou fama mundial através do livro e filme clássico 'Where the Red Fern Grows' (Onde Cresce o Sabugueiro Vermelho), tornando-se um ícone da literatura e cultura rural americana.",
     "curiosidades": [
-      "Redbone Coonhound possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Redbone Coonhound é um dos poucos sabujos que possui uma cor sólida única e obrigatória, o que o torna visualmente inconfundível entre os cães de rastro americanos.",
+      "Eles possuem o que os caçadores chamam de 'nariz quente', sendo especialistas em seguir rastros frescos em alta velocidade através de pântanos e matas.",
+      "O uivo do Redbone é descrito como uma 'fanfarra musical', sendo capaz de emitir sons variados para indicar se a presa está correndo ou já está encurralada.",
+      "Apesar da aparência rústica de trabalho, os Redbones são conhecidos por serem cães extremamente afetuosos, buscando constantemente o contato físico e querendo dormir ao lado de seus tutores.",
+      "Eles são nadadores excepcionais, muitas vezes atravessando rios largos sem hesitação durante a perseguição de uma trilha de odor."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias muito ativas que praticam trilhas, caminhadas e atividades ao ar livre",
+      "Tutores que residem em áreas rurais ou propriedades com grandes quintais cercados",
+      "Pessoas interessadas em esportes de faro, busca e salvamento",
+      "Quem possui outros cães (ele é um cão de matilha nato e muito sociável)",
+      "Proprietários que apreciam a estética e a voz clássica dos sabujos americanos"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao uivo potente e alta energia)",
+      "Tutores sedentários que não possam oferecer exercícios diários exaustivos",
+      "Casas sem cercas de altíssima segurança (ele seguirá um rastro por quilômetros sem olhar para trás)",
+      "Proprietários que buscam obediência absoluta (ele é independente e focado no nariz)",
+      "Pessoas sensíveis ao 'cheiro de sabujo' característico das raças de rastro"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Otites (infecções de ouvido devido ao formato pendente e abafado)",
+      "Problemas oculares leves",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (Bloat)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Limpeza semanal profunda das orelhas aveludadas. Atenção absoluta aos sinais de torção gástrica após as refeições."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade após atividades em campo. As orelhas são o ponto crítico e devem ser mantidas limpas e secas. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1,5 a 2 horas de atividade física e estímulo olfativo. Caminhadas simples não bastam; o Redbone precisa correr em áreas seguras ou participar de trilhas exploratórias. O tédio mental é o maior inimigo desta raça inteligente.",
+    "treinamento": "O adestramento exige paciência e reforço positivo. Eles são inteligentes mas motivados por instintos ancestrais de caça. Use petiscos de alto valor e mantenha as sessões variadas. O treinamento de 'recall' (vir quando chamado) deve ser constante, mas nunca confie totalmente neles sem guia em áreas abertas.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos de grande porte. É vital dividir a alimentação em pelo menos duas refeições para reduzir o risco de torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Redbone Coonhound - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Redbone Coonhound: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Redbone Coonhound: O Ágil e Doce Sabujo Vermelho - Guia de Raça",
+    "description": "Descubra o Redbone Coonhound: conheça sua história na literatura, sua voz musical única e as dicas vitais de cuidados e exercícios para este leal caçador americano.",
     "keywords": [
-      "redbone-coonhound",
-      "redbone coonhound",
-      "médio",
-      "estados unidos"
+      "Redbone Coonhound",
+      "Redbone",
+      "cão farejador",
+      "sabujo americano",
+      "cão de pelo vermelho",
+      "raças de cães grandes",
+      "cuidados com Redbone",
+      "temperamento Redbone"
     ]
   },
   "imagem_principal": "/images/breeds/redbone-coonhound.jpg",
@@ -76,11 +92,53 @@
     "/images/breeds/redbone-coonhound-2.jpg",
     "/images/breeds/redbone-coonhound-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=redbone-coonhound",
-  "popularidade": 12489,
-  "ranking_brasil": 30,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Redbone Coonhound - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-redbone",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-redbone/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Faro e Voz do Redbone Coonhound",
+      "url": "https://www.youtube.com/watch?v=example-redbone-voice",
+      "canal": "Hound Heritage",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "bloodhound",
+    "black-and-tan-coonhound",
+    "vizsla",
+    "rhodesian-ridgeback",
+    "foxhound-americano"
+  ],
+  "cores_disponiveis": [
+    "Vermelho Sólido (Deep Red)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (obrigatório para exposição)",
+    "Pode ter pequena mancha branca no peito e patas",
+    "Olhos escuros e aveludados"
+  ],
+  "curiosidades_historicas": "O livro 'Onde Cresce o Sabugueiro Vermelho', de Wilson Rawls, fez pelos Redbone Coonhounds o que Lassie fez pelo Collie, transformando a raça de um simples cão de trabalho rural em um símbolo eterno de amizade infanto-juvenil e lealdade heróica nos Estados Unidos.",
+  "referencias_externas": [
+    {
+      "titulo": "Redbone Coonhound Association of America",
+      "url": "http://www.redbonecoonhoundassociation.com/",
+      "descricao": "Clube oficial de raça dedicado à preservação e saúde do Redbone."
+    },
+    {
+      "titulo": "AKC - Redbone Coonhound Breed Standard",
+      "url": "https://www.akc.org/dog-breeds/redbone-coonhound/",
+      "descricao": "Padrão oficial da raça nos Estados Unidos."
+    }
+  ],
+  "popularidade": 12000,
+  "ranking_brasil": 190,
   "custo_mensal_estimado": [
-    223,
-    537
+    400,
+    950
   ]
 }

@@ -5,68 +5,87 @@
   "nome_en": "Rottweiler",
   "apelidos": [
     "Rott",
-    "Rottie"
+    "Rottie",
+    "Cão de Açougueiro"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Alemanha",
-    "expectativa_vida": "11 - 12 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "25.4 kg",
-    "peso_femea": "20.6 kg",
+    "origem": "Alemanha (Rottweil)",
+    "expectativa_vida": "9 - 11 anos",
+    "altura_macho": "61 - 69 cm",
+    "altura_femea": "56 - 63 cm",
+    "peso_macho": "50 - 60 kg",
+    "peso_femea": "35 - 48 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1937
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 1,
-    "queda_pelo": 5,
-    "latido": 4,
-    "afeicao_familia": 2,
+    "energia": 3,
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 2
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Rottweiler é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Rottweiler originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Rottweiler é um cão de porte imponente, força massiva e uma nobreza tranquila que exala confiança e autoridade. De constituição robusta e musculosa, ele possui uma pelagem curta, densa e preta com marcações castanhas (fogo) bem definidas. Sua cabeça é larga com uma expressão de vigilância alerta e olhos escuros que transmitem inteligência e lealdade. Diferente dos estigmas populares, o Rottweiler é um companheiro de família extremamente afetuoso, calmo e dotado de uma paciência admirável, comportando-se como um guardião silencioso e incorruptível que só demonstra sua força se sentir sua família realmente ameaçada.",
+    "historia": "As raízes da raça remontam aos antigos Molossos romanos que acompanhavam as legiões protegendo os rebanhos. Na cidade alemã de Rottweil, esses cães foram refinados para serem os 'Cães de Açougueiro' (Rottweiler Metzerhund): eles guardavam o dinheiro dos mercadores amarrado em seus pescoços, conduziam o gado e puxavam pequenas carroças. Com a modernização do transporte, a raça quase desapareceu, mas foi salva por sua excepcional aptidão para o trabalho policial no início do século XX. Hoje, o Rottweiler é uma das raças de guarda e serviço mais respeitadas do mundo, sendo imensamente popular no Brasil.",
     "curiosidades": [
-      "Rottweiler possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Rottweiler ocupa a 9ª posição no ranking de inteligência canina de Stanley Coren, sendo um dos cães mais fáceis de treinar do mundo.",
+      "Eles possuem um senso de território muito equilibrado, sendo cães de guarda 'silenciosos' que raramente latem sem um motivo real.",
+      "Apesar da aparência robusta, muitos Rottweilers são conhecidos por serem 'cães de colo gigantes', tentando se aninhar nos seus tutores no sofá.",
+      "Eles possuem uma das mordidas mais potentes do reino canino, resultado de uma musculatura mandibular extremamente desenvolvida.",
+      "O Rottweiler foi uma das primeiras raças a serem usadas como cães-guia para cegos, antes de serem superados em números pelos retrievers devido ao estigma visual da raça."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias que buscam um protetor leal e dócil dentro de casa",
+      "Tutores experientes que saibam estabelecer liderança firme e carinhosa",
+      "Pessoas interessadas em adestramento avançado e esportes de proteção (IPO)",
+      "Quem vive em casas com quintais seguros e bem murados",
+      "Proprietários que buscam um companheiro calmo e silencioso em interiores"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige clareza e consistência na liderança)",
+      "Pessoas sedentárias que não possam oferecer estímulo físico e mental diário",
+      "Moradores de apartamentos pequenos sem uma rotina intensa de exercícios externos",
+      "Proprietários que planejam deixar o cão isolado no quintal (ele precisa de interação humana)",
+      "Famílias que recebem muitos estranhos em casa sem controle rigoroso"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência considerável)",
+      "Cardiomiopatia e Estenose Aórtica (problemas cardíacos)",
+      "Osteossarcoma (câncer ósseo)",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento prolongado."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal com luva de borracha. Banhos devem ser mensais. É vital manter as unhas curtas e escovar os dentes diariamente. Prepare-se para remover detritos que o cão possa trazer da rua e limpar babas ocasionais após as refeições.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 hora de atividade vigorosa. Caminhadas rápidas, sessões de treinamento e jogos de força controlada são ideais. O estímulo mental é fundamental para evitar o tédio, que pode gerar comportamentos obsessivos.",
+    "treinamento": "O adestramento é obrigatório e deve começar cedo. O Rottweiler é inteligente e aprende comandos com facilidade, mas testará a autoridade do tutor. Use reforço positivo e estabeleça-se como o líder calmo. A socialização precoce é MANDATÓRIA para garantir um temperamento equilibrado.",
+    "alimentacao": "Dieta de alta qualidade dividida em pelo menos duas refeições por dia para reduzir o risco de torção gástrica. O controle do peso é VITAL, pois a obesidade agrava drasticamente os problemas de displasia."
   },
   "seo": {
-    "title": "Rottweiler - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Rottweiler: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Rottweiler: O Nobre Guardião de Coração Doce - Guia Completo da Raça",
+    "description": "Descubra tudo sobre o Rottweiler: conheça sua inteligência de elite, sua história como cão de açougueiro e as dicas vitais de saúde e adestramento para este gigante leal.",
     "keywords": [
-      "rottweiler",
-      "rottweiler",
-      "médio",
-      "alemanha"
+      "Rottweiler",
+      "Rott",
+      "cão de guarda",
+      "cão inteligente",
+      "cão de família",
+      "raças de cães grandes",
+      "cuidados com Rottweiler",
+      "temperamento Rottweiler",
+      "saúde do Rottweiler"
     ]
   },
   "imagem_principal": "/images/breeds/rottweiler.jpg",
@@ -75,11 +94,54 @@
     "/images/breeds/rottweiler-2.jpg",
     "/images/breeds/rottweiler-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=rottweiler",
-  "popularidade": 28347,
-  "ranking_brasil": 92,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Rottweiler - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-rottweiler",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-rottweiler/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Temperamento Real do Rottweiler",
+      "url": "https://www.youtube.com/watch?v=example-rott-life",
+      "canal": "Mundo Canino",
+      "duracao": "12:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "dobermann",
+    "beauceron",
+    "bullmastiff",
+    "mastiff-ingles"
+  ],
+  "cores_disponiveis": [
+    "Preto com marcações Fogo (Tan)",
+    "Preto com marcações Mogno (Mahogany)",
+    "Preto com marcações Ferrugem (Rust)"
+  ],
+  "marcacoes": [
+    "Marcações fogo simétricas na face, peito e pernas",
+    "Marcações sobre os olhos (rosetas)",
+    "Focinho e garganta castanhos"
+  ],
+  "curiosidades_historicas": "Na Idade Média, o Rottweiler era tão respeitado por sua força e honestidade que os açougueiros de Rottweil colocavam suas bolsas de dinheiro presas ao pescoço do cão para transportá-las até o banco, garantindo que nenhum ladrão ousaria se aproximar do 'tesouro' guardado pelo molosso.",
+  "referencias_externas": [
+    {
+      "titulo": "American Rottweiler Club",
+      "url": "https://www.rottweiler.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Rottweiler Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/ROTTWEILER-147.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 10,
   "custo_mensal_estimado": [
-    365,
-    1226
+    400,
+    1100
   ]
 }

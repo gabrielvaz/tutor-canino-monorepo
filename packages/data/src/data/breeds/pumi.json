@@ -3,68 +3,89 @@
   "nome": "Pumi",
   "slug": "pumi",
   "nome_en": "Pumi",
-  "apelidos": [],
+  "apelidos": [
+    "Terrier Húngaro",
+    "Cão Palhaço",
+    "Pumi"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "10 - 12 anos",
-    "altura_macho": "41 cm",
-    "altura_femea": "37 cm",
-    "peso_macho": "28.2 kg",
-    "peso_femea": "27 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "41 - 47 cm",
+    "altura_femea": "38 - 44 cm",
+    "peso_macho": "10 - 15 kg",
+    "peso_femea": "8 - 13 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1998
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 5,
-    "latido": 5,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 5,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 2,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Pumi é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pumi originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pumi é uma das raças mais vibrantes e carismáticas da Hungria, um cão de pastoreio de médio porte que combina a inteligência de um pastor com a vivacidade de um terrier. Famoso por sua pelagem encaracolada e densa que não cai, e por suas orelhas semi-eretas e muito móveis que lhe conferem uma expressão de eterna curiosidade e humor. De constituição atlética, ágil e compacta, o Pumi é um trabalhador incansável, dotado de uma prontidão e um 'drive' extraordinários. É um companheiro intensamente leal, brincalhão e que exige um estilo de vida focado em desafios mentais e físicos constantes para ser equilibrado.",
+    "historia": "A raça desenvolveu-se na Hungria entre os séculos XVII e XVIII, sendo o resultado provável de cruzamentos entre o antigo Puli e cães de pastoreio de tipo terrier e spitz levados da Alemanha e França. Os pastores húngaros precisavam de um cão que fosse mais 'terrier' em sua atitude: ousado, barulhento e capaz de lidar com gado e porcos em espaços apertados. O Pumi provou ser um mestre na condução de animais difíceis e um excelente guardião de propriedades. Foi formalmente padronizado na década de 1920 e ganhou reconhecimento mundial recente como um competidor de elite em esportes como Agility e Obediência.",
     "curiosidades": [
-      "Pumi possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Pumi é frequentemente chamado de 'o cão palhaço' devido à sua capacidade de inventar brincadeiras e suas orelhas expressivas que parecem ter vida própria.",
+      "As orelhas do Pumi são sua assinatura: elas devem ser mantidas eretas em dois terços, com as pontas caindo para frente, movendo-se constantemente para captar qualquer som.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem, composta por cachos circulares, não cai e não possui o 'odor de cachorro' pronunciado.",
+      "O Pumi possui um estilo de pastoreio único, trabalhando de forma muito próxima aos animais e usando seu latido agudo como uma ferramenta de comando.",
+      "Apesar da aparência fofa de 'bicho de pelúcia', o Pumi é um cão de trabalho sério, dotado de uma coragem que não hesita em enfrentar animais muito maiores.",
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias extremamente ativas que buscam um parceiro para esportes e aventuras",
+      "Tutores interessados em adestramento de alto nível, Agility ou Flyball",
+      "Pessoas com alergias a pelos de cães que buscam um cão de médio porte vibrante",
+      "Quem vive em casas com quintais seguros onde o cão possa exercitar-se livremente",
+      "Donos que buscam um cão brilhante, fácil de treinar e intensamente leal"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar no sofá (ele se tornará neurótico)",
+      "Moradores de apartamentos com vizinhos sensíveis a latidos (ele é um vigia muito vocal)",
+      "Famílias que ficam fora de casa o dia todo (sofre severamente com o tédio e a solidão)",
+      "Pessoas que não podem dedicar pelo menos 1 a 2 horas de estímulo físico e mental diário",
+      "Tutores de primeira viagem que não saibam canalizar sua inteligência e energia explosiva"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Luxação de Patela",
+      "Mielopatia Degenerativa (rara)",
+      "Miclonia (espasmos musculares ocasionais na raça)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são essenciais. Testes de DNA para doenças hereditárias comuns em pastores. Monitoramento do peso para preservar as articulações."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é moderada a alta. Exige escovação profunda pelo menos duas vezes por semana para remover pelos mortos e manter a elasticidade dos cachos. A tosa higiênica e o arredondamento dos pelos das orelhas e patas são recomendados. Banhos devem ser mensais com secagem natural para não desmanchar os cachos. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas. O Pumi precisa correr, saltar e ter desafios cognitivos complexos. Ele se destaca em qualquer esporte canino. Sem gasto de energia, ele se torna excessivamente latidor e destruidor.",
+    "treinamento": "Extremamente inteligente e ávido por aprender, o treinamento é um prazer. Ele aprende comandos novos com rapidez impressionante e adora ser desafiado. Use reforço positivo, variedade e desafios crescentes. A socialização precoce é VITAL para canalizar seu instinto de latido e garantir sua natureza sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é fundamental para manter sua agilidade atlética e não sobrecarregar as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Pumi - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pumi: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pumi: O Inteligente e Vibrante Terrier Húngaro - Guia de Raça",
+    "description": "Descubra o Pumi: conheça sua inteligência brilhante, suas orelhas expressivas e as dicas vitais de cuidados e exercícios para este incansável atleta húngaro.",
     "keywords": [
-      "pumi",
-      "pumi",
-      "médio",
-      "hungria"
+      "Pumi",
+      "cão húngaro",
+      "pastor húngaro",
+      "cão inteligente",
+      "Agility dog",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Pumi",
+      "temperamento Pumi"
     ]
   },
   "imagem_principal": "/images/breeds/pumi.jpg",
@@ -73,11 +94,57 @@
     "/images/breeds/pumi-2.jpg",
     "/images/breeds/pumi-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pumi",
-  "popularidade": 13220,
-  "ranking_brasil": 173,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pumi Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pumi",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pumi/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade e Humor do Pumi",
+      "url": "https://www.youtube.com/watch?v=example-pumi-agility",
+      "canal": "Agility Star",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "puli",
+    "mudi",
+    "croatian-sheepdog",
+    "pastor-australiano",
+    "lakeland-terrier"
+  ],
+  "cores_disponiveis": [
+    "Cinza (Slate) em todos os tons",
+    "Preto",
+    "Fawn (Fulvo)",
+    "Branco",
+    "Marrom (raro)"
+  ],
+  "marcacoes": [
+    "Pode ser totalmente sólido (preferível)",
+    "Orelhas semi-eretas com pontas caídas (obrigatórias)",
+    "Padrão de pelagem encaracolada uniforme"
+  ],
+  "curiosidades_historicas": "O Pumi foi oficialmente separado do Puli apenas no início do século XX. O Professor Emil Raitsits, o grande cinólogo húngaro, foi quem identificou que os cães de pastoreio da região oeste da Hungria tinham desenvolvido um temperamento muito mais ativo e barulhento, lutando para que fossem reconhecidos como a raça distinta e brilhante que são hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "Hungarian Pumi Club of America",
+      "url": "https://pumiclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e eventos."
+    },
+    {
+      "titulo": "FCI - Pumi Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/PUMI-56.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    386,
-    1490
+    300,
+    800
   ]
 }

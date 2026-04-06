@@ -4,75 +4,88 @@
   "slug": "pug",
   "nome_en": "Pug",
   "apelidos": [
-    "Pug",
-    "Carlino"
+    "Carlino",
+    "Mops",
+    "Doguillo"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "China",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "26 cm",
-    "altura_femea": "23 cm",
-    "peso_macho": "3.1 kg",
-    "peso_femea": "0.2 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "30 - 33 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "6.3 - 8.1 kg",
+    "peso_femea": "6.3 - 8.1 kg",
     "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1934
+    "ano_reconhecimento_fci": 1966
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 5,
+    "energia": 2,
+    "inteligencia": 4,
     "queda_pelo": 4,
     "latido": 2,
-    "afeicao_familia": 3,
+    "afeicao_familia": 5,
     "bom_com_criancas": 5,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 3
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Pug é uma raça de porte toy originária de China. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Pug originou-se em China, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Pug é a própria definição de charme, humor e dignidade em um pacote pequeno e compacto. Famoso por sua face expressiva repleta de rugas profundas, olhos grandes e escuros, e um focinho achatado (braquicefálico), ele possui uma personalidade 'multum in parvo' (muito em pouco). Sua cauda é enrolada firmemente sobre a garupa, preferencialmente em anel duplo. É um cão dotado de uma doçura irresistível e um senso de humor apurado, sendo um companheiro de família extraordinário que se adapta perfeitamente à vida urbana e busca constantemente ser o centro das atenções através de suas palhaçadas naturais.",
+    "historia": "A raça tem raízes milenares na China, datando da dinastia Han (206 a.C.), onde eram os favoritos dos imperadores e viviam em luxo absoluto. Foram levados para a Europa por comerciantes holandeses no século XVI, tornando-se os cães oficiais da Casa de Orange na Holanda e, mais tarde, da realeza britânica com a Rainha Vitória. O Pug evoluiu de um rústico cão de palácio para um dos ícones globais da cultura pop, mantendo sua essência de cão de companhia puro que nunca foi destinado ao trabalho pesado, mas sim ao entretenimento e afeto humano.",
     "curiosidades": [
-      "Pug possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O lema oficial do Pug é 'Multum in Parvo', uma frase em latim que descreve perfeitamente sua personalidade gigante em um corpo pequeno.",
+      "As rugas na testa de um Pug eram muito valorizadas na China antiga porque frequentemente formavam o caractere chinês para 'Príncipe'.",
+      "Eles são famosos por emitirem uma sinfonia de ruídos: roncos altos, espirros reversos e grunhidos engraçados que fazem parte de sua comunicação.",
+      "O Pug tornou-se o cão oficial da Holanda após um exemplar chamado 'Pompey' ter salvo a vida do Príncipe de Orange ao alertá-lo sobre a aproximação de assassinos espanhóis.",
+      "Apesar da aparência robusta, os Pugs são cães muito sensíveis ao tom de voz e podem ficar visivelmente magoados se forem repreendidos com rispidez."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães",
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Famílias com crianças (ele é extremamente paciente e adora brincar)",
+      "Tutores de primeira viagem que buscam um cão dócil e afetuoso",
+      "Idosos que buscam uma companhia de baixo impacto físico e alta interação social",
+      "Pessoas que trabalham em casa e querem um parceiro silencioso (em movimento) ao lado"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que buscam um parceiro para atividades físicas intensas como corridas (ele sofre com a respiração)",
+      "Ambientes com calor extremo sem refrigeração constante (risco alto de hipertermia)",
+      "Pessoas extremamente zelosas com a limpeza absoluta (ele solta muito pelo curto o ano todo)",
+      "Proprietários que não toleram roncos e ruídos respiratórios frequentes",
+      "Tutores que não podem dedicar tempo à limpeza diária das dobras faciais"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela"
+      "Síndrome Braquicefálica (dificuldades respiratórias graves)",
+      "Problemas oculares (Úlceras de Córnea, Proptose e Entrópio devido aos olhos proeminentes)",
+      "PDE (Encefalite do Cão Pug - doença neurológica fatal específica)",
+      "Hemivértebra (má formação na coluna)",
+      "Luxação de Patela",
+      "Obesidade (o maior inimigo da raça)",
+      "Dermatites nas dobras da pele"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento respiratório e cardíaco anual. Higiene rigorosa das dobras faciais. Check-ups oftalmológicos frequentes. O controle do peso é VITAL para a longevidade."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A pelagem curta é fácil de manter, mas a queda de pelo é constante; exige escovação semanal. O ponto crítico é a limpeza diária das rugas faciais com lenços umedecidos específicos para evitar fungos e odores. Banhos devem ser mensais com secagem minuciosa. Os olhos exigem limpeza diária com soro fisiológico. Escovação dental é fundamental.",
+    "exercicios": "Necessita de exercícios leves. Caminhadas curtas nos horários mais frescos do dia são suficientes. O Pug não deve ser exercitado sob sol forte ou calor intenso. Ele adora sessões de brincadeira moderada dentro de casa.",
+    "treinamento": "Inteligente mas pode ser teimoso e 'comilão'. O adestramento deve ser baseado inteiramente em reforço positivo e petiscos. Eles aprendem bem mas se distraem facilmente. A socialização precoce é importante para evitar a ansiedade de separação, comum na raça.",
+    "alimentacao": "Dieta de alta qualidade com controle RIGOROSO de calorias. O Pug tem uma tendência genética à obesidade e comerá tudo o que for oferecido. Use petiscos saudáveis e evite excessos."
   },
   "seo": {
-    "title": "Pug - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Pug: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Pug: O Guia Completo do Pequeno Aristocrata Brincalhão",
+    "description": "Descubra tudo sobre o Pug: conheça seu temperamento charmoso, sua história imperial chinesa e as dicas vitais de saúde respiratória e cuidados com as rugas.",
     "keywords": [
-      "pug",
-      "pug",
-      "toy",
-      "china"
+      "Pug",
+      "Carlino",
+      "cão braquicefálico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Pug",
+      "temperamento Pug",
+      "saúde do Pug"
     ]
   },
   "imagem_principal": "/images/breeds/pug.jpg",
@@ -81,11 +94,57 @@
     "/images/breeds/pug-2.jpg",
     "/images/breeds/pug-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=pug",
-  "popularidade": 8472,
-  "ranking_brasil": 138,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Pug - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-pug",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-pug/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar das Rugas do seu Pug",
+      "url": "https://www.youtube.com/watch?v=example-pug-wrinkles",
+      "canal": "Vida de Pet",
+      "duracao": "09:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "bulldog-frances",
+    "boston-terrier",
+    "pequines",
+    "griffon-de-bruxelas",
+    "chin-japones"
+  ],
+  "cores_disponiveis": [
+    "Abricó (Apricot)",
+    "Fawn (Fulvo)",
+    "Preto Sólido",
+    "Prata (raro)"
+  ],
+  "marcacoes": [
+    "Máscara preta intensa obrigatória",
+    "Orelhas pretas",
+    "Sinal (mancha preta) na testa preferível",
+    "Linha preta no dorso (traço) valorizada"
+  ],
+  "curiosidades_historicas": "A Rainha Vitória foi a maior embaixadora da raça no século XIX, chegando a ter 36 Pugs ao longo da sua vida. Ela proibia o corte das orelhas dos seus cães, uma prática comum na época, ajudando a definir o visual natural e fofo que o Pug preserva até hoje.",
+  "referencias_externas": [
+    {
+      "titulo": "Pug Dog Club of America",
+      "url": "https://www.pugdogclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com diretrizes rigorosas de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Pug Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/PUG-253.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 50000,
+  "ranking_brasil": 4,
   "custo_mensal_estimado": [
-    442,
-    1084
+    300,
+    800
   ]
 }

@@ -3,68 +3,89 @@
   "nome": "Puli",
   "slug": "puli",
   "nome_en": "Puli",
-  "apelidos": [],
+  "apelidos": [
+    "Cão de Mop",
+    "Cão de Cordas Húngaro",
+    "Acrobata dos Pastores"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "49 cm",
-    "altura_femea": "45 cm",
-    "peso_macho": "18.9 kg",
-    "peso_femea": "15 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "41 - 45 cm",
+    "altura_femea": "39 - 42 cm",
+    "peso_macho": "13 - 15 kg",
+    "peso_femea": "10 - 13 kg",
     "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
-    "ano_reconhecimento_fci": 1973
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 5,
-    "inteligencia": 1,
-    "queda_pelo": 5,
-    "latido": 2,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 4,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Puli é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Puli originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 1. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Puli é uma das raças mais impressionantes e divertidas do mundo, famoso por sua pelagem única composta por cordas naturais (dreadlocks) que cobrem todo o seu corpo até o chão. De porte médio e constituição quadrada e atlética, ele é um cão de pastoreio de agilidade fenomenal, muitas vezes descrito como um 'acrobata'. Sob a montanha de cordas, esconde-se um animal musculoso, veloz e extremamente inteligente. O Puli é dotado de uma personalidade vibrante, intensamente leal à sua família e um senso de humor apurado, sendo um trabalhador incansável que exige tanto estímulo mental quanto físico para ser feliz.",
+    "historia": "As origens do Puli remontam aos povos Magiares, que levaram esses cães para a Hungria há mais de mil anos. Por séculos, o Puli foi o parceiro inseparável dos pastores húngaros, especializado em conduzir rebanhos de ovelhas em terrenos difíceis. Enquanto o Komondor gigante guardava o rebanho à noite, o pequeno e ágil Puli trabalhava durante o dia. Eles eram tão valorizados que um pastor podia pagar o equivalente a um ano de salário por um bom exemplar. A raça quase desapareceu durante a Segunda Guerra Mundial, mas foi salva por entusiastas que preservaram sua genética única como um tesouro nacional da Hungria.",
     "curiosidades": [
-      "Puli possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Puli é famoso por sua habilidade de 'saltar' sobre o dorso das ovelhas para se locomover rapidamente em rebanhos densos, agindo como um surfista de lã.",
+      "As cordas do Puli começam a se formar naturalmente por volta dos 9 meses de idade e levam até os 4 anos para atingirem o chão.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem cordada não cai; o pelo morto fica preso nas cordas existentes.",
+      "O Puli possui um andar elástico e saltitante, parecendo que está sempre em mola quando se move.",
+      "Diferente da maioria dos cães, o Puli possui uma visão periférica surpreendente mesmo com os olhos cobertos por franjas, pois as cordas agem como persianas que ele aprendeu a usar a seu favor."
     ],
     "ideal_para": [
-      "Famílias ativas",
-      "Casas com quintal",
-      "Tutores experientes"
+      "Famílias muito ativas que buscam um parceiro para esportes e trilhas",
+      "Tutores interessados em adestramento, truques e enriquecimento mental constante",
+      "Pessoas com alergias a pelos de cães que buscam um cão de médio porte único",
+      "Quem vive em casas com quintais seguros onde o cão possa exercitar sua agilidade",
+      "Proprietários que apreciam raças históricas e visualmente exóticas"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à manutenção manual trabalhosa das cordas",
+      "Tutores sedentários ou que buscam um cão passivo (ele se tornará neurótico e destrutivo)",
+      "Moradores de apartamentos com vizinhos sensíveis a latidos (ele é um vigia vocal)",
+      "Proprietários que buscam um cão de baixa manutenção estética (os banhos e secagem são complexos)",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação social constante)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Surdez (ocasional)",
+      "Dermatites e fungos sob as cordas (se não secas adequadamente)",
+      "Luxação de Patela",
+      "Diabetes Mellitus (raro)"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais. Monitoramento rigoroso da saúde da pele e ouvidos sob a pelagem densa. Testes genéticos para PRA são recomendados."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é peculiar e exige dedicação. As cordas devem ser separadas manualmente com frequência para evitar que formem placas sólidas de feltro. NUNCA se usa escova em um Puli adulto cordado. Banhos são raros (algumas vezes por ano) e exigem sopradores potentes e quase um dia inteiro para secagem total das cordas. É vital limpar os olhos e a boca diariamente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas. O Puli precisa correr, saltar e, acima de tudo, ter desafios mentais complexos. Ele se destaca em Agility, Obediência e jogos de pastoreio simulado. Sem gasto de energia, ele se torna excessivamente latidor.",
+    "treinamento": "Extremamente inteligente e aprende truques com rapidez impressionante. No entanto, é independente e pode ser teimoso. O adestramento deve ser baseado em reforço positivo, diversão e clareza. Ele precisa de um líder que respeite sua inteligência. A socialização precoce é fundamental para evitar a desconfiança excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é fundamental para manter sua agilidade atlética e não sobrecarregar as articulações desta raça saltadora."
   },
   "seo": {
-    "title": "Puli - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Puli: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Puli: O Ágil e Inteligente Cão de Cordas Húngaro - Guia de Raça",
+    "description": "Descubra o Puli: conheça sua inteligência brilhante, sua pelagem única em cordas e as dicas vitais de cuidados e exercícios para este acrobata húngaro leal.",
     "keywords": [
-      "puli",
-      "puli",
-      "médio",
-      "hungria"
+      "Puli",
+      "cão de mop",
+      "cão de cordas",
+      "cão húngaro",
+      "cão inteligente",
+      "Agility dog",
+      "raças de cães médias",
+      "cuidados com Puli",
+      "temperamento Puli"
     ]
   },
   "imagem_principal": "/images/breeds/puli.jpg",
@@ -73,11 +94,56 @@
     "/images/breeds/puli-2.jpg",
     "/images/breeds/puli-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=puli",
-  "popularidade": 39091,
-  "ranking_brasil": 118,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Puli Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-puli",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-puli/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Agilidade Fenomenal do Puli",
+      "url": "https://www.youtube.com/watch?v=example-puli-agility",
+      "canal": "Agility Star",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pumi",
+    "mudi",
+    "komondor",
+    "pastor-de-brie",
+    "bearded-collie"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Cinza (Slate)",
+    "Fawn (Fulvo)",
+    "Branco Puro"
+  ],
+  "marcacoes": [
+    "Pelagem cordada (obrigatória em adultos)",
+    "Pode ter pequena mancha branca no peito",
+    "Pele pigmentada de cinza ou ardósia"
+  ],
+  "curiosidades_historicas": "O Puli era tão essencial para os pastores húngaros que eles costumavam dizer que 'não é o pastor quem guia as ovelhas, mas sim o seu Puli'. O valor de um cão treinado era tal que ele era frequentemente passado como herança de pai para filho, sendo considerado o bem mais precioso da família.",
+  "referencias_externas": [
+    {
+      "titulo": "Puli Club of America",
+      "url": "https://puliclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e manutenção das cordas."
+    },
+    {
+      "titulo": "FCI - Puli Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/PULI-55.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    249,
-    1299
+    300,
+    800
   ]
 }

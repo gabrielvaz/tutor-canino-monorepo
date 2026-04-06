@@ -4,70 +4,87 @@
   "slug": "rhodesian-ridgeback",
   "nome_en": "Rhodesian Ridgeback",
   "apelidos": [
-    "Rhodesian",
-    "Ridgeback"
+    "Leão da Rodésia",
+    "Ridgeback",
+    "Cão de Crista Dorsal"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "África do Sul",
-    "expectativa_vida": "12 - 16 anos",
-    "altura_macho": "54 cm",
-    "altura_femea": "49 cm",
-    "peso_macho": "14.4 kg",
-    "peso_femea": "10.8 kg",
+    "origem": "África do Sul / Zimbábue",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "63 - 69 cm",
+    "altura_femea": "61 - 66 cm",
+    "peso_macho": "36 - 41 kg",
+    "peso_femea": "29 - 34 kg",
     "grupo_fci": "Grupo 6 - Cães Sabujos, Farejadores e Raças Assemelhadas",
-    "ano_reconhecimento_fci": 1938
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
+    "energia": 4,
     "inteligencia": 5,
-    "queda_pelo": 5,
-    "latido": 4,
-    "afeicao_familia": 2,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
     "necessidade_exercicio": 5,
-    "instinto_guarda": 2
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Rhodesian Ridgeback é uma raça de porte médio originária de África do Sul. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Rhodesian Ridgeback originou-se em África do Sul, sendo desenvolvido para funções específicas relacionadas ao grupo 6. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Rhodesian Ridgeback é um cão de porte imponente, força atlética e uma característica física única no mundo: uma crista de pelos no dorso que cresce na direção oposta ao resto da pelagem. De constituição musculosa, ágil e simétrica, ele exala uma aura de nobreza e coragem. Sua pelagem é curta, densa e brilhante, variando entre tons de trigo claro e vermelho rico. Com orelhas pendentes e um olhar focado que transborda inteligência, o Ridgeback é um atleta de resistência extraordinária, dotado de um temperamento equilibrado, silencioso e intensamente leal à sua família, sendo um dos cães de guarda e companhia mais respeitados da África.",
+    "historia": "A raça desenvolveu-se na África Austral (antiga Rodésia, hoje Zimbábue e África do Sul), sendo o resultado do cruzamento entre os cães de crista dos povos Khoikhoi nativos e raças europeias levadas por colonos, como o Mastiff, o Bloodhound e diversos terriers. O Ridgeback foi selecionado para ser um caçador de grandes animais, especialmente o leão, tendo a coragem de mantê-lo encurralado até a chegada do caçador. Além da caça, ele era o guardião supremo das fazendas contra predadores e invasores. O padrão da raça foi estabilizado em 1922 por Francis R. Barnes, preservando a rusticidade e a funcionalidade deste 'guerreiro africano'.",
     "curiosidades": [
-      "Rhodesian Ridgeback possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "A crista dorsal do Rhodesian Ridgeback deve ter dois coroas (espirais de pelo) idênticas e opostas, começando logo atrás dos ombros e terminando nos quadris.",
+      "Eles possuem o que os especialistas chamam de 'instinto de sobrevivência apurado', sendo extremamente cautelosos e raramente latindo sem um motivo de ameaça real.",
+      "O Ridgeback é famoso por sua resistência ao calor e capacidade de passar longos períodos sem água durante o trabalho no cerrado africano.",
+      "Apesar do passado de caçador de leões, em casa o Ridgeback é conhecido por ser um 'preguiçoso de sofá', adorando o conforto e o calor das cobertas.",
+      "Eles possuem um senso de humor peculiar e são mestres em 'fingir que não ouviram' um comando se acharem que têm algo mais importante para investigar."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um cão de guarda protetor e equilibrado",
+      "Famílias ativas que gostam de trilhas, caminhadas e vida ao ar livre",
+      "Pessoas que vivem em casas com amplos quintais seguros e bem murados",
+      "Quem deseja um companheiro leal que seja um guardião silencioso e de presença imponente",
+      "Proprietários interessados em esportes de resistência ou treinamento de obediência"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige liderança firme e compreensão da psicologia de matilha)",
+      "Moradores de apartamentos sem uma rotina exaustiva de exercícios externos",
+      "Famílias que recebem muitos estranhos em casa sem controle (ele é naturalmente desconfiado)",
+      "Pessoas que buscam um cão 100% submisso (ele é independente e obstinado)",
+      "Proprietários sedentários que não possam oferecer estímulo mental e físico diário"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dermoide Sinus (problema congênito na pele da crista - exige triagem em filhotes)",
+      "Displasia de Quadril e Cotovelo",
+      "Problemas oculares (Catarata e Entrópio)",
+      "Hipotireoidismo",
+      "Dilatação e Torção Gástrica (Bloat)",
+      "Mielopatia Degenerativa (rara)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais. Triagem rigorosa de Dermoide Sinus em filhotes recém-nascidos. Monitoramento da função tireoidiana em cães adultos. Atenção aos sinais de torção gástrica."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 5/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é mínima, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. É importante verificar as orelhas pendentes e manter as unhas curtas para não comprometer a postura atlética. Ele é um cão muito limpo por natureza.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 a 1,5 horas de atividade física. Caminhadas vigorosas e oportunidades para correr em áreas seguras são fundamentais. O Ridgeback adora acompanhar o tutor em trilhas e corridas lentas. O tédio mental deve ser combatido com treinamento e jogos.",
+    "treinamento": "Muito inteligente mas independente e às vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e liderança calma e inabalável. Ele não responde bem a métodos bruscos. A socialização precoce e CONTÍNUA é VITAL para garantir que ele seja um adulto equilibrado e sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães grandes ativos. É essencial fracionar as refeições em pelo menos duas vezes ao dia para prevenir a torção gástrica comum em raças de peito profundo."
   },
   "seo": {
-    "title": "Rhodesian Ridgeback - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Rhodesian Ridgeback: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Rhodesian Ridgeback: O Valente Caçador de Leões - Guia de Raça",
+    "description": "Descubra o Rhodesian Ridgeback: conheça sua história heróica na África, seu temperamento leal e as dicas vitais de cuidados com a crista dorsal e saúde.",
     "keywords": [
-      "rhodesian-ridgeback",
-      "rhodesian ridgeback",
-      "médio",
-      "áfrica do sul"
+      "Rhodesian Ridgeback",
+      "Leão da Rodésia",
+      "cão de crista dorsal",
+      "cão de guarda africano",
+      "cão inteligente",
+      "raças de cães grandes",
+      "cuidados com Ridgeback",
+      "temperamento Rhodesian"
     ]
   },
   "imagem_principal": "/images/breeds/rhodesian-ridgeback.jpg",
@@ -76,11 +93,54 @@
     "/images/breeds/rhodesian-ridgeback-2.jpg",
     "/images/breeds/rhodesian-ridgeback-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=rhodesian-ridgeback",
-  "popularidade": 28837,
-  "ranking_brasil": 113,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Rhodesian Ridgeback - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-ridgeback",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-ridgeback/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Coragem do Ridgeback no Savana",
+      "url": "https://www.youtube.com/watch?v=example-ridgeback-work",
+      "canal": "Wild Africa",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "vizsla",
+    "bloodhound",
+    "pointer-ingles",
+    "dobermann",
+    "thai-ridgeback"
+  ],
+  "cores_disponiveis": [
+    "Trigo Claro (Light Wheaten)",
+    "Trigo Vermelho (Red Wheaten)"
+  ],
+  "marcacoes": [
+    "Crista Dorsal obrigatória",
+    "Máscara escura no focinho e orelhas permitida",
+    "Pequena mancha branca no peito e dedos permitida"
+  ],
+  "curiosidades_historicas": "O lendário caçador Cornelius van Rooyen foi o responsável por cruzar as cristas dorsais africanas com seus cães de caça europeus para criar os Ridgebacks originais. Ele precisava de cães que pudessem enfrentar leões mas que fossem gentis o suficiente para serem os melhores amigos de seus filhos à noite nas fazendas isoladas.",
+  "referencias_externas": [
+    {
+      "titulo": "Rhodesian Ridgeback Club of the United States",
+      "url": "https://rrcus.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Rhodesian Ridgeback Standard",
+      "url": "https://www.fci.be/en/nomenclature/RHODESIAN-RIDGEBACK-146.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 50,
   "custo_mensal_estimado": [
-    470,
-    1240
+    400,
+    1000
   ]
 }

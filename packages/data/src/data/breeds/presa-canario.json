@@ -2,71 +2,89 @@
   "id": "presa-canario",
   "nome": "Presa Canário",
   "slug": "presa-canario",
-  "nome_en": "Presa Canario",
+  "nome_en": "Perro de Presa Canario",
   "apelidos": [
+    "Dogo Canário",
     "Presa",
-    "Canário"
+    "Cão de Presa das Canárias"
   ],
-  "categoria": "Médio",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Espanha",
-    "expectativa_vida": "11 - 17 anos",
-    "altura_macho": "53 cm",
-    "altura_femea": "48 cm",
-    "peso_macho": "17.9 kg",
-    "peso_femea": "15.7 kg",
+    "origem": "Espanha (Ilhas Canárias)",
+    "expectativa_vida": "9 - 11 anos",
+    "altura_macho": "60 - 66 cm",
+    "altura_femea": "56 - 62 cm",
+    "peso_macho": "50 - 65 kg",
+    "peso_femea": "40 - 55 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1951
+    "ano_reconhecimento_fci": 2001
   },
   "caracteristicas": {
-    "energia": 4,
+    "energia": 3,
     "inteligencia": 4,
-    "queda_pelo": 5,
+    "queda_pelo": 2,
     "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 5,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 4,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 2
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Presa Canário é uma raça de porte médio originária de Espanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Presa Canário originou-se em Espanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Presa Canário, também conhecido como Dogo Canário, é um molosso de aparência imponente e força massiva, um verdadeiro símbolo de autoridade e poder. De porte grande e constituição robusta e retangular, ele possui uma pelagem curta e áspera, predominantemente tigrada ou fulva. Sua característica mais marcante é a cabeça massiva e quadrada, com uma expressão de vigilância calma mas decidida. Diferente de sua reputação intimidadora, o Presa Canário é um cão extremamente equilibrado e afetuoso com sua família, agindo como um guardião silencioso e incorruptível que prefere dissuadir através de sua presença monumental antes de qualquer ação agressiva.",
+    "historia": "A raça desenvolveu-se nas ilhas de Tenerife e Gran Canaria, na Espanha, a partir do século XVI. Eles descendem do antigo 'Bardino Majorero' (cão de gado nativo) cruzado com molossos levados pelos colonos e comerciantes europeus, como o Mastiff e o antigo Bulldog. O Presa Canário foi selecionado para ser o cão multifuncional das ilhas: guardava propriedades, conduzia gado semi-selvagem e, infelizmente, participava de combates em arenas. Na década de 1970, a raça foi recuperada por entusiastas que focaram na preservação de sua funcionalidade rústica e temperamento equilibrado, sendo reconhecida oficialmente pela FCI no início do século XXI.",
     "curiosidades": [
-      "Presa Canário possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Presa' refere-se à habilidade do cão de segurar ou 'prender' a caça ou o gado através de uma mordida potente e controlada.",
+      "Eles possuem um latido muito profundo e cavernoso, que é considerado um dos avisos sonoros mais eficazes do mundo canino.",
+      "O Presa Canário é o símbolo natural da ilha de Gran Canaria, onde é respeitado como parte integral da identidade cultural local.",
+      "Diferente de muitos cães de guarda, o Presa é conhecido por ter um 'botão de desligar' muito eficiente dentro de casa, sendo um animal calmo e tranquilo quando não está em alerta.",
+      "Eles possuem uma pele muito grossa e elástica, uma adaptação evolutiva para protegê-los de ferimentos durante o trabalho pesado com gado agressivo."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes com raças de guarda e grande porte",
+      "Propriedades rurais, fazendas ou casas com quintais muito amplos e muros seguros",
+      "Quem busca um cão de guarda silencioso, vigilante e de presença dissuasiva máxima",
+      "Famílias que desejam um protetor leal e dócil com o círculo familiar",
+      "Proprietários interessados em treinamento de obediência e liderança firme"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele exige uma liderança muito clara, calma e consistente)",
+      "Moradores de apartamentos ou áreas urbanas densas (devido ao tamanho e necessidade de espaço)",
+      "Casas com muitos cães desconhecidos sem socialização profunda (pode ser dominante)",
+      "Proprietários que não podem oferecer pelo menos 1 a 1,5 horas de exercícios e patrulha diários",
+      "Famílias que recebem muitos estranhos em casa sem uma rotina clara de introdução controlada"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril e Cotovelo (incidência controlada na raça)",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Problemas cardíacos",
+      "Osteocondrite Dissecante (OCD)",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Semestral"
+    "cuidados_veterinarios": "Monitoramento ortopédico anual é fundamental. Atenção absoluta aos sinais de torção gástrica. Check-ups cardíacos regulares em cães adultos."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. É vital limpar as orelhas pendentes e as dobras faciais leves. As unhas devem ser mantidas curtas para suportar o peso massivo do cão e evitar problemas posturais.",
+    "exercicios": "Necessita de exercícios moderados a intensos. Longas caminhadas, sessões de treinamento e, principalmente, a oportunidade de patrulhar o território são fundamentais para sua saúde mental. O Presa Canário prefere o movimento calmo e a vigilância estratégica.",
+    "treinamento": "O adestramento é obrigatório e deve começar o mais cedo possível. O Presa Canário é inteligente mas independente e dominante. Use reforço positivo, clareza e estabeleça-se como o líder calmo. A socialização precoce, intensa e contínua é VITAL para garantir um temperamento equilibrado e sociável.",
+    "alimentacao": "Dieta de alta qualidade para cães grandes. É essencial fracionar as refeições (pelo menos 2 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica comum em molossos."
   },
   "seo": {
-    "title": "Presa Canário - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Presa Canário: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Presa Canário (Dogo Canário): O Imponente Guardião das Ilhas - Guia de Raça",
+    "description": "Descubra o Presa Canário: conheça sua força monumental, sua história na Espanha e os cuidados essenciais com a saúde e liderança deste gigante leal.",
     "keywords": [
-      "presa-canario",
-      "presa canário",
-      "médio",
-      "espanha"
+      "Presa Canário",
+      "Dogo Canário",
+      "cão de guarda gigante",
+      "cão das ilhas canárias",
+      "cão de presa",
+      "raças de cães grandes",
+      "cuidados com Presa Canário",
+      "temperamento Presa Canário"
     ]
   },
   "imagem_principal": "/images/breeds/presa-canario.jpg",
@@ -75,11 +93,55 @@
     "/images/breeds/presa-canario-2.jpg",
     "/images/breeds/presa-canario-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=presa-canario",
-  "popularidade": 45874,
-  "ranking_brasil": 69,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Presa Canario - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-presacanario",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-presacanario/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Guarda e Poder do Dogo Canário",
+      "url": "https://www.youtube.com/watch?v=example-presa-guard",
+      "canal": "Mundo Molosso",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "cane-corso",
+    "mastiff-ingles",
+    "fila-brasileiro",
+    "dogo-argentino",
+    "bullmastiff"
+  ],
+  "cores_disponiveis": [
+    "Tigrado (Brindle) em todos os tons",
+    "Fulvo (Fawn) em todos os tons",
+    "Areia"
+  ],
+  "marcacoes": [
+    "Máscara preta obrigatória (focinho)",
+    "Marcações brancas permitidas no peito, pescoço e patas",
+    "Padrão tigrado bem definido é muito valorizado"
+  ],
+  "curiosidades_historicas": "O Presa Canário foi usado na antiguidade não apenas para a lida com o gado, mas também por açougueiros espanhóis para ajudar a imobilizar os touros antes do abate, o que exigia um cão de força mandibular e coragem sem paralelos na época.",
+  "referencias_externas": [
+    {
+      "titulo": "Club Español del Perro de Presa Canario",
+      "url": "https://www.cep-presacanario.com/",
+      "descricao": "Clube oficial de raça na Espanha dedicado à preservação e padrão histórico."
+    },
+    {
+      "titulo": "FCI - Dogo Canario Standard",
+      "url": "https://www.fci.be/en/nomenclature/DOGO-CANARIO-346.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    392,
-    1336
+    500,
+    1400
   ]
 }
