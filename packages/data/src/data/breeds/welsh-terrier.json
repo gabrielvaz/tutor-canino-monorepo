@@ -5,70 +5,86 @@
   "nome_en": "Welsh Terrier",
   "apelidos": [
     "Welsh",
-    "Terrier"
+    "Terrier de Gales",
+    "Terrier Galês"
   ],
-  "categoria": "Pequeno",
+  "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "País de Gales",
-    "expectativa_vida": "12 - 17 anos",
-    "altura_macho": "32 cm",
-    "altura_femea": "29 cm",
-    "peso_macho": "14.4 kg",
-    "peso_femea": "10.4 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "36 - 39 cm",
+    "altura_femea": "33 - 36 cm",
+    "peso_macho": "9 - 10 kg",
+    "peso_femea": "8 - 9 kg",
     "grupo_fci": "Grupo 3 - Terriers",
-    "ano_reconhecimento_fci": 1916
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 1,
-    "queda_pelo": 2,
-    "latido": 1,
+    "energia": 5,
+    "inteligencia": 4,
+    "queda_pelo": 1,
+    "latido": 3,
     "afeicao_familia": 5,
     "bom_com_criancas": 4,
-    "bom_com_outros_caes": 4,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 5
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Welsh Terrier é uma raça de porte pequeno originária de País de Gales. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Welsh Terrier originou-se em País de Gales, sendo desenvolvido para funções específicas relacionadas ao grupo 3. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Welsh Terrier é um pequeno guerreiro de elegância rústica, frequentemente descrito como um 'Airedale Terrier miniaturizado' devido ao seu padrão de cores e fisionomia. De porte médio e constituição quadrada, robusta e muito sólida, ele é coberto por uma pelagem dupla dura e aramada em um preto azeviche e castanho (tan) vibrante. Sua cabeça é retangular com barba e sobrancelhas características que realçam sua expressão de coragem imperturbável e inteligência. É um cão dotado de um temperamento alegre, intensamente leal e dotado de uma vivacidade que o torna um dos terriers mais divertidos e resilientes da Grã-Bretanha.",
+    "historia": "A raça é uma das mais antigas entre os terriers galeses, descendendo do extinto 'Old English Black and Tan Terrier'. Por séculos, o Welsh foi o cão essencial das fazendas de Gales, sendo especializado na caça de predadores perigosos como a raposa, o texugo e a lontra. Eles precisavam de uma resistência inigualável e um umbral de dor elevado para entrar em fendas de rochas e lutar contra animais ferozes. O Welsh Terrier foi formalmente reconhecido pelo Kennel Club inglês em 1886 e, diferente de muitos primos que foram muito modificados para exposições, ele mantém até hoje a rusticidade e a agilidade do trabalhador de campo original.",
     "curiosidades": [
-      "Welsh Terrier possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Welsh Terrier é famoso por ser um dos terriers mais 'calmos' dentro de casa, desde que suas necessidades de exercício intenso sejam atendidas fora dela.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem dura quase não cai, exigindo a remoção manual dos fios mortos para manter o brilho e a saúde.",
+      "A raça possui um andar elástico e vigoroso, descrito como se estivessem sempre sobre as pontas dos pés, prontos para um sprint instantâneo.",
+      "Diferente do Jack Russell que pode ser frenético, o Welsh tende a ser mais deliberado e estratégico em suas investigações e brincadeiras.",
+      "Eles são nadadores surpreendentes para o seu tamanho, herança do seu passado caçando lontras em rios galeses."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Famílias ativas que buscam um terrier resiliente e muito afetuoso",
+      "Tutores interessados em adestramento, truques e enriquecimento ambiental",
+      "Pessoas com alergias a pelos de cães que buscam um cão de porte médio rústico",
+      "Quem vive em casas com quintais seguros e bem cercados",
+      "Donos que apreciam um cão com personalidade forte e senso de humor vibrante"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão passivo para ficar no sofá",
+      "Pessoas que não podem dedicar tempo à manutenção regular da pelagem (stripping profissional)",
+      "Casas com pequenos animais domésticos como hamsters ou coelhos (instinto de caça é extremo)",
+      "Moradores de apartamentos com vizinhos sensíveis a ruídos (ele pode ser um vigia vocal)",
+      "Tutores de primeira viagem que não saibam estabelecer uma liderança firme e divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Luxação de Lente Primária (PLL) - doença ocular hereditária",
+      "Glaucoma e Catarata",
+      "Epilepsia (ocasional na linhagem)",
+      "Displasia de Quadril (baixa incidência)",
+      "Hipotireoidismo",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Exames oftalmológicos anuais são indispensáveis devido ao risco de PLL. Check-ups ortopédicos. Testes genéticos de DNA são recomendados antes da criação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é alta. Exige escovação semanal profunda para evitar nós na barba e pernas. O 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3 meses para manter a textura e cor correta. Banhos devem ser mensais. A limpeza da barba após as refeições é importante para evitar odores. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de muito exercício físico e mental diário. Caminhadas vigorosas, jogos de busca e, preferencialmente, atividades que desafiem sua inteligência são fundamentais. O Welsh se entedia facilmente com rotinas repetitivas.",
+    "treinamento": "Muito inteligente mas independente e às vezes teimoso. O adestramento deve ser baseado em reforço positivo, rapidez e variedade. Eles não respondem bem a métodos punitivos. A socialização precoce com outros cães é fundamental para evitar a reatividade típica de terriers de caça.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é vital para manter o corpo atlético e não sobrecarregar as articulações desta raça ágil e saltadora."
   },
   "seo": {
-    "title": "Welsh Terrier - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Welsh Terrier: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Welsh Terrier: O Valente e Leal Guerreiro de Gales - Guia de Raça",
+    "description": "Descubra o Welsh Terrier: conheça sua inteligência brilhante, sua história na caça rústica e as dicas vitais de cuidados com a pelagem e saúde desta raça vibrante.",
     "keywords": [
-      "welsh-terrier",
-      "welsh terrier",
-      "pequeno",
-      "país de gales"
+      "Welsh Terrier",
+      "Terrier de Gales",
+      "cão inteligente médio",
+      "cão caçador de raposas",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Welsh Terrier",
+      "temperamento Welsh"
     ]
   },
   "imagem_principal": "/images/breeds/welsh-terrier.jpg",
@@ -77,11 +93,53 @@
     "/images/breeds/welsh-terrier-2.jpg",
     "/images/breeds/welsh-terrier-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=welsh-terrier",
-  "popularidade": 19460,
-  "ranking_brasil": 18,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Welsh Terrier - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-welshterrier",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-welshterrier/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Diferença entre Welsh e Airedale",
+      "url": "https://www.youtube.com/watch?v=example-terrier-comp",
+      "canal": "Mundo Terrier",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "airedale-terrier",
+    "lakeland-terrier",
+    "wire-fox-terrier",
+    "irish-terrier"
+  ],
+  "cores_disponiveis": [
+    "Preto e Tan (Ferrugem)",
+    "Grisalho (Grizzle) e Tan"
+  ],
+  "marcacoes": [
+    "Sela preta ou grisalha obrigatória",
+    "Cabeça e pernas invariavelmente castanhas (tan)",
+    "Barba e sobrancelhas abundantes"
+  ],
+  "curiosidades_historicas": "O Welsh Terrier foi por muito tempo o cão favorito dos mineiros de carvão no País de Gales. Eles eram levados para as minas para manter as galerias livres de ratos, sendo considerados heróis da classe trabalhadora galesa e protegidos como membros da elite dos cães de utilidade.",
+  "referencias_externas": [
+    {
+      "titulo": "Welsh Terrier Club of America",
+      "url": "https://welshterrierclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e preservação."
+    },
+    {
+      "titulo": "FCI - Welsh Terrier Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/WELSH-TERRIER-78.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    476,
-    699
+    300,
+    750
   ]
 }

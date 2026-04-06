@@ -2,69 +2,91 @@
   "id": "vizsla",
   "nome": "Vizsla",
   "slug": "vizsla",
-  "nome_en": "Vizsla",
-  "apelidos": [],
-  "categoria": "Médio",
+  "nome_en": "Hungarian Vizsla",
+  "apelidos": [
+    "Magyar Vizsla",
+    "Braco Húngaro",
+    "Cão de Velcro",
+    "O Fantasma Dourado"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Hungria",
-    "expectativa_vida": "10 - 13 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "24.9 kg",
-    "peso_femea": "21 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1951
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "58 - 64 cm",
+    "altura_femea": "54 - 60 cm",
+    "peso_macho": "22 - 30 kg",
+    "peso_femea": "18 - 25 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 3,
-    "latido": 3,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 1,
-    "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 2
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 3
   },
   "sobre": {
-    "descricao": "Vizsla é uma raça de porte médio originária de Hungria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Vizsla originou-se em Hungria, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Vizsla é a personificação da elegância atlética e do afeto canino, um cão de porte grande famoso por sua pelagem ouro-ferrugem deslumbrante e sua natureza 'velcro'. De constituição seca, musculosa e aerodinâmica, ele possui uma silhueta nobre e um olhar expressivo que transmite inteligência e devoção profunda. O Vizsla é um caçador polivalente extraordinário, capaz de apontar e buscar em terra e na água, mas sua característica mais marcante é o apego aos seus humanos: ele não apenas gosta de companhia, ele PRECISA estar fisicamente próximo aos seus tutores para ser feliz. É um atleta de elite, um parceiro de trilhas incansável e um membro de família excepcionalmente dócil e protetor.",
+    "historia": "A raça tem raízes ancestrais que remontam aos cães de caça dos povos Magiares que se estabeleceram na Hungria há mais de mil anos. Por séculos, o Vizsla foi o cão exclusivo da nobreza e dos senhores de terras húngaros, sendo preservado com extremo rigor genético. Eles foram desenvolvidos para serem caçadores versáteis em planícies abertas. A raça sobreviveu a inúmeras adversidades, incluindo a ocupação turca, a Revolução Húngara de 1848 e ambas as Guerras Mundiais, que quase a levaram à extinção. No final da década de 1940, entusiastas levaram exemplares para a Áustria e EUA, salvando este 'tesouro dourado' e transformando-o em uma das raças de esporte mais populares do mundo moderno.",
     "curiosidades": [
-      "Vizsla possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Vizsla é mundialmente conhecido como o 'Velcro Dog' porque ele tem o hábito de seguir seus tutores por todos os cômodos da casa, mantendo contato físico constante.",
+      "Eles possuem o que os especialistas chamam de 'nariz de seda', uma habilidade de aponte muito refinada e um toque extremamente gentil ao buscar a caça.",
+      "Diferente da maioria dos cães, o Vizsla não possui um subpelo denso, o que significa que ele quase não tem 'odor de cachorro', mas o torna muito sensível ao frio extremo.",
+      "A cor do nariz, das unhas e das bordas dos olhos de um Vizsla deve sempre harmonizar com a cor da sua pelagem ouro-ferrugem, uma característica genética única.",
+      "Eles são saltadores e escaladores fenomenais, sendo comuns em competições de Agility de alto nível devido à sua combinação de velocidade e obediência."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que buscam um parceiro para todas as aventuras",
+      "Tutores que trabalham em casa ou que podem dedicar muito tempo ao cão",
+      "Pessoas interessadas em adestramento avançado, Agility ou esportes de campo",
+      "Quem vive em casas com quintais espaçosos e acesso a áreas naturais",
+      "Donos que buscam um companheiro intensamente afetuoso e dócil com crianças"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários ou que buscam um cão passivo para ficar sozinho (ele sofrerá severamente)",
+      "Pessoas que não toleram um cão 'carente' que exige contato físico constante",
+      "Moradores de apartamentos pequenos sem uma rotina exaustiva de 2 horas de exercícios diários",
+      "Ambientes com climas de frio extremo sem cuidados especiais (ele tem pele fina)",
+      "Tutores de primeira viagem que não saibam canalizar sua inteligência e energia vibrante"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (Atrofia Progressiva da Retina e Entrópio)",
+      "Epilepsia (incidência controlada na raça)",
+      "Adenite Sebácea (doença de pele hereditária)",
+      "Hemangiossarcoma (câncer - em cães seniores)",
+      "Hipotireoidismo"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são fundamentais. Monitoramento da saúde da pele. É vital manter o cão magro para preservar as articulações atléticas."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta e lisa é muito fácil, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais ou conforme a necessidade. Eles são cães naturalmente limpos. É vital limpar as orelhas pendentes semanalmente para evitar otites. Unhas devem ser mantidas bem curtas.",
+    "exercicios": "Necessita de MUITO exercício diário — pelo menos 1,5 a 2 horas de atividade física vigorosa. Caminhadas lentas não bastam; o Vizsla precisa correr, nadar e, crucialmente, ter estímulo mental. O tédio gera ansiedade severa e comportamentos destrutivos nesta raça tão conectada ao humano.",
+    "treinamento": "Extremamente inteligente e ávido por agradar, o Vizsla é um dos cães mais fáceis de treinar do mundo. Ele aprende comandos complexos com rapidez impressionante. Use apenas reforço positivo e muito carinho, pois ele é altamente sensível e se fecha com qualquer sinal de rispidez.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas. O controle das porções é fundamental para manter sua forma física impecável e não sobrecarregar as articulações desta raça saltadora.",
   },
   "seo": {
-    "title": "Vizsla - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Vizsla: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Vizsla (Braco Húngaro): O Inteligente e Leal Cão de Velcro - Guia de Raça",
+    "description": "Descubra o Vizsla: conheça sua inteligência de elite, sua história na nobreza húngara e as dicas vitais de cuidados e exercícios para este afetuoso atleta dourado.",
     "keywords": [
-      "vizsla",
-      "vizsla",
-      "médio",
-      "hungria"
+      "Vizsla",
+      "Magyar Vizsla",
+      "Braco Húngaro",
+      "cão de velcro",
+      "cão inteligente",
+      "cão de caça húngaro",
+      "raças de cães grandes",
+      "cuidados com Vizsla",
+      "temperamento Vizsla"
     ]
   },
   "imagem_principal": "/images/breeds/vizsla.jpg",
@@ -73,11 +95,53 @@
     "/images/breeds/vizsla-2.jpg",
     "/images/breeds/vizsla-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=vizsla",
-  "popularidade": 10228,
-  "ranking_brasil": 32,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Vizsla - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-vizsla",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-vizsla/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Vizsla em Agility",
+      "url": "https://www.youtube.com/watch?v=example-vizsla-agility",
+      "canal": "Agility Star",
+      "duracao": "11:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "pointer-ingles",
+    "weimaraner",
+    "pointer-alemao-de-pelo-curto",
+    "rhodesian-ridgeback",
+    "braco-italiano"
+  ],
+  "cores_disponiveis": [
+    "Ouro-ferrugem (Golden Rust) em todos os tons"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (única cor permitida)",
+    "Pode ter pequena mancha branca no peito e dedos",
+    "Olhos e nariz devem harmonizar com a cor do pelo"
+  ],
+  "curiosidades_historicas": "O Vizsla é considerado o 'sobrevivente supremo' da cinofilia europeia. Após a Segunda Guerra Mundial, restavam apenas cerca de uma dúzia de cães puros na Hungria. A raça foi reconstruída a partir deste grupo minúsculo, provando o valor incomensurável que o povo húngaro deposita neste seu companheiro ancestral.",
+  "referencias_externas": [
+    {
+      "titulo": "Vizsla Club of America",
+      "url": "https://vca.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Hungarian Short-haired Pointer Standard",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-SHORT-HAIRED-POINTER-VIZSLA-57.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    331,
-    1258
+    400,
+    950
   ]
 }

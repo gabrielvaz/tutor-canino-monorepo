@@ -3,68 +3,91 @@
   "nome": "Weimaraner",
   "slug": "weimaraner",
   "nome_en": "Weimaraner",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Fantasma Cinzento",
+    "Grey Ghost",
+    "Braco de Weimar"
+  ],
+  "categoria": "Grande",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "46 cm",
-    "altura_femea": "42 cm",
-    "peso_macho": "21.1 kg",
-    "peso_femea": "16.8 kg",
-    "grupo_fci": "Grupo 8 - Cães Levantadores de Caça, Cobradores de Caça e Cães d'Água",
-    "ano_reconhecimento_fci": 1984
+    "expectativa_vida": "11 - 14 anos",
+    "altura_macho": "62 - 70 cm",
+    "altura_femea": "57 - 65 cm",
+    "peso_macho": "30 - 40 kg",
+    "peso_femea": "25 - 35 kg",
+    "grupo_fci": "Grupo 7 - Cães Apontadores",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 3,
-    "inteligencia": 3,
-    "queda_pelo": 1,
-    "latido": 1,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 2,
-    "instinto_guarda": 1
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 2,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Weimaraner é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Weimaraner originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 8. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Weimaraner é uma das raças mais elegantes e distintas do mundo, famoso por sua pelagem curta em tons de cinza prateado e seus hipnotizantes olhos claros. De porte grande e constituição atlética, seca e aristocrática, ele é frequentemente chamado de 'Fantasma Cinzento' devido à sua cor única e habilidade de se mover silenciosamente. É um cão dotado de uma inteligência brilhante, uma energia inesgotável e um temperamento intensamente afetuoso, sendo conhecido como o 'cão velcro' original devido ao seu desejo insaciável de estar sempre em contato físico com seus tutores.",
+    "historia": "A raça surgiu no início do século XIX na corte do Grão-Duque Karl August de Weimar, na Alemanha. O objetivo era criar o cão de caça maior perfeito: um animal com faro aguçado, velocidade e coragem para enfrentar lobos, ursos e pumas. À medida que a caça maior diminuiu na Europa, o Weimaraner foi adaptado para a caça de aves e animais pequenos. A raça foi mantida como um segredo exclusivo da nobreza alemã por décadas, com diretrizes de criação tão rigorosas que apenas membros do Clube Weimaraner podiam possuir um exemplar. Ganhou fama mundial na década de 1950, tornando-se um símbolo de elegância e fidelidade.",
     "curiosidades": [
-      "Weimaraner possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Weimaraner é famoso por nascer com olhos azuis brilhantes, que mudam para âmbar ou cinza conforme o cão amadurece.",
+      "Eles possuem o que é chamado de 'instinto de apontador' muito forte, sendo comum vê-los fazendo a pose de estátua ao avistar qualquer movimento no jardim.",
+      "O fotógrafo William Wegman imortalizou a raça através de seus famosos retratos de Weimaraners em situações humanas, destacando a expressividade quase antropomórfica da raça.",
+      "Diferente de muitos cães de caça, o Weimaraner possui um instinto de guarda natural muito desenvolvido, sendo vigilante com estranhos ao seu território.",
+      "Eles são conhecidos por serem cães 'pensadores', capazes de abrir portas, geladeiras e armários se não forem devidamente estimulados."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias extremamente ativas que praticam esportes, corridas e trilhas",
+      "Tutores que trabalham em casa ou que podem dedicar 100% da atenção ao pet",
+      "Pessoas interessadas em adestramento avançado e esportes como Agility ou Field Trials",
+      "Quem vive em casas com quintais amplos e seguros",
+      "Donos que buscam um companheiro intensamente leal e protetor"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão para ficar apenas no sofá (ele sofrerá severamente)",
+      "Pessoas que não toleram um cão 'grudento' que exige contato físico constante",
+      "Moradores de apartamentos pequenos sem uma rotina rigorosa de 2 horas de exercícios diários",
+      "Famílias que ficam fora de casa o dia todo (propenso a ansiedade de separação grave)",
+      "Tutores de primeira viagem que não saibam canalizar a inteligência e teimosia ocasional da raça"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Dilatação e Torção Gástrica (Bloat) - risco altíssimo na raça",
+      "Displasia de Quadril",
+      "HOD (Osteodistrofia Hipertrófica - problema ósseo em filhotes)",
+      "Hipotireoidismo",
+      "Problemas oculares (Distiquíase e Entrópio)",
+      "Doença de Von Willebrand (vWD)",
+      "Alergias de pele"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento rigoroso para evitar torção gástrica (refeições fracionadas). Check-ups ortopédicos anuais. Atenção à dieta de filhotes para evitar crescimento rápido demais."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 2/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem curta é muito simples, exigindo apenas uma escovação semanal com luva de borracha para remover pelos mortos. Banhos devem ser mensais. É vital limpar as orelhas pendentes semanalmente para evitar otites fúngicas. Unhas devem ser mantidas bem curtas para não comprometer a postura atlética.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas de atividade física vigorosa. Caminhadas lentas não são suficientes; o Weimaraner precisa correr, nadar ou ter desafios mentais complexos. O tédio gera ansiedade severa e comportamentos destrutivos.",
+    "treinamento": "Muito inteligente e ávido por aprender, mas exige um líder calmo e consistente. O adestramento deve ser baseado em reforço positivo e variedade. Eles podem ser teimosos se o treino for repetitivo. A socialização precoce é fundamental para evitar a timidez ou agressividade com outros cães.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas de grande porte. É essencial fracionar as refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica comum na raça."
   },
   "seo": {
-    "title": "Weimaraner - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Weimaraner: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Weimaraner: O Guia Completo do Elegante Fantasma Cinzento",
+    "description": "Descubra o Weimaraner: conheça sua inteligência de elite, sua história na nobreza alemã e as dicas vitais de cuidados e exercícios para este leal cão de velcro.",
     "keywords": [
-      "weimaraner",
-      "weimaraner",
-      "médio",
-      "alemanha"
+      "Weimaraner",
+      "Fantasma Cinzento",
+      "Grey Ghost",
+      "Braco de Weimar",
+      "cão inteligente",
+      "cão de velcro",
+      "raças de cães grandes",
+      "cuidados com Weimaraner",
+      "temperamento Weimaraner",
+      "torção gástrica"
     ]
   },
   "imagem_principal": "/images/breeds/weimaraner.jpg",
@@ -73,11 +96,55 @@
     "/images/breeds/weimaraner-2.jpg",
     "/images/breeds/weimaraner-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=weimaraner",
-  "popularidade": 3260,
-  "ranking_brasil": 124,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "Weimaraner - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-weimaraner",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-weimaraner/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Personalidade do Weimaraner",
+      "url": "https://www.youtube.com/watch?v=example-weimaraner-life",
+      "canal": "Mundo Canino",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "vizsla",
+    "pointer-alemao-de-pelo-curto",
+    "pointer-ingles",
+    "braco-italiano",
+    "rhodesian-ridgeback"
+  ],
+  "cores_disponiveis": [
+    "Cinza Prateado (Silver-Grey)",
+    "Cinza Rato (Mouse-Grey)",
+    "Cinza Corça (Roe-Grey)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido (cinza uniforme)",
+    "Pele rosada e olhos claros",
+    "Pode ter pequena mancha branca no peito"
+  ],
+  "curiosidades_historicas": "O presidente Dwight D. Eisenhower teve um Weimaraner chamado 'Heidi', que foi o primeiro da raça a viver na Casa Branca. Infelizmente, Heidi sofria de incontinência urinária após a castração e causou tantos acidentes nos tapetes históricos que o presidente teve que enviá-la para viver em sua fazenda em Gettysburg.",
+  "referencias_externas": [
+    {
+      "titulo": "Weimaraner Club of America",
+      "url": "https://weimaranerclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Weimaraner Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/WEIMARANER-99.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 110,
   "custo_mensal_estimado": [
-    336,
-    1031
+    400,
+    1000
   ]
 }
