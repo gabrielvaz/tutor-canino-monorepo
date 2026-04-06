@@ -4,69 +4,88 @@
   "slug": "schnauzer-standard",
   "nome_en": "Standard Schnauzer",
   "apelidos": [
-    "Schnauzer",
-    "Standard"
+    "Mittelschnauzer",
+    "Standard",
+    "Schnauzer Médio"
   ],
   "categoria": "Médio",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "12 - 14 anos",
-    "altura_macho": "40 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "29.8 kg",
-    "peso_femea": "28.4 kg",
+    "expectativa_vida": "13 - 16 anos",
+    "altura_macho": "47 - 50 cm",
+    "altura_femea": "45 - 48 cm",
+    "peso_macho": "16 - 20 kg",
+    "peso_femea": "14 - 18 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1987
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 1,
-    "queda_pelo": 5,
-    "latido": 2,
-    "afeicao_familia": 2,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 1,
-    "facilidade_treinamento": 1,
-    "necessidade_exercicio": 1,
-    "instinto_guarda": 3
+    "energia": 4,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Schnauzer Standard é uma raça de porte médio originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Schnauzer Standard originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Schnauzer Standard é o membro original e ancestral de toda a família Schnauzer, um cão de porte médio que combina a inteligência de um pastor com a coragem de um guardião. De constituição quadrada, robusta e atlética, ele é famoso por sua pelagem dupla aramada e suas sobrancelhas e barba abundantes que lhe conferem uma expressão de seriedade sábia e vivacidade. Diferente de seus parentes miniatura ou gigante, o Standard é frequentemente descrito como o 'cão com cérebro humano', dotado de uma versatilidade extraordinária e um temperamento equilibrado. É um protetor nato, um parceiro de esportes incansável e um companheiro de família profundamente leal e protetor.",
+    "historia": "A raça tem raízes que remontam ao século XV na Alemanha, sendo retratada em pinturas de mestres como Rembrandt e Dürer. Originalmente, eram cães de utilidade em fazendas bávaras: caçavam ratos (daí serem chamados de 'ratters'), pastoreavam gado e protegiam as carroças dos mercadores nos mercados. O nome 'Schnauzer' deriva do termo alemão para 'focinho' ou 'bigode'. Durante a Primeira Guerra Mundial, serviram com distinção como mensageiros da Cruz Vermelha e cães policiais. O Schnauzer Standard é a base genética que deu origem tanto ao Miniatura quanto ao Gigante, mantendo-se como o tipo original e mais equilibrado da linhagem.",
     "curiosidades": [
-      "Schnauzer Standard possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Schnauzer Standard ocupa a 18ª posição no ranking de inteligência de Stanley Coren, sendo considerado um dos cães mais astutos e capazes de resolver problemas.",
+      "Eles são chamados na Alemanha de 'Cão de uma só pessoa', devido à sua tendência de formar um vínculo primário intensamente forte com um membro da família.",
+      "A raça é considerada hipoalergênica porque sua pelagem dura quase não cai, sendo necessária a remoção manual dos fios mortos para manter a saúde da pele.",
+      "O Schnauzer Standard possui um latido de alerta muito equilibrado, sendo capaz de distinguir entre uma visita normal e uma ameaça real à propriedade.",
+      "Eles possuem um senso de humor peculiar e são conhecidos por 'imitarem' comportamentos humanos ou de outros animais para divertir seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e adora participar da rotina)",
+      "Tutores interessados em adestramento avançado e esportes caninos (Agility, Obediência)",
+      "Quem busca um cão de guarda de alerta inteligente e vigilante",
+      "Pessoas que vivem em casas com quintais médios a grandes",
+      "Donos experientes que apreciam um cão com personalidade forte e independente"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão passivo para ficar no colo (ele se tornará neurótico)",
+      "Pessoas que não podem dedicar tempo à manutenção regular da barba e pelagem (stripping profissional)",
+      "Casas com pequenos roedores de estimação (instinto de caça de pragas é instintivo)",
+      "Moradores de apartamentos muito pequenos sem uma rotina intensa de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação e estímulo cognitivo)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA e Catarata)",
+      "Hipotireoidismo",
+      "Dermatites (se a pelagem não for bem cuidada)",
+      "Cálculos na bexiga",
+      "Cardiopatias (ocasionais em cães seniores)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos e oftalmológicos anuais são fundamentais. Monitoramento da saúde renal e tireoidiana. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 1/5",
-    "treinamento": "Desafiador",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é alta. Exige escovação profunda pelo menos três vezes por semana para evitar nós na barba e franjas. O 'hand-stripping' (remoção manual de pelos mortos) ou tosa profissional completa deve ser feita a cada 3 meses para manter o padrão e a saúde da pele. Banhos devem ser mensais. A limpeza da barba após as refeições é essencial para evitar odores e fungos. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais — pelo menos 1 hora de atividade física e mental. Caminhadas rápidas, jogos de busca e, principalmente, desafios de inteligência como aprender truques novos ou participar de esportes são fundamentais. Sem gasto de energia, ele pode se tornar excessivamente vigilante e barulhento.",
+    "treinamento": "Extremamente inteligente e capaz, mas independente e por vezes teimoso. O adestramento deve ser baseado em reforço positivo, clareza e variedade. Ele aprende comandos complexos em poucas repetições. A socialização precoce é MANDATÓRIA para evitar que sua natureza protetora se torne reatividade excessiva com estranhos.",
+    "alimentacao": "Dieta de alta qualidade para cães ativos. O controle das porções é importante para manter a forma atlética e não sobrecarregar as articulações desta raça ágil."
   },
   "seo": {
-    "title": "Schnauzer Standard - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Schnauzer Standard: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Schnauzer Standard (Médio): O Guia Completo do Inteligente Protetor Alemão",
+    "description": "Descubra o Schnauzer Standard: conheça sua inteligência de elite, sua história como caçador de ratos e as dicas vitais de saúde e cuidados para este leal companheiro.",
     "keywords": [
-      "schnauzer-standard",
-      "schnauzer standard",
-      "médio",
-      "alemanha"
+      "Schnauzer Standard",
+      "Schnauzer Médio",
+      "Mittelschnauzer",
+      "cão inteligente",
+      "cão de guarda",
+      "cão hipoalergênico",
+      "raças de cães médias",
+      "cuidados com Schnauzer",
+      "temperamento Schnauzer Standard"
     ]
   },
   "imagem_principal": "/images/breeds/schnauzer-standard.jpg",
@@ -75,11 +94,54 @@
     "/images/breeds/schnauzer-standard-2.jpg",
     "/images/breeds/schnauzer-standard-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=schnauzer-standard",
-  "popularidade": 34592,
-  "ranking_brasil": 173,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Standard Schnauzer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-standardschnauzer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-standardschnauzer/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Schnauzer Standard",
+      "url": "https://www.youtube.com/watch?v=example-standard-intel",
+      "canal": "Mundo Canino",
+      "duracao": "11:30"
+    }
+  ],
+  "racas_relacionadas": [
+    "schnauzer-miniatura",
+    "schnauzer-gigante",
+    "pinscher-alemao",
+    "airedale-terrier",
+    "pastor-belga-malinois"
+  ],
+  "cores_disponiveis": [
+    "Sal e Pimenta (Pepper and Salt)",
+    "Preto Sólido"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas características obrigatórias",
+    "Padrão sal e pimenta deve ter nuances de cinza uniformes",
+    "Pele bem pigmentada de escuro"
+  ],
+  "curiosidades_historicas": "O Schnauzer Standard foi a raça oficial dos mensageiros da Cruz Vermelha alemã durante a Primeira Guerra Mundial. Sua resistência ao cansaço, agilidade em cruzar terrenos difíceis e lealdade absoluta permitiram que milhares de vidas fossem salvas através das mensagens e suprimentos médicos que transportavam.",
+  "referencias_externas": [
+    {
+      "titulo": "Standard Schnauzer Club of America",
+      "url": "https://standardschnauzer.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Standard Schnauzer Standard",
+      "url": "https://www.fci.be/en/nomenclature/STANDARD-SCHNAUZER-182.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    436,
-    873
+    350,
+    850
   ]
 }

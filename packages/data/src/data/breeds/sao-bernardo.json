@@ -4,74 +4,90 @@
   "slug": "sao-bernardo",
   "nome_en": "St. Bernard",
   "apelidos": [
-    "São",
-    "Bernardo",
-    "São Bento"
+    "Gigante Gentil",
+    "Cão dos Alpes",
+    "Barry",
+    "Beethoven"
   ],
   "categoria": "Gigante",
   "ficha_tecnica": {
-    "origem": "Suíça",
-    "expectativa_vida": "11 - 14 anos",
-    "altura_macho": "69 cm",
-    "altura_femea": "66 cm",
-    "peso_macho": "75.8 kg",
-    "peso_femea": "71 kg",
+    "origem": "Suíça (Alpes)",
+    "expectativa_vida": "8 - 10 anos",
+    "altura_macho": "70 - 90 cm",
+    "altura_femea": "65 - 80 cm",
+    "peso_macho": "64 - 82 kg",
+    "peso_femea": "54 - 64 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1962
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 5,
-    "queda_pelo": 2,
-    "latido": 4,
-    "afeicao_familia": 1,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 2,
-    "facilidade_treinamento": 5,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 1
+    "energia": 2,
+    "inteligencia": 4,
+    "queda_pelo": 4,
+    "latido": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 4,
+    "facilidade_treinamento": 3,
+    "necessidade_exercicio": 2,
+    "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "São Bernardo é uma raça de porte gigante originária de Suíça. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O São Bernardo originou-se em Suíça, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O São Bernardo é o herói lendário das montanhas, uma das raças mais imponentes e amadas do mundo. De porte gigante e constituição maciça e poderosa, ele exala uma aura de bondade benevolente e força tranquila. A raça apresenta duas variedades de pelagem: o pelo curto (mais antigo e rústico) e o pelo longo (mais popular atualmente). Sua cabeça é monumental, com rugas expressivas na testa e olhos escuros que transmitem uma paciência infinita. Conhecido mundialmente como o 'gigante gentil', o São Bernardo é o companheiro de família por excelência, famoso por sua tolerância extrema com crianças e por sua lealdade inabalável aos seus protegidos.",
+    "historia": "A raça descende dos grandes molossos levados para os Alpes pelas legiões romanas. Por volta de 1050, o monge São Bernardo de Menthon fundou um hospice (albergue) no Passo do Grande São Bernardo para ajudar viajantes. No século XVII, os monges começaram a usar esses cães para guarda e, posteriormente, descobriram sua habilidade extraordinária de localizar pessoas soterradas na neve após avalanches. O cão mais famoso da história foi 'Barry', que salvou mais de 40 vidas entre 1800 e 1812. A raça evoluiu de um trabalhador rústico de montanha para um ícone global de salvamento e companhia familiar.",
     "curiosidades": [
-      "São Bernardo possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "Diferente da lenda popular e dos desenhos animados, os São Bernardos nunca carregaram barris de conhaque no pescoço; essa imagem foi criada pelo pintor Edwin Landseer em 1820 para fins artísticos.",
+      "Eles possuem um senso de orientação e uma capacidade de prever tempestades de neve e avalanches que intriga cientistas até hoje.",
+      "O São Bernardo é a raça oficial da Suíça desde 1884, sendo considerado um patrimônio histórico e cultural do país.",
+      "Eles são famosos por babarem consideravelmente devido ao formato de seus lábios pendentes (bochechas), especialmente após beberem água ou quando estão com fome.",
+      "Apesar do tamanho, o São Bernardo é conhecido como o 'cão-babá' por sua incrível consciência corporal ao redor de bebês e crianças pequenas."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é um dos gigantes mais confiáveis e protetores)",
+      "Tutores que possuem casas com amplos espaços internos e áreas frescas",
+      "Pessoas que buscam um companheiro calmo, silencioso e extremamente afetuoso",
+      "Quem vive em climas frios ou temperados (ele sofre severamente no calor)",
+      "Proprietários que apreciam um cão de guarda dissuasivo apenas pela sua presença imponente"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Moradores de apartamentos pequenos ou casas com muitas escadas (devido ao peso e tamanho)",
+      "Pessoas obcecadas com a limpeza absoluta da casa (ele baba e solta muito pelo)",
+      "Tutores sedentários que não possam oferecer caminhadas diárias lentas para manter o tônus muscular",
+      "Ambientes com calor tropical intenso sem refrigeração constante",
+      "Proprietários que não estão preparados emocionalmente para uma longevidade menor típica de raças gigantes"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Dilatação e Torção Gástrica (Bloat) - risco altíssimo",
+      "Displasia de Quadril e Cotovelo (muito comum devido ao peso)",
+      "Osteossarcoma (câncer ósseo)",
+      "Cardiomiopatia Dilatada",
+      "Entrópio e Ectrópio (problemas nas pálpebras)",
+      "Hipotireoidismo",
+      "Calos de apoio graves"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Monitoramento cardíaco e ortopédico anual é vital. Atenção absoluta aos sinais de torção gástrica. Check-ups constantes durante o crescimento acelerado (até os 3 anos)."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Fácil",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta para ambas as variedades. Escovação pelo menos três vezes por semana é necessária para evitar nós e gerenciar a queda constante de pelos. Banhos devem ser mensais, exigindo um espaço adequado para o tamanho do cão e secagem minuciosa do subpelo denso. É vital limpar as bochechas e barbelas diariamente para evitar odores e fungos. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias em ritmo calmo nos horários frescos são suficientes para mantê-lo saudável. O São Bernardo não é um cão para atividades atléticas intensas, preferindo passeios lentos e exploratórios. Evite exercícios de alto impacto em cães jovens para proteger as articulações em desenvolvimento.",
+    "treinamento": "Inteligente mas pode ser teimoso e lento em responder aos comandos. O adestramento deve ser baseado em reforço positivo, paciência e começar muito cedo (um São Bernardo adulto sem controle é um desafio físico). A socialização precoce é fundamental para garantir que ele seja confiante em ambientes urbanos.",
+    "alimentacao": "Dieta de altíssima qualidade formulada para cães gigantes. É CRUCIAL oferecer refeições fracionadas (pelo menos 3 vezes ao dia) e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica. O controle do peso é VITAL."
   },
   "seo": {
-    "title": "São Bernardo - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre São Bernardo: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "São Bernardo: O Heróico Gigante Gentil dos Alpes - Guia de Raça",
+    "description": "Descubra o São Bernardo: conheça sua história heróica de salvamento, seu temperamento dócil e as dicas vitais de cuidados com a saúde e o peso deste gigante amado.",
     "keywords": [
-      "sao-bernardo",
-      "são bernardo",
-      "gigante",
-      "suíça"
+      "São Bernardo",
+      "St. Bernard",
+      "cão de resgate",
+      "gigante gentil",
+      "cão do Beethoven",
+      "raças de cães gigantes",
+      "cuidados com São Bernardo",
+      "temperamento São Bernardo",
+      "torção gástrica em cães"
     ]
   },
   "imagem_principal": "/images/breeds/sao-bernardo.jpg",
@@ -80,11 +96,55 @@
     "/images/breeds/sao-bernardo-2.jpg",
     "/images/breeds/sao-bernardo-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=sao-bernardo",
-  "popularidade": 28734,
-  "ranking_brasil": 30,
+  "video_url": "https://www.youtube.com/watch?v=Pb-K2uyWXYM",
+  "videos_youtube": [
+    {
+      "titulo": "St. Bernard - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-stbernard",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-stbernard/hqdefault.jpg"
+    },
+    {
+      "titulo": "A História Heróica do Cão São Bernardo",
+      "url": "https://www.youtube.com/watch?v=example-stbernard-history",
+      "canal": "Mundo Gigante",
+      "duracao": "12:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "mastiff-ingles",
+    "newfoundland",
+    "leonberger",
+    "grande-pireneus",
+    "grande-cao-da-montanha-suica"
+  ],
+  "cores_disponiveis": [
+    "Branco com manchas Vermelhas (Red)",
+    "Branco com manchas Mogno",
+    "Branco com manchas Brindle (Tigrado)"
+  ],
+  "marcacoes": [
+    "Peito, pés, ponta da cauda e colar brancos obrigatórios",
+    "Máscara escura simétrica (desejável)",
+    "Pele solta e barbelas abundantes"
+  ],
+  "curiosidades_historicas": "Barry, o cão salvador do hospice de São Bernardo (1800-1814), tornou-se tão lendário que seu corpo foi preservado e está em exibição no Museu de História Natural de Berna. Barry salvou mais de 40 pessoas e sua coragem é o motivo pelo qual a raça tornou-se sinônimo universal de benevolência e salvamento canino.",
+  "referencias_externas": [
+    {
+      "titulo": "Saint Bernard Club of America",
+      "url": "https://saintbernardclub.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Saint Bernard Dog Standard",
+      "url": "https://www.fci.be/en/nomenclature/ST-BERNARD-DOG-61.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 45,
   "custo_mensal_estimado": [
-    249,
-    705
+    600,
+    1800
   ]
 }

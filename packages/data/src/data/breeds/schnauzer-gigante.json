@@ -4,73 +4,87 @@
   "slug": "schnauzer-gigante",
   "nome_en": "Giant Schnauzer",
   "apelidos": [
-    "Schnauzer",
-    "Gigante"
+    "Riesenschnauzer",
+    "Gigante",
+    "Cão Urso Alemão"
   ],
-  "categoria": "Gigante",
+  "categoria": "Grande",
   "ficha_tecnica": {
-    "origem": "Alemanha",
-    "expectativa_vida": "11 - 15 anos",
-    "altura_macho": "74 cm",
-    "altura_femea": "70 cm",
-    "peso_macho": "58.8 kg",
-    "peso_femea": "52.9 kg",
+    "origem": "Alemanha (Baviera)",
+    "expectativa_vida": "10 - 12 anos",
+    "altura_macho": "65 - 70 cm",
+    "altura_femea": "60 - 65 cm",
+    "peso_macho": "35 - 47 kg",
+    "peso_femea": "32 - 42 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1994
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 4,
-    "inteligencia": 2,
-    "queda_pelo": 2,
-    "latido": 2,
-    "afeicao_familia": 3,
-    "bom_com_criancas": 2,
+    "energia": 5,
+    "inteligencia": 5,
+    "queda_pelo": 1,
+    "latido": 3,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 2,
-    "necessidade_exercicio": 4,
-    "instinto_guarda": 1
+    "facilidade_treinamento": 5,
+    "necessidade_exercicio": 5,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Schnauzer Gigante é uma raça de porte gigante originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Schnauzer Gigante originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Schnauzer Gigante é a versão mais imponente e poderosa da família Schnauzer, um cão de porte grande que combina a inteligência de um pastor com a força de um guardião. De constituição atlética, quadrada e compacta, ele possui a pelagem dura e aramada característica da raça, com barba e sobrancelhas proeminentes que realçam seu olhar focado e vigilante. Apesar do nome 'gigante', ele é um atleta ágil e veloz, dotado de uma energia inesgotável e uma coragem absoluta. É um companheiro intensamente leal, que exige um tutor experiente capaz de canalizar seu desejo constante de trabalho e sua inteligência superior.",
+    "historia": "A raça desenvolveu-se na Baviera, sul da Alemanha, a partir do século XVII. Originalmente, eram cães de pastoreio de gado e guardas de carruagens pesadas. Foram criados a partir do Schnauzer Standard cruzado com raças como o Boiadeiro de Flandres e o Dogue Alemão para aumentar o tamanho e a força. O Schnauzer Gigante provou ser tão eficaz que se tornou o cão preferido das forças policiais alemãs no início do século XX, servindo heroicamente em ambas as Guerras Mundiais. Diferente de muitos gigantes, ele nunca perdeu sua agilidade de cão de trabalho, sendo hoje um competidor de elite em esportes de proteção.",
     "curiosidades": [
-      "Schnauzer Gigante possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O nome 'Riesenschnauzer' significa literalmente 'Schnauzer Gigante' em alemão.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem dura quase não cai, exigindo a remoção manual dos fios mortos.",
+      "Diferente do Schnauzer Miniatura, o Gigante possui um 'drive' de trabalho muito mais alto, assemelhando-se mais a um Pastor Belga Malinois em termos de intensidade.",
+      "Eles são famosos por sua habilidade de 'guarda silenciosa', preferindo observar e cercar intrusos antes de latirem ou agirem.",
+      "O Schnauzer Gigante é conhecido como o 'cão que pensa', sendo capaz de resolver problemas complexos para atingir um objetivo ou concluir uma tarefa."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Tutores experientes que buscam um parceiro inteligente e protetor",
+      "Pessoas que praticam esportes caninos de alto nível (Schutzhund, Agility, IPO)",
+      "Quem vive em casas com quintais seguros e espaço para atividades intensas",
+      "Atletas de corrida ou trilhas que desejam um parceiro de resistência extrema",
+      "Donos que buscam um cão de guarda de elite que seja dócil com o círculo familiar"
     ],
-    "nao_recomendado_para": [
-      "Apartamentos pequenos",
-      "Tutores sedentários",
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores de primeira viagem (ele testará os limites e a liderança constantemente)",
+      "Pessoas sedentárias ou que buscam um cão passivo para ficar no sofá",
+      "Moradores de apartamentos sem uma rotina exaustiva de exercícios externos",
+      "Famílias que ficam fora de casa o dia todo (sofre com a falta de estímulo mental)",
+      "Proprietários que não podem dedicar tempo à manutenção manual da pelagem (stripping)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Inchaço gástrico",
-      "Problemas cardíacos"
+      "Displasia de Quadril e Cotovelo",
+      "Dilatação e Torção Gástrica (Bloat) - risco alto devido ao peito profundo",
+      "Problemas oculares (PRA e Catarata)",
+      "Câncer de pele (especialmente Melanomas nos dedos)",
+      "Hipotireoidismo",
+      "Trombocitopatia (distúrbio plaquetário)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups ortopédicos anuais são essenciais. Monitoramento dermatológico frequente. Atenção absoluta aos sinais de torção gástrica após as refeições e exercícios."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dura é exigente. Exige escovação pelo menos três vezes por semana para evitar nós na barba e pernas. O 'hand-stripping' (remoção manual de pelos mortos) deve ser feito por um profissional a cada 3-4 meses para manter a textura e a saúde da pele. Banhos devem ser mensais. A limpeza da barba após as refeições é importante. As unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários EXAUSTIVOS — pelo menos 1,5 a 2 horas. Caminhadas simples não bastam; o Schnauzer Gigante precisa correr, saltar e ter 'missões' reais. O estímulo mental através de treinos de obediência complexa e desafios de inteligência é vital para sua felicidade.",
+    "treinamento": "Extremamente inteligente e capaz, mas independente e dominante. O adestramento deve ser baseado em reforço positivo, clareza e autoridade calma. Ele aprende comandos complexos com facilidade mas questionará regras inconsistentes. A socialização precoce e CONTÍNUA é MANDATÓRIA.",
+    "alimentacao": "Dieta de alta qualidade para cães atletas de grande porte. É essencial fracionar as refeições e garantir o repouso absoluto antes e depois de comer para prevenir a torção gástrica."
   },
   "seo": {
-    "title": "Schnauzer Gigante - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Schnauzer Gigante: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Schnauzer Gigante (Riesenschnauzer): A Inteligência e Poder Alemão - Guia de Raça",
+    "description": "Descubra o Schnauzer Gigante: conheça sua inteligência de elite, sua história na polícia alemã e as dicas vitais de treinamento e cuidados para este guardião incansável.",
     "keywords": [
-      "schnauzer-gigante",
-      "schnauzer gigante",
-      "gigante",
-      "alemanha"
+      "Schnauzer Gigante",
+      "Riesenschnauzer",
+      "cão de guarda alemão",
+      "cão inteligente",
+      "cão de trabalho",
+      "raças de cães grandes",
+      "cuidados com Schnauzer Gigante",
+      "temperamento Schnauzer Gigante"
     ]
   },
   "imagem_principal": "/images/breeds/schnauzer-gigante.jpg",
@@ -79,11 +93,54 @@
     "/images/breeds/schnauzer-gigante-2.jpg",
     "/images/breeds/schnauzer-gigante-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=schnauzer-gigante",
-  "popularidade": 38661,
-  "ranking_brasil": 75,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Giant Schnauzer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-giantschnauzer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-giantschnauzer/hqdefault.jpg"
+    },
+    {
+      "titulo": "O Treinamento do Schnauzer Gigante",
+      "url": "https://www.youtube.com/watch?v=example-giant-work",
+      "canal": "K9 Elite",
+      "duracao": "14:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "schnauzer-standard",
+    "bouvier-de-flandres",
+    "dobermann",
+    "pastor-alemao",
+    "rottweiler"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido",
+    "Sal e Pimenta (Pepper and Salt)"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas proeminentes obrigatórias",
+    "Padrão sal e pimenta deve ter nuances de cinza uniformes",
+    "Pele bem pigmentada de escuro"
+  ],
+  "curiosidades_historicas": "Durante a Primeira Guerra Mundial, o Schnauzer Gigante foi usado com tanto sucesso pelos alemães para localizar franco-atiradores e mensageiros inimigos que os Aliados o apelidaram de 'Demônio Preto das Sombras', tamanha era a eficiência e o silêncio com que a raça operava em campo.",
+  "referencias_externas": [
+    {
+      "titulo": "Giant Schnauzer Club of America",
+      "url": "https://giantschnauzerclubofamerica.com/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e treinamento."
+    },
+    {
+      "titulo": "FCI - Giant Schnauzer Standard",
+      "url": "https://www.fci.be/en/nomenclature/GIANT-SCHNAUZER-181.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 15000,
+  "ranking_brasil": 150,
   "custo_mensal_estimado": [
-    496,
-    555
+    400,
+    1000
   ]
 }

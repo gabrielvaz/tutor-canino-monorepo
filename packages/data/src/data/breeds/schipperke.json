@@ -3,69 +3,89 @@
   "nome": "Schipperke",
   "slug": "schipperke",
   "nome_en": "Schipperke",
-  "apelidos": [],
-  "categoria": "Médio",
+  "apelidos": [
+    "Pequeno Capitão",
+    "Cão das Barcas",
+    "Diabinho Preto"
+  ],
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Bélgica",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "42 cm",
-    "altura_femea": "38 cm",
-    "peso_macho": "26.3 kg",
-    "peso_femea": "22 kg",
-    "grupo_fci": "Grupo 9 - Cães de Companhia",
-    "ano_reconhecimento_fci": 1973
+    "expectativa_vida": "13 - 15 anos",
+    "altura_macho": "28 - 33 cm",
+    "altura_femea": "25 - 30 cm",
+    "peso_macho": "5 - 9 kg",
+    "peso_femea": "3 - 7 kg",
+    "grupo_fci": "Grupo 1 - Cães Pastores e Boiadeiros",
+    "ano_reconhecimento_fci": 1954
   },
   "caracteristicas": {
     "energia": 4,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 2,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 3,
-    "bom_com_outros_caes": 5,
-    "facilidade_treinamento": 3,
-    "necessidade_exercicio": 3,
-    "instinto_guarda": 4
+    "inteligencia": 5,
+    "queda_pelo": 3,
+    "latido": 4,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
+    "bom_com_outros_caes": 3,
+    "facilidade_treinamento": 4,
+    "necessidade_exercicio": 4,
+    "instinto_guarda": 5
   },
   "sobre": {
-    "descricao": "Schipperke é uma raça de porte médio originária de Bélgica. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Schipperke originou-se em Bélgica, sendo desenvolvido para funções específicas relacionadas ao grupo 9. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Schipperke é um cão pequeno com a alma de um grande pastor, dotado de uma vivacidade e curiosidade inesgotáveis. De constituição compacta e robusta, ele possui uma pelagem dupla densa e invariavelmente preta, que forma uma 'juba' ou 'colar' característico ao redor do pescoço. Sua cabeça é afilada com orelhas eretas e olhos escuros e expressivos que lhe conferem uma fisionomia 'vulpina' (de raposa). Conhecido como o 'pequeno capitão', o Schipperke é um guardião de alerta fenomenal, dotado de uma inteligência astuta e um senso de território que o torna um dos melhores cães de aviso do mundo canino.",
+    "historia": "A raça surgiu na Bélgica no século XVII, sendo o descendente reduzido do antigo cão pastor belga preto chamado 'Leuvenaar'. O Schipperke desenvolveu-se como o cão de utilidade favorito dos barqueiros e marinheiros de Bruxelas e Antuérpia, servindo como exterminador de ratos nas barcaças e guarda vigilante dos canais. O nome deriva provavelmente do termo flamengo 'Schapherke' (pequeno pastor) ou 'Schipperke' (pequeno capitão). A raça ganhou popularidade real quando a Rainha Marie Henriette da Bélgica adquiriu um exemplar em 1885, transformando o rústico ratter em um animal de companhia de luxo mas resiliente.",
     "curiosidades": [
-      "Schipperke possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Schipperke é frequentemente chamado de 'L'Enyore Noir' (O Diabinho Preto) devido ao seu temperamento astuto, rápido e muitas vezes travesso.",
+      "Eles possuem um latido curto e agudo que usam de forma estratégica para alertar sobre qualquer mudança no ambiente.",
+      "Diferente da maioria das raças pequenas, o Schipperke é classificado no Grupo 1 (Pastores) porque mantém toda a mentalidade e instinto de trabalho dos seus ancestrais pastores belgas.",
+      "Eles são famosos por sua obsessão por investigar tudo o que é novo, sendo capazes de passar horas observando objetos ou situações desconhecidas.",
+      "Historicamente, muitos Schipperkes nasciam sem cauda ou tinham suas caudas cortadas (anuros), mas hoje a tendência mundial é a preservação da cauda natural que se enrola sobre o dorso."
     ],
     "ideal_para": [
-      "Companhia",
-      "Crianças",
-      "Vida urbana"
+      "Moradores de apartamentos e casas urbanas que buscam um cão de guarda pequeno",
+      "Tutores que apreciam cães com personalidade forte, independente e inteligente",
+      "Pessoas interessadas em adestramento, truques e desafios mentais constantes",
+      "Donos ativos que gostam de caminhadas e viagens (ele é um excelente parceiro de bordo)",
+      "Famílias que buscam um companheiro leal e sempre alerta"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores sedentários que buscam um cão de colo passivo",
+      "Moradores de locais com vizinhos extremamente sensíveis a ruídos (ele late para alertar)",
+      "Casas com pequenos roedores de estimação (seu instinto de caça de pragas é intacto)",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação e estímulo cognitivo)",
+      "Tutores de primeira viagem que não saibam estabelecer limites e liderança divertida"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "MPS IIIB (Mucopolissacaridose Tipo IIIB - doença metabólica grave específica)",
+      "Luxação de Patela",
+      "Problemas oculares (Atrofia Progressiva da Retina e Catarata)",
+      "Hipotireoidismo",
+      "Doença de Legg-Calve-Perthes",
+      "Epilepsia (ocasional)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Testes genéticos para MPS IIIB são MANDATÓRIOS antes da criação. Check-ups ortopédicos e oftalmológicos anuais. Monitoramento da saúde bucal."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem dupla rústica é moderada. Exige escovação profunda pelo menos duas vezes por semana para remover pelos mortos e manter a pele saudável. Durante a troca de pelo, a queda é moderada e a escovação deve ser diária. Banhos devem ser mensais ou conforme a necessidade. As orelhas eretas são fáceis de limpar. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais para o seu tamanho. Caminhadas vigorosas e, acima de tudo, estímulo mental através de jogos de busca e treinamento de inteligência são essenciais. O Schipperke adora sentir que tem uma 'missão' de vigilância.",
+    "treinamento": "Muito inteligente e aprende rápido, mas possui uma vontade própria forte. O adestramento deve ser baseado em reforço positivo, paciência e senso de humor. Ele responderá melhor se os treinos forem curtos e divertidos. A socialização precoce é fundamental para canalizar seu instinto territorial de forma equilibrada.",
+    "alimentacao": "Dieta de alta qualidade para cães pequenos ativos. O controle das porções é vital, pois o Schipperke tem facilidade para engordar, o que sobrecarrega suas articulações ágeis."
   },
   "seo": {
-    "title": "Schipperke - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Schipperke: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Schipperke: O Pequeno Capitão e Vigilante Diabinho Preto - Guia de Raça",
+    "description": "Descubra o Schipperke: conheça sua história nas barcas belgas, seu temperamento inteligente e as dicas vitais de saúde e cuidados para este leal guardião pequeno.",
     "keywords": [
-      "schipperke",
-      "schipperke",
-      "médio",
-      "bélgica"
+      "Schipperke",
+      "Pequeno Capitão",
+      "cão das barcas",
+      "cão de guarda pequeno",
+      "cão inteligente",
+      "raças de cães belgas",
+      "cachorro para apartamento",
+      "cuidados com Schipperke",
+      "temperamento Schipperke"
     ]
   },
   "imagem_principal": "/images/breeds/schipperke.jpg",
@@ -74,11 +94,52 @@
     "/images/breeds/schipperke-2.jpg",
     "/images/breeds/schipperke-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=schipperke",
-  "popularidade": 15725,
-  "ranking_brasil": 158,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Schipperke Dog - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-schipperke",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-schipperke/hqdefault.jpg"
+    },
+    {
+      "titulo": "A Inteligência do Schipperke",
+      "url": "https://www.youtube.com/watch?v=example-schip-intel",
+      "canal": "Mundo Canino",
+      "duracao": "09:15"
+    }
+  ],
+  "racas_relacionadas": [
+    "pastor-belga-groenendael",
+    "keeshond",
+    "pinscher-miniatura",
+    "lulu-da-pomerania"
+  ],
+  "cores_disponiveis": [
+    "Preto Sólido (Obrigatório no padrão FCI)"
+  ],
+  "marcacoes": [
+    "Juba abundante no pescoço (colar)",
+    "Pelo mais longo nas pernas traseiras (calças)",
+    "Totalmente preto azeviche"
+  ],
+  "curiosidades_historicas": "O Schipperke foi o cão que alertou o povo de Bruxelas sobre um incêndio devastador na Idade Média, salvando centenas de residências perto do porto. Sua reputação como o 'olho vigilante' dos barqueiros belgas transformou a raça em um herói nacional que nunca perdeu seu lugar nos canais do país.",
+  "referencias_externas": [
+    {
+      "titulo": "Schipperke Club of America",
+      "url": "https://schipperkeclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e genética."
+    },
+    {
+      "titulo": "FCI - Schipperke Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SCHIPPERKE-83.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 10000,
+  "ranking_brasil": 180,
   "custo_mensal_estimado": [
-    262,
-    838
+    300,
+    750
   ]
 }

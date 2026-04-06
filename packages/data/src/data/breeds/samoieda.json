@@ -3,68 +3,89 @@
   "nome": "Samoieda",
   "slug": "samoieda",
   "nome_en": "Samoyed",
-  "apelidos": [],
+  "apelidos": [
+    "Sammy",
+    "Cão Sorridente",
+    "Urso Branco"
+  ],
   "categoria": "Médio",
   "ficha_tecnica": {
-    "origem": "Sibéria",
-    "expectativa_vida": "10 - 15 anos",
-    "altura_macho": "39 cm",
-    "altura_femea": "34 cm",
-    "peso_macho": "21 kg",
-    "peso_femea": "18.9 kg",
+    "origem": "Rússia (Sibéria)",
+    "expectativa_vida": "12 - 14 anos",
+    "altura_macho": "53 - 60 cm",
+    "altura_femea": "48 - 53 cm",
+    "peso_macho": "20 - 30 kg",
+    "peso_femea": "16 - 20 kg",
     "grupo_fci": "Grupo 5 - Cães tipo Spitz e tipo Primitivo",
-    "ano_reconhecimento_fci": 1979
+    "ano_reconhecimento_fci": 1959
   },
   "caracteristicas": {
-    "energia": 5,
-    "inteligencia": 3,
-    "queda_pelo": 2,
-    "latido": 1,
+    "energia": 4,
+    "inteligencia": 4,
+    "queda_pelo": 5,
+    "latido": 4,
     "afeicao_familia": 5,
-    "bom_com_criancas": 2,
-    "bom_com_outros_caes": 3,
+    "bom_com_criancas": 5,
+    "bom_com_outros_caes": 5,
     "facilidade_treinamento": 3,
     "necessidade_exercicio": 4,
-    "instinto_guarda": 3
+    "instinto_guarda": 2
   },
   "sobre": {
-    "descricao": "Samoieda é uma raça de porte médio originária de Sibéria. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Samoieda originou-se em Sibéria, sendo desenvolvido para funções específicas relacionadas ao grupo 5. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Samoieda é um dos cães mais belos e encantadores do mundo, famoso por seu 'sorriso' eterno e por sua pelagem branca deslumbrante e farta. Como um clássico Spitz ártico, ele possui orelhas eretas, uma cauda que se curva majestosamente sobre o dorso e uma constituição robusta e atlética. Sua expressão de felicidade é realçada pelos cantos da boca que se voltam para cima, o que historicamente servia para impedir a formação de pingentes de gelo no focinho. O 'Sammy' é um cão extraordinariamente sociável, gentil e dotado de uma sensibilidade aguçada, sendo um dos melhores companheiros de família para quem busca lealdade aliada a um espírito alegre e brincalhão.",
+    "historia": "A raça leva o nome do povo Samoyede, tribos nômades da Sibéria que criavam esses cães para pastorear renas, puxar trenós e, o mais importante, aquecer as famílias dentro das tendas durante as noites árticas. Diferente de outros cães de trenó que viviam em canis externos, o Samoieda era tratado como um membro integral da família humana, o que moldou seu temperamento extraordinariamente dócil. Exploradores polares como Roald Amundsen e Fridtjof Nansen levaram Samoiedas em suas expedições históricas, introduzindo a raça na Europa e nas Américas no final do século XIX.",
     "curiosidades": [
-      "Samoieda possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O 'Sorriso de Samoieda' é uma característica física real onde a boca se curva para cima, impedindo que a saliva escorra e congele no rosto do cão em temperaturas negativas.",
+      "Eles são conhecidos como 'cães-babá' do Ártico, pois as mães Samoyedes deixavam seus filhos pequenos dormindo junto aos cães para mantê-los aquecidos.",
+      "A pelagem do Samoieda é tão farta e macia que muitos criadores colhem os pelos da muda sazonal para tecer lã canina de alta qualidade, similar ao angorá.",
+      "Eles possuem pouco 'odor de cachorro' característico, pois sua pelagem é repelente à sujeira e à umidade por natureza.",
+      "O Samoieda é um dos cães mais 'falantes' que existem, emitindo uivos baixos, resmungos e uma variedade de sons melódicos para se comunicar com seus tutores."
     ],
     "ideal_para": [
-      "Famílias dedicadas",
-      "Tutores responsáveis"
+      "Famílias com crianças (ele é extremamente paciente e adora brincar)",
+      "Tutores que vivem em climas frios ou temperados (ou que tenham ar-condicionado constante)",
+      "Pessoas que buscam um companheiro intensamente afetuoso e sociável",
+      "Quem possui outros cães ou animais de estimação (ele é muito amigável com outras espécies)",
+      "Proprietários que não se importam com sessões frequentes de escovação"
     ],
-    "nao_recomendado_para": [
-      "Abandono",
-      "Falta de cuidados veterinários"
+    "nao_recommended_para": [
+      "Tutores que ficam fora de casa o dia todo (ele sofre severamente com a solidão)",
+      "Pessoas sedentárias que não possam oferecer estímulo físico e mental diário",
+      "Moradores de apartamentos muito pequenos sem rotina intensa de exercícios externos",
+      "Pessoas que não toleram queda de pelos abundante (ele 'troca de casaco' intensamente duas vezes ao ano)",
+      "Tutores que buscam um cão de guarda agressivo (ele costuma receber estranhos com alegria)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas"
+      "Displasia de Quadril",
+      "Problemas oculares (PRA, Catarata e Glaucoma)",
+      "Diabetes Mellitus (incidência considerável na raça)",
+      "Glomerulopatia Hereditária do Samoieda (problema renal genético)",
+      "Hipotireoidismo",
+      "Estenose Aórtica (problema cardíaco)"
     ],
-    "cuidados_veterinarios": "Anual"
+    "cuidados_veterinarios": "Check-ups renais e oftalmológicos anuais são indispensáveis. Monitoramento da glicose em cães adultos. Testes de DNA para PRA e doenças renais são recomendados antes da criação."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 4/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem branca e farta é alta. Exige escovação profunda pelo menos três vezes por semana para remover pelos mortos e evitar que o subpelo forme nós gigantes. Durante as trocas sazonais, a escovação deve ser diária. Banhos devem ser mensais, exigindo sopradores potentes para secagem total do subpelo impermeável. É vital limpar as orelhas e olhos regularmente. Unhas devem ser mantidas curtas.",
+    "exercicios": "Necessita de exercícios diários substanciais. Caminhadas rápidas, jogos de busca e, se possível, trilhas em climas frescos são ideais. O Samoieda adora atividades que usem seu corpo e sua mente, como treinos de obediência ou jogos de inteligência.",
+    "treinamento": "Inteligente mas independente e às vezes teimoso. O adestramento deve ser baseado em reforço positivo, paciência e variedade. Eles se aborrecem com repetições monótonas. A socialização precoce é fundamental para canalizar sua alegria de forma disciplinada.",
+    "alimentacao": "Dieta de alta qualidade controlada. O Samoieda tem tendência a engordar se for sedentário, o que prejudica suas articulações e agrava o risco de diabetes."
   },
   "seo": {
-    "title": "Samoieda - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Samoieda: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Samoieda: O Sorridente e Nobre Urso Branco do Ártico - Guia de Raça",
+    "description": "Descubra o Samoieda: conheça seu temperamento doce, sua história heróica nas neves e as dicas vitais de cuidados com a pelagem e saúde desta raça magnífica.",
     "keywords": [
-      "samoieda",
-      "samoieda",
-      "médio",
-      "sibéria"
+      "Samoieda",
+      "Samoyed",
+      "cão sorridente",
+      "cão de trenó",
+      "urso branco canino",
+      "Spitz siberiano",
+      "raças de cães médias",
+      "cuidados com Samoieda",
+      "temperamento Samoieda"
     ]
   },
   "imagem_principal": "/images/breeds/samoieda.jpg",
@@ -73,11 +94,55 @@
     "/images/breeds/samoieda-2.jpg",
     "/images/breeds/samoieda-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=samoieda",
-  "popularidade": 46627,
-  "ranking_brasil": 146,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Samoyed - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-samoyed",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-samoyed/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Escovar um Samoieda",
+      "url": "https://www.youtube.com/watch?v=example-samoyed-groom",
+      "canal": "Estética Canina",
+      "duracao": "15:20"
+    }
+  ],
+  "racas_relacionadas": [
+    "husky-siberiano",
+    "malamute-do-alasca",
+    "elkhound-noruegues",
+    "keeshond",
+    "spitz-alemao"
+  ],
+  "cores_disponiveis": [
+    "Branco Puro",
+    "Creme",
+    "Branco e Biscoito (Biscuit)"
+  ],
+  "marcacoes": [
+    "Totalmente sólido",
+    "Pele pigmentada de preto sob o branco",
+    "Lábios e bordas dos olhos pretos intensos"
+  ],
+  "curiosidades_historicas": "O Samoieda 'Antarctic Buck' foi um dos líderes da equipe que levou Roald Amundsen ao Polo Sul em 1911. A resistência e o temperamento inabalável desses cães foram fundamentais para que a expedição fosse bem-sucedida, sobrevivendo onde cavalos e outros animais falharam.",
+  "referencias_externas": [
+    {
+      "titulo": "Samoyed Club of America",
+      "url": "https://www.samoyedclubofamerica.org/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Samoyed Breed Standard",
+      "url": "https://www.fci.be/en/nomenclature/SAMOYED-212.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 25000,
+  "ranking_brasil": 120,
   "custo_mensal_estimado": [
-    280,
-    919
+    400,
+    1000
   ]
 }

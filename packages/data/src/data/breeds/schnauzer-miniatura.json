@@ -4,72 +4,87 @@
   "slug": "schnauzer-miniatura",
   "nome_en": "Miniature Schnauzer",
   "apelidos": [
-    "Schnauzer",
-    "Miniatura"
+    "Mini Schnauzer",
+    "Zwergschnauzer"
   ],
-  "categoria": "Toy",
+  "categoria": "Pequeno",
   "ficha_tecnica": {
     "origem": "Alemanha",
-    "expectativa_vida": "10 - 14 anos",
-    "altura_macho": "24 cm",
-    "altura_femea": "20 cm",
-    "peso_macho": "2.6 kg",
-    "peso_femea": "-2.3 kg",
+    "expectativa_vida": "12 - 15 anos",
+    "altura_macho": "30 - 35 cm",
+    "altura_femea": "30 - 35 cm",
+    "peso_macho": "6 - 9 kg",
+    "peso_femea": "5 - 8 kg",
     "grupo_fci": "Grupo 2 - Cães tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha",
-    "ano_reconhecimento_fci": 1963
+    "ano_reconhecimento_fci": 1955
   },
   "caracteristicas": {
-    "energia": 1,
-    "inteligencia": 3,
+    "energia": 4,
+    "inteligencia": 5,
     "queda_pelo": 1,
     "latido": 4,
-    "afeicao_familia": 4,
-    "bom_com_criancas": 2,
+    "afeicao_familia": 5,
+    "bom_com_criancas": 4,
     "bom_com_outros_caes": 3,
-    "facilidade_treinamento": 3,
+    "facilidade_treinamento": 5,
     "necessidade_exercicio": 3,
     "instinto_guarda": 4
   },
   "sobre": {
-    "descricao": "Schnauzer Miniatura é uma raça de porte toy originária de Alemanha. Conhecida por suas características distintivas e temperamento equilibrado, esta raça tem conquistado tutores ao redor do mundo. No Brasil, adapta-se bem ao clima e estilo de vida brasileiro, sendo uma excelente opção para famílias que buscam um companheiro leal e dedicado.",
-    "historia": "O Schnauzer Miniatura originou-se em Alemanha, sendo desenvolvido para funções específicas relacionadas ao grupo 2. Sua história remonta a séculos passados, quando era valorizado por suas habilidades únicas.",
+    "descricao": "O Schnauzer Miniatura é a personificação da inteligência e do espírito de alerta em um pacote compacto e elegante. De porte pequeno e constituição quadrada e robusta, ele é famoso por sua pelagem dupla aramada e suas sobrancelhas e barba abundantes que lhe conferem uma expressão de seriedade sábia e humorística. Diferente de muitos cães toy, o Mini Schnauzer possui a mente e o vigor de um cão de trabalho, sendo extremamente astuto, corajoso e dotado de uma alegria contagiante. É um companheiro de família extraordinário, famoso por sua adaptabilidade à vida em apartamentos e por sua lealdade inabalável aos seus tutores.",
+    "historia": "A raça foi desenvolvida na Alemanha no final do século XIX através da miniaturização do Schnauzer Standard, provavelmente cruzado com o Affenpinscher e o Poodle Miniatura. O objetivo era criar um cão de médio a pequeno porte que mantivesse a habilidade de caçar ratos em fazendas e residências urbanas, sem perder o temperamento vigilante da família Schnauzer. O primeiro registro oficial data de 1888. O Schnauzer Miniatura rapidamente ganhou popularidade mundial como cão de companhia devido ao seu tamanho prático e inteligência superior, tornando-se uma das raças mais amadas no Brasil e nos EUA.",
     "curiosidades": [
-      "Schnauzer Miniatura possui características únicas que o distinguem de outras raças.",
-      "Esta raça tem uma personalidade marcante e leal aos seus tutores."
+      "O Schnauzer Miniatura ocupa a 12ª posição no ranking de inteligência de Stanley Coren, sendo um dos cães pequenos mais brilhantes e fáceis de treinar.",
+      "Eles são considerados cães hipoalergênicos porque sua pelagem quase não cai, sendo ideal para pessoas com alergias leves a pelos.",
+      "Apesar do tamanho, o Mini Schnauzer é um cão de guarda 'de alerta' fenomenal, sendo capaz de distinguir sons de rotina de ruídos estranhos com precisão.",
+      "Eles possuem um senso de humor apurado e são famosos por 'conversarem' com seus tutores através de resmungos e vocalizações engraçadas.",
+      "As três cores oficiais (Sal e Pimenta, Preto, e Preto e Prata) são as únicas aceitas pela FCI, embora o Branco venha ganhando espaço em algumas confederações."
     ],
     "ideal_para": [
-      "Apartamentos",
-      "Idosos",
-      "Primeira vez com cães"
+      "Moradores de apartamentos e espaços urbanos reduzidos",
+      "Pessoas que buscam um companheiro extremamente inteligente e treinável",
+      "Famílias com crianças que saibam respeitar o espaço do animal",
+      "Tutores interessados em adestramento, truques e esportes como Agility",
+      "Quem deseja um cão de companhia alerta e muito vigilante"
     ],
-    "nao_recomendado_para": [
-      "Tutores iniciantes inexperientes"
+    "nao_recommended_para": [
+      "Tutores que não podem dedicar tempo à manutenção regular da barba e pelagem (stripping profissional)",
+      "Famílias que ficam fora de casa o dia todo (ele exige interação constante)",
+      "Pessoas que se incomodam com latidos de alerta frequentes",
+      "Tutores sedentários que não ofereçam estímulo mental diário",
+      "Casas com pequenos roedores de estimação (seu instinto de caça de pragas é intacto)"
     ]
   },
   "saude": {
     "doencas_comuns": [
-      "Displasia do quadril",
-      "Problemas oculares",
-      "Alergias cutâneas",
-      "Luxação da patela",
-      "Problemas respiratórios"
+      "Pancreatite (muito sensível a dietas gordurosas)",
+      "Cálculos Urinários",
+      "Hiperlipidemia (excesso de gordura no sangue)",
+      "Problemas oculares (PRA e Catarata)",
+      "Luxação de Patela",
+      "Síndrome do Comedão do Schnauzer (problema de pele)"
     ],
-    "cuidados_veterinarios": "Trimestral"
+    "cuidados_veterinarios": "Check-ups anuais focados em saúde renal e pancreática. Monitoramento rigoroso da dieta (evitar gorduras). Exames oftalmológicos regulares. Higiene bucal diária."
   },
   "cuidados": {
-    "higiene": "Lisa, Curta",
-    "exercicios": "Necessidade nível 3/5",
-    "treinamento": "Moderado",
-    "alimentacao": "Consulte um veterinário para dieta balanceada"
+    "higiene": "A manutenção da pelagem é alta. Exige escovação pelo menos três vezes por semana para evitar nós na barba e pernas. O 'hand-stripping' (remoção manual de pelos mortos) ou tosa profissional completa deve ser feita a cada 2 meses para manter o padrão e a saúde da pele. Banhos devem ser mensais. A limpeza da barba após as refeições é essencial para evitar odores. Escovação dental diária é fundamental.",
+    "exercicios": "Necessita de exercícios moderados. Caminhadas diárias de 30 a 45 minutos e muito estímulo mental através de brinquedos de inteligência satisfazem suas necessidades. Ele adora aprender truques novos e participar de jogos de busca.",
+    "treinamento": "Muito inteligente e ansioso para agradar, o que torna o treinamento muito prazeroso. Use reforço positivo e mantenha os treinos rápidos e variados. A socialização precoce é VITAL para evitar que sua natureza vigilante se torne reatividade com estranhos ou outros cães.",
+    "alimentacao": "Dieta de alta qualidade com baixo teor de gordura. O Schnauzer Miniatura tem facilidade para engordar e sensibilidade pancreática, por isso o controle das porções e a proibição de restos de comida humana são essenciais."
   },
   "seo": {
-    "title": "Schnauzer Miniatura - Características, Temperamento e Cuidados | Guia Completo",
-    "description": "Descubra tudo sobre Schnauzer Miniatura: temperamento, cuidados, origem e características. Guia completo da raça para tutores brasileiros.",
+    "title": "Schnauzer Miniatura: O Pequeno Gênio Vigilante e Leal - Guia de Raça",
+    "description": "Descubra o Schnauzer Miniatura: conheça sua inteligência brilhante, sua pelagem hipoalergênica e as dicas vitais de saúde e cuidados para este companheiro urbano perfeito.",
     "keywords": [
-      "schnauzer-miniatura",
-      "schnauzer miniatura",
-      "toy",
-      "alemanha"
+      "Schnauzer Miniatura",
+      "Mini Schnauzer",
+      "cão inteligente pequeno",
+      "cão hipoalergênico",
+      "cachorro para apartamento",
+      "raças de cães pequenas",
+      "cuidados com Schnauzer",
+      "temperamento Schnauzer Miniatura",
+      "pancreatite canina"
     ]
   },
   "imagem_principal": "/images/breeds/schnauzer-miniatura.jpg",
@@ -78,11 +93,55 @@
     "/images/breeds/schnauzer-miniatura-2.jpg",
     "/images/breeds/schnauzer-miniatura-3.jpg"
   ],
-  "video_url": "https://youtube.com/watch?v=schnauzer-miniatura",
-  "popularidade": 32797,
-  "ranking_brasil": 20,
+  "video_url": "https://www.youtube.com/watch?v=isAbNCZtoLo",
+  "videos_youtube": [
+    {
+      "titulo": "Miniature Schnauzer - Tudo Sobre a Raça",
+      "url": "https://www.youtube.com/watch?v=example-minischnauzer",
+      "canal": "Dogs 101",
+      "thumbnail": "https://img.youtube.com/vi/example-minischnauzer/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Cuidar da Barba do seu Schnauzer",
+      "url": "https://www.youtube.com/watch?v=example-schnauzer-beard",
+      "canal": "Estética Pet",
+      "duracao": "09:45"
+    }
+  ],
+  "racas_relacionadas": [
+    "schnauzer-standard",
+    "schnauzer-gigante",
+    "affenpinscher",
+    "pinscher-miniatura"
+  ],
+  "cores_disponiveis": [
+    "Sal e Pimenta (Pepper and Salt)",
+    "Preto e Prata",
+    "Preto Sólido",
+    "Branco (raro)"
+  ],
+  "marcacoes": [
+    "Barba e sobrancelhas características obrigatórias",
+    "Padrão sal e pimenta deve ter nuances de cinza uniformes",
+    "Marcações prateadas nas pernas e face (no Preto e Prata)"
+  ],
+  "curiosidades_historicas": "O Schnauzer Miniatura tornou-se imensamente popular nos Estados Unidos após a Segunda Guerra Mundial, sendo uma das raras raças de origem alemã que não sofreu preconceito devido ao seu temperamento dócil e aparência encantadora, consolidando-se como um símbolo da vida suburbana americana.",
+  "referencias_externas": [
+    {
+      "titulo": "American Miniature Schnauzer Club",
+      "url": "https://amsc.us/",
+      "descricao": "Clube oficial de raça nos EUA com extensas informações de saúde e ética."
+    },
+    {
+      "titulo": "FCI - Miniature Schnauzer Standard",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-SCHNAUZER-183.html",
+      "descricao": "Padrão oficial morfológico internacional."
+    }
+  ],
+  "popularidade": 45000,
+  "ranking_brasil": 15,
   "custo_mensal_estimado": [
-    373,
-    544
+    300,
+    700
   ]
 }
